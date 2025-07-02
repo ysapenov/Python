@@ -15,6 +15,6 @@ def summarize_nulls(df, df_name):
     print(null_counts_summary)
 
 #To show all data without truncation in any dimension
-pd.set_option('display.width', 300)
-pd.set_option('display.max_columns', None)
-pd.set_option('display.max_colwidth', None) 
+# pd.set_option('display.width', 300)
+# pd.set_option('display.max_columns', None)
+# pd.set_option('display.max_colwidth', None) 
