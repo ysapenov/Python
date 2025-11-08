@@ -1,0 +1,120 @@
+qid,language,pred,gold,is_correct,error,raw,question,options_json,model_tag,model_name
+q0006,Albanian,B,B,True,,"<B>
+
+Në tekst thuhet qartë se ""Ata bien dakord se pemët e mëdha ishin zhdukur në kohën kur mbërritën Evropianët e parë në ishull në shek e 18të, por nuk binin dakord me teorinë e Jared Diamond për shkakun e zhdukjes.""
+
+Pra, të gjithë shkencëtarët, përfshirë Diamond, bien dakord se pemët e larta u zhdukën nga Rapa Nui. Mosmarrëveshja është vetëm rreth shkakut të kësaj zhdukjeje.",Çfarë përmendin shkencëtarët në artikull për të cilën bie dakord Jared Diamond?,"{""A"": ""Njerëzit u vendosën në Rapa Nui qindra vjet më parë."", ""B"": ""Pemët e larta u zhdukën nga Rapa Nui."", ""C"": ""Minjtë polinezianë hëngrën farat e pemëve të mëdha në Rapa Nui."", ""D"": ""Evropianët mbërritën në Rapa Nui në shekullin e 18 të.""}",Claude,claude-sonnet-4
+q0007,Albanian,D,D,True,,"Duke lexuar kujdesshëm tekstin, shoh se Carl Lipo dhe Terry Hunt paraqesin një provë konkrete për të mbështetur teorinë e tyre:
+
+""Për të mbështetur teorinë e tyre, Lipo dhe Hunt tregojnë shenjat e bëra nga minjtë në mbetjet e arrave të palmave.""
+
+Kjo është prova direkte dhe fizike që ata përdorin për të argumentuar se minjtë Polinezianë kontribuan në zhdukjen e pemëve të mëdha në Rapa Nui.
+
+Opsionet e tjera përshkruajnë mënyrën se si minjtë arritën në ishull (A dhe B) ose shkallën e riprodhimit të tyre (C), por nuk janë prova konkrete që studiuesit paraqesin për teorinë e tyre.
+
+<D>",Çfarë provash paraqesin Carl Lipo dhe Terry Hunt për të mbështetur teorinë e tyre se pse u zhdukën pemët e mëdha në Rapa Nui?,"{""A"": ""Minjtë arritën në ishull me kanoet e njerëzve që u vendosën aty."", ""B"": ""Minjtë u sollën qëllimsht nga njërëzit që u vendosën nëishull."", ""C"": ""Popullatat e minjve mund të dyfishohen çdo 47 ditë."", ""D"": ""Mbetjet e arrave të palmave tregojnë shenjat e bëra nga minjtë.""}",Claude,claude-sonnet-4
+q0008,Albanian,B,B,True,,"Looking at the text, I need to identify what IDFA says health professionals and organizations agree with.
+
+The text states that according to Dr. Bill Sears, milk contains important nutrients in a convenient form, and IDFA supports this idea. IDFA suggests that many health professionals and groups would agree with this.
+
+The text then explains that milk contains a complete nutritional package of nine essential nutrients, including being an excellent source of calcium and vitamin D, and a good source of vitamin A, protein, and potassium.
+
+The passage also mentions that various important health organizations support dairy's role in a healthy diet.
+
+Looking at the options:
+
+A. Says dairy consumption leads to obesity - but the text actually states dairy promotes weight loss
+B. Says milk is a good source of important vitamins and minerals - this directly matches what the text says about milk's nutritional content
+C. Makes a comparison between vitamins and minerals that isn't mentioned in the text
+D. Says milk causes osteoporosis - but the text mentions the National Osteoporosis Foundation as supporting dairy
+
+<B>","Sipas IDFA, me cilën thënie bien dakord organizatat dhe profesionistët e rëndësishëm të shëndetit?","{""A"": ""Konsumi i qumështit dhe produktet e tij çojnë në obezitet."", ""B"": ""Qumështi është një burim i mirë i vitaminave dhe mineraleve të rëndësishme."", ""C"": ""Qumështi përmban më shumë vitamina sesa minerale."", ""D"": ""Pirja e qumështit është shkak kryesor i osteoporozës.""}",Claude,claude-sonnet-4
+q0009,Albanian,D,D,True,,"<D>
+
+Teksti është qartësisht një material promocional që synon të mbështesë dhe të nxisë përdorimin e produkteve të qumështit Bulmet nga Ferma në Treg. Gjatë gjithë tekstit, autori:
+
+- Thekson vlerat ushqyese të këtyre produkteve specifike
+- Liston përfitimet e shumta shëndetsore
+- Jep referenca nga ekspertë mjekësorë dhe organizata shëndetsore
+- Përsërit emrin e markës ""Bulmet nga Ferma në Treg"" në mënyrë të vazhdueshme
+- Përfundon me një rekomandim për konsum të përditshëm
+
+Ky është qartësisht një tekst me qëllim mbështetës/promocional për produktet e kësaj marke specifike.",Cili është qëllimi kryesor i këtij teksti?,"{""A"": ""Të argumentojë se produktet e qumështit rritin humbjen e peshës."", ""B"": ""Të krahasojë produktet e qumështit Bulmet nga Ferma në Treg me produktet e tjera bulmetore."", ""C"": ""Të informojë publikun për rreziqet e lidhura me sëmundjen e zemrës."", ""D"": ""Të mbështesë përdorimin e produkteve Bulmet nga Ferma në Treg.""}",Claude,claude-sonnet-4
+q0010,Albanian,A,A,True,,"Për të përcaktuar nëse secila thënie është fakt apo opinion, duhet t'i analizoj një nga një:
+
+1. ""Studimet e fundit për përfitimet shëndetsore të qumështit janë befasuese.""
+- **Opinion** - Fjala ""befasuese"" është gjykim subjektiv që varet nga perspektiva personale.
+
+2. ""Studimet kanë treguar se pirja e qumështit ka efekte shëndetsore të dëmshme.""
+- **Fakt** - Teksti referon objektivisht studime konkrete (si ai i British Medical Journal) që kanë treguar efekte negative si fraktura, sëmundja e zemrës dhe kancer.
+
+3. ""Disa studimet kanë vënë në pyetje fuqinë kockë-forcuese të qumështit.""
+- **Fakt** - Kjo është deklaratë objektive që përshkruan atë që kanë bërë studimet, siç përmenden në tekst.
+
+4. ""Pirja e qumështit dhe produktet bulmetore të tjera janë mënyra më e mirë për humbjen e peshës.""
+- **Opinion** - Kjo është gjykim vlerësues dhe teksti nuk e përmban këtë informacion. Madje thotë të kundërtën - se favorizojnë obezitetin.
+
+Pra: Opinion, Fakt, Fakt, Opinion
+
+<A>","A është thënia fakt apo opinion?
+Studimet e fundit për përfitimet shëndetsore të qumështit janë befasuese.
+Studimet kanë treguar se pirja e qumështit ka efekte shëndetsore të dëmshme.
+Disa studimet kanë vënë në pyetje fuqinë kockë-forcuese të qumështit.
+Pirja e qumështit dhe produktet bulmetore të tjera janë mënyra më e mirë për humbjen e peshës.","{""A"": ""Opinion, Fakt, Fakt, Opinion."", ""B"": ""Fakt, Fakt, Opinion, Opinion."", ""C"": ""Fakt, Opinion, Fakt, Opinion."", ""D"": ""Opinion, Opinion, Fakt, Fakt.""}",Claude,claude-sonnet-4
+q0001,Albanian,C,C,True,,"Për të gjetur vlerën e makinës pas tre vitesh, duhet të llogarisim uljen vjetore prej 5%.
+
+Çmimi fillestar: 10,500 zed
+
+Pas çdo viti, makina ruan 95% të vlerës së saj (100% - 5% = 95% = 0.95)
+
+Pas tre vitesh:
+Vlera = 10,500 × (0.95)³
+Vlera = 10,500 × 0.857375
+Vlera = 8,997.44 zed
+
+Kjo është afërsisht 9,000 zed.
+
+<C>","Nëse Tania vendos të blejë makinën D dhe ta shesë pas tre vitesh në gjendje të shkëlqyer, cila do të jetë afërsisht vlera në zed e makinës?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-sonnet-4
+q0002,Albanian,,C,False,AttributeError: 'NoneType' object has no attribute 'choices',,"Nëse trendi i shitjeve vazhdon, në cilin vit numri i DVDve të shitura do të jetë më pak se 1 milion në bazë të modelit.","{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",Claude,claude-sonnet-4
+q0003,Albanian,,B,False,,"Për të gjetur numrin më të madh të kutive mesatare që mund të vendosen në kamionin A, duhet të ndajmë çdo përmasë të kamionit me përmasën përkatëse të kutisë.
+
+**Llogaritja për çdo dimension:**
+
+- Gjatësia: 4 metra ÷ 0,5 metra = 8 kutia
+- Gjerësia: 2 metra ÷ 0,5 metra = 4 kutia  
+- Lartësia: 2 metra ÷ 0,5 metra = 4 kutia
+
+**Numri total i kutive:**
+8 × 4 × 4 = 128 kutia
+
+**B**",Cili është numri më i madh i kutive mesatare që mund të vendosen brenda kamionit A?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""96"", ""D"": ""64""}",Claude,claude-sonnet-4
+q0004,Albanian,D,D,True,,"Për të gjetur distancën nga Dielli te Neptuni në kilometra, duhet të shumëzoj distancën në au me konvertimin:
+
+Neptuni është 30,05 au nga Dielli
+1 au = 150 milionë km
+
+Distanca = 30,05 au × 150 milionë km/au
+Distanca = 4507,5 milionë km
+
+Kjo është afërsisht 4500 milionë km.
+
+<D>","Mesatarisht, afërisisht sa milionë kilometra gjenden mes Diellit dhe planetit Neptun?","{""A"": ""180 milionë km"", ""B"": ""450 milionë km"", ""C"": ""1500 milionë km"", ""D"": ""4500 milionë km""}",Claude,claude-sonnet-4
+q0005,Albanian,A,A,True,,"Shqyrtoj këtë pyetje matematikore:
+
+Mesatarja është e barabartë me shumën e të gjitha diferencave të fitores të ndara me numrin e lojërave. Kjo nuk do të thotë që ndonjë lojë individuale duhet të ketë pasur saktësisht 19 pikë diferencë.
+
+Për shembull, le të supozojmë që skuadra luajti vetëm 2 lojra:
+- Loja 1: Fitoi me 10 pikë diferencë  
+- Loja 2: Fitoi me 28 pikë diferencë
+- Mesatarja: (10 + 28) ÷ 2 = 19 pikë
+
+Ose me më shumë lojra:
+- Loja 1: 15 pikë diferencë
+- Loja 2: 23 pikë diferencë  
+- Loja 3: 18 pikë diferencë
+- Loja 4: 20 pikë diferencë
+- Mesatarja: (15 + 23 + 18 + 20) ÷ 4 = 19 pikë
+
+Në të dy rastet, mesatarja është 19 pikë por asnjë lojë individuale nuk pati saktësisht 19 pikë diferencë.
+
+<A>","Duke patur parasysh diferencën mesatare të fitores për këtë sezon, a është e mundur që skuadra, faktikisht, të mos ketë fituar kurrë një lojë me 19 pikë?","{""A"": ""Po"", ""B"": ""Jo""}",Claude,claude-sonnet-4
