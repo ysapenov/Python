@@ -1,4 +1,11 @@
 qid,language,pred,gold,is_correct,error,raw,question,options_json,model_tag,model_name,cycle
+q0006,Albanian,B,B,True,,B.,Çfarë përmendin shkencëtarët në artikull për të cilën bie dakord Jared Diamond?,"{""A"": ""Njerëzit u vendosën në Rapa Nui qindra vjet më parë."", ""B"": ""Pemët e larta u zhdukën nga Rapa Nui."", ""C"": ""Minjtë polinezianë hëngrën farat e pemëve të mëdha në Rapa Nui."", ""D"": ""Evropianët mbërritën në Rapa Nui në shekullin e 18 të.""}",GPT,gpt-5,1
+q0007,Albanian,D,D,True,,<D>,Çfarë provash paraqesin Carl Lipo dhe Terry Hunt për të mbështetur teorinë e tyre se pse u zhdukën pemët e mëdha në Rapa Nui?,"{""A"": ""Minjtë arritën në ishull me kanoet e njerëzve që u vendosën aty."", ""B"": ""Minjtë u sollën qëllimsht nga njërëzit që u vendosën nëishull."", ""C"": ""Popullatat e minjve mund të dyfishohen çdo 47 ditë."", ""D"": ""Mbetjet e arrave të palmave tregojnë shenjat e bëra nga minjtë.""}",GPT,gpt-5,1
+q0001,Arabic,C,C,True,,C,"إذا قررتْ دانا شراء السيارة (د) وباعتها بعد ثلاث سنوات بحالة 
+ممتازة، كم سيكون السعر التقريبي لإعادة البيع بالزد؟","{""A"": ""١٥٧٥"", ""B"": ""٨٩٢٥"", ""C"": ""٩٠٠٠"", ""D"": ""٩٩٧٥""}",GPT,gpt-5,1
+q0002,Arabic,C,C,True,,C,"في حالة استمرار المبيعات بهذا الشكل، في أي عام سيكون عدد
+الأقراص الرقمية المُباعة أقل من مليون حسب المعادلة؟","{""A"": ""٢٠١٨"", ""B"": ""٢٠١٩"", ""C"": ""٢٠٢٠"", ""D"": ""٢٠٢١""}",GPT,gpt-5,1
+q0001,Chinese,C,C,True,,C,如果譚雅決定購買汽車 D 並於三年後在保持良好狀態下轉售，那麼這輛汽車的大約轉售價格將是多少 (西德蘭元)？,"{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5,1
 q0006,Albanian,B,B,True,,"<B>
 
 Sipas tekstit, shkencëtarët bien dakord me Jared Diamond se ""pemët e mëdha ishin zhdukur në kohën kur mbërritën Evropianët e parë në ishull në shek e 18të"". Mosmarrëveshja mes tyre nuk është mbi faktin se pemët u zhdukën, por mbi shkakun e zhdukjes së tyre.",Çfarë përmendin shkencëtarët në artikull për të cilën bie dakord Jared Diamond?,"{""A"": ""Njerëzit u vendosën në Rapa Nui qindra vjet më parë."", ""B"": ""Pemët e larta u zhdukën nga Rapa Nui."", ""C"": ""Minjtë polinezianë hëngrën farat e pemëve të mëdha në Rapa Nui."", ""D"": ""Evropianët mbërritën në Rapa Nui në shekullin e 18 të.""}",Claude,claude-sonnet-4,1
@@ -190,3 +197,9 @@ q0001,Georgian,C,C,True,,"მანქანის საწყისი ფა�
 დაახლოებით 9,000 ზედი.
 
 <C>","თუ ქეთი გადაწყვეტს, იყიდოს მანქანა D და გაყიდოს ის საუკეთესო მდგომარეობაში 3 წლის შემდეგ, მიახლოებით რამდენი ზედი იქნება მანქანის ხელახლა გაყიდვის ფასი?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-sonnet-4,1
+q0002,Chinese,C,C,True,,C.,如果這銷售趨勢持續下去的話，根據該模型，哪一年DVD 銷量會少於 1 百萬張？,"{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",GPT,gpt-5,1
+q0001,Czech,C,C,True,,C,"Jaká bude přibližná prodejní cena auta (v zedech), pokud se Táňa rozhodne koupit auto D a po třech letech ho ve vynikajícím stavu prodá?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5,1
+q0002,Czech,C,C,True,,C.,"Pokud vývoj prodeje bude pokračovat, v kterém roce klesne podle modelu počet prodaných DVD pod 1 milion?","{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",GPT,gpt-5,1
+q0001,English,C,C,True,,C,"If Tania decides to buy car D and resell it after three years in excellent condition, what will be the approximate resale price of the car in zeds?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5,1
+q0002,English,C,C,True,,C,"If this sales trend continues, what will be the first year the number of DVDs sold is less than 1 million according to the model?","{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",GPT,gpt-5,1
+q0001,Georgian,C,C,True,,C,"თუ ქეთი გადაწყვეტს, იყიდოს მანქანა D და გაყიდოს ის საუკეთესო მდგომარეობაში 3 წლის შემდეგ, მიახლოებით რამდენი ზედი იქნება მანქანის ხელახლა გაყიდვის ფასი?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5,1
