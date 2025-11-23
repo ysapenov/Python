@@ -1,205 +1,43 @@
 qid,language,pred,gold,is_correct,error,raw,question,options_json,model_tag,model_name,cycle
-q0006,Albanian,B,B,True,,B.,Çfarë përmendin shkencëtarët në artikull për të cilën bie dakord Jared Diamond?,"{""A"": ""Njerëzit u vendosën në Rapa Nui qindra vjet më parë."", ""B"": ""Pemët e larta u zhdukën nga Rapa Nui."", ""C"": ""Minjtë polinezianë hëngrën farat e pemëve të mëdha në Rapa Nui."", ""D"": ""Evropianët mbërritën në Rapa Nui në shekullin e 18 të.""}",GPT,gpt-5,1
-q0007,Albanian,D,D,True,,<D>,Çfarë provash paraqesin Carl Lipo dhe Terry Hunt për të mbështetur teorinë e tyre se pse u zhdukën pemët e mëdha në Rapa Nui?,"{""A"": ""Minjtë arritën në ishull me kanoet e njerëzve që u vendosën aty."", ""B"": ""Minjtë u sollën qëllimsht nga njërëzit që u vendosën nëishull."", ""C"": ""Popullatat e minjve mund të dyfishohen çdo 47 ditë."", ""D"": ""Mbetjet e arrave të palmave tregojnë shenjat e bëra nga minjtë.""}",GPT,gpt-5,1
-q0001,Arabic,C,C,True,,C,"إذا قررتْ دانا شراء السيارة (د) وباعتها بعد ثلاث سنوات بحالة 
-ممتازة، كم سيكون السعر التقريبي لإعادة البيع بالزد؟","{""A"": ""١٥٧٥"", ""B"": ""٨٩٢٥"", ""C"": ""٩٠٠٠"", ""D"": ""٩٩٧٥""}",GPT,gpt-5,1
-q0002,Arabic,C,C,True,,C,"في حالة استمرار المبيعات بهذا الشكل، في أي عام سيكون عدد
-الأقراص الرقمية المُباعة أقل من مليون حسب المعادلة؟","{""A"": ""٢٠١٨"", ""B"": ""٢٠١٩"", ""C"": ""٢٠٢٠"", ""D"": ""٢٠٢١""}",GPT,gpt-5,1
-q0001,Chinese,C,C,True,,C,如果譚雅決定購買汽車 D 並於三年後在保持良好狀態下轉售，那麼這輛汽車的大約轉售價格將是多少 (西德蘭元)？,"{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5,1
-q0006,Albanian,B,B,True,,"<B>
-
-Sipas tekstit, shkencëtarët bien dakord me Jared Diamond se ""pemët e mëdha ishin zhdukur në kohën kur mbërritën Evropianët e parë në ishull në shek e 18të"". Mosmarrëveshja mes tyre nuk është mbi faktin se pemët u zhdukën, por mbi shkakun e zhdukjes së tyre.",Çfarë përmendin shkencëtarët në artikull për të cilën bie dakord Jared Diamond?,"{""A"": ""Njerëzit u vendosën në Rapa Nui qindra vjet më parë."", ""B"": ""Pemët e larta u zhdukën nga Rapa Nui."", ""C"": ""Minjtë polinezianë hëngrën farat e pemëve të mëdha në Rapa Nui."", ""D"": ""Evropianët mbërritën në Rapa Nui në shekullin e 18 të.""}",Claude,claude-sonnet-4,1
-q0007,Albanian,D,D,True,,"Looking at the text, it specifically states that to support their theory, Lipo and Hunt point to evidence they found on Rapa Nui itself.
-
-The passage says: ""Për të mbështetur teorinë e tyre, Lipo dhe Hunt tregojnë shenjat e bëra nga minjtë në mbetjet e arrave të palmave.""
-
-This translates to: ""To support their theory, Lipo and Hunt point to the marks made by rats on the remains of palm nuts.""
-
-This is the concrete physical evidence they present from the island itself to support their theory that Polynesian rats contributed to the destruction of trees.
-
-<D>",Çfarë provash paraqesin Carl Lipo dhe Terry Hunt për të mbështetur teorinë e tyre se pse u zhdukën pemët e mëdha në Rapa Nui?,"{""A"": ""Minjtë arritën në ishull me kanoet e njerëzve që u vendosën aty."", ""B"": ""Minjtë u sollën qëllimsht nga njërëzit që u vendosën nëishull."", ""C"": ""Popullatat e minjve mund të dyfishohen çdo 47 ditë."", ""D"": ""Mbetjet e arrave të palmave tregojnë shenjat e bëra nga minjtë.""}",Claude,claude-sonnet-4,1
-q0001,Arabic,C,C,True,,"لحل هذه المسألة، أحتاج إلى حساب قيمة السيارة بعد 3 سنوات مع انخفاض سنوي قدره 5%.
-
-المعطيات:
-- السعر الأصلي للسيارة د = 10500 زد
-- معدل الانخفاض السنوي = 5%
-- المدة = 3 سنوات
-
-إذا انخفض السعر بنسبة 5% سنوياً، فإن السيارة تحتفظ بـ 95% من قيمتها كل سنة.
-
-الحساب:
-السعر بعد 3 سنوات = السعر الأصلي × (0.95)³
-
-السعر بعد 3 سنوات = 10500 × (0.95)³
-= 10500 × 0.857375
-= 8992.4375 زد
-
-تقريباً = 9000 زد
-
-<C>","إذا قررتْ دانا شراء السيارة (د) وباعتها بعد ثلاث سنوات بحالة 
-ممتازة، كم سيكون السعر التقريبي لإعادة البيع بالزد؟","{""A"": ""١٥٧٥"", ""B"": ""٨٩٢٥"", ""C"": ""٩٠٠٠"", ""D"": ""٩٩٧٥""}",Claude,claude-sonnet-4,1
-q0002,Arabic,C,C,True,,"لحل هذه المسألة، نحتاج لإيجاد قيمة ن عندما يكون د < 1 مليون.
-
-المعادلة المعطاة: د = 254 - 22ن
-
-نريد: د < 1
-
-نعوض في المعادلة:
-254 - 22ن < 1
-
-نحل المتباينة:
-254 - 1 < 22ن
-253 < 22ن
-ن > 253 ÷ 22
-ن > 11.5
-
-بما أن ن يجب أن يكون عدداً صحيحاً (السنوات)، فإن أصغر قيمة لـ ن هي 12.
-
-السنة = 2008 + ن = 2008 + 12 = 2020
-
-للتحقق:
-- عندما ن = 11 (عام 2019): د = 254 - 22(11) = 254 - 242 = 12 مليون
-- عندما ن = 12 (عام 2020): د = 254 - 22(12) = 254 - 264 = -10 مليون
-
-إذن في عام 2020 ستكون المبيعات أقل من مليون قرص.
-
-<C>","في حالة استمرار المبيعات بهذا الشكل، في أي عام سيكون عدد
-الأقراص الرقمية المُباعة أقل من مليون حسب المعادلة؟","{""A"": ""٢٠١٨"", ""B"": ""٢٠١٩"", ""C"": ""٢٠٢٠"", ""D"": ""٢٠٢١""}",Claude,claude-sonnet-4,1
-q0001,Chinese,,C,False,,"看這道題，我需要計算汽車在三年後的轉售價格。
-
-給定信息：
-- 汽車D的價格：10500 西德蘭元
-- 每年轉售價格減少5%（即每年保持95%的價值）
-- 時間：3年
-
-計算過程：
-每年轉售價格 = 前一年價格 × 95% = 前一年價格 × 0.95
-
-三年後的轉售價格 = 10500 × (0.95)³
-
-計算：
-(0.95)³ = 0.95 × 0.95 × 0.95 = 0.857375
-
-10500 × 0.857375 = 8997.4375
-
-約等於 9000 西德蘭元
-
-<LETTER>C</LETTER>",如果譚雅決定購買汽車 D 並於三年後在保持良好狀態下轉售，那麼這輛汽車的大約轉售價格將是多少 (西德蘭元)？,"{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-sonnet-4,1
-q0002,Chinese,C,C,True,,"我需要找出當DVD銷量少於1百萬張時對應的年份。
-
-給定方程：d = 254 - 22n
-其中：
-- d 是DVD銷量（以百萬為單位）  
-- n 是2008年之後的年數
-
-設置不等式：d < 1
-254 - 22n < 1
-254 - 1 < 22n  
-253 < 22n
-n > 253 ÷ 22
-n > 11.5
-
-由於n必須是整數，所以n ≥ 12
-
-當n = 12時，對應年份 = 2008 + 12 = 2020年
-
-驗證：
-- n = 11（2019年）：d = 254 - 22(11) = 12百萬張 > 1百萬張
-- n = 12（2020年）：d = 254 - 22(12) = -10百萬張 < 1百萬張
-
-因此，2020年是DVD銷量首次少於1百萬張的年份。
-
-<C>",如果這銷售趨勢持續下去的話，根據該模型，哪一年DVD 銷量會少於 1 百萬張？,"{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",Claude,claude-sonnet-4,1
-q0001,Czech,B,C,False,,"Řešme krok za krokem:
-
-Výchozí cena auta D: 10 500 zedů
-Roční pokles hodnoty: 5% (zůstává 95% původní hodnoty)
-
-Po 3 letech bude cena činit:
-Konečná cena = Původní cena × (0,95)³
-
-Výpočet:
-10 500 × (0,95)³ = 10 500 × 0,857375 = 8 002,4 zedů
-
-Přibližná prodejní cena bude tedy kolem 8 000 zedů.
-
-Z nabízených možností je nejbližší odpověď B. 8925.
-
-<B>","Jaká bude přibližná prodejní cena auta (v zedech), pokud se Táňa rozhodne koupit auto D a po třech letech ho ve vynikajícím stavu prodá?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-sonnet-4,1
-q0002,Czech,,C,False,,"Chceme najít rok, kdy počet prodaných DVD klesne pod 1 milion, tedy kdy d < 1.
-
-Nejprve najdeme přesný moment, kdy d = 1:
-
-1 = 254 - 22n
-22n = 254 - 1
-22n = 253
-n = 253/22 ≈ 11,5
-
-To znamená 11,5 let od roku 2008, tedy v půlce roku 2019.
-
-Ověříme pro celé roky:
-
-Pro n = 11 (rok 2019):
-d = 254 - 22 × 11 = 254 - 242 = 12 milionů
-(ještě nad 1 milion)
-
-Pro n = 12 (rok 2020):
-d = 254 - 22 × 12 = 254 - 264 = -10 milionů
-(už pod 1 milion)
-
-Podle modelu tedy počet prodaných DVD klesne pod 1 milion v roce 2020.
-
-**C. 2020**","Pokud vývoj prodeje bude pokračovat, v kterém roce klesne podle modelu počet prodaných DVD pod 1 milion?","{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",Claude,claude-sonnet-4,1
-q0001,English,C,C,True,,"Looking at this step by step:
-
-Initial price: 10,500 zeds
-Annual depreciation: 5% (meaning the car retains 95% of its value each year)
-
-After 3 years, the resale price will be:
-10,500 × (0.95)³ = 10,500 × 0.857375 = 8,997.44 zeds
-
-This rounds to approximately 9,000 zeds.
-
-<C>","If Tania decides to buy car D and resell it after three years in excellent condition, what will be the approximate resale price of the car in zeds?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-sonnet-4,1
-q0002,English,C,C,True,,"Looking at the equation d = 254 - 22n, I need to find when d < 1 million.
-
-Setting up the inequality:
-254 - 22n < 1
-
-Solving for n:
-254 - 1 < 22n
-253 < 22n
-n > 253/22
-n > 11.5
-
-Since n represents years after 2008, I need the first integer value where n > 11.5, which is n = 12.
-
-Let me verify by checking the values around this point:
-- When n = 11 (year 2019): d = 254 - 22(11) = 254 - 242 = 12 million DVDs
-- When n = 12 (year 2020): d = 254 - 22(12) = 254 - 264 = -10 million DVDs
-
-Since 12 million > 1 million but -10 million < 1 million, the first year when DVD sales fall below 1 million is when n = 12.
-
-Year = 2008 + 12 = 2020
-
-<C>","If this sales trend continues, what will be the first year the number of DVDs sold is less than 1 million according to the model?","{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",Claude,claude-sonnet-4,1
-q0001,Georgian,C,C,True,,"მანქანის საწყისი ფასი: 10,500 ზედი
-
-თუ ყოველწლიურად ფასი მცირდება 5%-ით, ეს ნიშნავს, რომ ყოველ წელს რჩება 95% (100% - 5% = 95%).
-
-3 წლის შემდეგ ფასი იქნება:
-10,500 × (0.95)³
-
-გამოვითვალოთ:
-- (0.95)³ = 0.95 × 0.95 × 0.95 = 0.857375
-- 10,500 × 0.857375 = 8,992.4375 ზედი
-
-დაახლოებით 9,000 ზედი.
-
-<C>","თუ ქეთი გადაწყვეტს, იყიდოს მანქანა D და გაყიდოს ის საუკეთესო მდგომარეობაში 3 წლის შემდეგ, მიახლოებით რამდენი ზედი იქნება მანქანის ხელახლა გაყიდვის ფასი?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-sonnet-4,1
-q0002,Chinese,C,C,True,,C.,如果這銷售趨勢持續下去的話，根據該模型，哪一年DVD 銷量會少於 1 百萬張？,"{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",GPT,gpt-5,1
-q0001,Czech,C,C,True,,C,"Jaká bude přibližná prodejní cena auta (v zedech), pokud se Táňa rozhodne koupit auto D a po třech letech ho ve vynikajícím stavu prodá?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5,1
-q0002,Czech,C,C,True,,C.,"Pokud vývoj prodeje bude pokračovat, v kterém roce klesne podle modelu počet prodaných DVD pod 1 milion?","{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",GPT,gpt-5,1
-q0001,English,C,C,True,,C,"If Tania decides to buy car D and resell it after three years in excellent condition, what will be the approximate resale price of the car in zeds?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5,1
-q0002,English,C,C,True,,C,"If this sales trend continues, what will be the first year the number of DVDs sold is less than 1 million according to the model?","{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",GPT,gpt-5,1
-q0001,Georgian,C,C,True,,C,"თუ ქეთი გადაწყვეტს, იყიდოს მანქანა D და გაყიდოს ის საუკეთესო მდგომარეობაში 3 წლის შემდეგ, მიახლოებით რამდენი ზედი იქნება მანქანის ხელახლა გაყიდვის ფასი?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5,1
+q0001,Amharic_Machine,C,C,True,,C,ታኒያ መኪና ዲ ለመግዛት ከወሰነ እና ከሶስት አመት በኋላ በጥሩ ሁኔታ ለመሸጥ ከወሰነ በዜድስ ውስጥ የመኪናው ግምታዊ የሽያጭ ዋጋ ምን ያህል ይሆናል?,"{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5,1
+q0002,Amharic_Machine,C,C,True,,C,"ይህ የሽያጭ አዝማሚያ ከቀጠለ, በአምሳያው መሠረት የተሸጡ ዲቪዲዎች ቁጥር ከ 1 ሚሊዮን ያነሰ የመጀመሪያው ዓመት ምን ይሆናል?","{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",GPT,gpt-5,1
+q0003,Amharic_Machine,B,B,True,,B,በጭነት መኪና ውስጥ ሊገጣጠሙ የሚችሉት ከፍተኛው መካከለኛ ሳጥኖች ስንት ናቸው?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""96"", ""D"": ""64""}",GPT,gpt-5,1
+q0004,Amharic_Machine,D,D,True,,D,በአማካይ ፕላኔት ኔፕቱን ከፀሐይ ስንት ሚሊዮን ኪሎ ሜትር ይርቃል?,"{""A"": ""180 ሚሊዮን ኪሜ"", ""B"": ""450 ሚልዮን ኪሜ"", ""C"": ""1500 ሚሊዮን ኪሜ"", ""D"": ""4500 ሚልዮን ኪ.ሜ""}",GPT,gpt-5,1
+q0005,Amharic_Machine,B,A,False,,B,በውድድር ዘመኑ ካስመዘገበው አማካይ የአሸናፊነት ልዩነት አንፃር ቡድኑ በ19 ነጥብ አሸንፎ አያውቅም?,"{""A"": ""አዎ"", ""B"": ""አይደለም""}",GPT,gpt-5,1
+q0006,Amharic_Machine,B,B,True,,<B>,በአንቀጹ ላይ የተጠቀሱት ሳይንቲስቶች እና ያሬድ አልማዝ በምን ላይ ይስማማሉ?,"{""A"": ""ሰዎች ከብዙ መቶ ዓመታት በፊት ራፓ ኑኢን ሰፍረዋል።"", ""B"": ""ትላልቅ ዛፎች ከራፓ ኑኢ ጠፍተዋል።"", ""C"": ""የፖሊኔዥያ አይጦች በራፓ ኑኢ ላይ የትላልቅ ዛፎችን ዘር በሉ።"", ""D"": ""አውሮፓውያን በ18ኛው ክፍለ ዘመን ራፓ ኑኢን ደረሱ።""}",GPT,gpt-5,1
+q0007,Amharic_Machine,D,D,True,,D,ካርል ሊፖ እና ቴሪ ሃንት የራፓ ኑኢ ትልልቅ ዛፎች ለምን ጠፉ የሚለውን ፅንሰ-ሀሳባቸውን ለመደገፍ ምን ማስረጃ አቅርበዋል?,"{""A"": ""አይጦቹ በሰፋሪዎች ታንኳ በደሴቲቱ ላይ ደርሰዋል።"", ""B"": ""አይጦቹ ሰፋሪዎች ሆን ብለው ያመጡት ሊሆን ይችላል።"", ""C"": ""የአይጥ ህዝብ በየ47 ቀኑ በእጥፍ ሊጨምር ይችላል።"", ""D"": ""የዘንባባ ለውዝ ቅሪቶች በአይጦች የተሰሩ ምልክቶችን ያሳያሉ።""}",GPT,gpt-5,1
+q0008,Amharic_Machine,B,B,True,,<B>,እንደ IDFA ዘገባ፣ ግንባር ቀደም የጤና ባለሙያዎችና ድርጅቶች የሚስማሙት በየትኛው መግለጫ ነው?,"{""A"": ""ወተት እና የወተት ተዋጽኦዎችን መመገብ ወደ ውፍረት ይመራል"", ""B"": ""ወተት ጠቃሚ የቪታሚኖች እና ማዕድናት ምንጭ ነው።"", ""C"": ""ወተት ከማዕድን የበለጠ ቪታሚኖችን ይዟል።፣"", ""D"": ""ወተት መጠጣት ለአጥንት በሽታ ዋና መንስኤ ነው።""}",GPT,gpt-5,1
+q0009,Amharic_Machine,A,D,False,,<A>,የዚህ ጽሑፍ ዋና ዓላማ ምንድን ነው?,"{""A"": ""የወተት ተዋጽኦዎች ክብደት መቀነስን ይጨምራሉ"", ""B"": ""እርሻን ከገበያ ጋር ለማወዳደር የወተት ተዋጽኦዎችን ከሌሎች የወተት ተዋጽኦዎች ጋር ለማነፃፀር።"", ""C"": ""ከልብ ህመም ጋር ተያይዘው የሚመጡ ጉዳቶችን ለህብረተሰቡ ለማሳወቅ።"", ""D"": ""ከእርሻ እስከ የወተት ተዋጽኦዎችን ለገበያ ለማቅረብ።""}",GPT,gpt-5,1
+q0010,Amharic_Machine,A,A,True,,<A>,"መግለጫው ሀቅ ነው ወይስ አስተያየት?
+በቅርብ ጊዜ የተደረጉ ጥናቶች ስለ ወተት የጤና ጠቀሜታዎች አስገራሚ ናቸው.
+ጥናቶች እንደሚያሳዩት ወተት መጠጣት በጤና ላይ ጉዳት አለው.
+ብዙ ጥናቶች ወተትን አጥንት የማጠናከር ኃይልን ይጠራጠራሉ.
+ክብደትን ለመቀነስ በጣም ጥሩው መንገድ ወተት እና ሌሎች የወተት ተዋጽኦዎችን መጠጣት ነው።","{""A"": ""አስተያየት፣ እውነታ፣ እውነታ፣ አስተያየት።"", ""B"": ""እውነታ፣ እውነታ፣ አስተያየት፣ አስተያየት።"", ""C"": ""እውነታ፣ አስተያየት፣ እውነታ፣ አስተያየት።"", ""D"": ""አስተያየት፣ አስተያየት፣ እውነታ፣ እውነታ።""}",GPT,gpt-5,1
+q0001o,Baoule_Machine,B,C,False,,B,"?Sɛ Tania fa ajalɛ kɛ ɔ́ tó loto D naan ɔ́ yó i atɛ ekun kɛ afuɛ nsan sin’n, loto’n i atɛ yolɛ’n i gua’n yó sɛ zeds nun?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5,1
+q0002o,Baoule_Machine,C,C,True,,C,"?Sɛ atɛ yolɛ wafa sɔ’n ɔ kɔ i ɲrun’n, afuɛ klikli nga DVD nga be yo be atɛ’n be sɔnnin traman miliɔn kun kɛ nga be fa sunnzunnin’n sa’n, ɔ́ yó sɛ?","{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",GPT,gpt-5,1
+q0003o,Baoule_Machine,B,B,True,,B,"?Boiti ng’ɔ kwla wlu loto A nun’n, i dan kpafuɛ’n yɛle benin?","{""A"": ""320"", ""B"": ""128"", ""C"": ""96"", ""D"": ""64""}",GPT,gpt-5,1
+q0004o,Baoule_Machine,D,D,True,,D,"?Sɛ e fa sunnzun ase’n, kilo miliɔn nɲɛ yɛ ɔ nin Vie’n be afiɛn’n ti nun ɔn?","{""A"": ""Km miliɔn 180"", ""B"": ""Km miliɔn 450"", ""C"": ""Km miliɔn 1500"", ""D"": ""Km miliɔn 4500""}",GPT,gpt-5,1
+q0005o,Baoule_Machine,A,A,True,,A,"?Sɛ e nian wafa nga be kwlali be afuɛ sɔ’n nun’n, ɔ kwla yo kɛ be kwlali be wiengu’m be nun 19 sakpa le?","{""A"": ""Ɛɛn"", ""B"": ""Tʃɛtʃɛ""}",GPT,gpt-5,1
+q0006o,Baoule_Machine,C,B,False,,C,"?Ngue yɛ fluwa sifuɛ dandan nga be kannin be ndɛ ndɛ akpasua sɔ’n nun’n, ɔ nin Jared Diamond be nuan sɛli su ɔ?","{""A"": ""Sran'm be trannin Rapa Nui lɔ i afuɛ ya kpanngban yɛ."", ""B"": ""Waka dandan'm be mlinnin Rapa Nui lɔ."", ""C"": ""Polinezi lɔ nnɛn kpanngɔ'm be dili waka dandan'm be mma Rapa Nui su lɔ."", ""D"": ""Erɔpufuɛ'm be juli Rapa Nui lɔ afuɛ ya kpɔlɛ 18 nun.""}",GPT,gpt-5,1
+q0007o,Baoule_Machine,D,D,True,,D,"?Like nga ti yɛ Rapa Nui lɔ waka dandan’m be mlinnin’n, i su ndɛ benin yɛ Carl Lipo nin Terry Hunt be kan ɔn?","{""A"": ""Be nga be trannin lɔ’n be mmeli’m be su yɛ be juli jenvie’n su lɔ ɔ."", ""B"": ""Atrɛkpa’n, be nga be trannin lɔ’n be fali nnɛn’m be bali."", ""C"": ""Cɛn ba ablanan-nin-nso kwlaa nun’n, nnɛn’m be sɔnnin kpɛ nɲɔn."", ""D"": ""Klɔ’m be su nɲa’m be onga’m be kle kɛ nnɛn’m be ɲinnin like.""}",GPT,gpt-5,1
+q0008o,Baoule_Machine,B,B,True,,B,"?Kɛ nga IDFA fa kan’n sa’n, ndɛ benin yɛ tukpacɛ’n i su junman difuɛ dandan nin anuannzɛ’m be kplin su ɔ?","{""A"": ""Nɔnnɔn nin ninnge nga be fa nɔnnɔn be yo’n, be nɔnlɛ’n yo maan sran’n yo tɛtɛ kpa."", ""B"": ""Nɔnnɔn’n ti vitamini nin minerali cinnjin kpa."", ""C"": ""Nɔnnɔn’n nun vitamini’m be sɔnnin tra minerali mun."", ""D"": ""Nɔnnɔn nɔnlɛ’n ti like cinnjin kpa kun m’ɔ yo maan sran’n i wunnɛn’n yo mlanmlanmlan ɔn.""}",GPT,gpt-5,1
+q0009o,Baoule_Machine,D,D,True,,D,?Ndɛ sɔ’n i bo bolɛ’n yɛle benin?,"{""A"": ""Kɛ be se kɛ nɔnnɔn ninnge’m be yo maan sran’n i wunnɛn’n yo mlanmlanmlan."", ""B"": ""Kɛ be fa nɔnnɔn nga be yi be fie’n nun’n be sunnzun nɔnnɔn uflɛ mun."", ""C"": ""Kɛ be se kɛ awlɛn ba tukpacɛ’n kwla tɔ sran’m be su."", ""D"": ""Kɛ be suan Farm to Market Dairy ninnge’m be falɛ’n i bo.""}",GPT,gpt-5,1
+q0010o,Baoule_Machine,A,A,True,,A,"?Ndɛ sɔ’n ti nanwlɛ annzɛ ɔ ti akunndan bulɛ like?
+Like nga be suannin koko nun wa’n, mɔ be kan wafa nga nɔnnɔn’n yo sran’m be juejue’n, ɔ bo e nuan.
+Like suanlɛ’m be kle kɛ nɔnnɔn nɔnlɛ’n yo sran’n i juejue.
+Like suanlɛ kpanngban be usali kɛ nɔnnɔn’n kwla wla sran ovi’m be fanngan.
+Nɔnnɔn nin ninnge uflɛ nga be fa nɔnnɔn be yo’n, be nɔnlɛ’n yɛ ɔ ti like kpafuɛ’n m’ɔ kwla yo maan sran’n i wunnɛn’n yo mlanwa ɔ.","{""A"": ""Akunndan, ndɛ nanwlɛ, ndɛ nanwlɛ, akunndan."", ""B"": ""ndɛ nanwlɛ, ndɛ nanwlɛ, akunndan, akunndan."", ""C"": ""ndɛ nanwlɛ, akunndan, ndɛ nanwlɛ, akunndan."", ""D"": ""Akunndan, akunndan, ndɛ nanwlɛ, ndɛ nanwlɛ.""}",GPT,gpt-5,1
+q0001,Baoule_Machine,D,C,False,,D,"?Sɛ Tania fa ajalɛ kɛ ɔ́ tó loto D naan ɔ́ yó i atɛ ekun kɛ afuɛ nsan sin’n, loto’n i atɛ yolɛ’n i gua’n yó sɛ zeds nun?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5,1
+q0002,Baoule_Machine,C,C,True,,C,"?Sɛ atɛ yolɛ wafa sɔ’n ɔ kɔ i ɲrun’n, afuɛ klikli nga DVD nga be yo be atɛ’n be sɔnnin traman miliɔn kun kɛ nga be fa sunnzunnin’n sa’n, ɔ́ yó sɛ?","{""A"": ""2018"", ""B"": ""2019"", ""C"": ""2020"", ""D"": ""2021""}",GPT,gpt-5,1
+q0003,Baoule_Machine,B,B,True,,B,"?Boiti ng’ɔ kwla wlu loto A nun’n, i dan kpafuɛ’n yɛle benin?","{""A"": ""320"", ""B"": ""128"", ""C"": ""96"", ""D"": ""64""}",GPT,gpt-5,1
+q0004,Baoule_Machine,D,D,True,,D,"?Sɛ e fa sunnzun ase’n, kilo miliɔn nɲɛ yɛ ɔ nin Vie’n be afiɛn’n ti nun ɔn?","{""A"": ""Km miliɔn 180"", ""B"": ""Km miliɔn 450"", ""C"": ""Km miliɔn 1500"", ""D"": ""Km miliɔn 4500""}",GPT,gpt-5,1
+q0005,Baoule_Machine,B,A,False,,B,"?Sɛ e nian wafa nga be kwlali be afuɛ sɔ’n nun’n, ɔ kwla yo kɛ be kwlali be wiengu’m be nun 19 sakpa le?","{""A"": ""Ɛɛn"", ""B"": ""Tʃɛtʃɛ""}",GPT,gpt-5,1
+q0006,Baoule_Machine,C,B,False,,<C>,"?Ngue yɛ fluwa sifuɛ dandan nga be kannin be ndɛ ndɛ akpasua sɔ’n nun’n, ɔ nin Jared Diamond be nuan sɛli su ɔ?","{""A"": ""Sran'm be trannin Rapa Nui lɔ i afuɛ ya kpanngban yɛ."", ""B"": ""Waka dandan'm be mlinnin Rapa Nui lɔ."", ""C"": ""Polinezi lɔ nnɛn kpanngɔ'm be dili waka dandan'm be mma Rapa Nui su lɔ."", ""D"": ""Erɔpufuɛ'm be juli Rapa Nui lɔ afuɛ ya kpɔlɛ 18 nun.""}",GPT,gpt-5,1
+q0007,Baoule_Machine,D,D,True,,D,"?Like nga ti yɛ Rapa Nui lɔ waka dandan’m be mlinnin’n, i su ndɛ benin yɛ Carl Lipo nin Terry Hunt be kan ɔn?","{""A"": ""Be nga be trannin lɔ’n be mmeli’m be su yɛ be juli jenvie’n su lɔ ɔ."", ""B"": ""Atrɛkpa’n, be nga be trannin lɔ’n be fali nnɛn’m be bali."", ""C"": ""Cɛn ba ablanan-nin-nso kwlaa nun’n, nnɛn’m be sɔnnin kpɛ nɲɔn."", ""D"": ""Klɔ’m be su nɲa’m be onga’m be kle kɛ nnɛn’m be ɲinnin like.""}",GPT,gpt-5,1
+q0008,Baoule_Machine,B,B,True,,<B>,"?Kɛ nga IDFA fa kan’n sa’n, ndɛ benin yɛ tukpacɛ’n i su junman difuɛ dandan nin anuannzɛ’m be kplin su ɔ?","{""A"": ""Nɔnnɔn nin ninnge nga be fa nɔnnɔn be yo’n, be nɔnlɛ’n yo maan sran’n yo tɛtɛ kpa."", ""B"": ""Nɔnnɔn’n ti vitamini nin minerali cinnjin kpa."", ""C"": ""Nɔnnɔn’n nun vitamini’m be sɔnnin tra minerali mun."", ""D"": ""Nɔnnɔn nɔnlɛ’n ti like cinnjin kpa kun m’ɔ yo maan sran’n i wunnɛn’n yo mlanmlanmlan ɔn.""}",GPT,gpt-5,1
+q0009,Baoule_Machine,D,D,True,,D,?Ndɛ sɔ’n i bo bolɛ’n yɛle benin?,"{""A"": ""Kɛ be se kɛ nɔnnɔn ninnge’m be yo maan sran’n i wunnɛn’n yo mlanmlanmlan."", ""B"": ""Kɛ be fa nɔnnɔn nga be yi be fie’n nun’n be sunnzun nɔnnɔn uflɛ mun."", ""C"": ""Kɛ be se kɛ awlɛn ba tukpacɛ’n kwla tɔ sran’m be su."", ""D"": ""Kɛ be suan Farm to Market Dairy ninnge’m be falɛ’n i bo.""}",GPT,gpt-5,1
+q0010,Baoule_Machine,A,A,True,,<A>,"?Ndɛ sɔ’n ti nanwlɛ annzɛ ɔ ti akunndan bulɛ like?
+Like nga be suannin koko nun wa’n, mɔ be kan wafa nga nɔnnɔn’n yo sran’m be juejue’n, ɔ bo e nuan.
+Like suanlɛ’m be kle kɛ nɔnnɔn nɔnlɛ’n yo sran’n i juejue.
+Like suanlɛ kpanngban be usali kɛ nɔnnɔn’n kwla wla sran ovi’m be fanngan.
+Nɔnnɔn nin ninnge uflɛ nga be fa nɔnnɔn be yo’n, be nɔnlɛ’n yɛ ɔ ti like kpafuɛ’n m’ɔ kwla yo maan sran’n i wunnɛn’n yo mlanwa ɔ.","{""A"": ""Akunndan, ndɛ nanwlɛ, ndɛ nanwlɛ, akunndan."", ""B"": ""ndɛ nanwlɛ, ndɛ nanwlɛ, akunndan, akunndan."", ""C"": ""ndɛ nanwlɛ, akunndan, ndɛ nanwlɛ, akunndan."", ""D"": ""Akunndan, akunndan, ndɛ nanwlɛ, ndɛ nanwlɛ.""}",GPT,gpt-5,1
