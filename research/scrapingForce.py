@@ -1,15 +1,18 @@
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 import csv
 import os
 
-# ------------ CONFIG ---------------
+# ===================== CONFIG =====================
 
-UNIT = "MAT/MA161-ForestedAreas"          
-# or , etc. "R551-RapaNui" R548-ChickenForum R557-CowsMilk R548-ChickenForum
-MAX_PAGES = 7                 # upper bound; loop stops when NEXT disappears
+# Example unit: 2022 math item
+UNIT = "MAT/MA161-ForestedAreas"
+
+# Max inner pages to try; loop stops early when NEXT is gone/disabled
+MAX_PAGES = 7
+
 OUT_CSV = f"{UNIT}_parts_all_languages.csv"
 
-# Fill with your real language codes
+# Map of language_name -> PISA lang code
 LANG_CODES = {
     "Albanian": "sqi-ALB",
     "Arabic": "ara-ARE",              # depends on country: EGY, SAU, QAT, etc.
@@ -55,17 +58,40 @@ LANG_CODES = {
     "Thai": "tha-THA",
     "Turkish": "tur-TUR"
 }
-# -----------------------------------
 
-# BASE_URL = (
-#     "https://pisa2018-questions.oecd.org/platform/index.html"
-#     "?user=&domain=REA&unit={unit}&lang={lang}"
-# )
-
+# PISA 2022 base URL (math, reading, etc.)
 BASE_URL = (
     "https://pisa2022-questions.oecd.org/platform/index.html"
     "?user=&unit={unit}&lang={lang}"
 )
+
+# (unit, page_index) -> list of CSS selectors to click inside content frames
+# Example: for MA161 page 2, click the sortable header "Kolona E"
+SPECIAL_ACTIONS = {
+    ("MAT/MA161-ForestedAreas", 2): [
+        {"type": "click", "selector": "#r0th3"},
+        {"type": "wait",   "ms": 100},
+        {"type": "select", "selector": "#SelectedColumn1", "value": "2"},
+        {"type": "wait",   "ms": 100},
+        {"type": "select", "selector": "#Operation", "value": "+"},
+        {"type": "wait",   "ms": 100},
+        {"type": "select", "selector": "#SelectedColumn2", "value": "2"},
+        {"type": "wait",   "ms": 100},
+        {"type": "click",  "selector": "#runButton1"},
+        {"type": "wait",   "ms": 400},  # table will update
+        {"type": "select", "selector": "#MeanColumn", "value": "2"},
+        {"type": "wait",   "ms": 100},
+        {"type": "click",  "selector": "#runButton2"},
+        {"type": "wait",   "ms": 400},  # final update before NEXT
+    ],
+        ("MAT/MA161-ForestedAreas", 3): [
+        {"type": "click", "selector": "#aMenu_part1_h3_1"},
+        {"type": "wait",   "ms": 100},
+    ],
+}
+
+# ==================================================
+
 
 def build_url(unit: str, lang_code: str) -> str:
     return BASE_URL.format(unit=unit, lang=lang_code)
@@ -121,11 +147,117 @@ def find_navigation_frame(page):
             return f
     return None
 
-
-def click_next(page, force=False) -> bool:
+def get_unit_frame(page, unit: str, page_idx: int):
     """
-    Click <li id='next' title='NEXT'> inside navigation iframe.
-    Returns True if clicked, False if not found (last page).
+    Return the frame that contains the actual unit content for this page.
+    For MAT/MA161-ForestedAreas:
+      - page 2 uses ModuleId=stimulus (table controls),
+      - later pages use ModuleId=question (accordion questions).
+    """
+    candidates = []
+    for f in page.frames:
+        url = f.url or ""
+        if "/platform/unit/" in url and unit in url:
+            candidates.append(f)
+
+    if not candidates:
+        return None
+
+    # Prefer specific ModuleId based on page index
+    # (works well for MA161 and similar 2022 items)
+    if page_idx == 2:
+        for f in candidates:
+            if "ModuleId=stimulus" in (f.url or ""):
+                return f
+    else:
+        for f in candidates:
+            if "ModuleId=question" in (f.url or ""):
+                return f
+
+    # Fallback: first candidate
+    return candidates[0]
+
+
+def run_special_actions(page, unit: str, page_idx: int):
+    actions = SPECIAL_ACTIONS.get((unit, page_idx), [])
+    if not actions:
+        return
+
+    print(f"  [INFO] Running special actions for {unit} page {page_idx}")
+
+    # Find the frame that actually holds the unit content
+    unit_frame = get_unit_frame(page, unit, page_idx)
+    if not unit_frame:
+        print("    [WARN] Could not find unit frame – no special actions run.")
+        return
+
+    print(f"    [FRAME] Using unit frame url={unit_frame.url}")
+
+    # Small wait to ensure DOM is ready
+    page.wait_for_timeout(500)
+
+    for action in actions:
+        act_type = action.get("type")
+        selector = action.get("selector")
+
+        # ----- CLICK -----
+        if act_type == "click":
+            print(f"    [ACTION] CLICK → {selector}")
+            el = unit_frame.query_selector(selector)
+            if el:
+                try:
+                    unit_frame.eval_on_selector(selector, "el => el.click()")
+                    print("      [OK] Clicked")
+                except Exception as e:
+                    print(f"      [WARN] Click failed: {e}")
+            else:
+                print(f"      [WARN] Element not found for CLICK: {selector}")
+
+        # ----- SELECT -----
+        elif act_type == "select":
+            value = action.get("value")
+            index = action.get("index")
+
+            if index is not None:
+                print(f"    [ACTION] SELECT (index) → {selector} index={index}")
+            else:
+                print(f"    [ACTION] SELECT (value) → {selector} value={value}")
+
+            el = unit_frame.query_selector(selector)
+            if el:
+                try:
+                    if index is not None:
+                        unit_frame.select_option(selector, index=index)
+                    else:
+                        unit_frame.select_option(selector, value=value)
+                    print("      [OK] Selected")
+                except Exception as e:
+                    print(f"      [WARN] Select failed: {e}")
+            else:
+                print(f"      [WARN] Element not found for SELECT: {selector}")
+
+        # ----- WAIT -----
+        elif act_type == "wait":
+            delay = action.get("ms", 100)
+            print(f"    [ACTION] WAIT → {delay} ms")
+            page.wait_for_timeout(delay)
+
+    print("    [ACTION] WAIT (post-actions) → 800 ms")
+    page.wait_for_timeout(800)
+
+
+
+def click_next(page, unit: str, page_idx: int) -> bool:
+    """
+    Click <li id='next'> in navigation iframe.
+
+    If disabled:
+      1) generic auto-answer of radios/buttons,
+      2) run SPECIAL_ACTIONS for this (unit, page),
+    then re-check and click if enabled.
+
+    Returns True if we sent a click (expecting page to advance),
+    False if there is no usable NEXT.
     """
     nav_frame = find_navigation_frame(page)
     if not nav_frame:
@@ -134,33 +266,42 @@ def click_next(page, force=False) -> bool:
 
     btn = nav_frame.query_selector("li#next")
     if not btn:
-        print("  [INFO] NEXT button (li#next) not found – probably last page")
+        print("  [INFO] li#next not found – no NEXT on this screen")
         return False
-    
+
     disabled_attr = btn.get_attribute("disabled")
 
-    if disabled_attr is not None and not force:
-        # normal behaviour: treat disabled as last page
-        print("  [INFO] NEXT button is disabled – stopping here (force=False).")
-        return False
+    if disabled_attr is not None:
+        print("  [INFO] NEXT disabled – trying auto-answer + special actions.")
+        run_special_actions(page, unit, page_idx)
 
+        # re-fetch button after interactions
+        nav_frame = find_navigation_frame(page)
+        if not nav_frame:
+            print("  [WARN] Navigation frame disappeared after answering?")
+            return False
+
+        btn = nav_frame.query_selector("li#next")
+        if not btn:
+            print("  [INFO] li#next gone after answering – stopping.")
+            return False
+
+        disabled_attr = btn.get_attribute("disabled")
+        if disabled_attr is not None:
+            print("  [INFO] NEXT still disabled after special actions – stopping.")
+            return False
+
+    # At this point, NEXT should be enabled.
     try:
-        if disabled_attr is not None and force:
-            print("  [INFO] Forcing NEXT despite disabled attribute.")
-            # remove disabled and click via JS so overlays / pointer-events don't matter
-            nav_frame.eval_on_selector(
-                "li#next",
-                "el => { el.removeAttribute('disabled'); el.click(); }"
-            )
-        else:
-            # enabled case – still use JS click to avoid overlay issues
-            nav_frame.eval_on_selector("li#next", "el => el.click()")
-
+        # JS click inside nav frame – avoids overlay issues
+        nav_frame.eval_on_selector("li#next", "el => el.click()")
     except PlaywrightTimeoutError:
-        # if something weird happens, treat it as last page to avoid crash
-        print("  [WARN] Timeout while clicking NEXT – stopping here.")
+        print("  [WARN] Timeout while clicking NEXT – stopping.")
         return False
-    
+    except Exception:
+        print("  [WARN] Error while clicking NEXT – stopping.")
+        return False
+
     page.wait_for_timeout(1000)
     return True
 
@@ -184,7 +325,8 @@ def scrape_language(play, language_name: str, lang_code: str):
         for part_idx, text in parts:
             rows.append((page_idx, part_idx, text))
 
-        if not click_next(page, force=True):
+        # try to go to next; if cannot, break
+        if not click_next(page, UNIT, page_idx):
             break
 
     browser.close()
@@ -194,7 +336,7 @@ def scrape_language(play, language_name: str, lang_code: str):
 def main():
     os.makedirs(os.path.dirname(OUT_CSV) or ".", exist_ok=True)
 
-    # utf-8-sig = UTF-8 with BOM so Excel shows Cyrillic correctly
+    # utf-8-sig -> UTF-8 with BOM so Excel reads Cyrillic etc. correctly
     with sync_playwright() as p, open(
         OUT_CSV, "w", encoding="utf-8-sig", newline=""
     ) as f:
