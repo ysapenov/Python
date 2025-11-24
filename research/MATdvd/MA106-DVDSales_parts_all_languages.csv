@@ -1,0 +1,6090 @@
+﻿unit,page,part,language_name,lang_code,text
+MAT/MA106-DVDSales,1,1,Albanian,sqi-ALB,Makinë llogaritëseclose
+MAT/MA106-DVDSales,1,2,Albanian,sqi-ALB,PISA 2022
+MAT/MA106-DVDSales,1,3,Albanian,sqi-ALB,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Albanian,sqi-ALB,"Shitjet e DVD  Hyrja
+Lexoni hyrjen. Më pas klikoni mbi shigjetën TJETËR.
+SHITJET E DVD
+Numri totali i DVDve të shitura çdo vit në Mbretërinë e Bashkuar nga 2008 në 2014 është paraqitur në grafikun më poshtë.
+Vlerat në boshtet horizontale përfaqësojnë numrin e viteve pas 2008. Vendosni kursorin mbi pikat në grafik për të parë koordinatat e asaj pike. Për shembull, pika (0: 252,9) tregon se në 2008 janë shitur 252,9 milionë DVD. Pika (1: 234,6) tregon se në vitin 2009 janë shitur 234,6 milionë DVD, etj.
+Shitjet e DVD në Mbretërinë e Bashkuar
+Numri i DVDve të Shitura(në Milionë)
+Numri i Viteve Pas 2008
+(0: 252,9)
+(1: 234,6)
+(2: 210,1)
+(3: 191,8)
+(4: 162)
+(5: 143,4)
+(6: 124,9)"
+MAT/MA106-DVDSales,1,5,Albanian,sqi-ALB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Albanian,sqi-ALB,Makinë llogaritëseclose
+MAT/MA106-DVDSales,2,2,Albanian,sqi-ALB,PISA 2022
+MAT/MA106-DVDSales,2,3,Albanian,sqi-ALB,"SHITJET E DVD
+Numri totali i DVDve të shitura çdo vit në Mbretërinë e Bashkuar nga 2008 në 2014 është paraqitur në grafikun më poshtë.
+Vlerat në boshtet horizontale përfaqësojnë numrin e viteve pas 2008. Vendosni kursorin mbi pikat në grafik për të parë koordinatat e asaj pike. Për shembull, pika (0: 252,9) tregon se në 2008 janë shitur 252,9 milionë DVD. Pika (1: 234,6) tregon se në vitin 2009 janë shitur 234,6 milionë DVD, etj.
+Një vizë është shtuar në grafik për të modeluar këto pikë të dhënash.
+Shitjet e DVD në Mbretërinë e Bashkuar
+Numri i DVDve të Shitura(në Milionë)
+Numri i Viteve Pas 2008
+(0: 252,9)
+(1: 234,6)
+(2: 210,1)
+(3: 191,8)
+(4: 162)
+(5: 143,4)
+(6: 124,9)"
+MAT/MA106-DVDSales,2,4,Albanian,sqi-ALB,"Shitjet e DVD  Pyetje 1 / 3
+Referohuni ""Shitjes së DVD"" në të djathtë. Klikoni alternativat në tabelë për t'ju përgjigjur pyetjes.
+A janë të mbështetura nga informacioni i paraqitur në grafik fjalitë në tabelën më poshtë? Klikoni mbi Po ose Jo për secilën fjali.
+Pohimi
+Po
+Jo
+Numri i DVDve të shitura ka rënë me rreth 50% nga viti 2008 deri në 2014.
+Numri i DVDve të shitura ka rënë me të njejtën sasi çdo vit nga 2008 deri në 2014.
+Pjerrësia e vizës përfaqëson rënien mesatare vjetore në shitjet e DVDve nga 2008 në 2014."
+MAT/MA106-DVDSales,2,5,Albanian,sqi-ALB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Albanian,sqi-ALB,Makinë llogaritëseclose
+MAT/MA106-DVDSales,3,2,Albanian,sqi-ALB,PISA 2022
+MAT/MA106-DVDSales,3,3,Albanian,sqi-ALB,"SHITJET E DVD
+Numri totali i DVDve të shitura çdo vit në Mbretërinë e Bashkuar nga 2008 në 2014 është paraqitur në grafikun më poshtë.
+Vlerat në boshtet horizontale përfaqësojnë numrin e viteve pas 2008. Vendosni kursorin mbi pikat në grafik për të parë koordinatat e asaj pike. Për shembull, pika (0: 252,9) tregon se në 2008 janë shitur 252,9 milionë DVD. Pika (1: 234,6) tregon se në vitin 2009 janë shitur 234,6 milionë DVD, etj.
+Një vizë është shtuar në grafik për të modeluar këto pikë të dhënash.
+Shitjet e DVD në Mbretërinë e Bashkuar
+Numri i DVDve të Shitura(në Milionë)
+Numri i Viteve Pas 2008
+(0: 252,9)
+(1: 234,6)
+(2: 210,1)
+(3: 191,8)
+(4: 162)
+(5: 143,4)
+(6: 124,9)"
+MAT/MA106-DVDSales,3,4,Albanian,sqi-ALB,"Shitjet e DVD  Pyetje 2 / 3
+Referohuni ""Shitjes së DVD"" në të djathtë. Duke përdorur tastet numerike, shtypni përgjigjen tuaj ndaj pyetjes.
+Ekuacioni i vijës është d = 254 – 22n, ku d është numri i DVDve të shitura (në milionë) dhe n është numri i viteve pas 2008.
+Nëse trendi i shitjeve vazhdon, në cilin vit numri i DVDve të shitura do të jetë më pak se 1 milion në bazë të modelit.
+Përgjigja:"
+MAT/MA106-DVDSales,3,5,Albanian,sqi-ALB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Arabic,ara-ARE,الآلة الحاسبةclose
+MAT/MA106-DVDSales,1,2,Arabic,ara-ARE,PISA 2022
+MAT/MA106-DVDSales,1,3,Arabic,ara-ARE,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Arabic,ara-ARE,"مبيعات أقراص الفيديو الرقمية DVD  مقدمة
+اقرأ المقدمة. ثم انقر على زر التالي.
+مبيعات أقراص الفيديو الرقمية DVD
+يُوضّح الرسم البياني أدناه إجمالي عدد أقراص الفيديو الرقمية التي تباع كل عام في المملكة المتحدة منذ عام 2008 وحتى عام 2014.
+تمثل القيم على المحور الأفقي عدد السنوات  التي  تأتي  بعد  عام 2008 . ضع المؤشر على النقاط في الرسم البياني لرؤية إحداثيات تلك النقطة.  على سبيل المثال، تشير النقطة  (252.9 ,0) إلى أنه تم بيع 252.9 مليون أسطوانة فيديو رقمي في عام 2008 . وتشير النقطة (234.6 ,1) إلى أنه تم بيع 234.6 مليون قرص فيديو رقمي خلال عام 2009 ...إلخ
+مبيعات أقراص الفيديو الرقمية في المملكة المتحدة
+عدد أقراص الفيديو الرقمية المُباعة ( بالمليون )
+عدد السنوات بعد عام 2008
+(‎(0, 252.9
+(1‎, 23‎4.6)
+(2‎, 21‎0.1)
+(‎3, 19‎1.8)
+(4‎, 16‎2)
+(5‎, 1‎43.4)
+(6‎, 12‎4.9)"
+MAT/MA106-DVDSales,1,5,Arabic,ara-ARE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Arabic,ara-ARE,الآلة الحاسبةclose
+MAT/MA106-DVDSales,2,2,Arabic,ara-ARE,PISA 2022
+MAT/MA106-DVDSales,2,3,Arabic,ara-ARE,"مبيعات أقراص الفيديو الرقمية DVD
+يُوضّح الرسم البياني أدناه إجمالي عدد أقراص الفيديو الرقمية التي تباع كل عام في المملكة المتحدة منذ عام 2008 وحتى عام 2014.
+تمثل القيم على المحور الأفقي عدد السنوات  التي  تأتي  بعد  عام 2008 . ضع المؤشر على النقاط في الرسم البياني لرؤية إحداثيات تلك النقطة.  على سبيل المثال، تشير النقطة  (252.9 ,0) إلى أنه تم بيع 252.9 مليون أسطوانة فيديو رقمي في عام 2008 . وتشير النقطة (234.6 ,1) إلى أنه تم بيع 234.6 مليون قرص فيديو رقمي خلال عام 2009 ...إلخ
+تمت إضافة خط مستقيم على الرسم البياني لإعطاء نموذج عن نقاط هذه البيانات.
+مبيعات أقراص الفيديو الرقمية في المملكة المتحدة
+عدد أقراص الفيديو الرقمية المُباعة ( بالمليون )
+عدد السنوات بعد عام 2008
+(‎(0, 252.9
+(1‎, 23‎4.6)
+(2‎, 21‎0.1)
+(‎3, 19‎1.8)
+(4‎, 16‎2)
+(5‎, 1‎43.4)
+(6‎, 12‎4.9)"
+MAT/MA106-DVDSales,2,4,Arabic,ara-ARE,"مبيعات أقراص الفيديو الرقمية DVD  سؤال 1 / 3
+ارجع إلى ""مبيعات أقراص الفيديو الرقمية"" على الجانب الأيسر. انقر على الخيارات في الجدول للإجابة عن السؤال.
+هل العبارات الواردة في الجدول أدناه مدعومة بالمعلومات الموضّحة في الرسم؟ انقر إما على نعم  أو لا  لكل عبارة.
+العبارة
+نعم
+لا
+انخفاض عدد أقراص الفيديو الرقمية المُباعة حوالي  %50  من عام 2008 حتى عام 2014.
+انخفاض عدد أقراص الفيديو الرقمية المُباعة بنفس الكمية في كل سنة منذ عام 2008 وحتى عام 2014.
+ميل الخط هو متوسط الانخفاض السنوي في مبيعات أقراص الفيديو الرقمية منذ عام 2008  وحتى عام 2014."
+MAT/MA106-DVDSales,2,5,Arabic,ara-ARE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Arabic,ara-ARE,الآلة الحاسبةclose
+MAT/MA106-DVDSales,3,2,Arabic,ara-ARE,PISA 2022
+MAT/MA106-DVDSales,3,3,Arabic,ara-ARE,"مبيعات أقراص الفيديو الرقمية DVD
+يُوضّح الرسم البياني أدناه إجمالي عدد أقراص الفيديو الرقمية التي تباع كل عام في المملكة المتحدة منذ عام 2008 وحتى عام 2014.
+تمثل القيم على المحور الأفقي عدد السنوات  التي  تأتي  بعد  عام 2008 . ضع المؤشر على النقاط في الرسم البياني لرؤية إحداثيات تلك النقطة.  على سبيل المثال، تشير النقطة  (252.9 ,0) إلى أنه تم بيع 252.9 مليون أسطوانة فيديو رقمي في عام 2008 . وتشير النقطة (234.6 ,1) إلى أنه تم بيع 234.6 مليون قرص فيديو رقمي خلال عام 2009 ...إلخ
+تمت إضافة خط مستقيم على الرسم البياني لإعطاء نموذج عن نقاط هذه البيانات.
+مبيعات أقراص الفيديو الرقمية في المملكة المتحدة
+عدد أقراص الفيديو الرقمية المُباعة ( بالمليون )
+عدد السنوات بعد عام 2008
+(‎(0, 252.9
+(1‎, 23‎4.6)
+(2‎, 21‎0.1)
+(‎3, 19‎1.8)
+(4‎, 16‎2)
+(5‎, 1‎43.4)
+(6‎, 12‎4.9)"
+MAT/MA106-DVDSales,3,4,Arabic,ara-ARE,"مبيعات أقراص الفيديو الرقمية DVD  سؤال 2 / 3
+ارجع إلى ""مبيعات أقراص الفيديو الرقمية"" على الجانب الأيسر. اطبع إجابتك عن السؤال باستخدام مفاتيح الأرقام.
+معادلة الخط المستقيم هي  d = 254 – 22n  ، حيث إنّ  d  يمثّل عدد أقراص الفيديو الرقمية المُباعة (بالملايين)، كما تمثّل  n  عدد السنوات بعد عام  2008.
+في حالة استمرار المبيعات في هذا الاتجاه، في أي عام سيكون عدد أقراص الفيديو الرقمية المُباعة أقل من  1  مليون حسب النموذج؟
+الإجابة:"
+MAT/MA106-DVDSales,3,5,Arabic,ara-ARE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Azerbaijani / Azeri,aze-QAZ,Kalkulyatorclose
+MAT/MA106-DVDSales,1,2,Azerbaijani / Azeri,aze-QAZ,PISA 2022
+MAT/MA106-DVDSales,1,3,Azerbaijani / Azeri,aze-QAZ,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Azerbaijani / Azeri,aze-QAZ,"DVD Satışları  Giriş
+Girişi oxuyun. Sonra NÖVBƏTİ oxunu klikləyin.
+DVD SATIŞLARI
+Aşağıdakı qrafikdə 2008-ci ildən 2014-cü ilə qədər Birləşmiş Krallıqda hər il satılan DVD-lərin ümumi sayı  göstərilmişdir.
+Üfuqi oxun üzərindəki rəqəmlər 2008-ci ildən sonrakı illərin sayını göstərir. Qrafikdəki hər hansı nöqtənin koordinatlarını görmək üçün kursoru həmin nöqtələrin üzərinə gətirin. Məsələn, bu nöqtə (0; 252,9) göstərir ki, 2008-ci ildə 252,9 milyon DVD satılıb. Bu nöqtə (1; 234,6) göstərir ki, 2009-cu ildə 234,6 milyon DVD satışı olub  və s.
+Birləşmiş Krallıqda DVD Satışları
+Satılmış DVD-lərin Sayı(Milyonla)
+2008-ci ildən sonrakı illərin sayı
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Azerbaijani / Azeri,aze-QAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Azerbaijani / Azeri,aze-QAZ,Kalkulyatorclose
+MAT/MA106-DVDSales,2,2,Azerbaijani / Azeri,aze-QAZ,PISA 2022
+MAT/MA106-DVDSales,2,3,Azerbaijani / Azeri,aze-QAZ,"DVD SATIŞLARI
+Aşağıdakı qrafikdə 2008-ci ildən 2014-cü ilə qədər Birləşmiş Krallıqda hər il satılan DVD-lərin ümumi sayı  göstərilmişdir.
+Üfuqi oxun üzərindəki rəqəmlər 2008-ci ildən sonrakı illərin sayını göstərir. Qrafikdəki hər hansı nöqtənin koordinatlarını görmək üçün kursoru həmin nöqtələrin üzərinə gətirin. Məsələn, bu nöqtə (0; 252,9) göstərir ki, 2008-ci ildə 252,9 milyon DVD satılıb. Bu nöqtə (1; 234,6) göstərir ki, 2009-cu ildə 234,6 milyon DVD satışı olub  və s.
+Bu məlumat nöqtələrini modelləşdirmək üçün qrafikə xətt əlavə olunub.
+Birləşmiş Krallıqda DVD Satışları
+Satılmış DVD-lərin Sayı(Milyonla)
+2008-ci ildən sonrakı illərin sayı
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Azerbaijani / Azeri,aze-QAZ,"DVD Satışları  Sual 1 / 3
+Sağdakı ""DVD Satışları""-na istinad edin.  Suala cavab vermək üçün cədvəldəki seçimləri klikləyin.
+Qrafikdə göstərilən məlumatlar aşağıdakı cədvəldə verilmiş fikirləri dəstəkləyirmi? Hər bir fikir üçün Bəli və ya Xeyr cavabını klikləyin.
+Fikir
+Bəli
+Xeyr
+Satılmış DVD-lərin sayı 2008-ci ildən 2014-cü ilə qədər təxminən 50% azalıb.
+Satılmış DVD-lərin sayı 2008-ci ildən 2014-cü ilə qədər hər il eyni miqdarda azalıb.
+Xəttin əyriliyi 2008-ci ildən 2014-cü ilə qədər satılmış DVD-lərin orta illik azalmasını göstərir."
+MAT/MA106-DVDSales,2,5,Azerbaijani / Azeri,aze-QAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Azerbaijani / Azeri,aze-QAZ,Kalkulyatorclose
+MAT/MA106-DVDSales,3,2,Azerbaijani / Azeri,aze-QAZ,PISA 2022
+MAT/MA106-DVDSales,3,3,Azerbaijani / Azeri,aze-QAZ,"DVD SATIŞLARI
+Aşağıdakı qrafikdə 2008-ci ildən 2014-cü ilə qədər Birləşmiş Krallıqda hər il satılan DVD-lərin ümumi sayı  göstərilmişdir.
+Üfuqi oxun üzərindəki rəqəmlər 2008-ci ildən sonrakı illərin sayını göstərir. Qrafikdəki hər hansı nöqtənin koordinatlarını görmək üçün kursoru həmin nöqtələrin üzərinə gətirin. Məsələn, bu nöqtə (0; 252,9) göstərir ki, 2008-ci ildə 252,9 milyon DVD satılıb. Bu nöqtə (1; 234,6) göstərir ki, 2009-cu ildə 234,6 milyon DVD satışı olub  və s.
+Bu məlumat nöqtələrini modelləşdirmək üçün qrafikə xətt əlavə olunub.
+Birləşmiş Krallıqda DVD Satışları
+Satılmış DVD-lərin Sayı(Milyonla)
+2008-ci ildən sonrakı illərin sayı
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Azerbaijani / Azeri,aze-QAZ,"DVD Satışları  Sual 2 / 3
+Sağdakı ""DVD Satışları""-na istinad edin.  Rəqəm düymələrindən istifadə edərək sualın cavabını yazın.
+Xəttin tənliyi budur:d = 254 – 22n, burada d satılmış DVD-lərin sayı (milyonla) və n 2008-ci ildən sonrakı illərin sayıdır.
+Əgər bu satış tendensiyası davam edərsə, yuxarıdakı bərabərliyə əsasən hansı ildə satılan DVD-lərin sayı 1 milyondan az olacaq?
+Cavab:"
+MAT/MA106-DVDSales,3,5,Azerbaijani / Azeri,aze-QAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Basque,eus-ESP,Kalkulagailuaclose
+MAT/MA106-DVDSales,1,2,Basque,eus-ESP,PISA
+MAT/MA106-DVDSales,1,3,Basque,eus-ESP,"DVD salmentak  Sarrera
+Irakurri sarrera. Ondoren, egin klik HURRENGOA gezian.
+DVD SALMENTA
+Beheko grafikoan, Erresuma Batuan 2008tik 2014ra urte bakoitzean saldutako DVD-en kopurua ikus daiteke.
+Ardatz horizontaleko balioek urteen kopurua adierazten dute, 2008 urtetik aurrera. Jarri kurtsorea grafikoko puntuen gainean, puntu bakoitzaren koordenatuak ikusteko. Adibidez, (0,  252,9) puntuak adierazten du 252,9 milioi DVD saldu zirela 2008an. Aldi berean, (1,  234,6) puntuak adierazten du 234,6 milioi DVD saldu zirela 2009an, eta abar.
+DVD salmentak Erresuma Batuan
+Saldutako DVD-en kopurua(milioi)
+Urteen kopurua 2008tik aurrera
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,1,4,Basque,eus-ESP,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,5,Basque,eus-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Basque,eus-ESP,Kalkulagailuaclose
+MAT/MA106-DVDSales,2,2,Basque,eus-ESP,PISA
+MAT/MA106-DVDSales,2,3,Basque,eus-ESP,"DVD salmentak  Galdera 1 / 3
+Begiratu ""DVD salmenta"" egoerari eskuinean. Egin klik taulako aukeretan, galderari erantzuteko.
+Beheko taulako adierazpenak badatoz bat grafikoko informazioarekin? Egin klik Bai edo Ez aukeretan, adierazpen bakoitzaren ondoan.
+Adierazpena
+Bai
+Ez
+Saldutako DVD-en kopurua % 50 inguru jaitsi zen 2008tik 2014ra.
+Saldutako DVD-en kopuruaren jaitsiera bera izan zen urte guztietan, 2008tik 2014ra.
+Zuzenaren maldak adierazten du saldutako DVD-en kopuruaren batez besteko urteko beherakada 2008tik 2014ra."
+MAT/MA106-DVDSales,2,4,Basque,eus-ESP,"DVD SALMENTA
+Beheko grafikoan, Erresuma Batuan 2008tik 2014ra urte bakoitzean saldutako DVD-en kopurua ikus daiteke.
+Ardatz horizontaleko balioek urteen kopurua adierazten dute, 2008 urtetik aurrera. Jarri kurtsorea grafikoko puntuen gainean, puntu bakoitzaren koordenatuak ikusteko. Adibidez, (0,  252,9) puntuak adierazten du 252,9 milioi DVD saldu zirela 2008an. Aldi berean, (1,  234,6) puntuak adierazten du 234,6 milioi DVD saldu zirela 2009an, eta abar.
+Grafikoari zuzen bat gehitu zaio datu puntu horiek eredu matematiko baten bidez adierazteko.
+DVD salmentak Erresuma Batuan
+Saldutako DVD-en kopurua(milioi)
+Urteen kopurua 2008tik aurrera
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,2,5,Basque,eus-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Basque,eus-ESP,Kalkulagailuaclose
+MAT/MA106-DVDSales,3,2,Basque,eus-ESP,PISA
+MAT/MA106-DVDSales,3,3,Basque,eus-ESP,"DVD salmentak  Galdera 2 / 3
+Begiratu ""DVD salmenta"" egoerari eskuinean. Zenbaki teklak erabiliz, idatzi galderaren erantzuna.
+Hau da zuzenaren ekuazioa: d = 254 – 22n. Ekuazio horretan, d saldutako DVD-en kopurua da (milioitan) eta n urteen kopurua 2008tik aurrera.
+Salmenten joera honek berdin jarraitzen badu, zer urtetan izango da saldutako DVD-en kopurua 1 milioi baino txikiagoa?
+Erantzuna:"
+MAT/MA106-DVDSales,3,4,Basque,eus-ESP,"DVD SALMENTA
+Beheko grafikoan, Erresuma Batuan 2008tik 2014ra urte bakoitzean saldutako DVD-en kopurua ikus daiteke.
+Ardatz horizontaleko balioek urteen kopurua adierazten dute, 2008 urtetik aurrera. Jarri kurtsorea grafikoko puntuen gainean, puntu bakoitzaren koordenatuak ikusteko. Adibidez, (0,  252,9) puntuak adierazten du 252,9 milioi DVD saldu zirela 2008an. Aldi berean, (1,  234,6) puntuak adierazten du 234,6 milioi DVD saldu zirela 2009an, eta abar.
+Grafikoari zuzen bat gehitu zaio datu puntu horiek eredu matematiko baten bidez adierazteko.
+DVD salmentak Erresuma Batuan
+Saldutako DVD-en kopurua(milioi)
+Urteen kopurua 2008tik aurrera
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,3,5,Basque,eus-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Bokmål,nob-NOR,Kalkulatorclose
+MAT/MA106-DVDSales,1,2,Bokmål,nob-NOR,PISA
+MAT/MA106-DVDSales,1,3,Bokmål,nob-NOR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Bokmål,nob-NOR,"DVD-salg  Innledning
+Les innledningen. Klikk deretter på NESTE-pilen.
+DVD-salg
+Figuren nedenfor viser det totale antallet DVD-er som ble solgt i Storbritannia hvert år fra 2008 til 2014.
+Verdiene langs den horisontale aksen representerer antall år etter 2008. Hold musepekeren over punktene i figuren for å se koordinatene til hvert punkt. For eksempel viser punktet (0, 252,9) at det ble solgt 252,9 millioner DVD-er i 2008. Punktet (1, 234,6) viser at det ble solgt 234,6 millioner DVD-er i 2009 osv.
+DVD-salg i Storbritannia
+Antall solgte DVD-er(i millioner)
+Antall år etter 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,1,5,Bokmål,nob-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Bokmål,nob-NOR,Kalkulatorclose
+MAT/MA106-DVDSales,2,2,Bokmål,nob-NOR,PISA
+MAT/MA106-DVDSales,2,3,Bokmål,nob-NOR,"DVD-salg
+Figuren nedenfor viser det totale antallet DVD-er som ble solgt i Storbritannia hvert år fra 2008 til 2014.
+Verdiene langs den horisontale aksen representerer antall år etter 2008. Hold musepekeren over punktene i figuren for å se koordinatene til hvert punkt. For eksempel viser punktet (0, 252,9) at det ble solgt 252,9 millioner DVD-er i 2008. Punktet (1, 234,6) viser at det ble solgt 234,6 millioner DVD-er i 2009 osv.
+En linje er lagt til i figuren for å lage en modell basert på disse punktene.
+DVD-salg i Storbritannia
+Antall solgte DVD-er(i millioner)
+Antall år etter 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,2,4,Bokmål,nob-NOR,"DVD-salg  Spørsmål 1 / 3
+Les ""DVD-salg"" til høyre. Svar på spørsmålet ved å klikke på alternativene i tabellen.
+Støttes påstandene i tabellen nedenfor av informasjonen i figuren? Klikk på enten Ja eller  Nei for hver av påstandene.
+Påstand
+Ja
+Nei
+Antallet solgte DVD-er gikk ned med omtrent 50 % fra 2008 til 2014.
+Antallet solgte DVD-er gikk ned med det samme antallet hvert år fra 2008 til 2014.
+Stigningstallet til linja er den gjennomsnittlige årlige nedgangen i solgte DVD-er fra 2008 til 2014."
+MAT/MA106-DVDSales,2,5,Bokmål,nob-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Bokmål,nob-NOR,Kalkulatorclose
+MAT/MA106-DVDSales,3,2,Bokmål,nob-NOR,PISA
+MAT/MA106-DVDSales,3,3,Bokmål,nob-NOR,"DVD-salg
+Figuren nedenfor viser det totale antallet DVD-er som ble solgt i Storbritannia hvert år fra 2008 til 2014.
+Verdiene langs den horisontale aksen representerer antall år etter 2008. Hold musepekeren over punktene i figuren for å se koordinatene til hvert punkt. For eksempel viser punktet (0, 252,9) at det ble solgt 252,9 millioner DVD-er i 2008. Punktet (1, 234,6) viser at det ble solgt 234,6 millioner DVD-er i 2009 osv.
+En linje er lagt til i figuren for å lage en modell basert på disse punktene.
+DVD-salg i Storbritannia
+Antall solgte DVD-er(i millioner)
+Antall år etter 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,3,4,Bokmål,nob-NOR,"DVD-salg  Spørsmål 2 / 3
+Les ""DVD-salg"" til høyre. Bruk talltastene når du skriver svaret ditt på spørsmålet.
+Likningen for linja er d = 254 - 22n, hvor d er antall solgte DVD-er (i millioner), og n er antall år etter 2008.
+Hvis denne salgstrenden fortsetter, i hvilket år vil antallet solgte DVD-er bli mindre enn 1 million ifølge modellen?
+Svar:"
+MAT/MA106-DVDSales,3,5,Bokmål,nob-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Bosnian,bos-BIH,Digitronclose
+MAT/MA106-DVDSales,1,2,Bosnian,bos-BIH,PISA 2022
+MAT/MA106-DVDSales,1,3,Bosnian,bos-BIH,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Bosnian,bos-BIH,"Prodaja DVD-a   Uvod
+Pročitaj uvod. Zatim klikni na strelicu SLJEDEĆE.
+PRODAJA DVD-A
+Ukupan broj DVD-a prodatih u Ujedinjenom Kraljevstvu svake godine od 2008. do 2014. godine prikazan je na grafikonu ispod.
+Vrijednosti na horizontalnoj osi predstavljaju broj godina  nakon 2008. godine. Postavi kursor preko tački na grafikonu da vidiš koordinate određene tačke.  Na primjer, tačka (0; 252,9) pokazuje da je 2008. godine prodato 252,9 miliona DVD-a.  Tačka (1; 234,6) pokazuje da je tokom 2009. godine prodato 234,6 miliona DVD-a, itd.
+Prodaja DVD-a u Ujedinjenom Kraljevstvu
+Broj prodatih DVD-a  (u milionima)
+Broj godina nakon 2008. godine
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Bosnian,bos-BIH,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Bosnian,bos-BIH,Digitronclose
+MAT/MA106-DVDSales,2,2,Bosnian,bos-BIH,PISA 2022
+MAT/MA106-DVDSales,2,3,Bosnian,bos-BIH,"PRODAJA DVD-A
+Ukupan broj DVD-a prodatih u Ujedinjenom Kraljevstvu svake godine od 2008. do 2014. godine prikazan je na grafikonu ispod.
+Vrijednosti na horizontalnoj osi predstavljaju broj godina  nakon 2008. godine. Postavi kursor preko tački na grafikonu da vidiš koordinate određene tačke.  Na primjer, tačka (0; 252,9) pokazuje da je 2008. godine prodato 252,9 miliona DVD-a.  Tačka (1; 234,6) pokazuje da je tokom 2009. godine prodato 234,6 miliona DVD-a, itd.
+U grafikon je dodata linija da modeluje ove tačke podataka.
+Prodaja DVD-a u Ujedinjenom Kraljevstvu
+Broj prodatih DVD-a  (u milionima)
+Broj godina nakon 2008. godine
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Bosnian,bos-BIH,"Prodaja DVD-a   Pitanje 1 / 3
+Koristi informacije iz teksta „Prodaja DVD-a” s desne strane.  Odgovori na pitanje klikom na opcije ponuđene u tabeli.
+Da li su tvrdnje u tabeli ispod potkrijepljene informacijama prikazanim na grafikonu? Klikni na Da ili Ne za svaku tvrdnju.
+Tvrdnja
+Da
+Ne
+Broj prodatih DVD-a od 2008. do 2014. godine se smanjio za oko 50%.
+Broj prodatih DVD-a od 2008. do 2014. se smanjivao za isti iznos svake godine
+Nagib linije predstavlja prosječno godišnje smanjenje broja prodatih DVD-a od 2008. do 2014. godine."
+MAT/MA106-DVDSales,2,5,Bosnian,bos-BIH,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Bosnian,bos-BIH,Digitronclose
+MAT/MA106-DVDSales,3,2,Bosnian,bos-BIH,PISA 2022
+MAT/MA106-DVDSales,3,3,Bosnian,bos-BIH,"PRODAJA DVD-A
+Ukupan broj DVD-a prodatih u Ujedinjenom Kraljevstvu svake godine od 2008. do 2014. godine prikazan je na grafikonu ispod.
+Vrijednosti na horizontalnoj osi predstavljaju broj godina  nakon 2008. godine. Postavi kursor preko tački na grafikonu da vidiš koordinate određene tačke.  Na primjer, tačka (0; 252,9) pokazuje da je 2008. godine prodato 252,9 miliona DVD-a.  Tačka (1; 234,6) pokazuje da je tokom 2009. godine prodato 234,6 miliona DVD-a, itd.
+U grafikon je dodata linija da modeluje ove tačke podataka.
+Prodaja DVD-a u Ujedinjenom Kraljevstvu
+Broj prodatih DVD-a  (u milionima)
+Broj godina nakon 2008. godine
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Bosnian,bos-BIH,"Prodaja DVD-a   Pitanje 2 / 3
+Koristi informacije iz teksta „Prodaja DVD-a” s desne strane.  Ukucaj odgovor koristeći numeričku tastaturu.
+Jednačina linije je d = 254 – 22n, pri čemu je d broj prodatih DVD-a (u milionima) a n je broj godina nakon 2008. godine.
+Ako se ovakav trend prodaje nastavi, koje godine će, prema ovom modelu, broj prodatih DVD-a biti manji od 1 milion?
+Odgovor:"
+MAT/MA106-DVDSales,3,5,Bosnian,bos-BIH,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Bulgarian,bul-BGR,Калкулаторclose
+MAT/MA106-DVDSales,1,2,Bulgarian,bul-BGR,PISA
+MAT/MA106-DVDSales,1,3,Bulgarian,bul-BGR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Bulgarian,bul-BGR,"Продажби на DVD  Въведение
+Прочетете въведението. След това кликнете върху стрелката СЛЕДВАЩ.
+ПРОДАЖБИ НА DVD
+На следната графика е представен общият брой на продадените DVD-та за всяка година от 2008 до 2014 г. във Великобритания.
+Стойностите по хоризонталната ос съответстват на броя години след 2008 г. Поставете курсора върху точка от графиката, за да видите точните ѝ координати.  Например точката с координати (0; 252,9) показва, че са продадени 252,9 милиона DVD-та през 2008 г. Точката с координати (1; 234,6) показва, че са продадени 234,6 милиона DVD-та през 2009 г., и т.н.
+Продажби на DVD във Великобритания
+Брой продадени DVD-та(в милиони)
+Брой години след 2008 г.
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Bulgarian,bul-BGR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Bulgarian,bul-BGR,Калкулаторclose
+MAT/MA106-DVDSales,2,2,Bulgarian,bul-BGR,PISA
+MAT/MA106-DVDSales,2,3,Bulgarian,bul-BGR,"ПРОДАЖБИ НА DVD
+На следната графика е представен общият брой на продадените DVD-та за всяка година от 2008 до 2014 г. във Великобритания.
+Стойностите по хоризонталната ос съответстват на броя години след 2008 г. Поставете курсора върху точка от графиката, за да видите точните ѝ координати.  Например точката с координати (0; 252,9) показва, че са продадени 252,9 милиона DVD-та през 2008 г. Точката с координати (1; 234,6) показва, че са продадени 234,6 милиона DVD-та през 2009 г., и т.н.
+На графиката е добавена права линия, която представя модел на тези точки от данни.
+Продажби на DVD във Великобритания
+Брой продадени DVD-та(в милиони)
+Брой години след 2008 г.
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Bulgarian,bul-BGR,"Продажби на DVD  Въпрос 1 / 3
+Използвайте ""Продажби на DVD"" вдясно. Кликнете върху отговорите в таблицата, които смятате за правилни.
+Подкрепени ли са твърденията в таблицата от информацията, показана на графиката? Кликнете върху Да или Не за всяко твърдение.
+Твърдение
+Да
+Не
+Броят на продадените DVD-та е намалял с около 50% от 2008 до 2014 г.
+Броят на продадените DVD-та е намалявал с едно и също количество всяка година от 2008 до 2014 г.
+Наклонът на правата линия показва средногодишното намаляване на продадените DVD-та от 2008 до 2014 г."
+MAT/MA106-DVDSales,2,5,Bulgarian,bul-BGR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Bulgarian,bul-BGR,Калкулаторclose
+MAT/MA106-DVDSales,3,2,Bulgarian,bul-BGR,PISA
+MAT/MA106-DVDSales,3,3,Bulgarian,bul-BGR,"ПРОДАЖБИ НА DVD
+На следната графика е представен общият брой на продадените DVD-та за всяка година от 2008 до 2014 г. във Великобритания.
+Стойностите по хоризонталната ос съответстват на броя години след 2008 г. Поставете курсора върху точка от графиката, за да видите точните ѝ координати.  Например точката с координати (0; 252,9) показва, че са продадени 252,9 милиона DVD-та през 2008 г. Точката с координати (1; 234,6) показва, че са продадени 234,6 милиона DVD-та през 2009 г., и т.н.
+На графиката е добавена права линия, която представя модел на тези точки от данни.
+Продажби на DVD във Великобритания
+Брой продадени DVD-та(в милиони)
+Брой години след 2008 г.
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Bulgarian,bul-BGR,"Продажби на DVD  Въпрос 2 / 3
+Използвайте ""Продажби на DVD"" вдясно. Напишете своя отговор на въпроса с помощта на цифровите клавиши на клавиатурата.
+Уравнението на правата е d = 254 – 22n, където d е броят продадени DVD-та (в милиони), а n е броят години след 2008 г.
+Ако тази тенденция на продажбите продължи, през коя година броят на продадените DVD-та ще е по-малък от 1 милион според този модел?
+Отговор:"
+MAT/MA106-DVDSales,3,5,Bulgarian,bul-BGR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Catalan,cat-ESP,Calculadoraclose
+MAT/MA106-DVDSales,1,2,Catalan,cat-ESP,PISA
+MAT/MA106-DVDSales,1,3,Catalan,cat-ESP,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Catalan,cat-ESP,"Vendes de DVD  Introducció
+Llegeix la introducció. A continuació clica la fletxa SEGÜENT.
+VENDES DE DVD
+Al gràfic següent es mostra el nombre total de DVD venuts cada any al Regne Unit entre el 2008 i el 2014.
+Els valors de l'eix horitzontal representen el nombre d'anys posteriors al 2008. Situa el cursor sobre cada punt del gràfic per veure'n les coordenades. Per exemple, el punt (0, 252,9) indica que es van vendre 252,9 milions de DVD el 2008. El punt (1, 234,6) indica que es van vendre 234,6 milions de DVD durant l'any 2009, etc.
+Vendes de DVD al Regne Unit
+Nombre de DVD venuts(en milions)
+Nombre d'anys després del 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,1,5,Catalan,cat-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Catalan,cat-ESP,Calculadoraclose
+MAT/MA106-DVDSales,2,2,Catalan,cat-ESP,PISA
+MAT/MA106-DVDSales,2,3,Catalan,cat-ESP,"VENDES DE DVD
+Al gràfic següent es mostra el nombre total de DVD venuts cada any al Regne Unit entre el 2008 i el 2014.
+Els valors de l'eix horitzontal representen el nombre d'anys posteriors al 2008. Situa el cursor sobre cada punt del gràfic per veure'n les coordenades. Per exemple, el punt (0, 252,9) indica que es van vendre 252,9 milions de DVD el 2008. El punt (1, 234,6) indica que es van vendre 234,6 milions de DVD durant l'any 2009, etc.
+S'ha afegit una línia al gràfic per donar forma a aquests punts de dades.
+Vendes de DVD al Regne Unit
+Nombre de DVD venuts(en milions)
+Nombre d'anys després del 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,2,4,Catalan,cat-ESP,"Vendes de DVD  Pregunta 1 / 3
+Consulta ""Vendes de DVD"" a la dreta. Clica les opcions de la taula per respondre la pregunta.
+La informació que es mostra al gràfic confirma les afirmacions de la taula següent? Clica Sí o No per a cada afirmació.
+Afirmació
+Sí
+No
+Des del 2008 al 2014, el nombre de DVD venuts es va reduir al voltant del 50 %.
+Des del 2008 al 2014, el nombre de DVD venuts es va reduir la mateixa quantitat cada any.
+El pendent de la línia és la disminució mitjana anual dels DVD venuts des del 2008 al 2014."
+MAT/MA106-DVDSales,2,5,Catalan,cat-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Catalan,cat-ESP,Calculadoraclose
+MAT/MA106-DVDSales,3,2,Catalan,cat-ESP,PISA
+MAT/MA106-DVDSales,3,3,Catalan,cat-ESP,"VENDES DE DVD
+Al gràfic següent es mostra el nombre total de DVD venuts cada any al Regne Unit entre el 2008 i el 2014.
+Els valors de l'eix horitzontal representen el nombre d'anys posteriors al 2008. Situa el cursor sobre cada punt del gràfic per veure'n les coordenades. Per exemple, el punt (0, 252,9) indica que es van vendre 252,9 milions de DVD el 2008. El punt (1, 234,6) indica que es van vendre 234,6 milions de DVD durant l'any 2009, etc.
+S'ha afegit una línia al gràfic per donar forma a aquests punts de dades.
+Vendes de DVD al Regne Unit
+Nombre de DVD venuts(en milions)
+Nombre d'anys després del 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,3,4,Catalan,cat-ESP,"Vendes de DVD  Pregunta 2 / 3
+Consulta ""Vendes de DVD"" a la dreta. Escriu la resposta a la pregunta utilitzant el teclat numèric.
+L'equació de la línia és d = 254 – 22n, on d és el nombre de DVD venuts (en milions) i n és el nombre d'anys després del 2008.
+Si aquesta tendència de vendes continua, en quin any el nombre de DVD venuts serà inferior a 1 milió segons el model?
+Resposta:"
+MAT/MA106-DVDSales,3,5,Catalan,cat-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Chinese,zho-CHN,计算器close
+MAT/MA106-DVDSales,1,2,Chinese,zho-CHN,PISA
+MAT/MA106-DVDSales,1,3,Chinese,zho-CHN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Chinese,zho-CHN,"DVD 销售  简介
+阅读简介， 然后点击“下一页”的箭头。
+DVD 销售
+2008 年至 2014 年，英国每年 DVD 销售总数如下图所示。
+横轴上的数值代表 2008 年之后的年数。 将光标放到图中的点上可查看该点的坐标。 例如，点 (0, 252.9) 表示 2008 年售出了 252.9 百万张 DVD， 点 (1, 234.6) 表示 2009 年售出了 234.6 百万张 DVD，等等。
+英国的 DVD 销售
+DVD 售出数量（以百万为单位）
+2008 年之后的年数
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,1,5,Chinese,zho-CHN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Chinese,zho-CHN,计算器close
+MAT/MA106-DVDSales,2,2,Chinese,zho-CHN,PISA
+MAT/MA106-DVDSales,2,3,Chinese,zho-CHN,"DVD 销售
+2008 年至 2014 年，英国每年 DVD 销售总数如下图所示。
+横轴上的数值代表 2008 年之后的年数。 将光标放到图中的点上可查看该点的坐标。 例如，点 (0, 252.9) 表示 2008 年售出了 252.9 百万张 DVD， 点 (1, 234.6) 表示 2009 年售出了 234.6 百万张 DVD，等等。
+图中加了一条由这些数据点构建的直线。
+英国的 DVD 销售
+DVD 售出数量（以百万为单位）
+2008 年之后的年数
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,2,4,Chinese,zho-CHN,"DVD 销售  问题 1 / 3
+根据右侧的材料“DVD 销售”， 点击表中的选项来回答本题。
+图中显示的数据是否支持下表中的陈述？ 对每项陈述点击是或否。
+陈述
+是
+否
+从 2008 年到 2014 年， DVD 销量下降了约 50%。
+从 2008 年到 2014 年，DVD 销量每年下降幅度相同。
+这条线的斜率是从 2008 年到 2014 年 DVD 销量的平均年度下降率。"
+MAT/MA106-DVDSales,2,5,Chinese,zho-CHN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Chinese,zho-CHN,计算器close
+MAT/MA106-DVDSales,3,2,Chinese,zho-CHN,PISA
+MAT/MA106-DVDSales,3,3,Chinese,zho-CHN,"DVD 销售
+2008 年至 2014 年，英国每年 DVD 销售总数如下图所示。
+横轴上的数值代表 2008 年之后的年数。 将光标放到图中的点上可查看该点的坐标。 例如，点 (0, 252.9) 表示 2008 年售出了 252.9 百万张 DVD， 点 (1, 234.6) 表示 2009 年售出了 234.6 百万张 DVD，等等。
+图中加了一条由这些数据点构建的直线。
+英国的 DVD 销售
+DVD 售出数量（以百万为单位）
+2008 年之后的年数
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,3,4,Chinese,zho-CHN,"DVD 销售  问题 2 / 3
+根据右侧的材料“DVD 销售”， 使用数字键填写你在本题的答案。
+这条线的方程是 d = 254 – 22n，其中 d 是 DVD 销量（以百万为单位），n 是 2008 年之后的年数。
+如果此销售趋势持续下去的话，根据该模型，哪一年 DVD 销量会少于 1 百万张？
+答案："
+MAT/MA106-DVDSales,3,5,Chinese,zho-CHN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Croatian,hrv-HRV,Kalkulatorclose
+MAT/MA106-DVDSales,1,2,Croatian,hrv-HRV,PISA
+MAT/MA106-DVDSales,1,3,Croatian,hrv-HRV,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,4,Croatian,hrv-HRV,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,5,Croatian,hrv-HRV,"Prodaja DVD-ova  Uvod
+Pročitaj uvod,  a zatim klikni na strelicu SLJEDEĆE.
+PRODAJA DVD-ova
+Donji grafikon prikazuje ukupan broj DVD-ova prodanih u Ujedinjenom Kraljevstvu svake godine od 2008. do 2014.
+Vrijednosti na vodoravnoj osi označavaju broj godina nakon 2008. godine. Prijeđi mišem preko točaka u grafikonu da vidiš njihove koordinate. Na primjer, točka (0, 252.9) pokazuje da je 2008. godine prodano 252.9 milijuna DVD-ova. Točka (1, 234.6) pokazuje da je tijekom 2009. prodano 234.6 milijuna DVD-ova itd.
+Prodaja DVD-ova u Ujedinjenom Kraljevstvu
+Broj prodanih DVD-ova(u milijunima)
+Broj godina nakon 2008.
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,2,1,Croatian,hrv-HRV,Kalkulatorclose
+MAT/MA106-DVDSales,2,2,Croatian,hrv-HRV,PISA
+MAT/MA106-DVDSales,2,3,Croatian,hrv-HRV,"PRODAJA DVD-ova
+Donji grafikon prikazuje ukupan broj DVD-ova prodanih u Ujedinjenom Kraljevstvu svake godine od 2008. do 2014.
+Vrijednosti na vodoravnoj osi označavaju broj godina nakon 2008. godine. Prijeđi mišem preko točaka u grafikonu da vidiš njihove koordinate. Na primjer, točka (0, 252.9) pokazuje da je 2008. godine prodano 252.9 milijuna DVD-ova. Točka (1, 234.6) pokazuje da je tijekom 2009. prodano 234.6 milijuna DVD-ova itd.
+U grafikon je dodana krivulja kako bi se dobio model za točke podataka.
+Prodaja DVD-ova u Ujedinjenom Kraljevstvu
+Broj prodanih DVD-ova(u milijunima)
+Broj godina nakon 2008.
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,2,4,Croatian,hrv-HRV,"Prodaja DVD-ova  Pitanje 1 / 3
+Prouči ""Prodaju DVD-ova"" na desnoj strani. Odgovori na pitanje klikom na ponuđene odgovore u tablici.
+Podupiru li podaci prikazani u grafikonu tvrdnje u donjoj tablici? Klikni na Da ili Ne za svaku tvrdnju:
+Tvrdnja
+Da
+Ne
+Broj prodanih DVD-ova smanjio se za otprilike 50% od 2008. do 2014. godine.
+Broj prodanih DVD-ova smanjivao se svake godine za isti iznos od 2008. do 2014. godine.
+Nagib krivulje predstavlja prosječni godišnji pad u broju prodanih DVD-ova od 2008. do 2014. godine."
+MAT/MA106-DVDSales,2,5,Croatian,hrv-HRV,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Croatian,hrv-HRV,Kalkulatorclose
+MAT/MA106-DVDSales,3,2,Croatian,hrv-HRV,PISA
+MAT/MA106-DVDSales,3,3,Croatian,hrv-HRV,"PRODAJA DVD-ova
+Donji grafikon prikazuje ukupan broj DVD-ova prodanih u Ujedinjenom Kraljevstvu svake godine od 2008. do 2014.
+Vrijednosti na vodoravnoj osi označavaju broj godina nakon 2008. godine. Prijeđi mišem preko točaka u grafikonu da vidiš njihove koordinate. Na primjer, točka (0, 252.9) pokazuje da je 2008. godine prodano 252.9 milijuna DVD-ova. Točka (1, 234.6) pokazuje da je tijekom 2009. prodano 234.6 milijuna DVD-ova itd.
+U grafikon je dodana krivulja kako bi se dobio model za točke podataka.
+Prodaja DVD-ova u Ujedinjenom Kraljevstvu
+Broj prodanih DVD-ova(u milijunima)
+Broj godina nakon 2008.
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,3,4,Croatian,hrv-HRV,"Prodaja DVD-ova  Pitanje 2 / 3
+Prouči ""Prodaju DVD-ova"" na desnoj strani. Utipkaj odgovor na pitanje služeći se brojčanim tipkama.
+Jednadžba krivulje je d = 254 - 22n, pri čemu d označava broj prodanih DVD-ova (u milijunima), a n označava broj godina nakon 2008.
+Ako se nastavi ovakav trend prodaje, koje će godine broj prodanih DVD-ova biti manji od 1 milijun prema ovom modelu?
+Odgovor:"
+MAT/MA106-DVDSales,3,5,Croatian,hrv-HRV,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Czech,ces-CZE,Kalkulačkaclose
+MAT/MA106-DVDSales,1,2,Czech,ces-CZE,PISA
+MAT/MA106-DVDSales,1,3,Czech,ces-CZE,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Czech,ces-CZE,"Prodej DVD   Úvod
+Přečti si úvod. Pak klikni na šipku DALŠÍ.
+PRODEJ DVD
+Následující graf znázorňuje celkový počet DVD prodaných každoročně ve Velké Británii od roku 2008 do roku 2014.
+Hodnoty na vodorovné ose představují počet let od roku 2008. Umísti kurzor na jednotlivé body v grafu a zobrazí se ti jejich souřadnice. Například bod (0; 252,9) udává, že se v roce 2008 prodalo 252,9 milionů DVD. Bod (1; 234,6) udává, že se v roce 2009 prodalo 234,6 milionů DVD atd.
+Prodej DVD ve Velké Británii
+Počet prodaných DVD(v milionech)
+Počet let od roku 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Czech,ces-CZE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Czech,ces-CZE,Kalkulačkaclose
+MAT/MA106-DVDSales,2,2,Czech,ces-CZE,PISA
+MAT/MA106-DVDSales,2,3,Czech,ces-CZE,"PRODEJ DVD
+Následující graf znázorňuje celkový počet DVD prodaných každoročně ve Velké Británii od roku 2008 do roku 2014.
+Hodnoty na vodorovné ose představují počet let od roku 2008. Umísti kurzor na jednotlivé body v grafu a zobrazí se ti jejich souřadnice. Například bod (0; 252,9) udává, že se v roce 2008 prodalo 252,9 milionů DVD. Bod (1; 234,6) udává, že se v roce 2009 prodalo 234,6 milionů DVD atd.
+Do grafu byla přidána přímka, která tyto datové body modeluje.
+Prodej DVD ve Velké Británii
+Počet prodaných DVD(v milionech)
+Počet let od roku 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Czech,ces-CZE,"Prodej DVD   Otázka 1 / 3
+Prostuduj si úlohu „Prodej DVD“ na pravé straně. Odpověz na otázku kliknutím na možnosti v tabulce.
+Jsou tvrzení v tabulce v souladu s údaji zobrazenými v grafu?   U každého tvrzení klikni na Ano nebo Ne.
+Tvrzení
+Ano
+Ne
+Počet DVD prodaných od roku 2008 do konce roku 2014 klesl asi o 50 %.
+Počet DVD prodaných od roku 2008 do konce roku 2014 každý rok klesl o stejné množství.
+Sklon přímky znázorňuje průměrný roční pokles počtu prodaných DVD od roku 2008 do roku 2014."
+MAT/MA106-DVDSales,2,5,Czech,ces-CZE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Czech,ces-CZE,Kalkulačkaclose
+MAT/MA106-DVDSales,3,2,Czech,ces-CZE,PISA
+MAT/MA106-DVDSales,3,3,Czech,ces-CZE,"PRODEJ DVD
+Následující graf znázorňuje celkový počet DVD prodaných každoročně ve Velké Británii od roku 2008 do roku 2014.
+Hodnoty na vodorovné ose představují počet let od roku 2008. Umísti kurzor na jednotlivé body v grafu a zobrazí se ti jejich souřadnice. Například bod (0; 252,9) udává, že se v roce 2008 prodalo 252,9 milionů DVD. Bod (1; 234,6) udává, že se v roce 2009 prodalo 234,6 milionů DVD atd.
+Do grafu byla přidána přímka, která tyto datové body modeluje.
+Prodej DVD ve Velké Británii
+Počet prodaných DVD(v milionech)
+Počet let od roku 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Czech,ces-CZE,"Prodej DVD   Otázka 2 / 3
+Prostuduj si úlohu „Prodej DVD“ na pravé straně. Svou odpověď na otázku napiš číslicemi.
+Pro přímku platí rovnice d = 254 – 22n, kde d je počet prodaných DVD (v milionech) a n je počet let od roku 2008.
+Pokud vývoj prodeje bude pokračovat, v kterém roce klesne podle modelu počet prodaných DVD pod 1 milion?
+Odpověď:"
+MAT/MA106-DVDSales,3,5,Czech,ces-CZE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Danish,dan-DNK,Lommeregnerclose
+MAT/MA106-DVDSales,1,2,Danish,dan-DNK,PISA
+MAT/MA106-DVDSales,1,3,Danish,dan-DNK,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Danish,dan-DNK,"Salg af DVD'er  Introduktion
+Læs introduktionen. Klik derefter på NÆSTE-pilen.
+SALG AF DVD'ER
+Grafen nedenfor viser det samlede salg af DVD'er i Storbritannien hvert år i perioden fra 2008 til 2014.
+Værdierne på den vandrette akse er antal år efter 2008. Placer markøren over et punkt i grafen for at se koordinaterne for dette punkt. For eksempel angiver punktet (0/252,9), at der blev solgt 252,9 millioner DVD'er i 2008. Punktet (1/234,6) angiver, at der blev solgt 234,6 millioner DVD'er i år 2009 osv.
+Salg af DVD'er i Storbritannien
+Antal solgte DVD'er(i millioner)
+Antal år efter 2008
+(0/252,9)
+(1/234,6)
+(2/210,1)
+(3/191,8)
+(4/162)
+(5/143,4)
+(6/124,9)"
+MAT/MA106-DVDSales,1,5,Danish,dan-DNK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Danish,dan-DNK,Lommeregnerclose
+MAT/MA106-DVDSales,2,2,Danish,dan-DNK,PISA
+MAT/MA106-DVDSales,2,3,Danish,dan-DNK,"SALG AF DVD'ER
+Grafen nedenfor viser det samlede salg af DVD'er i Storbritannien hvert år i perioden fra 2008 til 2014.
+Værdierne på den vandrette akse er antal år efter 2008. Placer markøren over et punkt i grafen for at se koordinaterne for dette punkt. For eksempel angiver punktet (0/252,9), at der blev solgt 252,9 millioner DVD'er i 2008. Punktet (1/234,6) angiver, at der blev solgt 234,6 millioner DVD'er i år 2009 osv.
+Der er tilføjet en linje til grafen, som beskriver den model, der er opstillet på baggrund af datapunkterne.
+Salg af DVD'er i Storbritannien
+Antal solgte DVD'er(i millioner)
+Antal år efter 2008
+(0/252,9)
+(1/234,6)
+(2/210,1)
+(3/191,8)
+(4/162)
+(5/143,4)
+(6/124,9)"
+MAT/MA106-DVDSales,2,4,Danish,dan-DNK,"Salg af DVD'er  Spørgsmål 1 / 3
+Tag udgangspunkt i informationen i ""Salg af DVD'er"" til højre. Klik på svarmulighederne i tabellen for at besvare spørgsmålet.
+Understøttes udsagnene i tabellen nedenfor af de oplysninger, der er vist i grafen? Klik enten på Ja eller Nej for hvert udsagn.
+Udsagn
+Ja
+Nej
+Antallet af solgte DVD'er faldt med cirka 50 % i perioden fra 2008 til 2014.
+Antallet af solgte DVD'er faldt med det samme antal hvert år fra 2008 til 2014.
+Linjens hældning er det gennemsnitlige fald i det årlige antal af solgte DVD'er fra 2008 til 2014."
+MAT/MA106-DVDSales,2,5,Danish,dan-DNK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Danish,dan-DNK,Lommeregnerclose
+MAT/MA106-DVDSales,3,2,Danish,dan-DNK,PISA
+MAT/MA106-DVDSales,3,3,Danish,dan-DNK,"SALG AF DVD'ER
+Grafen nedenfor viser det samlede salg af DVD'er i Storbritannien hvert år i perioden fra 2008 til 2014.
+Værdierne på den vandrette akse er antal år efter 2008. Placer markøren over et punkt i grafen for at se koordinaterne for dette punkt. For eksempel angiver punktet (0/252,9), at der blev solgt 252,9 millioner DVD'er i 2008. Punktet (1/234,6) angiver, at der blev solgt 234,6 millioner DVD'er i år 2009 osv.
+Der er tilføjet en linje til grafen, som beskriver den model, der er opstillet på baggrund af datapunkterne.
+Salg af DVD'er i Storbritannien
+Antal solgte DVD'er(i millioner)
+Antal år efter 2008
+(0/252,9)
+(1/234,6)
+(2/210,1)
+(3/191,8)
+(4/162)
+(5/143,4)
+(6/124,9)"
+MAT/MA106-DVDSales,3,4,Danish,dan-DNK,"Salg af DVD'er  Spørgsmål 2 / 3
+Tag udgangspunkt i informationen i ""Salg af DVD'er"" til højre. Skriv dit svar på spørgsmålet ved hjælp af taltasterne.
+Linjens ligning er d = 254 – 22n, hvor d er antallet af solgte DVD'er (i millioner) og n er antallet af år efter 2008.
+Hvilket år vil antallet af solgte DVD'er være mindre end 1 million ifølge modellen, hvis tendensen for salget fortsætter?
+Svar:"
+MAT/MA106-DVDSales,3,5,Danish,dan-DNK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Dutch,nld-NLD,Rekenmachineclose
+MAT/MA106-DVDSales,1,2,Dutch,nld-NLD,PISA
+MAT/MA106-DVDSales,1,3,Dutch,nld-NLD,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Dutch,nld-NLD,"Dvd-verkoop  Inleiding
+Lees de inleiding. Klik daarna op de pijl VOLGENDE.
+DVD-VERKOOP
+Het totale aantal dvd's dat elk jaar werd verkocht in het Verenigd Koninkrijk van 2008 tot en met 2014 wordt in de onderstaande grafiek weergegeven.
+De waarden op de horizontale as geven het aantal jaren na 2008 weer. Plaats de cursor op de punten in de grafiek om de coördinaten van dat punt te zien. Het punt (0; 252,9) geeft bijvoorbeeld aan dat er 252,9 miljoen dvd's werden verkocht in 2008. Het punt (1; 234,6) geeft aan dat er 234,6 miljoen dvd's werden verkocht in het jaar 2009, enz.
+Dvd-verkoop in het Verenigd Koninkrijk
+Aantal verkochte dvd's(in miljoen)
+Aantal jaren na 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Dutch,nld-NLD,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Dutch,nld-NLD,Rekenmachineclose
+MAT/MA106-DVDSales,2,2,Dutch,nld-NLD,PISA
+MAT/MA106-DVDSales,2,3,Dutch,nld-NLD,"DVD-VERKOOP
+Het totale aantal dvd's dat elk jaar werd verkocht in het Verenigd Koninkrijk van 2008 tot en met 2014 wordt in de onderstaande grafiek weergegeven.
+De waarden op de horizontale as geven het aantal jaren na 2008 weer. Plaats de cursor op de punten in de grafiek om de coördinaten van dat punt te zien. Het punt (0; 252,9) geeft bijvoorbeeld aan dat er 252,9 miljoen dvd's werden verkocht in 2008. Het punt (1; 234,6) geeft aan dat er 234,6 miljoen dvd's werden verkocht in het jaar 2009, enz.
+Er is een lijn toegevoegd aan de grafiek om deze gegevens te verbinden.
+Dvd-verkoop in het Verenigd Koninkrijk
+Aantal verkochte dvd's(in miljoen)
+Aantal jaren na 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Dutch,nld-NLD,"Dvd-verkoop  Vraag 1 / 3
+Raadpleeg 'Dvd-verkoop' aan de rechterkant. Beantwoord de vraag door de opties in de tabel aan te klikken.
+Worden de beweringen in de onderstaande tabel ondersteund door de informatie die wordt getoond in de grafiek? Klik op Ja of Nee voor elke bewering.
+Bewering
+Ja
+Nee
+Het aantal verkochte dvd's nam van 2008 tot en met 2014 af met ongeveer 50%.
+Het aantal verkochte dvd's nam van 2008 tot en met 2014 elk jaar af met dezelfde hoeveelheid.
+De helling van de lijn is de gemiddelde jaarlijke afname in verkochte dvd's van 2008 tot en met 2014."
+MAT/MA106-DVDSales,2,5,Dutch,nld-NLD,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Dutch,nld-NLD,Rekenmachineclose
+MAT/MA106-DVDSales,3,2,Dutch,nld-NLD,PISA
+MAT/MA106-DVDSales,3,3,Dutch,nld-NLD,"DVD-VERKOOP
+Het totale aantal dvd's dat elk jaar werd verkocht in het Verenigd Koninkrijk van 2008 tot en met 2014 wordt in de onderstaande grafiek weergegeven.
+De waarden op de horizontale as geven het aantal jaren na 2008 weer. Plaats de cursor op de punten in de grafiek om de coördinaten van dat punt te zien. Het punt (0; 252,9) geeft bijvoorbeeld aan dat er 252,9 miljoen dvd's werden verkocht in 2008. Het punt (1; 234,6) geeft aan dat er 234,6 miljoen dvd's werden verkocht in het jaar 2009, enz.
+Er is een lijn toegevoegd aan de grafiek om deze gegevens te verbinden.
+Dvd-verkoop in het Verenigd Koninkrijk
+Aantal verkochte dvd's(in miljoen)
+Aantal jaren na 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Dutch,nld-NLD,"Dvd-verkoop  Vraag 2 / 3
+Raadpleeg 'Dvd-verkoop' aan de rechterkant. Typ je antwoord op de vraag met behulp van de cijfertoetsen.
+De vergelijking van de lijn is  d = 254 – 22n, waarbij d het aantal verkochte dvd's (in miljoen) is en n het aantal jaren na 2008.
+Als deze verkooptrend zich doorzet, in welk jaar zal het aantal verkochte dvd's dan minder dan 1 miljoen zijn volgens het model?
+Antwoord:"
+MAT/MA106-DVDSales,3,5,Dutch,nld-NLD,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,English,eng-CAN,Calculatorclose
+MAT/MA106-DVDSales,1,2,English,eng-CAN,PISA
+MAT/MA106-DVDSales,1,3,English,eng-CAN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,English,eng-CAN,"DVD Sales  Introduction
+Read the introduction. Then click on the NEXT arrow.
+DVD SALES
+The total number of DVDs sold each year in the United Kingdom from 2008 to 2014 is shown in the graph below.
+The values on the horizontal axis represent the number of years after 2008. Place the cursor over the points in the graph to see the coordinates of that point. For example, the point (0, 252.9) indicates that there were 252.9 million DVDs sold in 2008. The point (1, 234.6) indicates that there were 234.6 million DVDs sold during the year 2009, etc.
+DVD Sales in the United Kingdom
+Number of DVDs Sold(in millions)
+Number of Years After 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,1,5,English,eng-CAN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,English,eng-CAN,Calculatorclose
+MAT/MA106-DVDSales,2,2,English,eng-CAN,PISA
+MAT/MA106-DVDSales,2,3,English,eng-CAN,"DVD SALES
+The total number of DVDs sold each year in the United Kingdom from 2008 to 2014 is shown in the graph below.
+The values on the horizontal axis represent the number of years after 2008. Place the cursor over the points in the graph to see the coordinates of that point. For example, the point (0, 252.9) indicates that there were 252.9 million DVDs sold in 2008. The point (1, 234.6) indicates that there were 234.6 million DVDs sold during the year 2009, etc.
+A line has been added to the graph to model these data points.
+DVD Sales in the United Kingdom
+Number of DVDs Sold(in millions)
+Number of Years After 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,2,4,English,eng-CAN,"DVD Sales  Question 1 / 3
+Refer to “DVD Sales” on the right. Click on the choices in the table to answer the question.
+Are the statements in the table below supported by the information shown in the graph? Click on either Yes or No for each statement.
+Statement
+Yes
+No
+The number of DVDs sold declined by about 50% from 2008 through 2014.
+The number of DVDs sold declined by the same amount each year from 2008 through 2014.
+The slope of the line is the average yearly decline in DVDs sold from 2008 to 2014."
+MAT/MA106-DVDSales,2,5,English,eng-CAN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,English,eng-CAN,Calculatorclose
+MAT/MA106-DVDSales,3,2,English,eng-CAN,PISA
+MAT/MA106-DVDSales,3,3,English,eng-CAN,"DVD SALES
+The total number of DVDs sold each year in the United Kingdom from 2008 to 2014 is shown in the graph below.
+The values on the horizontal axis represent the number of years after 2008. Place the cursor over the points in the graph to see the coordinates of that point. For example, the point (0, 252.9) indicates that there were 252.9 million DVDs sold in 2008. The point (1, 234.6) indicates that there were 234.6 million DVDs sold during the year 2009, etc.
+A line has been added to the graph to model these data points.
+DVD Sales in the United Kingdom
+Number of DVDs Sold(in millions)
+Number of Years After 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,3,4,English,eng-CAN,"DVD Sales  Question 2 / 3
+Refer to “DVD Sales” on the right. Using the number keys, type your answer to the question.
+The equation of the line is d = 254 – 22n, where d is the number of DVDs sold (in millions) and n is the number of years after 2008.
+If this sales trend continues, in what year will the number of DVDs sold be less than 1 million according to the model?
+Answer:"
+MAT/MA106-DVDSales,3,5,English,eng-CAN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Estonian,est-EST,Kalkulaatorclose
+MAT/MA106-DVDSales,1,2,Estonian,est-EST,PISA
+MAT/MA106-DVDSales,1,3,Estonian,est-EST,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Estonian,est-EST,"DVD-de müük  Sissejuhatus
+Loe läbi sissejuhatus. Seejärel klõpsa noolt EDASI.
+DVD-de MÜÜK
+Alltood graafikul on näidatud Suurbritannias aastatel 2008 kuni 2014 müüdud DVD-de koguarv aastate kaupa.
+Horisontaaltelje väärtused tähistavad aastate arvu pärast aastat 2008. Punkti koordinaatide nägemiseks vii kursor graafikul punkti peale. Näiteks punkt (0; 252,9) tähendab, et aastal 2008 müüdi 252,9 miljonit DVD-d. Punkt (1; 234,6) tähendab, et aastal 2009 müüdi 234,6 miljonit DVD-d.
+DVD-de müük Suurbritannias
+Müüdud DVD-de arv(miljonit)
+Aastate arv pärast aastat 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Estonian,est-EST,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Estonian,est-EST,Kalkulaatorclose
+MAT/MA106-DVDSales,2,2,Estonian,est-EST,PISA
+MAT/MA106-DVDSales,2,3,Estonian,est-EST,"DVD-de MÜÜK
+Alltood graafikul on näidatud Suurbritannias aastatel 2008 kuni 2014 müüdud DVD-de koguarv aastate kaupa.
+Horisontaaltelje väärtused tähistavad aastate arvu pärast aastat 2008. Punkti koordinaatide nägemiseks vii kursor graafikul punkti peale. Näiteks punkt (0; 252,9) tähendab, et aastal 2008 müüdi 252,9 miljonit DVD-d. Punkt (1; 234,6) tähendab, et aastal 2009 müüdi 234,6 miljonit DVD-d.
+Nende andmepunktide modelleerimiseks on graafikule lisatud joon.
+DVD-de müük Suurbritannias
+Müüdud DVD-de arv(miljonit)
+Aastate arv pärast aastat 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Estonian,est-EST,"DVD-de müük  Küsimus  1 / 3
+Toetu materjalile „DVD-de müük” paremal. Küsimusele vastamiseks klõpsa tabelis vastusevariante.
+Kas graafikul olev informatsioon toetab järgmises tabelis toodud väiteid? Klõpsa iga väite juures vastust Jah või Ei.
+Väide
+Jah
+Ei
+Ajavahemikus 2008 kuni 2014 vähenes müüdud DVD-de arv umbes 50%.
+Ajavahemikus 2008 kuni 2014 vähenes müüdud DVD-de arv igal aastal sama koguse võrra.
+Joone kalle on müüdud DVD-de arvu keskmine vähenemine ajavahemikus 2008 kuni 2014."
+MAT/MA106-DVDSales,2,5,Estonian,est-EST,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Estonian,est-EST,Kalkulaatorclose
+MAT/MA106-DVDSales,3,2,Estonian,est-EST,PISA
+MAT/MA106-DVDSales,3,3,Estonian,est-EST,"DVD-de MÜÜK
+Alltood graafikul on näidatud Suurbritannias aastatel 2008 kuni 2014 müüdud DVD-de koguarv aastate kaupa.
+Horisontaaltelje väärtused tähistavad aastate arvu pärast aastat 2008. Punkti koordinaatide nägemiseks vii kursor graafikul punkti peale. Näiteks punkt (0; 252,9) tähendab, et aastal 2008 müüdi 252,9 miljonit DVD-d. Punkt (1; 234,6) tähendab, et aastal 2009 müüdi 234,6 miljonit DVD-d.
+Nende andmepunktide modelleerimiseks on graafikule lisatud joon.
+DVD-de müük Suurbritannias
+Müüdud DVD-de arv(miljonit)
+Aastate arv pärast aastat 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Estonian,est-EST,"DVD-de müük  Küsimus  2 / 3
+Toetu materjalile „DVD-de müük” paremal. Kirjuta küsimuse vastus, kasutades numbriklahve.
+Joone võrrand on d = 254 – 22n, kus d on müüdud DVD-de arv (miljonites) ja n on aastate arv pärast aastat 2008.
+Kui see müügitrend jätkub, siis mis aastal jääb müüdud DVD-de arv selle mudeli kohaselt alla 1 miljoni?
+Vastus:"
+MAT/MA106-DVDSales,3,5,Estonian,est-EST,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Finnish,fin-FIN,Laskinclose
+MAT/MA106-DVDSales,1,2,Finnish,fin-FIN,PISA
+MAT/MA106-DVDSales,1,3,Finnish,fin-FIN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Finnish,fin-FIN,"DVD-levyjen myynti  Johdanto
+Lue johdanto  ja napsauta sitten SEURAAVA-nuolta.
+DVD-LEVYJEN MYYNTI
+Alla olevassa kuvaajassa on esitetty Isossa-Britanniassa vuosittain myytyjen DVD-levyjen kokonaismäärät vuosina 2008–2014.
+Vaaka-akselin arvot kuvaavat vuosien lukumäärää vuoden 2008 jälkeen. Vie hiiren osoitin kuvaajan pisteiden päälle nähdäksesi kyseisen pisteen koordinaatit. Esimerkiksi piste (0; 252,9) tarkoittaa, että vuonna 2008 myytiin 252,9 miljoonaa DVD-levyä. Piste (1; 234,6) tarkoittaa, että vuonna 2009 myytiin 234,6 miljoonaa DVD-levyä jne.
+DVD-levyjen myynti Isossa-Britanniassa
+Myytyjen DVD-levyjen lukumäärä(miljoonaa)
+Vuosien lukumäärä 2008 jälkeen
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Finnish,fin-FIN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Finnish,fin-FIN,Laskinclose
+MAT/MA106-DVDSales,2,2,Finnish,fin-FIN,PISA
+MAT/MA106-DVDSales,2,3,Finnish,fin-FIN,"DVD-LEVYJEN MYYNTI
+Alla olevassa kuvaajassa on esitetty Isossa-Britanniassa vuosittain myytyjen DVD-levyjen kokonaismäärät vuosina 2008–2014.
+Vaaka-akselin arvot kuvaavat vuosien lukumäärää vuoden 2008 jälkeen. Vie hiiren osoitin kuvaajan pisteiden päälle nähdäksesi kyseisen pisteen koordinaatit. Esimerkiksi piste (0; 252,9) tarkoittaa, että vuonna 2008 myytiin 252,9 miljoonaa DVD-levyä. Piste (1; 234,6) tarkoittaa, että vuonna 2009 myytiin 234,6 miljoonaa DVD-levyä jne.
+Kuvaajaan on lisätty suora sen datapisteiden pohjalta.
+DVD-levyjen myynti Isossa-Britanniassa
+Myytyjen DVD-levyjen lukumäärä(miljoonaa)
+Vuosien lukumäärä 2008 jälkeen
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Finnish,fin-FIN,"DVD-levyjen myynti  Tehtävä 1 / 3
+Tarkastele oikealla olevaa ""DVD-levyjen myynti"" -aineistoa. Vastaa napsauttamalla taulukossa olevia vaihtoehtoja.
+Tukevatko kuvaajan tiedot alla olevassa taulukossa esitettyjä väittämiä? Napsauta kunkin väittämän kohdalla joko Kyllä tai Ei.
+Väittämä
+Kyllä
+Ei
+Myytyjen DVD-levyjen lukumäärä väheni vuosina 2008–2014 noin 50 %.
+Myytyjen DVD-levyjen lukumäärä väheni vuosina 2008–2014 joka vuosi saman verran.
+Suoran kulmakerroin osoittaa DVD-levyjen keskimääräisen vuosittaisen myynnin vähenemisen vuosina 2008–2014."
+MAT/MA106-DVDSales,2,5,Finnish,fin-FIN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Finnish,fin-FIN,Laskinclose
+MAT/MA106-DVDSales,3,2,Finnish,fin-FIN,PISA
+MAT/MA106-DVDSales,3,3,Finnish,fin-FIN,"DVD-LEVYJEN MYYNTI
+Alla olevassa kuvaajassa on esitetty Isossa-Britanniassa vuosittain myytyjen DVD-levyjen kokonaismäärät vuosina 2008–2014.
+Vaaka-akselin arvot kuvaavat vuosien lukumäärää vuoden 2008 jälkeen. Vie hiiren osoitin kuvaajan pisteiden päälle nähdäksesi kyseisen pisteen koordinaatit. Esimerkiksi piste (0; 252,9) tarkoittaa, että vuonna 2008 myytiin 252,9 miljoonaa DVD-levyä. Piste (1; 234,6) tarkoittaa, että vuonna 2009 myytiin 234,6 miljoonaa DVD-levyä jne.
+Kuvaajaan on lisätty suora sen datapisteiden pohjalta.
+DVD-levyjen myynti Isossa-Britanniassa
+Myytyjen DVD-levyjen lukumäärä(miljoonaa)
+Vuosien lukumäärä 2008 jälkeen
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Finnish,fin-FIN,"DVD-levyjen myynti  Tehtävä 2 / 3
+Tarkastele oikealla olevaa ""DVD-levyjen myynti"" -aineistoa. Kirjoita vastauksesi numeronäppäimin.
+Suoran yhtälö on d = 254 – 22n, missä d on myytyjen DVD-levyjen lukumäärä (miljoonissa) ja n vuoden 2008 jälkeisten vuosien lukumäärä.
+Jos myynnin kehityssuunta jatkuu samanlaisena, minä vuonna myytyjen DVD-levyjen lukumäärä jää tämän mallin mukaan alle 1 miljoonan?
+Vastaus:"
+MAT/MA106-DVDSales,3,5,Finnish,fin-FIN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,French,fra-FRA,Calculatriceclose
+MAT/MA106-DVDSales,1,2,French,fra-FRA,PISA
+MAT/MA106-DVDSales,1,3,French,fra-FRA,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,French,fra-FRA,"Ventes de DVD   Introduction
+Lisez l’introduction, puis cliquez sur la flèche « SUIVANT ».
+VENTES DE DVD
+Le graphique ci-dessous montre le nombre total de DVD vendus chaque année au Royaume-Uni de 2008 à 2014.
+Les valeurs sur l'axe horizontal représentent le nombre d'années après 2008. Placez la souris sur les points du graphique pour voir leurs coordonnées. Par exemple, le point (0 ; 252,9) indique que 252,9 millions de DVD ont été vendus en 2008. Le point (1 ; 234,6) indique que 234,6 millions de DVD ont été vendus en 2009, etc.
+Ventes de DVD au Royaume-Uni
+Nombre de DVD vendus(en millions)
+Nombre d'années après 2008
+(0 ; 252,9)
+(1 ; 234,6)
+(2 ; 210,1)
+(3 ; 191,8)
+(4 ; 162)
+(5 ; 143,4)
+(6 ; 124,9)"
+MAT/MA106-DVDSales,1,5,French,fra-FRA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,French,fra-FRA,Calculatriceclose
+MAT/MA106-DVDSales,2,2,French,fra-FRA,PISA
+MAT/MA106-DVDSales,2,3,French,fra-FRA,"VENTES DE DVD
+Le graphique ci-dessous montre le nombre total de DVD vendus chaque année au Royaume-Uni de 2008 à 2014.
+Les valeurs sur l'axe horizontal représentent le nombre d'années après 2008. Placez la souris sur les points du graphique pour voir leurs coordonnées. Par exemple, le point (0 ; 252,9) indique que 252,9 millions de DVD ont été vendus en 2008. Le point (1 ; 234,6) indique que 234,6 millions de DVD ont été vendus en 2009, etc.
+Une droite a été ajoutée au graphique pour modéliser ces données.
+Ventes de DVD au Royaume-Uni
+Nombre de DVD vendus(en millions)
+Nombre d'années après 2008
+(0 ; 252,9)
+(1 ; 234,6)
+(2 ; 210,1)
+(3 ; 191,8)
+(4 ; 162)
+(5 ; 143,4)
+(6 ; 124,9)"
+MAT/MA106-DVDSales,2,4,French,fra-FRA,"Ventes de DVD   Question 1 / 3
+Utilisez les informations fournies sous « Ventes de DVD » à droite. Cliquez sur les réponses de votre choix dans le tableau.
+Les affirmations dans le tableau ci-dessous correspondent-elles aux informations du graphique ? Cliquez sur Oui ou Non pour chaque affirmation.
+Affirmation
+Oui
+Non
+De 2008 à 2014, le nombre de DVD vendus a diminué d'environ 50 %.
+De 2008 à 2014, le nombre de DVD vendus a diminué du même nombre chaque année.
+La pente de la droite représente la diminution annuelle moyenne des ventes de DVD de 2008 à 2014."
+MAT/MA106-DVDSales,2,5,French,fra-FRA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,French,fra-FRA,Calculatriceclose
+MAT/MA106-DVDSales,3,2,French,fra-FRA,PISA
+MAT/MA106-DVDSales,3,3,French,fra-FRA,"VENTES DE DVD
+Le graphique ci-dessous montre le nombre total de DVD vendus chaque année au Royaume-Uni de 2008 à 2014.
+Les valeurs sur l'axe horizontal représentent le nombre d'années après 2008. Placez la souris sur les points du graphique pour voir leurs coordonnées. Par exemple, le point (0 ; 252,9) indique que 252,9 millions de DVD ont été vendus en 2008. Le point (1 ; 234,6) indique que 234,6 millions de DVD ont été vendus en 2009, etc.
+Une droite a été ajoutée au graphique pour modéliser ces données.
+Ventes de DVD au Royaume-Uni
+Nombre de DVD vendus(en millions)
+Nombre d'années après 2008
+(0 ; 252,9)
+(1 ; 234,6)
+(2 ; 210,1)
+(3 ; 191,8)
+(4 ; 162)
+(5 ; 143,4)
+(6 ; 124,9)"
+MAT/MA106-DVDSales,3,4,French,fra-FRA,"Ventes de DVD   Question 2 / 3
+Utilisez les informations fournies sous « Ventes de DVD » à droite. Tapez votre réponse à la question à l'aide des touches numériques.
+L'équation de la droite est d = 254 – 22n, où d représente le nombre de DVD vendus (en millions) et n représente le nombre d'années après 2008.
+Si cette évolution des ventes se poursuit, en quelle année le nombre de DVD vendus sera-t-il inférieur à 1 million d'après le modèle ?
+Réponse :"
+MAT/MA106-DVDSales,3,5,French,fra-FRA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Galician,glg-ESP,Calculadoraclose
+MAT/MA106-DVDSales,1,2,Galician,glg-ESP,PISA
+MAT/MA106-DVDSales,1,3,Galician,glg-ESP,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Galician,glg-ESP,"Vendas de DVD  Introdución
+Le a introdución e, deseguido, fai clic na frecha de ""AVANZAR"".
+VENDAS DE DVD
+O seguinte gráfico mostra o número total de DVD vendidos cada ano no Reino Unido desde 2008 ata 2014.
+Os valores do eixe horizontal representan o número de anos despois de  2008. Coloca o cursor sobre algún dos puntos do gráfico para ver as coordenadas dese punto. Por exemplo, o punto (0 ; 252,9) indica que se venderon 252,9 millóns de DVD en 2008. O punto (1 ; 234,6) indica que se venderon 234,6 millóns de DVD durante o ano 2009 etc.
+Vendas de DVD no Reino Unido
+Número de DVD vendidos(en millóns)
+Número de anos despois de 2008
+(0 ; 252,9)
+(1 ; 234,6)
+(2 ; 210,1)
+(3 ; 191,8)
+(4 ; 162)
+(5 ; 143,4)
+(6 ; 124,9)"
+MAT/MA106-DVDSales,1,5,Galician,glg-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Galician,glg-ESP,Calculadoraclose
+MAT/MA106-DVDSales,2,2,Galician,glg-ESP,PISA
+MAT/MA106-DVDSales,2,3,Galician,glg-ESP,"VENDAS DE DVD
+O seguinte gráfico mostra o número total de DVD vendidos cada ano no Reino Unido desde 2008 ata 2014.
+Os valores do eixe horizontal representan o número de anos despois de  2008. Coloca o cursor sobre algún dos puntos do gráfico para ver as coordenadas dese punto. Por exemplo, o punto (0 ; 252,9) indica que se venderon 252,9 millóns de DVD en 2008. O punto (1 ; 234,6) indica que se venderon 234,6 millóns de DVD durante o ano 2009 etc.
+Engadiuse ao gráfico unha recta para modelizar estes puntos de datos.
+Vendas de DVD no Reino Unido
+Número de DVD vendidos(en millóns)
+Número de anos despois de 2008
+(0 ; 252,9)
+(1 ; 234,6)
+(2 ; 210,1)
+(3 ; 191,8)
+(4 ; 162)
+(5 ; 143,4)
+(6 ; 124,9)"
+MAT/MA106-DVDSales,2,4,Galician,glg-ESP,"Vendas de DVD  Pregunta 1 / 3
+Consulta o artigo ""Vendas de DVD"" da dereita. Fai clic nas opcións da táboa para responderes a pregunta.
+As afirmacións da táboa seguinte correspóndense coa información mostrada no gráfico? Fai clic en Si ou Non para cada unha das afirmacións.
+Afirmación
+Si
+Non
+O número de DVD vendidos descendeu en aproximadamente un 50 % desde 2008 ata 2014.
+O número de DVD vendidos descendeu na mesma cantidade cada ano desde 2008 ata 2014.
+A pendente da recta é o descenso medio anual de DVD vendidos desde 2008 ata 2014."
+MAT/MA106-DVDSales,2,5,Galician,glg-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Galician,glg-ESP,Calculadoraclose
+MAT/MA106-DVDSales,3,2,Galician,glg-ESP,PISA
+MAT/MA106-DVDSales,3,3,Galician,glg-ESP,"VENDAS DE DVD
+O seguinte gráfico mostra o número total de DVD vendidos cada ano no Reino Unido desde 2008 ata 2014.
+Os valores do eixe horizontal representan o número de anos despois de  2008. Coloca o cursor sobre algún dos puntos do gráfico para ver as coordenadas dese punto. Por exemplo, o punto (0 ; 252,9) indica que se venderon 252,9 millóns de DVD en 2008. O punto (1 ; 234,6) indica que se venderon 234,6 millóns de DVD durante o ano 2009 etc.
+Engadiuse ao gráfico unha recta para modelizar estes puntos de datos.
+Vendas de DVD no Reino Unido
+Número de DVD vendidos(en millóns)
+Número de anos despois de 2008
+(0 ; 252,9)
+(1 ; 234,6)
+(2 ; 210,1)
+(3 ; 191,8)
+(4 ; 162)
+(5 ; 143,4)
+(6 ; 124,9)"
+MAT/MA106-DVDSales,3,4,Galician,glg-ESP,"Vendas de DVD  Pregunta 2 / 3
+Consulta o artigo ""Vendas de DVD"" da dereita. Utilizando as teclas numéricas, escribe a túa resposta á pregunta.
+A ecuación da recta é d = 254 – 22n, onde d corresponde ao número de DVD vendidos (en millóns) e n corresponde ao número de anos despois de 2008.
+Se continuase esta tendencia das vendas, en que ano o número de DVD vendidos sería inferior a 1 millón segundo o modelo?
+Resposta:"
+MAT/MA106-DVDSales,3,5,Galician,glg-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Georgian,geo-GEO,კალკულატორიclose
+MAT/MA106-DVDSales,1,2,Georgian,geo-GEO,PISA 2022
+MAT/MA106-DVDSales,1,3,Georgian,geo-GEO,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Georgian,geo-GEO,"DVD–ის გაყიდვები  შესავალი
+წაიკითხეთ შესავალი. მერე დააჭირეთ ისრიან ღილაკს „შემდეგი“.
+DVD–ის გაყიდვები
+ქვემოთ მოცემული გრაფიკი ასახავს 2008–2014 წლებში გაერთიანებულ სამეფოში ყოველწლიურად გაყიდული DVD–ების საერთო რაოდენობას.
+ჰორიზონტალურ ღერძზე ნაჩვენებია წლების რაოდენობა 2008 წლის  შემდეგ. მიიტანეთ კურსორი გრაფიკში მოცემულ წერტილთან, რომ დაინახოთ მოცემული წერტილის კოორდინატები. მაგალითად, წერტილი (0, 252.9) გვიჩვენებს, რომ 2008 წელს გაიყიდა 252.9 მილიონი DVD. წერტილი (1, 234.6) გვიჩვენებს, რომ 2009 წელს გაიყიდა 234.6 მილიონი DVD და ა.შ.
+DVD–ის გაყიდვები გაერთიანებულ სამეფოში
+გაყიდული DVD–ის რაოდენობა(მილიონებში)
+წლების რაოდენობა 2008 წლის შემდეგ
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,1,5,Georgian,geo-GEO,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Georgian,geo-GEO,კალკულატორიclose
+MAT/MA106-DVDSales,2,2,Georgian,geo-GEO,PISA 2022
+MAT/MA106-DVDSales,2,3,Georgian,geo-GEO,"DVD–ის გაყიდვები
+ქვემოთ მოცემული გრაფიკი ასახავს 2008–2014 წლებში გაერთიანებულ სამეფოში ყოველწლიურად გაყიდული DVD–ების საერთო რაოდენობას.
+ჰორიზონტალურ ღერძზე ნაჩვენებია წლების რაოდენობა 2008 წლის  შემდეგ. მიიტანეთ კურსორი გრაფიკში მოცემულ წერტილთან, რომ დაინახოთ მოცემული წერტილის კოორდინატები. მაგალითად, წერტილი (0, 252.9) გვიჩვენებს, რომ 2008 წელს გაიყიდა 252.9 მილიონი DVD. წერტილი (1, 234.6) გვიჩვენებს, რომ 2009 წელს გაიყიდა 234.6 მილიონი DVD და ა.შ.
+გრაფიკს დაემატა ხაზი ამ მონაცემთა წერტილების გამოსახვისთვის.
+DVD–ის გაყიდვები გაერთიანებულ სამეფოში
+გაყიდული DVD–ის რაოდენობა(მილიონებში)
+წლების რაოდენობა 2008 წლის შემდეგ
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,2,4,Georgian,geo-GEO,"DVD–ის გაყიდვები  შეკითხვა 1 / 3
+გამოიყენეთ მარჯვნივ გამოტანილი დავალება „DVD-ის გაყიდვები“. პასუხის გასაცემად, დააჭირეთ ცხრილში მოცემულ არჩევანს.
+ამყარებს თუ არა გრაფიკზე მოცემული ინფორმაცია ცხრილში წარმოდგენილ ინფორმაციას? თითოეული დებულების პასუხად მონიშნეთ დიახ  ან არა.
+დებულება
+დიახ
+არა
+გაყიდული DVD-ის რაოდენობა დაახლოებით 50%-ით შემცირდა 2008-დან 2014 წლამდე.
+გაყიდული DVD-ის რაოდენობა ერთი და იმავე რაოდენობით მცირდებოდა ყოველწლიურად 2008-დან 2014 წლამდე.
+დაღმავალი წრფე გვიჩვენებს DVD-ის გაყიდვების საშუალო ყოველწლიურ შემცირებას 2008 წლიდან 2014 წლამდე."
+MAT/MA106-DVDSales,2,5,Georgian,geo-GEO,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Georgian,geo-GEO,კალკულატორიclose
+MAT/MA106-DVDSales,3,2,Georgian,geo-GEO,PISA 2022
+MAT/MA106-DVDSales,3,3,Georgian,geo-GEO,"DVD–ის გაყიდვები
+ქვემოთ მოცემული გრაფიკი ასახავს 2008–2014 წლებში გაერთიანებულ სამეფოში ყოველწლიურად გაყიდული DVD–ების საერთო რაოდენობას.
+ჰორიზონტალურ ღერძზე ნაჩვენებია წლების რაოდენობა 2008 წლის  შემდეგ. მიიტანეთ კურსორი გრაფიკში მოცემულ წერტილთან, რომ დაინახოთ მოცემული წერტილის კოორდინატები. მაგალითად, წერტილი (0, 252.9) გვიჩვენებს, რომ 2008 წელს გაიყიდა 252.9 მილიონი DVD. წერტილი (1, 234.6) გვიჩვენებს, რომ 2009 წელს გაიყიდა 234.6 მილიონი DVD და ა.შ.
+გრაფიკს დაემატა ხაზი ამ მონაცემთა წერტილების გამოსახვისთვის.
+DVD–ის გაყიდვები გაერთიანებულ სამეფოში
+გაყიდული DVD–ის რაოდენობა(მილიონებში)
+წლების რაოდენობა 2008 წლის შემდეგ
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,3,4,Georgian,geo-GEO,"DVD–ის გაყიდვები  შეკითხვა 2 / 3
+გამოიყენეთ მარჯვნივ გამოტანილი დავალება „DVD-ის გაყიდვები“. დაწერეთ პასუხი რიცხვითი ღილაკების გამოყენებით.
+წრფის განტოლება არის d = 254 – 22n, სადაც d აღნიშნავს გაყიდული DVD–ის რაოდენობას (მილიონებში), ხოლო n არის წლების რაოდენობა 2008 წლის შემდეგ.
+თუ გაყიდვების ასეთი ტენდენცია გაგრძელდება, ამ მოდელის თანახმად რომელ წელს იქნება გაყიდული DVD-ის რაოდენობა 1 მილიონზე ნაკლები?
+პასუხი:"
+MAT/MA106-DVDSales,3,5,Georgian,geo-GEO,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,German,deu-DEU,Taschenrechnerclose
+MAT/MA106-DVDSales,1,2,German,deu-DEU,PISA
+MAT/MA106-DVDSales,1,3,German,deu-DEU,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,German,deu-DEU,"DVD-Verkäufe  Einleitung
+Lies die Einleitung. Klicke dann auf den WEITER-Pfeil.
+DVD-VERKÄUFE
+Das Diagramm unten zeigt die Gesamtanzahl der im Vereinigten Königreich pro Jahr verkauften DVDs von 2008 bis 2014.
+Die Werte auf der horizontalen Achse bilden die Anzahl der Jahre nach 2008 ab. Setze den Cursor auf die Punkte im Diagramm, um die Koordinaten dieses Punktes anzuzeigen. Der Punkt (0|252,9) zeigt beispielsweise an, dass 252,9 Millionen DVDs im Jahr 2008 verkauft wurden. Der Punkt (1|234,6) zeigt an, dass 234,6 Millionen DVDs im Jahr 2009 verkauft wurden, usw.
+DVD-Verkäufe im Vereinigten Königreich
+Anzahl verkaufter DVDs(in Millionen)
+Anzahl der Jahre nach 2008
+(0|252,9)
+(1|234,6)
+(2|210,1)
+(3|191,8)
+(4|162)
+(5|143,4)
+(6|124,9)"
+MAT/MA106-DVDSales,1,5,German,deu-DEU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,German,deu-DEU,Taschenrechnerclose
+MAT/MA106-DVDSales,2,2,German,deu-DEU,PISA
+MAT/MA106-DVDSales,2,3,German,deu-DEU,"DVD-VERKÄUFE
+Das Diagramm unten zeigt die Gesamtanzahl der im Vereinigten Königreich pro Jahr verkauften DVDs von 2008 bis 2014.
+Die Werte auf der horizontalen Achse bilden die Anzahl der Jahre nach 2008 ab. Setze den Cursor auf die Punkte im Diagramm, um die Koordinaten dieses Punktes anzuzeigen. Der Punkt (0|252,9) zeigt beispielsweise an, dass 252,9 Millionen DVDs im Jahr 2008 verkauft wurden. Der Punkt (1|234,6) zeigt an, dass 234,6 Millionen DVDs im Jahr 2009 verkauft wurden, usw.
+Im Diagramm wurde eine Gerade hinzugefügt, um diese Datenpunkte abzubilden.
+DVD-Verkäufe im Vereinigten Königreich
+Anzahl verkaufter DVDs(in Millionen)
+Anzahl der Jahre nach 2008
+(0|252,9)
+(1|234,6)
+(2|210,1)
+(3|191,8)
+(4|162)
+(5|143,4)
+(6|124,9)"
+MAT/MA106-DVDSales,2,4,German,deu-DEU,"DVD-Verkäufe  Frage 1 / 3
+Beziehe dich auf „DVD-Verkäufe“ auf der rechten Seite. Klicke die Antworten in der Tabelle an, um die Frage zu beantworten.
+Werden die Aussagen in der Tabelle unten durch die im Diagramm dargestellten Informationen gestützt? Klicke für jede Aussage entweder Ja oder Nein an.
+Aussage
+Ja
+Nein
+Die Anzahl verkaufter DVDs hat sich von 2008 bis 2014 um etwa 50 % verringert.
+Die Anzahl verkaufter DVDs hat sich von 2008 bis 2014 jedes Jahr um den selben Wert verringert.
+Die Steigung der Geraden stellt den durchschnittlichen jährlichen Rückgang der DVD-Verkäufe von 2008 bis 2014 dar."
+MAT/MA106-DVDSales,2,5,German,deu-DEU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,German,deu-DEU,Taschenrechnerclose
+MAT/MA106-DVDSales,3,2,German,deu-DEU,PISA
+MAT/MA106-DVDSales,3,3,German,deu-DEU,"DVD-VERKÄUFE
+Das Diagramm unten zeigt die Gesamtanzahl der im Vereinigten Königreich pro Jahr verkauften DVDs von 2008 bis 2014.
+Die Werte auf der horizontalen Achse bilden die Anzahl der Jahre nach 2008 ab. Setze den Cursor auf die Punkte im Diagramm, um die Koordinaten dieses Punktes anzuzeigen. Der Punkt (0|252,9) zeigt beispielsweise an, dass 252,9 Millionen DVDs im Jahr 2008 verkauft wurden. Der Punkt (1|234,6) zeigt an, dass 234,6 Millionen DVDs im Jahr 2009 verkauft wurden, usw.
+Im Diagramm wurde eine Gerade hinzugefügt, um diese Datenpunkte abzubilden.
+DVD-Verkäufe im Vereinigten Königreich
+Anzahl verkaufter DVDs(in Millionen)
+Anzahl der Jahre nach 2008
+(0|252,9)
+(1|234,6)
+(2|210,1)
+(3|191,8)
+(4|162)
+(5|143,4)
+(6|124,9)"
+MAT/MA106-DVDSales,3,4,German,deu-DEU,"DVD-Verkäufe  Frage 2 / 3
+Beziehe dich auf „DVD-Verkäufe“ auf der rechten Seite. Verwende die Ziffern auf der Tastatur, um deine Antwort auf die Frage einzugeben.
+Die Gleichung der Geraden ist d = 254 – 22n, wobei d die Anzahl verkaufter DVDs (in Millionen) ist und n für die Anzahl der Jahre nach 2008 steht.
+In welchem Jahr wird nach diesem Modell die Anzahl verkaufter DVDs niedriger als 1 Million sein, wenn diese Entwicklung der Verkäufe anhält?
+Antwort:"
+MAT/MA106-DVDSales,3,5,German,deu-DEU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Greek,ell-GRC,Κομπιουτεράκιclose
+MAT/MA106-DVDSales,1,2,Greek,ell-GRC,PISA
+MAT/MA106-DVDSales,1,3,Greek,ell-GRC,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,4,Greek,ell-GRC,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,5,Greek,ell-GRC,"Πωλήσεις DVD  Εισαγωγή
+Να διαβάσεις την εισαγωγή. Μετά κάνε κλικ στο βελάκι ΕΠΟΜΕΝΟ.
+ΠΩΛΗΣΕΙΣ DVD
+Στο παρακάτω διάγραμμα φαίνεται ο συνολικός αριθμός των πωλήσεων DVD στο Ηνωμένο Βασίλειο σε ετήσια βάση από το 2008 έως το 2014.
+Οι τιμές στον οριζόντιο άξονα αναφέρονται στον αριθμό των ετών μετά το 2008. Τοποθέτησε τον δείκτη του ποντικιού στα σημεία πάνω στο διάγραμμα, για να δεις τις συντεταγμένες τους.  Για παράδειγμα, το σημείο (0, 252,9) δείχνει ότι πουλήθηκαν 252,9 εκατομμύρια DVD το 2008. Το σημείο (1, 234,6) δείχνει ότι πουλήθηκαν 234,6 εκατομμύρια DVD κατά το έτος 2009, κ.λπ.
+Πωλήσεις DVD στο Ηνωμένο Βασίλειο
+Αριθμός πωλήσεων DVD(σε εκατομμύρια)
+Αριθμός ετών μετά το 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,2,1,Greek,ell-GRC,Κομπιουτεράκιclose
+MAT/MA106-DVDSales,2,2,Greek,ell-GRC,PISA
+MAT/MA106-DVDSales,2,3,Greek,ell-GRC,"ΠΩΛΗΣΕΙΣ DVD
+Στο παρακάτω διάγραμμα φαίνεται ο συνολικός αριθμός των πωλήσεων DVD στο Ηνωμένο Βασίλειο σε ετήσια βάση από το 2008 έως το 2014.
+Οι τιμές στον οριζόντιο άξονα αναφέρονται στον αριθμό των ετών μετά το 2008. Τοποθέτησε τον δείκτη του ποντικιού στα σημεία πάνω στο διάγραμμα, για να δεις τις συντεταγμένες τους.  Για παράδειγμα, το σημείο (0, 252,9) δείχνει ότι πουλήθηκαν 252,9 εκατομμύρια DVD το 2008. Το σημείο (1, 234,6) δείχνει ότι πουλήθηκαν 234,6 εκατομμύρια DVD κατά το έτος 2009, κ.λπ.
+Στο διάγραμμα προστέθηκε μια ευθεία γραμμή, για να μοντελοποιήσει αυτά τα σημεία δεδομένων.
+Πωλήσεις DVD στο Ηνωμένο Βασίλειο
+Αριθμός πωλήσεων DVD(σε εκατομμύρια)
+Αριθμός ετών μετά το 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,2,4,Greek,ell-GRC,"Πωλήσεις DVD  Ερώτηση 1 / 3
+Να λάβεις υπόψη το «Πωλήσεις DVD» στα δεξιά. Κάνε κλικ στις επιλογές του πίνακα, για να απαντήσεις στην ερώτηση.
+Ισχύουν οι προτάσεις στον παρακάτω πίνακα με βάση τις πληροφορίες που φαίνονται στο διάγραμμα; Κάνε κλικ στο Ναι ή στο Όχι για κάθε πρόταση.
+Πρόταση
+Ναι
+Όχι
+Ο αριθμός των πωλήσεων DVD μειώθηκε περίπου κατά 50% από το 2008 έως το 2014.
+Ο αριθμός των πωλήσεων DVD μειωνόταν κάθε χρόνο κατά την ίδια ποσότητα από το 2008 έως το 2014.
+Η κλίση της ευθείας αναπαριστά τη μέση ετήσια μείωση των πωλήσεων DVD από το 2008 έως το 2014."
+MAT/MA106-DVDSales,2,5,Greek,ell-GRC,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Greek,ell-GRC,Κομπιουτεράκιclose
+MAT/MA106-DVDSales,3,2,Greek,ell-GRC,PISA
+MAT/MA106-DVDSales,3,3,Greek,ell-GRC,"ΠΩΛΗΣΕΙΣ DVD
+Στο παρακάτω διάγραμμα φαίνεται ο συνολικός αριθμός των πωλήσεων DVD στο Ηνωμένο Βασίλειο σε ετήσια βάση από το 2008 έως το 2014.
+Οι τιμές στον οριζόντιο άξονα αναφέρονται στον αριθμό των ετών μετά το 2008. Τοποθέτησε τον δείκτη του ποντικιού στα σημεία πάνω στο διάγραμμα, για να δεις τις συντεταγμένες τους.  Για παράδειγμα, το σημείο (0, 252,9) δείχνει ότι πουλήθηκαν 252,9 εκατομμύρια DVD το 2008. Το σημείο (1, 234,6) δείχνει ότι πουλήθηκαν 234,6 εκατομμύρια DVD κατά το έτος 2009, κ.λπ.
+Στο διάγραμμα προστέθηκε μια ευθεία γραμμή, για να μοντελοποιήσει αυτά τα σημεία δεδομένων.
+Πωλήσεις DVD στο Ηνωμένο Βασίλειο
+Αριθμός πωλήσεων DVD(σε εκατομμύρια)
+Αριθμός ετών μετά το 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,3,4,Greek,ell-GRC,"Πωλήσεις DVD  Ερώτηση 2 / 3
+Να λάβεις υπόψη το «Πωλήσεις DVD» στα δεξιά. Πληκτρολόγησε την απάντησή σου στην ερώτηση, χρησιμοποιώντας τα πλήκτρα των αριθμών.
+Η εξίσωση της ευθείας είναι d = 254 – 22n, όπου το d είναι ο αριθμός των πωλήσεων DVD (σε εκατομμύρια) και το n είναι ο αριθμός των ετών μετά το 2008.
+Αν αυτή η τάση των πωλήσεων συνεχιστεί, σε ποιο έτος ο αριθμός των πωλήσεων DVD θα είναι χαμηλότερος από 1 εκατομμύριο σύμφωνα με το μαθηματικό μοντέλο;
+Απάντηση:"
+MAT/MA106-DVDSales,3,5,Greek,ell-GRC,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Hebrew,heb-ISR,מחשבוןclose
+MAT/MA106-DVDSales,1,2,Hebrew,heb-ISR,PISA 2022
+MAT/MA106-DVDSales,1,3,Hebrew,heb-ISR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Hebrew,heb-ISR,"מכירות של תקליטורי DVD  הקדמה
+קראו את ההקדמה. לאחר מכן לחצו על החץ ""הבא"".
+מכירות של תקליטורי DVD
+הגרף שלפניכם מציג כמה תקליטורי DVD נמכרו בסך הכול בבריטניה בכל שנה מ-2008 עד 2014.
+הערכים בציר האופקי מייצגים את מספר השנים שחלפו מאז 2008. כדי לראות את שיעורי הנקודות המסומנות בגרף הציבו את הסמן מעליהן. לדוגמה, הנקודה (252.9 ,0) מציינת שבשנת 2008 נמכרו 252.9 מיליון תקליטורי DVD. הנקודה (234.6 ,1) מציינת שבשנת 2009 נמכרו 234.6 מיליון תקליטורי DVD, וכן הלאה.
+מכירות של תקליטורי DVD בבריטניה
+מספר תקליטורי DVD שנמכרו(במיליונים)
+מספר השנים שחלפו מאז 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,1,5,Hebrew,heb-ISR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Hebrew,heb-ISR,מחשבוןclose
+MAT/MA106-DVDSales,2,2,Hebrew,heb-ISR,PISA 2022
+MAT/MA106-DVDSales,2,3,Hebrew,heb-ISR,"מכירות של תקליטורי DVD
+הגרף שלפניכם מציג כמה תקליטורי DVD נמכרו בסך הכול בבריטניה בכל שנה מ-2008 עד 2014.
+הערכים בציר האופקי מייצגים את מספר השנים שחלפו מאז 2008. כדי לראות את שיעורי הנקודות המסומנות בגרף הציבו את הסמן מעליהן. לדוגמה, הנקודה (252.9 ,0) מציינת שבשנת 2008 נמכרו 252.9 מיליון תקליטורי DVD. הנקודה (234.6 ,1) מציינת שבשנת 2009 נמכרו 234.6 מיליון תקליטורי DVD, וכן הלאה.
+לגרף הוסיפו ישר כדי לייצג את הנקודות באמצעות מודל.
+מכירות של תקליטורי DVD בבריטניה
+מספר תקליטורי DVD שנמכרו(במיליונים)
+מספר השנים שחלפו מאז 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,2,4,Hebrew,heb-ISR,"מכירות של תקליטורי DVD  שאלה 1 מתוך 3
+התייחסו לקטע ""מכירות של תקליטורי DVD"" שבצד שמאל. כדי לענות על השאלה, סמנו את תשובותיכם בטבלה.
+האם ההיגדים שבטבלה נכונים לפי המידע שבגרף? סמנו כן או לא עבור כל היגד.
+היגד
+כן
+לא
+מספר תקליטורי ה-DVD שנמכרו ירד בערך ב-50% מ-2008 עד 2014.
+מספר תקליטורי ה-DVD שנמכרו ירד בכמות שווה בכל שנה מ-2008 עד 2014.
+שיפוע הישר מייצג את הירידה השנתית הממוצעת במכירות של תקליטורי DVD מ-2008 עד 2014."
+MAT/MA106-DVDSales,2,5,Hebrew,heb-ISR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Hebrew,heb-ISR,מחשבוןclose
+MAT/MA106-DVDSales,3,2,Hebrew,heb-ISR,PISA 2022
+MAT/MA106-DVDSales,3,3,Hebrew,heb-ISR,"מכירות של תקליטורי DVD
+הגרף שלפניכם מציג כמה תקליטורי DVD נמכרו בסך הכול בבריטניה בכל שנה מ-2008 עד 2014.
+הערכים בציר האופקי מייצגים את מספר השנים שחלפו מאז 2008. כדי לראות את שיעורי הנקודות המסומנות בגרף הציבו את הסמן מעליהן. לדוגמה, הנקודה (252.9 ,0) מציינת שבשנת 2008 נמכרו 252.9 מיליון תקליטורי DVD. הנקודה (234.6 ,1) מציינת שבשנת 2009 נמכרו 234.6 מיליון תקליטורי DVD, וכן הלאה.
+לגרף הוסיפו ישר כדי לייצג את הנקודות באמצעות מודל.
+מכירות של תקליטורי DVD בבריטניה
+מספר תקליטורי DVD שנמכרו(במיליונים)
+מספר השנים שחלפו מאז 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,3,4,Hebrew,heb-ISR,"מכירות של תקליטורי DVD  שאלה 2 מתוך 3
+התייחסו לקטע ""מכירות של תקליטורי DVD"" שבצד שמאל. הקלידו את תשובתכם לשאלה בעזרת מקשי המספרים.
+משוואת הישר היא d = 254 – 22nכאשר d מייצג את מספר תקליטורי ה-DVD שנמכרו (במיליונים), ו-n מייצג את מספר השנים שחלפו מאז שנת 2008.
+לפי המודל, אם תימשך מגמה זו במכירות, באיזו שנה יהיה מספר תקליטורי ה-DVD שיימכרו קטן ממיליון?
+תשובה:"
+MAT/MA106-DVDSales,3,5,Hebrew,heb-ISR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Hungarian,hun-HUN,Számológépclose
+MAT/MA106-DVDSales,1,2,Hungarian,hun-HUN,PISA
+MAT/MA106-DVDSales,1,3,Hungarian,hun-HUN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Hungarian,hun-HUN,"DVD-eladások  Ismertető
+Olvasd el a bevezetést,  majd kattints a „TOVÁBB"" nyílra!
+DVD-eladások
+Az alábbi diagramon az Egyesült Királyságban 2008 és 2014 között évente eladott DVD-k száma látható.
+A vízszintes tengelyen lévő értékek a 2008 óta eltelt évek számát jelölik. A kurzort a diagram adott pontjára mozgatva láthatóvá válnak a pont koordinátái.  A (0; 252,9) pont például azt jelzi, hogy 2008-ban 252,9 millió DVD-t adtak el.  Az (1; 234,6) pont azt jelzi, hogy 2009-ben 234,6 millió DVD-t adtak el.
+DVD-eladások az Egyesült Királyságban
+Eladott DVD-k száma(millió)
+A 2008 óta eltelt évek száma
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Hungarian,hun-HUN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Hungarian,hun-HUN,Számológépclose
+MAT/MA106-DVDSales,2,2,Hungarian,hun-HUN,PISA
+MAT/MA106-DVDSales,2,3,Hungarian,hun-HUN,"DVD-eladások
+Az alábbi diagramon az Egyesült Királyságban 2008 és 2014 között évente eladott DVD-k száma látható.
+A vízszintes tengelyen lévő értékek a 2008 óta eltelt évek számát jelölik. A kurzort a diagram adott pontjára mozgatva láthatóvá válnak a pont koordinátái.  A (0; 252,9) pont például azt jelzi, hogy 2008-ban 252,9 millió DVD-t adtak el.  Az (1; 234,6) pont azt jelzi, hogy 2009-ben 234,6 millió DVD-t adtak el.
+A diagramra egy egyenest fektettünk, hogy modellezze ezeket az adatpontokat.
+DVD-eladások az Egyesült Királyságban
+Eladott DVD-k száma(millió)
+A 2008 óta eltelt évek száma
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Hungarian,hun-HUN,"DVD-eladások  Kérdés 1 / 3
+A jobbra látható „DVD eladások"" című szöveg alapján válaszolj a kérdésre! A kérdés megválaszolásához kattints a táblázatban szereplő válaszlehetőségekre!
+Alátámasztják-e a diagram adatai az alábbi táblázatban látható állításokat? Kattints mindegyik állításnál az Igen vagy a Nem gombra!
+Állítás
+Igen
+Nem
+2008 és 2014 között körülbelül 50%-kal csökkent az eladott DVD-k száma.
+2008 és 2014 között minden évben ugyanannyival csökkent az eladott DVD-k száma.
+Az egyenes meredekségéből leolvasható az eladott DVD-k számának 2008 és 2014 közötti átlagos csökkenése."
+MAT/MA106-DVDSales,2,5,Hungarian,hun-HUN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Hungarian,hun-HUN,Számológépclose
+MAT/MA106-DVDSales,3,2,Hungarian,hun-HUN,PISA
+MAT/MA106-DVDSales,3,3,Hungarian,hun-HUN,"DVD-eladások
+Az alábbi diagramon az Egyesült Királyságban 2008 és 2014 között évente eladott DVD-k száma látható.
+A vízszintes tengelyen lévő értékek a 2008 óta eltelt évek számát jelölik. A kurzort a diagram adott pontjára mozgatva láthatóvá válnak a pont koordinátái.  A (0; 252,9) pont például azt jelzi, hogy 2008-ban 252,9 millió DVD-t adtak el.  Az (1; 234,6) pont azt jelzi, hogy 2009-ben 234,6 millió DVD-t adtak el.
+A diagramra egy egyenest fektettünk, hogy modellezze ezeket az adatpontokat.
+DVD-eladások az Egyesült Királyságban
+Eladott DVD-k száma(millió)
+A 2008 óta eltelt évek száma
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Hungarian,hun-HUN,"DVD-eladások  Kérdés 2 / 3
+A jobbra látható „DVD eladások"" című szöveg alapján válaszolj a kérdésre! A számbillentyűk segítségével gépeld be a válaszodat!
+Az egyenes egyenlete d = 254 – 22n, ahol d az eladott DVD-k számát (millió), és n pedig a 2008 óta eltelt évek számát jelöli.
+Ha az eladások ezt a tendenciát követik, a modell szerint az eladott DVD-k száma melyik évben lesz először kevesebb, mint 1 millió?
+Válasz:"
+MAT/MA106-DVDSales,3,5,Hungarian,hun-HUN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Icelandic,isl-ISL,Reiknivélclose
+MAT/MA106-DVDSales,1,2,Icelandic,isl-ISL,PISA
+MAT/MA106-DVDSales,1,3,Icelandic,isl-ISL,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Icelandic,isl-ISL,"Sala mynddiska  Inngangur
+Lestu innganginn. Smelltu síðan á NÆST örina.
+SALA Á MYNDDISKUM
+Heildarfjöldi mynddiska sem seldust ár hvert í Bretlandi frá 2008 til 2014 er sýndur á grafinu hér fyrir neðan.
+Gildin á lárétta ásnum sýna fjölda ára eftir 2008. Settu bendilinn yfir punktana á grafinu til að sjá hnit þeirra. Til dæmis sýnir punkturinn (0; 252,9) að 252,9 milljónir mynddiska seldust árið 2008. Punkturinn (1; 234,6) sýnir að 234,6 milljónir mynddiska seldust árið 2009, o.s.frv.
+Sala mynddiska í Bretlandi
+Fjöldi seldra mynddiska(í milljónum)
+Fjöldi ára eftir 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Icelandic,isl-ISL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Icelandic,isl-ISL,Reiknivélclose
+MAT/MA106-DVDSales,2,2,Icelandic,isl-ISL,PISA
+MAT/MA106-DVDSales,2,3,Icelandic,isl-ISL,"SALA Á MYNDDISKUM
+Heildarfjöldi mynddiska sem seldust ár hvert í Bretlandi frá 2008 til 2014 er sýndur á grafinu hér fyrir neðan.
+Gildin á lárétta ásnum sýna fjölda ára eftir 2008. Settu bendilinn yfir punktana á grafinu til að sjá hnit þeirra. Til dæmis sýnir punkturinn (0; 252,9) að 252,9 milljónir mynddiska seldust árið 2008. Punkturinn (1; 234,6) sýnir að 234,6 milljónir mynddiska seldust árið 2009, o.s.frv.
+Línu hefur verið bætt við grafið til að sýna tengsl þessara gagnapunkta.
+Sala mynddiska í Bretlandi
+Fjöldi seldra mynddiska(í milljónum)
+Fjöldi ára eftir 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Icelandic,isl-ISL,"Sala mynddiska  Spurning1 / 3
+Skoðaðu „Sala mynddiska” hér til hægri. Smelltu á valmöguleikana í töflunni til að svara spurningunni.
+Eru staðhæfingarnar í töflunni hér fyrir neðan í samræmi við upplýsingarnar á grafinu? Smelltu á annaðhvort Já eða Nei fyrir hverja staðhæfingu.
+Staðhæfing
+Já
+Nei
+Fjöldi seldra DVD diska dróst saman um u.þ.b. 50% frá 2008 til 2014.
+Fjöldi seldra DVD diska dróst saman um sama magn ár hvert frá 2008 til 2014.
+Halli línunnar er árlegur meðalsamdráttur í sölu DVD diska frá 2008 til 2014."
+MAT/MA106-DVDSales,2,5,Icelandic,isl-ISL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Icelandic,isl-ISL,Reiknivélclose
+MAT/MA106-DVDSales,3,2,Icelandic,isl-ISL,PISA
+MAT/MA106-DVDSales,3,3,Icelandic,isl-ISL,"SALA Á MYNDDISKUM
+Heildarfjöldi mynddiska sem seldust ár hvert í Bretlandi frá 2008 til 2014 er sýndur á grafinu hér fyrir neðan.
+Gildin á lárétta ásnum sýna fjölda ára eftir 2008. Settu bendilinn yfir punktana á grafinu til að sjá hnit þeirra. Til dæmis sýnir punkturinn (0; 252,9) að 252,9 milljónir mynddiska seldust árið 2008. Punkturinn (1; 234,6) sýnir að 234,6 milljónir mynddiska seldust árið 2009, o.s.frv.
+Línu hefur verið bætt við grafið til að sýna tengsl þessara gagnapunkta.
+Sala mynddiska í Bretlandi
+Fjöldi seldra mynddiska(í milljónum)
+Fjöldi ára eftir 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Icelandic,isl-ISL,"Sala mynddiska  Spurning2 / 3
+Skoðaðu „Sala mynddiska” hér til hægri. Svaraðu spurningunni með því að rita tölu í reitinn.
+Jafna línunnar er d = 254 – 22n, þar sem d er fjöldi seldra DVD diska (í milljónum) og n er fjöldi ára eftir 2008.
+Ef þessi söluþróun heldur áfram, hvaða ár verður þá fjöldi seldra DVD diska undir 1 milljón samkvæmt líkaninu?
+Svar:"
+MAT/MA106-DVDSales,3,5,Icelandic,isl-ISL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Indonesian,ind-IDN,Kalkulatorclose
+MAT/MA106-DVDSales,1,2,Indonesian,ind-IDN,PISA 2022
+MAT/MA106-DVDSales,1,3,Indonesian,ind-IDN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Indonesian,ind-IDN,"Penjualan DVD   Pengantar
+Bacalah pengantar berikut ini. Kemudian klik pada tanda panah SELANJUTNYA.
+PENJUALAN DVD
+Jumlah total DVD yang terjual setiap tahunnya di Inggris dari tahun 2008 sampai 2014 disajikan dalam grafik berikut.
+Nilai pada sumbu mendatar merepresentasikan jumlah tahun setelah tahun 2008. Letakkan kursor pada titik-titik di grafik untuk mengetahui koordinat dari titik tersebut. Misalkan, titik (0; 252,9) menandakan bahwa terdapat 252,9 juta DVD yang terjual di tahun 2008. Titik (1; 234,6) menandakan bahwa terdapat 234,6 juta DVD terjual selama tahun 2009, dst.
+Penjualan DVD di Inggris
+Jumlah DVD yang Terjual(dalam Juta)
+Jumlah Tahun Setelah Tahun 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Indonesian,ind-IDN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Indonesian,ind-IDN,Kalkulatorclose
+MAT/MA106-DVDSales,2,2,Indonesian,ind-IDN,PISA 2022
+MAT/MA106-DVDSales,2,3,Indonesian,ind-IDN,"PENJUALAN DVD
+Jumlah total DVD yang terjual setiap tahunnya di Inggris dari tahun 2008 sampai 2014 disajikan dalam grafik berikut.
+Nilai pada sumbu mendatar merepresentasikan jumlah tahun setelah tahun 2008. Letakkan kursor pada titik-titik di grafik untuk mengetahui koordinat dari titik tersebut. Misalkan, titik (0; 252,9) menandakan bahwa terdapat 252,9 juta DVD yang terjual di tahun 2008. Titik (1; 234,6) menandakan bahwa terdapat 234,6 juta DVD terjual selama tahun 2009, dst.
+Sebuah garis telah ditambahkan pada grafik untuk memodelkan titik-titik data ini.
+Penjualan DVD di Inggris
+Jumlah DVD yang Terjual(dalam Juta)
+Jumlah Tahun Setelah Tahun 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Indonesian,ind-IDN,"Penjualan DVD   Pertanyaan 1 / 3
+Perhatikan teks “Penjualan DVD” di samping. Klik pada pilihan jawaban di tabel untuk menjawab pertanyaan berikut.
+Apakah pernyataan-pernyataan pada tabel berikut didukung oleh informasi yang ditunjukkan pada grafik? Klik Ya atau Tidak untuk setiap pernyataan.
+Pernyataan
+Ya
+Tidak
+Jumlah DVD yang terjual menurun sekitar 50% dari 2008 sampai 2014.
+Jumlah DVD yang terjual menurun dengan jumlah yang sama setiap tahunnya dari tahun 2008 sampai 2014.
+Kemiringan garis merupakan penurunan rata-rata tahunan DVD yang dijual dari 2008 hingga 2014."
+MAT/MA106-DVDSales,2,5,Indonesian,ind-IDN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Indonesian,ind-IDN,Kalkulatorclose
+MAT/MA106-DVDSales,3,2,Indonesian,ind-IDN,PISA 2022
+MAT/MA106-DVDSales,3,3,Indonesian,ind-IDN,"PENJUALAN DVD
+Jumlah total DVD yang terjual setiap tahunnya di Inggris dari tahun 2008 sampai 2014 disajikan dalam grafik berikut.
+Nilai pada sumbu mendatar merepresentasikan jumlah tahun setelah tahun 2008. Letakkan kursor pada titik-titik di grafik untuk mengetahui koordinat dari titik tersebut. Misalkan, titik (0; 252,9) menandakan bahwa terdapat 252,9 juta DVD yang terjual di tahun 2008. Titik (1; 234,6) menandakan bahwa terdapat 234,6 juta DVD terjual selama tahun 2009, dst.
+Sebuah garis telah ditambahkan pada grafik untuk memodelkan titik-titik data ini.
+Penjualan DVD di Inggris
+Jumlah DVD yang Terjual(dalam Juta)
+Jumlah Tahun Setelah Tahun 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Indonesian,ind-IDN,"Penjualan DVD   Pertanyaan 2 / 3
+Perhatikan teks “Penjualan DVD” di samping. Ketik jawabanmu dalam bentuk angka terhadap pertanyaan berikut.
+Persamaan garisnya adalah d = 254 – 22n, dengan d adalah jumlah DVD yang terjual (dalam juta) dan n adalah jumlah tahun setelah 2008.
+Jika tren penjualan ini berlanjut, pada tahun berapakah jumlah DVD yang terjual akan kurang dari 1 juta menurut model tersebut?
+Jawaban:"
+MAT/MA106-DVDSales,3,5,Indonesian,ind-IDN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Italian,ita-ITA,Calcolatriceclose
+MAT/MA106-DVDSales,1,2,Italian,ita-ITA,PISA
+MAT/MA106-DVDSales,1,3,Italian,ita-ITA,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Italian,ita-ITA,"Vendite di DVD  Introduzione
+Leggi l'introduzione, poi clicca sulla freccia del pulsante AVANTI.
+VENDITE DI DVD
+Il grafico qui sotto riporta il numero totale di DVD venduti ogni anno nel Regno Unito dal 2008 al 2014.
+I valori sull'asse orizzontale rappresentano il numero di anni dopo il 2008. Posiziona il cursore sopra uno dei punti nel grafico per vedere le coordinate di quel punto. Per esempio, il punto (0; 252,9) indica che nel 2008 sono stati venduti 252,9 milioni di DVD.  Il punto (1; 234,6) indica che nel 2009 sono stati venduti 234,6 milioni di DVD, ecc.
+Vendite di DVD nel Regno Unito
+Numero di DVD venduti(milioni)
+Numero di anni dopo il 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Italian,ita-ITA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Italian,ita-ITA,Calcolatriceclose
+MAT/MA106-DVDSales,2,2,Italian,ita-ITA,PISA
+MAT/MA106-DVDSales,2,3,Italian,ita-ITA,"VENDITE DI DVD
+Il grafico qui sotto riporta il numero totale di DVD venduti ogni anno nel Regno Unito dal 2008 al 2014.
+I valori sull'asse orizzontale rappresentano il numero di anni dopo il 2008. Posiziona il cursore sopra uno dei punti nel grafico per vedere le coordinate di quel punto. Per esempio, il punto (0; 252,9) indica che nel 2008 sono stati venduti 252,9 milioni di DVD.  Il punto (1; 234,6) indica che nel 2009 sono stati venduti 234,6 milioni di DVD, ecc.
+Al grafico è stata aggiunta una linea che modellizza i dati.
+Vendite di DVD nel Regno Unito
+Numero di DVD venduti(milioni)
+Numero di anni dopo il 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Italian,ita-ITA,"Vendite di DVD  Domanda  1 / 3
+Fai riferimento a “Vendite di DVD” presentato sulla destra. Per rispondere alla domanda, clicca sulle alternative nella tabella.
+Le affermazioni nella tabella qui sotto sono supportate dalle informazioni riportate nel grafico? Clicca su Sì o No per ciascuna affermazione.
+Affermazione
+Sì
+No
+Il numero di DVD venduti è diminuito di circa il 50% fra il 2008 e il 2014.
+Il numero di DVD venduti è diminuito in misura uguale ogni anno fra il 2008 e il 2014.
+La pendenza della retta rappresenta la diminuzione media annua dei DVD venduti fra il 2008 e il 2014."
+MAT/MA106-DVDSales,2,5,Italian,ita-ITA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Italian,ita-ITA,Calcolatriceclose
+MAT/MA106-DVDSales,3,2,Italian,ita-ITA,PISA
+MAT/MA106-DVDSales,3,3,Italian,ita-ITA,"VENDITE DI DVD
+Il grafico qui sotto riporta il numero totale di DVD venduti ogni anno nel Regno Unito dal 2008 al 2014.
+I valori sull'asse orizzontale rappresentano il numero di anni dopo il 2008. Posiziona il cursore sopra uno dei punti nel grafico per vedere le coordinate di quel punto. Per esempio, il punto (0; 252,9) indica che nel 2008 sono stati venduti 252,9 milioni di DVD.  Il punto (1; 234,6) indica che nel 2009 sono stati venduti 234,6 milioni di DVD, ecc.
+Al grafico è stata aggiunta una linea che modellizza i dati.
+Vendite di DVD nel Regno Unito
+Numero di DVD venduti(milioni)
+Numero di anni dopo il 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Italian,ita-ITA,"Vendite di DVD  Domanda  2 / 3
+Fai riferimento a “Vendite di DVD” presentato sulla destra. Digita la risposta alla domanda utilizzando i numeri sulla tastiera.
+L'equazione della retta è d = 254 - 22n, dove d rappresenta il numero di DVD venduti (in milioni) e n rappresenta il numero di anni dopo il 2008.
+Se questo andamento delle vendite continuasse, in quale anno il numero di DVD venduti sarebbe inferiore a 1 milione secondo il modello?
+Risposta:"
+MAT/MA106-DVDSales,3,5,Italian,ita-ITA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Japanese,jpn-JPN,電卓close
+MAT/MA106-DVDSales,1,2,Japanese,jpn-JPN,PISA 2022
+MAT/MA106-DVDSales,1,3,Japanese,jpn-JPN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Japanese,jpn-JPN,"DVDの販売数  はじめに
+下の文章を読んで、 「次へ」ボタンをクリックしてください。
+DVDの販売数
+下のグラフは、2008年から2014年にかけて、イギリスの国内で販売されたDVDの総数を年ごとに示したものです。
+横軸の値は、2008年以降の年数を示しています。 グラフ内の点にカーソルを合わせると、その点の座標が表示されます。 例えば、(0, 252.9) という点は、2008年のDVDの販売数が252.9（百万枚）であったことを示しています。 また、(1, 234.6) という点は、2009年のDVDの販売数が234.6（百万枚）であったことを示しています。
+イギリス国内のDVDの販売数
+DVDの販売数（百万枚）
+2008年以降の年数
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,1,5,Japanese,jpn-JPN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Japanese,jpn-JPN,電卓close
+MAT/MA106-DVDSales,2,2,Japanese,jpn-JPN,PISA 2022
+MAT/MA106-DVDSales,2,3,Japanese,jpn-JPN,"DVDの販売数
+下のグラフは、2008年から2014年にかけて、イギリスの国内で販売されたDVDの総数を年ごとに示したものです。
+横軸の値は、2008年以降の年数を示しています。 グラフ内の点にカーソルを合わせると、その点の座標が表示されます。 例えば、(0, 252.9) という点は、2008年のDVDの販売数が252.9百万枚であったことを示しています。 また、(1, 234.6) という点は、2009年のDVDの販売数が234.6百万枚であったことを示しています。
+これらのデータの点の関係を式に表すために、グラフに直線が表示されています。
+イギリス国内のDVDの販売数
+DVDの販売数（百万枚）
+2008年以降の年数
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,2,4,Japanese,jpn-JPN,"DVDの販売数  問  1 / 3
+右の「DVDの販売数」を読んで、 下の表の中から、次の問いの答えをクリックしてください。
+下の表の各文章は、グラフに示されている情報に基づいていますか。 それぞれの文章について、「はい」または「いいえ」のどちらかをクリックしてください。
+文章
+はい
+いいえ
+DVDの販売数は、2008年から2014年の間に約50%減少した。
+DVDの販売数は、2008年から2014年の間に毎年同じ量ずつ減少した。
+表示されている直線の傾きは、2008年から2014年までの1年ごとの販売数の減少量の平均である。"
+MAT/MA106-DVDSales,2,5,Japanese,jpn-JPN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Japanese,jpn-JPN,電卓close
+MAT/MA106-DVDSales,3,2,Japanese,jpn-JPN,PISA 2022
+MAT/MA106-DVDSales,3,3,Japanese,jpn-JPN,"DVDの販売数
+下のグラフは、2008年から2014年にかけて、イギリスの国内で販売されたDVDの総数を年ごとに示したものです。
+横軸の値は、2008年以降の年数を示しています。 グラフ内の点にカーソルを合わせると、その点の座標が表示されます。 例えば、(0, 252.9) という点は、2008年のDVDの販売数が252.9百万枚であったことを示しています。 また、(1, 234.6) という点は、2009年のDVDの販売数が234.6百万枚であったことを示しています。
+これらのデータの点の関係を式に表すために、グラフに直線が表示されています。
+イギリス国内のDVDの販売数
+DVDの販売数（百万枚）
+2008年以降の年数
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,3,4,Japanese,jpn-JPN,"DVDの販売数  問  2 / 3
+右の「DVDの販売数」を読んで、 下の問いの答えを半角の数字で入力してください。
+直線の式は、 d をDVDの販売数（百万枚）、n を2008年以降の年数とすると、 d = 254 – 22n で表されます。
+この販売傾向が続いた場合、この関係に基づくと、DVDの販売数が百万枚より少なくなるのは何年になるでしょうか。
+答え"
+MAT/MA106-DVDSales,3,5,Japanese,jpn-JPN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Kazakh,kaz-KAZ,Калькуляторclose
+MAT/MA106-DVDSales,1,2,Kazakh,kaz-KAZ,PISA 2022
+MAT/MA106-DVDSales,1,3,Kazakh,kaz-KAZ,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Kazakh,kaz-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,5,Kazakh,kaz-KAZ,"DVD сатылымдары  Кіріспе
+Кіріспені оқыңыз. Одан кейін КЕЛЕСІ батырмасының үстінен тінтуірмен басыңыз.
+DVD САТЫЛЫМДАРЫ
+2008 және 2014 жылдар аралығындағы жыл сайын Біріккен Корольдігіндегі сатылған DVD-лер жалпы саны төмендегі графикте көрсетілген.
+Көлденең осьтегі мәндер 2008-ден кейінгі жылдар санын білдіреді. Нүкте координаттарын көру үшін керек нүктенің үстіне тінтуір меңзерін әкеліп қойыңыз. Мысалы, (0; 252,9) нүктесі 2008 жылы 252,9 миллион DVD сатылғанын көрсетеді. Ал (1; 234,6) нүктесі 2009-шы жылдың ішінде 234,6 миллион DVD сатылғанын көрсетеді.
+Біріккен Корольдігіндегі DVD сатылымдары
+Сатылған DVD саны(миллион)
+2008-ден кейінгі жылдар саны
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,1,Kazakh,kaz-KAZ,Калькуляторclose
+MAT/MA106-DVDSales,2,2,Kazakh,kaz-KAZ,PISA 2022
+MAT/MA106-DVDSales,2,3,Kazakh,kaz-KAZ,"DVD САТЫЛЫМДАРЫ
+2008 және 2014 жылдар аралығындағы жыл сайын Біріккен Корольдігіндегі сатылған DVD-лер жалпы саны төмендегі графикте көрсетілген.
+Көлденең осьтегі мәндер 2008-ден кейінгі жылдар санын білдіреді. Нүкте координаттарын көру үшін керек нүктенің үстіне тінтуір меңзерін әкеліп қойыңыз. Мысалы, (0; 252,9) нүктесі 2008 жылы 252,9 миллион DVD сатылғанын көрсетеді. Ал (1; 234,6) нүктесі 2009-шы жылдың ішінде 234,6 миллион DVD сатылғанын көрсетеді.
+Осы деректер нүктелерін модельдеу үшін графикке түзу қосылды.
+Біріккен Корольдігіндегі DVD сатылымдары
+Сатылған DVD саны(миллион)
+2008-ден кейінгі жылдар саны
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Kazakh,kaz-KAZ,"DVD сатылымдары  Сұрақ 1 / 3
+Оң жақтағы «DVD сатылымдары» мәтінін оқыңыз. Сұраққа жауап беру үшін кестеден таңдаған жауабыңыздың үстінен тінтуірмен басыңыз.
+Төмендегі кестеде берілген пайымдаулар графикте көрсетілген деректермен расталады ма? Әрбір пайымдау үшін Иә немесе Жоқ сөздерінің бірінің үстінен тінтуірмен басыңыз.
+Пайымдау
+Иә
+Жоқ
+2008-ден 2014-ке дейін сатылған DVD-лер саны шамамен 50%-ға азайды.
+2008-ден 2014-ке дейін сатылған DVD-лер саны жыл сайын бірдей мөлшерге азайып тұрды.
+Түзудің бұрыштық коэффициенті – бұл 2008-ден 2014-ке дейін сатылған DVD-лердің орташа жылдық сатуларының төмендеуі."
+MAT/MA106-DVDSales,2,5,Kazakh,kaz-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Kazakh,kaz-KAZ,Калькуляторclose
+MAT/MA106-DVDSales,3,2,Kazakh,kaz-KAZ,PISA 2022
+MAT/MA106-DVDSales,3,3,Kazakh,kaz-KAZ,"DVD САТЫЛЫМДАРЫ
+2008 және 2014 жылдар аралығындағы жыл сайын Біріккен Корольдігіндегі сатылған DVD-лер жалпы саны төмендегі графикте көрсетілген.
+Көлденең осьтегі мәндер 2008-ден кейінгі жылдар санын білдіреді. Нүкте координаттарын көру үшін керек нүктенің үстіне тінтуір меңзерін әкеліп қойыңыз. Мысалы, (0; 252,9) нүктесі 2008 жылы 252,9 миллион DVD сатылғанын көрсетеді. Ал (1; 234,6) нүктесі 2009-шы жылдың ішінде 234,6 миллион DVD сатылғанын көрсетеді.
+Осы деректер нүктелерін модельдеу үшін графикке түзу қосылды.
+Біріккен Корольдігіндегі DVD сатылымдары
+Сатылған DVD саны(миллион)
+2008-ден кейінгі жылдар саны
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Kazakh,kaz-KAZ,"DVD сатылымдары  Сұрақ 2 / 3
+Оң жақтағы «DVD сатылымдары» мәтінін оқыңыз. Цифрлары бар пернелердің көмегімен сұраққа жауабыңызды теріп жазыңыз.
+Түзудің теңдеуі d = 254 - 22n, мұнда d – сатылған DVD-лер саны (миллион), n – 2008-ші жылдан кейінгі жылдар саны.
+Егер осы сатылым үрдісі жалғасса, модельге сәйкес сатылған DVD-лер саны қай жылы 1 миллионнан кем болады?
+Жауап:"
+MAT/MA106-DVDSales,3,5,Kazakh,kaz-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Korean,kor-KOR,계산기close
+MAT/MA106-DVDSales,1,2,Korean,kor-KOR,PISA
+MAT/MA106-DVDSales,1,3,Korean,kor-KOR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Korean,kor-KOR,"DVD 판매량  도입부
+도입부를 읽고, [다음 화면] 버튼을 클릭하시오.
+DVD 판매량
+2008년부터 2014년까지 영국의 연도별 DVD 총 판매량이 아래 그래프에 나타나 있다.
+가로축의 값은 2008년 이후의 년 수를 나타낸다. 그래프에서 한 점 좌표를 보려면 그 점 위에 커서를 놓으시오. 예를 들어 점 (0, 252.9)는 2008년에 2억 5290만 장의 DVD가 팔렸음을 나타낸다. 점 (1, 234.6)은 2009년에 2억 3460만 장의 DVD가 팔렸음을 나타낸다.
+영국의 DVD 판매량
+DVD 판매량(백만 장)
+2008년 이후의 년 수
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,1,5,Korean,kor-KOR,"C
+(
+)
+x2
+xy
+√x
+1/x
+π
+÷
+7
+8
+9
+×
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Korean,kor-KOR,계산기close
+MAT/MA106-DVDSales,2,2,Korean,kor-KOR,PISA
+MAT/MA106-DVDSales,2,3,Korean,kor-KOR,"DVD 판매량
+2008년부터 2014년까지 영국의 연도별 DVD 총 판매량이 아래 그래프에 나타나 있다.
+가로축의 값은 2008년 이후의 년 수를 나타낸다. 그래프에서 한 점 좌표를 보려면 그 점 위에 커서를 놓으시오. 예를 들어 점 (0, 252.9)는 2008년에 2억 5290만 장의 DVD가 팔렸음을 나타낸다. 점 (1, 234.6)은 2009년에 2억 3460만 장의 DVD가 팔렸음을 나타낸다.
+이 자료의 점들을 모델로 나타내기 위해 그래프에 직선이 추가되었다.
+영국의 DVD 판매량
+DVD 판매량(백만 장)
+2008년 이후의 년 수
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,2,4,Korean,kor-KOR,"DVD 판매량  문제 1 / 3
+오른쪽 'DVD 판매량'을 참고하시오. 물음에 대한 답을 표의 선택지에서 클릭하시오.
+아래 표의 설명은 그래프에 제시된 정보에 의해 뒷받침되는가? 각 설명에 대해 예 또는 아니요를 클릭하시오.
+설명
+예
+아니요
+DVD 판매량은 2008년부터 2014년까지 약 50% 감소했다.
+DVD 판매량은 2008년부터 2014년까지 매년 같은 양씩 감소했다.
+직선의 기울기는 2008년부터 2014년까지 판매된 DVD의 연 평균 감소량이다."
+MAT/MA106-DVDSales,2,5,Korean,kor-KOR,"C
+(
+)
+x2
+xy
+√x
+1/x
+π
+÷
+7
+8
+9
+×
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Korean,kor-KOR,계산기close
+MAT/MA106-DVDSales,3,2,Korean,kor-KOR,PISA
+MAT/MA106-DVDSales,3,3,Korean,kor-KOR,"DVD 판매량
+2008년부터 2014년까지 영국의 연도별 DVD 총 판매량이 아래 그래프에 나타나 있다.
+가로축의 값은 2008년 이후의 년 수를 나타낸다. 그래프에서 한 점 좌표를 보려면 그 점 위에 커서를 놓으시오. 예를 들어 점 (0, 252.9)는 2008년에 2억 5290만 장의 DVD가 팔렸음을 나타낸다. 점 (1, 234.6)은 2009년에 2억 3460만 장의 DVD가 팔렸음을 나타낸다.
+이 자료의 점들을 모델로 나타내기 위해 그래프에 직선이 추가되었다.
+영국의 DVD 판매량
+DVD 판매량(백만 장)
+2008년 이후의 년 수
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,3,4,Korean,kor-KOR,"DVD 판매량  문제 2 / 3
+오른쪽 'DVD 판매량'을 참고하시오. 숫자 키를 사용하여 물음에 대한 답을 입력하시오
+직선의 방정식은 d = 254 – 22n이고, 여기에서 d는 DVD 판매량(단위: 백만 장), n은 2008년 이후 년 수이다.
+이러한 판매 동향이 지속된다고 할 때, 이 모델에 따르면 몇 년도에 DVD 판매량이 1백만 장 미만이 되는가?
+답:"
+MAT/MA106-DVDSales,3,5,Korean,kor-KOR,"C
+(
+)
+x2
+xy
+√x
+1/x
+π
+÷
+7
+8
+9
+×
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Latvian,lav-LVA,Kalkulatorsclose
+MAT/MA106-DVDSales,1,2,Latvian,lav-LVA,PISA
+MAT/MA106-DVDSales,1,3,Latvian,lav-LVA,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Latvian,lav-LVA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,5,Latvian,lav-LVA,"DVD pārdošanas rādītāji   Ievads
+Izlasi ievadu. Tad noklikšķini uz bultiņas TĀLĀK.
+DVD PĀRDOŠANAS RĀDĪTĀJI
+Zemāk dotajā grafikā redzams kopējais DVD skaits, kas pārdoti katru gadu laikā no 2008. līdz 2014. gadam Apvienotajā Karalistē.
+Skaitļi uz horizontālās ass rāda gadu skaitu pēc 2008. gada.  Lai redzētu punkta koordinātas, novieto kursoru uz attiecīgā punkta.  Piemēram, punkts (0; 252,9) norāda, ka 2008. gadā tika pārdoti 252,9 miljoni DVD. Punkts (1; 234,6) norāda, ka 2009. gadā tika pārdoti 234,6 miljoni DVD utt.
+DVD pārdošanas rādītāji Apvienotajā Karalistē
+Pārdoto DVD skaits (miljonos)
+Gadu skaits pēc 2008. gada
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,1,Latvian,lav-LVA,Kalkulatorsclose
+MAT/MA106-DVDSales,2,2,Latvian,lav-LVA,PISA
+MAT/MA106-DVDSales,2,3,Latvian,lav-LVA,"DVD PĀRDOŠANAS RĀDĪTĀJI
+Zemāk dotajā grafikā redzams kopējais DVD skaits, kas pārdoti katru gadu laikā no 2008. līdz 2014. gadam Apvienotajā Karalistē.
+Skaitļi uz horizontālās ass rāda gadu skaitu pēc 2008. gada.  Lai redzētu punkta koordinātas, novieto kursoru uz attiecīgā punkta.  Piemēram, punkts (0; 252,9) norāda, ka 2008. gadā tika pārdoti 252,9 miljoni DVD. Punkts (1; 234,6) norāda, ka 2009. gadā tika pārdoti 234,6 miljoni DVD utt.
+Lai modelētu šos datu punktus, grafikā ievilkta līnija.
+DVD pārdošanas rādītāji Apvienotajā Karalistē
+Pārdoto DVD skaits (miljonos)
+Gadu skaits pēc 2008. gada
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Latvian,lav-LVA,"DVD pārdošanas rādītāji   Jautājums  1 / 3
+Aplūko labajā pusē doto informāciju ""DVD pārdošanas rādītāji"".  Noklikšķini uz atbildes varianta tabulā, lai atbildētu uz jautājumu.
+Vai zemāk dotajā tabulā redzamos apgalvojumus apstiprina grafikā redzamā informācija?   Noklikšķini uz Jā vai Nē katram apgalvojumam.
+Apgalvojums
+Jā
+Nē
+Pārdoto DVD skaits samazinājās par apmēram 50% laika periodā no 2008. līdz 2014. gadam.
+Pārdoto DVD skaits katru gadu samazinājās par apmēram tādu pašu apjomu laika periodā no 2008. gada līdz 2014. gadam.
+Līknes lejupejošā līnija rāda vidējo katra gada samazinājumu DVD pārdošanā no 2008. līdz 2014. gadam."
+MAT/MA106-DVDSales,2,5,Latvian,lav-LVA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Latvian,lav-LVA,Kalkulatorsclose
+MAT/MA106-DVDSales,3,2,Latvian,lav-LVA,PISA
+MAT/MA106-DVDSales,3,3,Latvian,lav-LVA,"DVD PĀRDOŠANAS RĀDĪTĀJI
+Zemāk dotajā grafikā redzams kopējais DVD skaits, kas pārdoti katru gadu laikā no 2008. līdz 2014. gadam Apvienotajā Karalistē.
+Skaitļi uz horizontālās ass rāda gadu skaitu pēc 2008. gada.  Lai redzētu punkta koordinātas, novieto kursoru uz attiecīgā punkta.  Piemēram, punkts (0; 252,9) norāda, ka 2008. gadā tika pārdoti 252,9 miljoni DVD. Punkts (1; 234,6) norāda, ka 2009. gadā tika pārdoti 234,6 miljoni DVD utt.
+Lai modelētu šos datu punktus, grafikā ievilkta līnija.
+DVD pārdošanas rādītāji Apvienotajā Karalistē
+Pārdoto DVD skaits (miljonos)
+Gadu skaits pēc 2008. gada
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Latvian,lav-LVA,"DVD pārdošanas rādītāji   Jautājums  2 / 3
+Aplūko labajā pusē doto informāciju ""DVD pārdošanas rādītāji"".  Izmantojot ciparu taustiņus, uzraksti atbildi uz jautājumu.
+Līnijas vienādojums ir d = 254 – 22n, kur d ir pārdoto DVD skaits (miljonos) un n ir gadu skaits pēc 2008. gada.
+Kurā gadā pārdoto DVD skaits būs mazāks par 1 miljonu, ja šī pārdošanas tendence turpināsies (saskaņā ar modeli)?
+Atbilde:"
+MAT/MA106-DVDSales,3,5,Latvian,lav-LVA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Lithuanian,lit-LTU,Skaičiuotuvasclose
+MAT/MA106-DVDSales,1,2,Lithuanian,lit-LTU,Programme for International Student Assessment
+MAT/MA106-DVDSales,1,3,Lithuanian,lit-LTU,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Lithuanian,lit-LTU,"DVD diskų pardavimai  Įvadas
+Perskaitykite įvadą  ir spustelėkite rodyklę TOLIAU.
+DVD DISKŲ PARDAVIMAI
+Grafike pavaizduotas bendras Jungtinėje Karalystėje parduotų DVD diskų skaičius nuo 2008 iki 2014 m.
+Reikšmės horizontaliojoje ašyje atitinka po 2008 m. praėjusių metų skaičių.  Užveskite pelės žymeklį ant grafike pavaizduotų taškų ir pamatysite atitinkamo taško koordinates. Pavyzdžiui, taškas (0; 252,9) rodo, kad 2008 metais buvo parduota 252,9 milijono DVD diskų. Taškas (1; 234,6) rodo, kad 2009 metais buvo parduota 234,6 milijono DVD diskų, ir t. t.
+DVD diskų pardavimai Jungtinėje Karalystėje
+Parduotų DVD diskų skaičius(milijonais)
+Po 2008 m. praėjusių metų skaičius
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Lithuanian,lit-LTU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Lithuanian,lit-LTU,Skaičiuotuvasclose
+MAT/MA106-DVDSales,2,2,Lithuanian,lit-LTU,Programme for International Student Assessment
+MAT/MA106-DVDSales,2,3,Lithuanian,lit-LTU,"DVD DISKŲ PARDAVIMAI
+Grafike pavaizduotas bendras Jungtinėje Karalystėje parduotų DVD diskų skaičius nuo 2008 iki 2014 m.
+Reikšmės horizontaliojoje ašyje atitinka po 2008 m. praėjusių metų skaičių.  Užveskite pelės žymeklį ant grafike pavaizduotų taškų ir pamatysite atitinkamo taško koordinates. Pavyzdžiui, taškas (0; 252,9) rodo, kad 2008 metais buvo parduota 252,9 milijono DVD diskų. Taškas (1; 234,6) rodo, kad 2009 metais buvo parduota 234,6 milijono DVD diskų, ir t. t.
+Grafike pridėta linija, skirta sumodeliuoti šiuos taškus.
+DVD diskų pardavimai Jungtinėje Karalystėje
+Parduotų DVD diskų skaičius(milijonais)
+Po 2008 m. praėjusių metų skaičius
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Lithuanian,lit-LTU,"DVD diskų pardavimai  Klausimas 1 / 3
+Remdamiesi dešinėje pateikta užduoties „DVD diskų pardavimai“ informacija,  lentelėje pasirinkite atsakymus.
+Ar lentelėje pateiktus teiginius pagrindžia informacija, pateikta grafike?  Prie kiekvieno teiginio pasirinkite Taip arba Ne.
+Teiginys
+Taip
+Ne
+Nuo 2008 iki 2014 metų parduotų DVD diskų skaičius sumažėjo apie 50 %.
+Nuo 2008 iki 2014 metų parduotų DVD diskų skaičius kasmet mažėjo vienodai.
+Linijos nuokrypis yra metinio parduotų DVD diskų skaičiaus vidutinis sumažėjimas nuo 2008 iki 2014 metų."
+MAT/MA106-DVDSales,2,5,Lithuanian,lit-LTU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Lithuanian,lit-LTU,Skaičiuotuvasclose
+MAT/MA106-DVDSales,3,2,Lithuanian,lit-LTU,Programme for International Student Assessment
+MAT/MA106-DVDSales,3,3,Lithuanian,lit-LTU,"DVD DISKŲ PARDAVIMAI
+Grafike pavaizduotas bendras Jungtinėje Karalystėje parduotų DVD diskų skaičius nuo 2008 iki 2014 m.
+Reikšmės horizontaliojoje ašyje atitinka po 2008 m. praėjusių metų skaičių.  Užveskite pelės žymeklį ant grafike pavaizduotų taškų ir pamatysite atitinkamo taško koordinates. Pavyzdžiui, taškas (0; 252,9) rodo, kad 2008 metais buvo parduota 252,9 milijono DVD diskų. Taškas (1; 234,6) rodo, kad 2009 metais buvo parduota 234,6 milijono DVD diskų, ir t. t.
+Grafike pridėta linija, skirta sumodeliuoti šiuos taškus.
+DVD diskų pardavimai Jungtinėje Karalystėje
+Parduotų DVD diskų skaičius(milijonais)
+Po 2008 m. praėjusių metų skaičius
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Lithuanian,lit-LTU,"DVD diskų pardavimai  Klausimas 2 / 3
+Remdamiesi dešinėje pateikta užduoties „DVD diskų pardavimai“ informacija,  ir naudodamiesi skaičių klavišais, įrašykite atsakymą.
+Tiesės lygtis yra d = 254 – 22n, kur d yra parduotų DVD diskų skaičius (milijonais), o n – metų skaičius nuo 2008 metų.
+Jeigu ši pardavimo tendencija tęsis, kuriais metais, remiantis šiuo modeliu, parduotų DVD diskų skaičius bus mažesnis nei 1 milijonas?
+Atsakymas:"
+MAT/MA106-DVDSales,3,5,Lithuanian,lit-LTU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Malay,msa-MYS,Kalkulatorclose
+MAT/MA106-DVDSales,1,2,Malay,msa-MYS,PISA
+MAT/MA106-DVDSales,1,3,Malay,msa-MYS,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Malay,msa-MYS,"Jualan DVD  Pengenalan
+Baca pengenalan. Kemudian klik pada anak panah SETERUSNYA.
+JUALAN DVD
+Jumlah DVD yang dijual setiap tahun di United Kingdom dari tahun 2008 hingga tahun 2014 ditunjukkan pada graf di bawah.
+Nilai pada paksi mengufuk mewakili bilangan tahun selepas tahun 2008. Letakkan kursor di atas titik pada graf untuk melihat koordinatnya. Sebagai contoh, titik (0, 252.9) menunjukkan bahawa terdapat 252.9 juta DVD terjual dalam tahun 2008. Titik (1, 234.6) menunjukkan bahawa terdapat 234.6 juta DVD terjual dalam tahun 2009, dan seterusnya.
+Jualan DVD di United Kingdom
+Bilangan Jualan DVD(Juta)
+Bilangan Tahun Selepas 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,1,5,Malay,msa-MYS,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Malay,msa-MYS,Kalkulatorclose
+MAT/MA106-DVDSales,2,2,Malay,msa-MYS,PISA
+MAT/MA106-DVDSales,2,3,Malay,msa-MYS,"JUALAN DVD
+Jumlah DVD yang dijual setiap tahun di United Kingdom dari tahun 2008 hingga tahun 2014 ditunjukkan pada graf di bawah.
+Nilai pada paksi mengufuk mewakili bilangan tahun selepas tahun 2008. Letakkan kursor di atas titik pada graf untuk melihat koordinatnya. Sebagai contoh, titik (0, 252.9) menunjukkan bahawa terdapat 252.9 juta DVD terjual dalam tahun 2008. Titik (1, 234.6) menunjukkan bahawa terdapat 234.6 juta DVD terjual dalam tahun 2009, dan seterusnya.
+Satu garis ditambah pada graf sebagai model bagi data titik-titik ini.
+Jualan DVD di United Kingdom
+Bilangan Jualan DVD(Juta)
+Bilangan Tahun Selepas 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,2,4,Malay,msa-MYS,"Jualan DVD  Soalan 1 / 3
+Rujuk ""Jualan DVD"" di sebelah kanan. Klik pada pilihan dalam jadual untuk menjawab soalan.
+Adakah pernyataan dalam jadual di bawah disokong oleh maklumat seperti yang ditunjukkan pada graf? Klik pada Ya atau Tidak bagi setiap pernyataan.
+Pernyataan
+Ya
+Tidak
+Bilangan DVD yang terjual menurun sekitar 50% dari tahun 2008 hingga 2014.
+Bilangan DVD yang terjual menurun dengan jumlah yang sama setiap tahun dari tahun 2008 hingga 2014.
+Kecerunan garis lurus merupakan purata penurunan setahun bagi jualan DVD dari tahun 2008 hingga 2014."
+MAT/MA106-DVDSales,2,5,Malay,msa-MYS,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Malay,msa-MYS,Kalkulatorclose
+MAT/MA106-DVDSales,3,2,Malay,msa-MYS,PISA
+MAT/MA106-DVDSales,3,3,Malay,msa-MYS,"JUALAN DVD
+Jumlah DVD yang dijual setiap tahun di United Kingdom dari tahun 2008 hingga tahun 2014 ditunjukkan pada graf di bawah.
+Nilai pada paksi mengufuk mewakili bilangan tahun selepas tahun 2008. Letakkan kursor di atas titik pada graf untuk melihat koordinatnya. Sebagai contoh, titik (0, 252.9) menunjukkan bahawa terdapat 252.9 juta DVD terjual dalam tahun 2008. Titik (1, 234.6) menunjukkan bahawa terdapat 234.6 juta DVD terjual dalam tahun 2009, dan seterusnya.
+Satu garis ditambah pada graf sebagai model bagi data titik-titik ini.
+Jualan DVD di United Kingdom
+Bilangan Jualan DVD(Juta)
+Bilangan Tahun Selepas 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,3,4,Malay,msa-MYS,"Jualan DVD  Soalan 2 / 3
+Rujuk ""Jualan DVD"" di sebelah kanan. Dengan menggunakan kekunci nombor, taip jawapan anda untuk soalan tersebut.
+Persamaan bagi garis lurus itu ialah d = 254 – 22n, iaitu d merupakan bilangan DVD terjual (juta) dan n ialah bilangan tahun selepas 2008.
+Jika trend jualan ini berterusan, pada tahun bilakah bilangan DVD yang terjual kurang daripada 1 juta mengikut model?
+Jawapan:"
+MAT/MA106-DVDSales,3,5,Malay,msa-MYS,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Nynorsk,nno-NOR,Kalkulatorclose
+MAT/MA106-DVDSales,1,2,Nynorsk,nno-NOR,PISA
+MAT/MA106-DVDSales,1,3,Nynorsk,nno-NOR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Nynorsk,nno-NOR,"DVD-sal  Innleiing
+Les innleiinga. Klikk deretter på NESTE-pila.
+DVD-sal
+Figuren nedanfor viser den totale mengda av DVD-ar som blei selde i Storbritannia kvart år frå 2008 til 2014.
+Verdiane langs den horisontale aksen representerer talet på år etter 2008. Hald musepeikaren over punkta  for å sjå koordinatane til kvart punkt. For eksempel viser punktet (0, 252,9) at det blei selt 252,9 millionar DVD-ar i 2008. Punktet (1, 234,6) viser at det blei selt 234,6 millionar DVD-ar i 2009, osv.
+DVD-sal i Storbritannia
+Talet på selde DVD-ar(i millionar)
+Talet på år etter 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,1,5,Nynorsk,nno-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Nynorsk,nno-NOR,Kalkulatorclose
+MAT/MA106-DVDSales,2,2,Nynorsk,nno-NOR,PISA
+MAT/MA106-DVDSales,2,3,Nynorsk,nno-NOR,"DVD-sal
+Figuren nedanfor viser den totale mengda av DVD-ar som blei selde i Storbritannia kvart år frå 2008 til 2014.
+Verdiane langs den horisontale aksen representerer talet på år etter 2008. Hald musepeikaren over punkta  for å sjå koordinatane til kvart punkt. For eksempel viser punktet (0, 252,9) at det blei selt 252,9 millionar DVD-ar i 2008. Punktet (1, 234,6) viser at det blei selt 234,6 millionar DVD-ar i 2009, osv.
+Ei linje er lagd til i figuren for å lage ein modell basert på desse punkta.
+DVD-sal i Storbritannia
+Talet på selde DVD-ar(i millionar)
+Talet på år etter 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,2,4,Nynorsk,nno-NOR,"DVD-sal  Spørsmål 1 / 3
+Les ""DVD-sal"" til høgre. Svar på spørsmålet ved å klikke på alternativa i tabellen.
+Blir påstandane i tabellen nedanfor støtta av informasjonen i figuren?  Klikk på anten Ja eller  Nei for kvar av påstandane.
+Påstand
+Ja
+Nei
+Talet på selde DVD-ar gjekk ned med om lag 50 % frå 2008 til 2014.
+Talet på selde DVD-ar gjekk ned like mykje (i absolutte tal) kvart år frå 2008 til 2014.
+Stigningstalet til linja er den gjennomsnittlege årlege nedgangen i selde DVD-ar i perioden frå 2008 til 2014."
+MAT/MA106-DVDSales,2,5,Nynorsk,nno-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Nynorsk,nno-NOR,Kalkulatorclose
+MAT/MA106-DVDSales,3,2,Nynorsk,nno-NOR,PISA
+MAT/MA106-DVDSales,3,3,Nynorsk,nno-NOR,"DVD-sal
+Figuren nedanfor viser den totale mengda av DVD-ar som blei selde i Storbritannia kvart år frå 2008 til 2014.
+Verdiane langs den horisontale aksen representerer talet på år etter 2008. Hald musepeikaren over punkta  for å sjå koordinatane til kvart punkt. For eksempel viser punktet (0, 252,9) at det blei selt 252,9 millionar DVD-ar i 2008. Punktet (1, 234,6) viser at det blei selt 234,6 millionar DVD-ar i 2009, osv.
+Ei linje er lagd til i figuren for å lage ein modell basert på desse punkta.
+DVD-sal i Storbritannia
+Talet på selde DVD-ar(i millionar)
+Talet på år etter 2008
+(0, 252,9)
+(1, 234,6)
+(2, 210,1)
+(3, 191,8)
+(4, 162)
+(5, 143,4)
+(6, 124,9)"
+MAT/MA106-DVDSales,3,4,Nynorsk,nno-NOR,"DVD-sal  Spørsmål 2 / 3
+Les ""DVD-sal"" til høgre. Bruk taltastane når du skriv svaret ditt på spørsmålet.
+Likninga for linja er d = 254 - 22n, der d er talet på selde DVD-ar (i millionar), og n er talet på år etter 2008.
+Dersom denne salstrenden held fram, i kva år vil talet på selde DVD-ar bli lågare enn 1 million ifølgje modellen?
+Svar:"
+MAT/MA106-DVDSales,3,5,Nynorsk,nno-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Polish,pol-POL,Kalkulatorclose
+MAT/MA106-DVDSales,1,2,Polish,pol-POL,PISA
+MAT/MA106-DVDSales,1,3,Polish,pol-POL,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Polish,pol-POL,"Sprzedaż płyt DVD   Wstęp
+Przeczytaj wstęp.  Następnie kliknij strzałkę DALEJ.
+SPRZEDAŻ PŁYT DVD
+Wykres poniżej pokazuje liczbę płyt DVD sprzedanych w Wielkiej Brytanii każdego roku w latach 2008-2014.
+Wartości na osi poziomej oznaczają liczbę lat po 2008 roku. Najedź kursorem na punkty wykresu, aby zobaczyć ich współrzędne. Na przykład punkt (0; 252,9) wskazuje, że w 2008 roku sprzedano 252,9 milionów płyt DVD. Punkt (1; 234,6) wskazuje, że w 2009 r. sprzedano 234,6 milionów płyt DVD itp.
+Sprzedaż płyt DVD w Wielkiej Brytanii
+Liczba sprzedanych płyt DVD(w milionach)
+Liczba lat po 2008 r.
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Polish,pol-POL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Polish,pol-POL,Kalkulatorclose
+MAT/MA106-DVDSales,2,2,Polish,pol-POL,PISA
+MAT/MA106-DVDSales,2,3,Polish,pol-POL,"SPRZEDAŻ PŁYT DVD
+Wykres poniżej pokazuje liczbę płyt DVD sprzedanych w Wielkiej Brytanii każdego roku w latach 2008-2014.
+Wartości na osi poziomej oznaczają liczbę lat po 2008 roku. Najedź kursorem na punkty wykresu, aby zobaczyć ich współrzędne. Na przykład punkt (0; 252,9) wskazuje, że w 2008 roku sprzedano 252,9 milionów płyt DVD. Punkt (1; 234,6) wskazuje, że w 2009 r. sprzedano 234,6 milionów płyt DVD itp.
+Do wykresu dorysowano prostą, która jest modelem matematycznym przybliżającym te dane.
+Sprzedaż płyt DVD w Wielkiej Brytanii
+Liczba sprzedanych płyt DVD(w milionach)
+Liczba lat po 2008 r.
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Polish,pol-POL,"Sprzedaż płyt DVD   Pytanie  1 / 3
+Zapoznaj się z informacjami do zadania „Sprzedaż płyt DVD” po prawej stronie. Kliknij, aby wybrać odpowiedź w tabeli.
+Czy stwierdzenia w tabeli poniżej odpowiadają informacjom z wykresu? Kliknij Tak lub Nie dla każdego z tych stwierdzeń.
+Stwierdzenie
+Tak
+Nie
+W latach 2008-2014 liczba sprzedanych płyt DVD spadła o około 50%.
+W latach 2008-2014 liczba sprzedanych płyt DVD spadała o taką samą ilość każdego roku.
+Nachylenie prostej przedstawia średni roczny spadek sprzedaży płyt DVD w latach 2008-2014."
+MAT/MA106-DVDSales,2,5,Polish,pol-POL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Polish,pol-POL,Kalkulatorclose
+MAT/MA106-DVDSales,3,2,Polish,pol-POL,PISA
+MAT/MA106-DVDSales,3,3,Polish,pol-POL,"SPRZEDAŻ PŁYT DVD
+Wykres poniżej pokazuje liczbę płyt DVD sprzedanych w Wielkiej Brytanii każdego roku w latach 2008-2014.
+Wartości na osi poziomej oznaczają liczbę lat po 2008 roku. Najedź kursorem na punkty wykresu, aby zobaczyć ich współrzędne. Na przykład punkt (0; 252,9) wskazuje, że w 2008 roku sprzedano 252,9 milionów płyt DVD. Punkt (1; 234,6) wskazuje, że w 2009 r. sprzedano 234,6 milionów płyt DVD itp.
+Do wykresu dorysowano prostą, która jest modelem matematycznym przybliżającym te dane.
+Sprzedaż płyt DVD w Wielkiej Brytanii
+Liczba sprzedanych płyt DVD(w milionach)
+Liczba lat po 2008 r.
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Polish,pol-POL,"Sprzedaż płyt DVD   Pytanie  2 / 3
+Zapoznaj się z informacjami do zadania „Sprzedaż płyt DVD” po prawej stronie. Wpisz cyframi odpowiedź na pytanie.
+Równanie dorysowanej prostej to d = 254 – 22n, gdzie d oznacza liczbę sprzedanych płyt DVD (w milionach) a n - liczbę lat po roku 2008.
+W którym roku liczba sprzedanych płyt DVD będzie mniejsza niż 1 milion, jeśli utrzyma się trend sprzedaży zgodny z tym modelem?
+Odpowiedź:"
+MAT/MA106-DVDSales,3,5,Polish,pol-POL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Portuguese,por-PRT,Calculadoraclose
+MAT/MA106-DVDSales,1,2,Portuguese,por-PRT,PISA
+MAT/MA106-DVDSales,1,3,Portuguese,por-PRT,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Portuguese,por-PRT,"Vendas de DVD  Introdução
+Lê a introdução. Depois clica na seta SEGUINTE.
+VENDAS DE DVD
+O gráfico abaixo mostra o número total de DVD vendidos por ano, no Reino Unido, de 2008 a 2014.
+No eixo horizontal, está representado o número de anos após 2008. Coloca o rato sobre os pontos do gráfico para veres as suas coordenadas. Por exemplo, o ponto (0; 252,9) indica que foram vendidos 252,9 milhões de DVD em 2008. O ponto (1; 234,6) indica que foram vendidos 234,6 milhões de DVD durante o ano de 2009, etc.
+Vendas de DVD no Reino Unido
+Número de DVD vendidos(em milhões)
+Número de anos após 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Portuguese,por-PRT,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Portuguese,por-PRT,Calculadoraclose
+MAT/MA106-DVDSales,2,2,Portuguese,por-PRT,PISA
+MAT/MA106-DVDSales,2,3,Portuguese,por-PRT,"VENDAS DE DVD
+O gráfico abaixo mostra o número total de DVD vendidos por ano, no Reino Unido, de 2008 a 2014.
+No eixo horizontal, está representado o número de anos após 2008. Coloca o rato sobre os pontos do gráfico para veres as suas coordenadas. Por exemplo, o ponto (0; 252,9) indica que foram vendidos 252,9 milhões de DVD em 2008. O ponto (1; 234,6) indica que foram vendidos 234,6 milhões de DVD durante o ano de 2009, etc.
+Foi acrescentada uma reta ao gráfico para modelar este conjunto de dados.
+Vendas de DVD no Reino Unido
+Número de DVD vendidos(em milhões)
+Número de anos após 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Portuguese,por-PRT,"Vendas de DVD  Questão 1 / 3
+Considera a informação em «Vendas de DVD», apresentada à direita. Para responderes à questão, seleciona as opções na tabela.
+As afirmações na tabela abaixo são sustentadas pela informação apresentada no gráfico?  Clica em Sim ou em Não para cada afirmação.
+Afirmação
+Sim
+Não
+De 2008 a 2014, o número de DVD vendidos diminuiu cerca de 50%.
+De 2008 a 2014, o número de DVD vendidos diminuiu a mesma quantidade por ano.
+O declive da reta é a redução média anual de DVD vendidos de 2008 a 2014."
+MAT/MA106-DVDSales,2,5,Portuguese,por-PRT,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Portuguese,por-PRT,Calculadoraclose
+MAT/MA106-DVDSales,3,2,Portuguese,por-PRT,PISA
+MAT/MA106-DVDSales,3,3,Portuguese,por-PRT,"VENDAS DE DVD
+O gráfico abaixo mostra o número total de DVD vendidos por ano, no Reino Unido, de 2008 a 2014.
+No eixo horizontal, está representado o número de anos após 2008. Coloca o rato sobre os pontos do gráfico para veres as suas coordenadas. Por exemplo, o ponto (0; 252,9) indica que foram vendidos 252,9 milhões de DVD em 2008. O ponto (1; 234,6) indica que foram vendidos 234,6 milhões de DVD durante o ano de 2009, etc.
+Foi acrescentada uma reta ao gráfico para modelar este conjunto de dados.
+Vendas de DVD no Reino Unido
+Número de DVD vendidos(em milhões)
+Número de anos após 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Portuguese,por-PRT,"Vendas de DVD  Questão 2 / 3
+Considera a informação em «Vendas de DVD», apresentada à direita. Para responderes à questão, utiliza as teclas numéricas.
+A equação da reta é d = 254 – 22n, em que d é o número de DVD vendidos (em milhões) e n é o número de anos após 2008.
+De acordo com o modelo, se a tendência das vendas se mantiver, em que ano o número de DVD vendidos será inferior a 1 milhão?
+Resposta:"
+MAT/MA106-DVDSales,3,5,Portuguese,por-PRT,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Russian,rus-KAZ,Калькуляторclose
+MAT/MA106-DVDSales,1,2,Russian,rus-KAZ,PISA 2022
+MAT/MA106-DVDSales,1,3,Russian,rus-KAZ,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Russian,rus-KAZ,"Продажа DVD-дисков  Введение
+Прочитайте введение. Затем кликните мышью на стрелку «ДАЛЕЕ».
+ПРОДАЖА DVD-ДИСКОВ
+Общее количество DVD-дисков, продаваемых каждый год в Соединенном Королевстве с 2008 по 2014 год, показано на графике ниже.
+Значения на горизонтальной оси представляют количество лет после 2008 года. Наведите курсор на точки на графике, чтобы увидеть координаты этой точки. Например, точка (0; 252,9) указывает, что было продано 252,9 миллиона DVD-дисков в 2008 году. Точка (1; 234,6) указывает, что было продано 234,6 миллиона DVD-дисков в течение 2009 года и т.д.
+Продажа DVD-дисков в Соединенном Королевстве
+Количество проданных DVD-дисков(в миллионах)
+Количество лет после 2008 года
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Russian,rus-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Russian,rus-KAZ,Калькуляторclose
+MAT/MA106-DVDSales,2,2,Russian,rus-KAZ,PISA 2022
+MAT/MA106-DVDSales,2,3,Russian,rus-KAZ,"ПРОДАЖА DVD-ДИСКОВ
+Общее количество DVD-дисков, продаваемых каждый год в Соединенном Королевстве с 2008 по 2014 год, показано на графике ниже.
+Значения на горизонтальной оси представляют количество лет после 2008 года. Наведите курсор на точки на графике, чтобы увидеть координаты этой точки. Например, точка (0; 252,9) указывает, что было продано 252,9 миллиона DVD-дисков в 2008 году. Точка (1; 234,6) указывает, что было продано 234,6 миллиона DVD-дисков в течение 2009 года и т.д.
+Линия была добавлена к графику для моделирования этих точек данных.
+Продажа DVD-дисков в Соединенном Королевстве
+Количество проданных DVD-дисков(в миллионах)
+Количество лет после 2008 года
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Russian,rus-KAZ,"Продажа DVD-дисков  Вопрос 1 / 3
+Посмотрите на задание «Продажа DVD-дисков» справа. Выберите ответ в таблице и кликните по нему мышью.
+Поддерживаются ли утверждения в таблице ниже информацией, показанной на графике? Кликните мышью по одному из слов «Да» или «Нет» для каждого утверждения.
+Утверждение
+Да
+Нет
+Количество проданных DVD-дисков сократилось примерно на 50% с 2008 по 2014 год включительно.
+Количество проданных DVD-дисков уменьшалось на одно и то же количество каждый год с 2008 по 2014 год включительно.
+Наклон линии — это среднегодовое снижение продаж DVD-дисков с 2008 по 2014 год."
+MAT/MA106-DVDSales,2,5,Russian,rus-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Russian,rus-KAZ,Калькуляторclose
+MAT/MA106-DVDSales,3,2,Russian,rus-KAZ,PISA 2022
+MAT/MA106-DVDSales,3,3,Russian,rus-KAZ,"ПРОДАЖА DVD-ДИСКОВ
+Общее количество DVD-дисков, продаваемых каждый год в Соединенном Королевстве с 2008 по 2014 год, показано на графике ниже.
+Значения на горизонтальной оси представляют количество лет после 2008 года. Наведите курсор на точки на графике, чтобы увидеть координаты этой точки. Например, точка (0; 252,9) указывает, что было продано 252,9 миллиона DVD-дисков в 2008 году. Точка (1; 234,6) указывает, что было продано 234,6 миллиона DVD-дисков в течение 2009 года и т.д.
+Линия была добавлена к графику для моделирования этих точек данных.
+Продажа DVD-дисков в Соединенном Королевстве
+Количество проданных DVD-дисков(в миллионах)
+Количество лет после 2008 года
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Russian,rus-KAZ,"Продажа DVD-дисков  Вопрос 2 / 3
+Посмотрите на задание «Продажа DVD-дисков» справа. Используя клавиши для ввода цифр, напечатайте Ваш ответ на вопрос.
+Уравнение строки: d = 254 – 22 n, где d — количество проданных DVD-дисков (в миллионах) и n — количество лет после 2008 года.
+Если эта тенденция продаж сохранится, то в каком году количество проданных DVD-дисков будет составлять менее 1 миллиона согласно данной модели?
+Ответ:"
+MAT/MA106-DVDSales,3,5,Russian,rus-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Serbian / Serb,srp-SRB,Kalkulatorclose
+MAT/MA106-DVDSales,1,2,Serbian / Serb,srp-SRB,PISA 2022
+MAT/MA106-DVDSales,1,3,Serbian / Serb,srp-SRB,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Serbian / Serb,srp-SRB,"Prodaja DVD-ja  Uvod
+Pročitaj uvod, zatim klikni na strelicu DALJE.
+PRODAJA DVD-JA
+Ukupan broj DVD-ja prodatih u Ujedinjenom Kraljevstvu svake godine od 2008. do 2014. godine prikazan je na grafikonu ispod.
+Vrednosti na horizontalnoj osi predstavljaju broj godina  nakon 2008. godine. Postavi kursor preko tačaka na grafikonu da vidiš koordinate određene tačke. Na primer, tačka (0; 252,9) pokazuje da je 2008. godine prodato 252,9 miliona DVD-ja. Tačka (1; 234,6) pokazuje da je tokom 2009. godine prodato 234,6 miliona DVD-ja itd.
+Prodaja DVD-ja u Ujedinjenom Kraljevstvu
+Broj prodatih DVD-ja(u milionima)
+Broj godina nakon 2008. godine
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Serbian / Serb,srp-SRB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,2,1,Serbian / Serb,srp-SRB,Kalkulatorclose
+MAT/MA106-DVDSales,2,2,Serbian / Serb,srp-SRB,PISA 2022
+MAT/MA106-DVDSales,2,3,Serbian / Serb,srp-SRB,"PRODAJA DVD-JA
+Ukupan broj DVD-ja prodatih u Ujedinjenom Kraljevstvu svake godine od 2008. do 2014. godine prikazan je na grafikonu ispod.
+Vrednosti na horizontalnoj osi predstavljaju broj godina  nakon 2008. godine. Postavi kursor preko tačaka na grafikonu da vidiš koordinate određene tačke. Na primer, tačka (0; 252,9) pokazuje da je 2008. godine prodato 252,9 miliona DVD-ja. Tačka (1; 234,6) pokazuje da je tokom 2009. godine prodato 234,6 miliona DVD-ja itd.
+U grafikon je dodata linija da modeluje ove tačke podataka.
+Prodaja DVD-ja u Ujedinjenom Kraljevstvu
+Broj prodatih DVD-ja(u milionima)
+Broj godina nakon 2008. godine
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Serbian / Serb,srp-SRB,"Prodaja DVD-ja  Pitanje 1 / 3
+Koristi informacije iz teksta „Prodaja DVD-ja” sa desne strane. Odgovori na pitanje tako što ćeš kliknuti na izabrane odgovore u tabeli.
+Da li su tvrdnje u tabeli ispod potkrepljene informacijama prikazanim na grafikonu? Klikni na Da ili Ne za svaku tvrdnju.
+Tvrdnja
+Da
+Ne
+Broj prodatih DVD-ja od 2008. do 2014. godine se smanjio za oko 50%.
+Broj prodatih DVD-ja od 2008. do 2014. se smanjivao za isti iznos svake godine.
+Nagib linije predstavlja prosečno godišnje smanjenje broja prodatih DVD-ja od 2008. do 2014. godine."
+MAT/MA106-DVDSales,2,5,Serbian / Serb,srp-SRB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Serbian / Serb,srp-SRB,Kalkulatorclose
+MAT/MA106-DVDSales,3,2,Serbian / Serb,srp-SRB,PISA 2022
+MAT/MA106-DVDSales,3,3,Serbian / Serb,srp-SRB,"PRODAJA DVD-JA
+Ukupan broj DVD-ja prodatih u Ujedinjenom Kraljevstvu svake godine od 2008. do 2014. godine prikazan je na grafikonu ispod.
+Vrednosti na horizontalnoj osi predstavljaju broj godina  nakon 2008. godine. Postavi kursor preko tačaka na grafikonu da vidiš koordinate određene tačke. Na primer, tačka (0; 252,9) pokazuje da je 2008. godine prodato 252,9 miliona DVD-ja. Tačka (1; 234,6) pokazuje da je tokom 2009. godine prodato 234,6 miliona DVD-ja itd.
+U grafikon je dodata linija da modeluje ove tačke podataka.
+Prodaja DVD-ja u Ujedinjenom Kraljevstvu
+Broj prodatih DVD-ja(u milionima)
+Broj godina nakon 2008. godine
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Serbian / Serb,srp-SRB,"Prodaja DVD-ja  Pitanje 2 / 3
+Koristi informacije iz teksta „Prodaja DVD-ja” sa desne strane. Napiši svoj odgovor na pitanje koristeći brojeve na tastaturi.
+Jednačina linije je d = 254 – 22n, pri čemu je d broj prodatih DVD-ja (u milionima), a n je broj godina nakon 2008. godine.
+Ako se ovakav trend prodaje nastavi, koje godine će, prema ovom modelu, broj prodatih DVD-ja biti manji od 1 milion?
+Odgovor:"
+MAT/MA106-DVDSales,3,5,Serbian / Serb,srp-SRB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Slovak,slo-SVK,Kalkulačkaclose
+MAT/MA106-DVDSales,1,2,Slovak,slo-SVK,PISA
+MAT/MA106-DVDSales,1,3,Slovak,slo-SVK,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Slovak,slo-SVK,"Predaj DVD nosičov   Úvod
+Prečítaj si úvod. Potom klikni na šípku ĎALEJ.
+PREDAJ DVD NOSIČOV
+V nasledujúcom grafe je znázornený celkový počet DVD nosičov, ktoré sa predali v Spojenom kráľovstve v každom roku v rozmedzí rokov 2008 až 2014.
+Hodnoty na vodorovnej osi predstavujú počet rokov po roku 2008. Keď umiestniš kurzor na bod v grafe, uvidíš súradnice tohto bodu. Napríklad, bod (0; 252,9) označuje, že v roku 2008 sa predalo 252,9 milióna DVD nosičov. Bod (1; 234,6) označuje, že v roku 2009 sa predalo 234,6 milióna DVD nosičov atď.
+Predaj DVD nosičov v Spojenom kráľovstve
+Počet predaných DVD nosičov(v miliónoch)
+Počet rokov po roku 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Slovak,slo-SVK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Slovak,slo-SVK,Kalkulačkaclose
+MAT/MA106-DVDSales,2,2,Slovak,slo-SVK,PISA
+MAT/MA106-DVDSales,2,3,Slovak,slo-SVK,"PREDAJ DVD NOSIČOV
+V nasledujúcom grafe je znázornený celkový počet DVD nosičov, ktoré sa predali v Spojenom kráľovstve v každom roku v rozmedzí rokov 2008 až 2014.
+Hodnoty na vodorovnej osi predstavujú počet rokov po roku 2008. Keď umiestniš kurzor na bod v grafe, uvidíš súradnice tohto bodu. Napríklad, bod (0; 252,9) označuje, že v roku 2008 sa predalo 252,9 milióna DVD nosičov. Bod (1; 234,6) označuje, že v roku 2009 sa predalo 234,6 milióna DVD nosičov atď.
+Do grafu sme pridali priamku (model), ktorá vyjadruje trend údajových bodov.
+Predaj DVD nosičov v Spojenom kráľovstve
+Počet predaných DVD nosičov(v miliónoch)
+Počet rokov po roku 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Slovak,slo-SVK,"Predaj DVD nosičov   Otázka  1 / 3
+Použi informácie z materiálu „Predaj DVD nosičov“ na pravej strane. Klikni na niektoré z možností v tabuľke a odpovedz tak na otázku.
+Vychádzajú tvrdenia v nasledujúcej tabuľke z informácií, ktoré sú znázornené v grafe?  Klikni buď na Áno, alebo na Nie pri každom z tvrdení.
+Tvrdenie
+Áno
+Nie
+Počet predaných DVD nosičov klesol od roku 2008 do roku 2014 približne o 50 %.
+Počet predaných DVD nosičov klesol od roku 2008 do roku 2014 každý rok približne o rovnaké množstvo.
+Sklon priamky predstavuje priemerný ročný pokles v počte predaných DVD nosičov v rozmedzí rokov 2008 až 2014."
+MAT/MA106-DVDSales,2,5,Slovak,slo-SVK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Slovak,slo-SVK,Kalkulačkaclose
+MAT/MA106-DVDSales,3,2,Slovak,slo-SVK,PISA
+MAT/MA106-DVDSales,3,3,Slovak,slo-SVK,"PREDAJ DVD NOSIČOV
+V nasledujúcom grafe je znázornený celkový počet DVD nosičov, ktoré sa predali v Spojenom kráľovstve v každom roku v rozmedzí rokov 2008 až 2014.
+Hodnoty na vodorovnej osi predstavujú počet rokov po roku 2008. Keď umiestniš kurzor na bod v grafe, uvidíš súradnice tohto bodu. Napríklad, bod (0; 252,9) označuje, že v roku 2008 sa predalo 252,9 milióna DVD nosičov. Bod (1; 234,6) označuje, že v roku 2009 sa predalo 234,6 milióna DVD nosičov atď.
+Do grafu sme pridali priamku (model), ktorá vyjadruje trend údajových bodov.
+Predaj DVD nosičov v Spojenom kráľovstve
+Počet predaných DVD nosičov(v miliónoch)
+Počet rokov po roku 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Slovak,slo-SVK,"Predaj DVD nosičov   Otázka  2 / 3
+Použi informácie z materiálu „Predaj DVD nosičov“ na pravej strane. Napíš svoju odpoveď pomocou numerickej klávesnice.
+Rovnicu pre priamku vyjadríme ako d = 254 – 22p, kde d predstavuje počet predaných DVD nosičov (v miliónoch) a p je počet rokov nasledujúcich po roku 2008.
+Ak bude tento trend predaja pokračovať, v ktorom roku bude podľa modelu počet predaných DVD nosičov nižší ako 1 milión?
+Odpoveď:"
+MAT/MA106-DVDSales,3,5,Slovak,slo-SVK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Slovenian,slv-SVN,Računaloclose
+MAT/MA106-DVDSales,1,2,Slovenian,slv-SVN,PISA
+MAT/MA106-DVDSales,1,3,Slovenian,slv-SVN,"Prodaja DVD-jev   Uvod
+Preberi uvod. Nato klikni puščico »NAPREJ«.
+PRODAJA DVD-JEV
+V grafu spodaj je prikazano skupno število DVD-jev, ki so jih v Veliki Britaniji prodali vsako leto od leta 2008 do leta 2014.
+Vrednosti na vodoravni osi predstavljajo število let po letu 2008. Kazalec miške postavi na točke v grafu, da vidiš njihove koordinate. Točka (0; 252,9) na primer kaže, da so leta 2008 prodali 252,9 milijona DVD-jev. Točka (1; 234,6) kaže, da so leta 2009 prodali 234,6 milijona DVD-jev, itn.
+Prodaja DVD-jev v Veliki Britaniji
+Število prodanih DVD-jev(v milijonih)
+Število let po letu 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,4,Slovenian,slv-SVN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,5,Slovenian,slv-SVN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Slovenian,slv-SVN,Računaloclose
+MAT/MA106-DVDSales,2,2,Slovenian,slv-SVN,PISA
+MAT/MA106-DVDSales,2,3,Slovenian,slv-SVN,"Prodaja DVD-jev   Vprašanje 1 / 3
+Pomagaj si z besedilom ""Prodaja DVD-jev"" na desni. Na vprašanje odgovori tako, da klikneš izbrane možnosti v tabeli.
+Ali se trditve v spodnji tabeli ujemajo s podatki, prikazanimi v grafu? Pri vsaki trditvi klikni ""Da"" ali ""Ne"".
+Trditev
+Da
+Ne
+Število prodanih DVD-jev se je od leta 2008 do leta 2014 zmanjšalo za približno 50 %.
+Število prodanih DVD-jev se je od leta 2008 do leta 2014 vsako leto zmanjšalo za enako število.
+Naklon premice prikazuje povprečno letno zmanjšanje prodaje DVD-jev od leta 2008 do leta 2014."
+MAT/MA106-DVDSales,2,4,Slovenian,slv-SVN,"PRODAJA DVD-JEV
+V grafu spodaj je prikazano skupno število DVD-jev, ki so jih v Veliki Britaniji prodali vsako leto od leta 2008 do leta 2014.
+Vrednosti na vodoravni osi predstavljajo število let po letu 2008. Kazalec miške postavi na točke v grafu, da vidiš njihove koordinate. Točka (0; 252,9) na primer kaže, da so leta 2008 prodali 252,9 milijona DVD-jev. Točka (1; 234,6) kaže, da so leta 2009 prodali 234,6 milijona DVD-jev, itn.
+Grafu je kot model dodana premica, ki se točkam kar najbolje prilega.
+Prodaja DVD-jev v Veliki Britaniji
+Število prodanih DVD-jev(v milijonih)
+Število let po letu 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,5,Slovenian,slv-SVN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Slovenian,slv-SVN,Računaloclose
+MAT/MA106-DVDSales,3,2,Slovenian,slv-SVN,PISA
+MAT/MA106-DVDSales,3,3,Slovenian,slv-SVN,"Prodaja DVD-jev   Vprašanje 2 / 3
+Pomagaj si z besedilom ""Prodaja DVD-jev"" na desni. Vtipkaj svoj odgovor na vprašanje tako, da uporabiš številke na tipkovnici.
+Enačba premice je d = 254 - 22n, pri čemer je d število prodanih DVD-jev (v milijonih) in n število let po letu 2008.
+Če se bo tak trend prodaje nadaljeval, katerega leta bo, glede na model, število prodanih DVD-jev manjše od 1 milijona?
+Odgovor:"
+MAT/MA106-DVDSales,3,4,Slovenian,slv-SVN,"PRODAJA DVD-JEV
+V grafu spodaj je prikazano skupno število DVD-jev, ki so jih v Veliki Britaniji prodali vsako leto od leta 2008 do leta 2014.
+Vrednosti na vodoravni osi predstavljajo število let po letu 2008. Kazalec miške postavi na točke v grafu, da vidiš njihove koordinate. Točka (0; 252,9) na primer kaže, da so leta 2008 prodali 252,9 milijona DVD-jev. Točka (1; 234,6) kaže, da so leta 2009 prodali 234,6 milijona DVD-jev, itn.
+Grafu je kot model dodana premica, ki se točkam kar najbolje prilega.
+Prodaja DVD-jev v Veliki Britaniji
+Število prodanih DVD-jev(v milijonih)
+Število let po letu 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,5,Slovenian,slv-SVN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,1,1,Spanish,esp-ESP,Calculadoraclose
+MAT/MA106-DVDSales,1,2,Spanish,esp-ESP,PISA
+MAT/MA106-DVDSales,1,3,Spanish,esp-ESP,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Spanish,esp-ESP,"Ventas de DVD  Introducción
+Lee la introducción. Después pulsa en la flecha SIGUIENTE.
+VENTAS DE DVD
+En el siguiente gráfico se muestra el número total de DVD vendidos cada año en el Reino Unido desde 2008 hasta 2014.
+Los valores situados en el eje horizontal representan el número de años transcurridos desde 2008. Sitúa el cursor encima de los puntos del gráfico para ver las coordenadas de cada punto. Por ejemplo, el punto (0; 252,9) indica que en 2008 se vendieron 252,9 millones de DVD. El punto (1; 234,6) indica que se vendieron 234,6 millones de DVD durante el año 2009, etc.
+Ventas de DVD en el Reino Unido
+Número de DVD vendidos(en millones)
+Número de años transcurridos desde 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,1,5,Spanish,esp-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,2,1,Spanish,esp-ESP,Calculadoraclose
+MAT/MA106-DVDSales,2,2,Spanish,esp-ESP,PISA
+MAT/MA106-DVDSales,2,3,Spanish,esp-ESP,"VENTAS DE DVD
+En el siguiente gráfico se muestra el número total de DVD vendidos cada año en el Reino Unido desde 2008 hasta 2014.
+Los valores situados en el eje horizontal representan el número de años transcurridos desde 2008. Sitúa el cursor encima de los puntos del gráfico para ver las coordenadas de cada punto. Por ejemplo, el punto (0; 252,9) indica que en 2008 se vendieron 252,9 millones de DVD. El punto (1; 234,6) indica que se vendieron 234,6 millones de DVD durante el año 2009, etc.
+Se ha añadido una línea en el gráfico para modelizar estos puntos de datos.
+Ventas de DVD en el Reino Unido
+Número de DVD vendidos(en millones)
+Número de años transcurridos desde 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Spanish,esp-ESP,"Ventas de DVD  Pregunta 1 / 3
+Lee ""Ventas de DVD"" a la derecha. Pulsa en las opciones de la tabla para responder a la pregunta.
+¿Están justificadas las afirmaciones de la tabla de abajo por la información mostrada en el gráfico? Pulsa en Sí o No para cada afirmación.
+Afirmación
+Sí
+No
+El número de DVD vendidos disminuyó aproximadamente un 50 % desde 2008 hasta 2014.
+El número de DVD vendidos disminuyó la misma cantidad cada año desde 2008 hasta 2014.
+La pendiente de la línea representa la disminución media anual de las ventas de DVD desde 2008 hasta 2014."
+MAT/MA106-DVDSales,2,5,Spanish,esp-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,1,Spanish,esp-ESP,Calculadoraclose
+MAT/MA106-DVDSales,3,2,Spanish,esp-ESP,PISA
+MAT/MA106-DVDSales,3,3,Spanish,esp-ESP,"VENTAS DE DVD
+En el siguiente gráfico se muestra el número total de DVD vendidos cada año en el Reino Unido desde 2008 hasta 2014.
+Los valores situados en el eje horizontal representan el número de años transcurridos desde 2008. Sitúa el cursor encima de los puntos del gráfico para ver las coordenadas de cada punto. Por ejemplo, el punto (0; 252,9) indica que en 2008 se vendieron 252,9 millones de DVD. El punto (1; 234,6) indica que se vendieron 234,6 millones de DVD durante el año 2009, etc.
+Se ha añadido una línea en el gráfico para modelizar estos puntos de datos.
+Ventas de DVD en el Reino Unido
+Número de DVD vendidos(en millones)
+Número de años transcurridos desde 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Spanish,esp-ESP,"Ventas de DVD  Pregunta 1 / 3
+Lee ""Ventas de DVD"" a la derecha. Pulsa en las opciones de la tabla para responder a la pregunta.
+¿Están justificadas las afirmaciones de la tabla de abajo por la información mostrada en el gráfico? Pulsa en Sí o No para cada afirmación.
+Afirmación
+Sí
+No
+El número de DVD vendidos disminuyó aproximadamente un 50 % desde 2008 hasta 2014.
+El número de DVD vendidos disminuyó la misma cantidad cada año desde 2008 hasta 2014.
+La pendiente de la línea representa la disminución media anual de las ventas de DVD desde 2008 hasta 2014."
+MAT/MA106-DVDSales,3,5,Spanish,esp-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA106-DVDSales,3,6,Spanish,esp-ESP,"Confirmaciónclose
+OK"
+MAT/MA106-DVDSales,3,7,Spanish,esp-ESP,"Esta es la retroalimentación de CMA106Q01 en castellano.
+En la primera pregunta de esta unidad, los estudiantes ven una tabla que contiene tres afirmaciones acerca de las ventas de DVD en el Reino Unido desde 2008 hasta 2014, y deben decidir qué afirmaciones están respaldadas por la información que se muestra en el gráfico. Cabe mencionar que la información en la introducción acerca de cómo interpretar los datos se repite en el panel derecho, con un párrafo adicional que informa a los estudiantes sobre la línea que se ha añadido en el gráfico. Además, los puntos interactivos están únicamente activados para mostrar los siete puntos de datos que se muestran. En otras palabras, los estudiantes no pueden situar el cursor en cualquier parte de la línea para obtener los datos, sino que deben hacerlo encima de los siete puntos de datos.
+La primera afirmación está respaldada por los datos. Los estudiantes pueden comprobarlo de dos maneras: 1) calcular el porcentaje de disminución en las ventas de DVD desde 2008 hasta 2014 [esto es: (252,9 – 124,9) ÷ 252,9], un porcentaje real del 50,61 % sobre el cual se sostiene el argumento de una disminución en torno al 50  % en las ventas; o 2) calcular la ratio de DVD vendidos en 2014 con respecto a 2008 (esto es: 124,9 ÷ 252,9) para ver que el número de DVD vendidos en 2014 es el 49,39 % del número de ventas de 2008, que vuelve a ser “en torno al 50 %”, tal y como se especifica en la afirmación.
+La segunda afirmación no está respaldada por los datos. Los estudiantes deben fijarse en la diferencia entre el número de DVD vendidos en cada punto de datos para ver que la afirmación no es correcta. Sin embargo, cuatro de las seis diferencias muestran una diferencia muy similar (entre 18 y 19 millones menos de DVD vendidos), pero la diferencia entre 2009 y 2010 es de 24,5 millones y, entre 2011 y 2012, es de 29,8 millones menos de DVD vendidos.
+La tercera afirmación está respaldada por los datos. Los estudiantes pueden interpretar que un modelo lineal implica un ritmo de cambio constante, debido en este caso a la curva en negativo, lo que indica que las ventas de DVD van disminuyendo al mismo ritmo cada año.
+El crédito total para esta pregunta es de dificultad moderada (Nivel 4), mientras que es relativamente sencillo obtener crédito parcial (Nivel 1a).
+Nombre unidad - ID pregunta
+Ventas de DVD - CMA106Q01
+Área de contenido
+Incertidumbre y datos
+Proceso
+Interpretar y evaluar
+Contexto
+Social
+Formato de pregunta
+Opción múltiple compleja - Codificada por ordenador
+Respuesta
+Crédito total (de la fila superior a la inferior): Sí, No, Sí) Crédito parcial: dos opciones cualesquiera correctas
+Dificultad estimada
+Nivel 4 (crédito total) - Nivel 1a (crédito parcial)"
+MAT/MA106-DVDSales,1,1,Swedish,swe-SWE,Miniräknareclose
+MAT/MA106-DVDSales,1,2,Swedish,swe-SWE,PISA
+MAT/MA106-DVDSales,1,3,Swedish,swe-SWE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,4,Swedish,swe-SWE,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,5,Swedish,swe-SWE,"Försäljning av DVD-skivor  Introduktion
+Läs introduktionen.  Klicka sedan på pilen NÄSTA.
+Försäljning av DVD-skivor
+Det totala antalet DVD-skivor som sålts varje år i Storbritannien från 2008 till 2014 visas i diagrammet nedan.
+Värdena på den horisontella axeln visar antalet år efter 2008.  Placera markören över punkterna i diagrammet för att se respektive punkts koordinater.  Till exempel visar punkten (0; 252,9) att det såldes 252,9 miljoner DVD-skivor 2008.  Punkten (1; 234,6) visar att det såldes 234,6 miljoner DVD-skivor 2009, osv.
+Försäljning av DVD-skivor i Storbritannien
+Antal sålda DVD-skivor (i miljoner)
+Antal år efter 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,1,Swedish,swe-SWE,Miniräknareclose
+MAT/MA106-DVDSales,2,2,Swedish,swe-SWE,PISA
+MAT/MA106-DVDSales,2,3,Swedish,swe-SWE,"Försäljning av DVD-skivor
+Det totala antalet DVD-skivor som sålts varje år i Storbritannien från 2008 till 2014 visas i diagrammet nedan.
+Värdena på den horisontella axeln visar antalet år efter 2008.  Placera markören över punkterna i diagrammet för att se respektive punkts koordinater.  Till exempel visar punkten (0; 252,9) att det såldes 252,9 miljoner DVD-skivor 2008.  Punkten (1; 234,6) visar att det såldes 234,6 miljoner DVD-skivor 2009, osv.
+En linje har lagts till i diagrammet för att visa en modell för punkterna.
+Försäljning av DVD-skivor i Storbritannien
+Antal sålda DVD-skivor (i miljoner)
+Antal år efter 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Swedish,swe-SWE,"Försäljning av DVD-skivor  Fråga 1 / 3
+Utgå från ""Försäljning av DVD-skivor"" till höger.  Svara på frågan genom att markera alternativ i tabellen.
+Ger informationen i diagrammet stöd för påståendena i tabellen nedan? Markera antingen Ja eller Nej för varje påstående.
+Påstående
+Ja
+Nej
+Antalet sålda DVD-skivor har sjunkit med ungefär 50 % från 2008 till 2014.
+Antalet sålda DVD-skivor har sjunkit med samma antal varje år från 2008 till 2014.
+Linjens lutning är den genomsnittliga årliga minskningen av sålda DVD-skivor från 2008 till 2014."
+MAT/MA106-DVDSales,2,5,Swedish,swe-SWE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Swedish,swe-SWE,Miniräknareclose
+MAT/MA106-DVDSales,3,2,Swedish,swe-SWE,PISA
+MAT/MA106-DVDSales,3,3,Swedish,swe-SWE,"Försäljning av DVD-skivor
+Det totala antalet DVD-skivor som sålts varje år i Storbritannien från 2008 till 2014 visas i diagrammet nedan.
+Värdena på den horisontella axeln visar antalet år efter 2008.  Placera markören över punkterna i diagrammet för att se respektive punkts koordinater.  Till exempel visar punkten (0; 252,9) att det såldes 252,9 miljoner DVD-skivor 2008.  Punkten (1; 234,6) visar att det såldes 234,6 miljoner DVD-skivor 2009, osv.
+En linje har lagts till i diagrammet för att visa en modell för punkterna.
+Försäljning av DVD-skivor i Storbritannien
+Antal sålda DVD-skivor (i miljoner)
+Antal år efter 2008
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Swedish,swe-SWE,"Försäljning av DVD-skivor  Fråga 2 / 3
+Utgå från ""Försäljning av DVD-skivor"" till höger.  Använd siffertangenterna för att skriva in ditt svar på frågan.
+Linjens ekvation är d = 254 – 22n, där d är antalet sålda DVD-skivor (i miljoner) och n är antalet år efter 2008.
+Om försäljningstrenden fortsätter, vilket år kommer antalet sålda DVD-skivor att vara mindre än 1 miljon, enligt modellen?
+Svar:"
+MAT/MA106-DVDSales,3,5,Swedish,swe-SWE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Thai,tha-THA,เครื่องคิดเลขclose
+MAT/MA106-DVDSales,1,2,Thai,tha-THA,PISA
+MAT/MA106-DVDSales,1,3,Thai,tha-THA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,4,Thai,tha-THA,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,5,Thai,tha-THA,"ยอดขายดีวีดี  บทนำ
+เมื่ออ่านบทนำแล้ว ให้คลิกที่ลูกศรถัดไป
+ยอดขายดีวีดี
+จำนวนยอดขายดีวีดีทั้งหมดในแต่ละปีของสหราชอาณาจักรตั้งแต่ปี 2008 ถึงปี 2014 แสดงในกราฟข้างล่าง
+ค่าของแกนนอนแทนจำนวนปีถัดจากปี 2008 การวางเคอร์เซอร์บนจุดในกราฟเป็นการดูคู่อันดับของจุดนั้นๆ ตัวอย่างเช่น ที่จุด (0, 252.9) หมายถึง ในปี 2008 มียอดขายดีวีดี 252.9 ล้านแผ่น ที่จุด (1, 234.6) หมายถึง ในปี 2009 มียอดขายดีวีดี 234.6 ล้านแผ่น เป็นต้น
+ยอดขายดีวีดีของสหราชอาณาจักร
+จำนวนยอดขายดีวีดี(ล้านแผ่น)
+จำนวนปีถัดจากปี 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,2,1,Thai,tha-THA,เครื่องคิดเลขclose
+MAT/MA106-DVDSales,2,2,Thai,tha-THA,PISA
+MAT/MA106-DVDSales,2,3,Thai,tha-THA,"ยอดขายดีวีดี
+จำนวนยอดขายดีวีดีทั้งหมดในแต่ละปีของสหราชอาณาจักรตั้งแต่ปี 2008 ถึงปี 2014 แสดงในกราฟข้างล่าง
+ค่าของแกนนอนแทนจำนวนปีถัดจากปี 2008 การวางเคอร์เซอร์บนจุดในกราฟเป็นการดูคู่อันดับของจุดนั้นๆ ตัวอย่างเช่น ที่จุด (0, 252.9) หมายถึง ในปี 2008 มียอดขายดีวีดี 252.9 ล้านแผ่น   ที่จุด (1, 234.6) หมายถึง ในปี 2009 มียอดขายดีวีดี 234.6 ล้านแผ่น เป็นต้น
+เส้นตรงที่เพิ่มในกราฟเป็นการแสดงแบบจำลองของจุดข้อมูลเหล่านี้
+ยอดขายดีวีดีของสหราชอาณาจักร
+จำนวนยอดขายดีวีดี(ล้านแผ่น)
+จำนวนปีถัดจากปี 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,2,4,Thai,tha-THA,"ยอดขายดีวีดี  คำถามที่ 1 / 3
+จากเรื่อง “ยอดขายดีวีดี” ทางด้านขวา ให้คลิกตัวเลือกในตารางเพื่อตอบคำถาม
+ข้อมูลที่แสดงในกราฟสนับสนุนข้อความในตารางข้างล่างใช่หรือไม่ จงคลิกเลือก ใช่ หรือ ไม่ใช่ ในแต่ละข้อความ
+ข้อความ
+ใช่
+ไม่ใช่
+ตั้งแต่ปี 2008 จนถึงปี 2014 จำนวนยอดขายดีวีดีลดลงประมาณ 50%
+ตั้งแต่ปี 2008 จนถึงปี 2014 จำนวนยอดขายดีวีดีลดลงในปริมาณที่เท่ากันในแต่ละปี
+ความชันของเส้นตรงคือค่าเฉลี่ยของยอดขายดีวีดีที่ลดลงต่อปีตั้งแต่ปี 2008 จนถึงปี 2014"
+MAT/MA106-DVDSales,2,5,Thai,tha-THA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Thai,tha-THA,เครื่องคิดเลขclose
+MAT/MA106-DVDSales,3,2,Thai,tha-THA,PISA
+MAT/MA106-DVDSales,3,3,Thai,tha-THA,"ยอดขายดีวีดี
+จำนวนยอดขายดีวีดีทั้งหมดในแต่ละปีของสหราชอาณาจักรตั้งแต่ปี 2008 ถึงปี 2014 แสดงในกราฟข้างล่าง
+ค่าของแกนนอนแทนจำนวนปีถัดจากปี 2008 การวางเคอร์เซอร์บนจุดในกราฟเป็นการดูคู่อันดับของจุดนั้นๆ ตัวอย่างเช่น ที่จุด (0, 252.9) หมายถึง ในปี 2008 มียอดขายดีวีดี 252.9 ล้านแผ่น   ที่จุด (1, 234.6) หมายถึง ในปี 2009 มียอดขายดีวีดี 234.6 ล้านแผ่น เป็นต้น
+เส้นตรงที่เพิ่มในกราฟเป็นการแสดงแบบจำลองของจุดข้อมูลเหล่านี้
+ยอดขายดีวีดีของสหราชอาณาจักร
+จำนวนยอดขายดีวีดี(ล้านแผ่น)
+จำนวนปีถัดจากปี 2008
+(0, 252.9)
+(1, 234.6)
+(2, 210.1)
+(3, 191.8)
+(4, 162)
+(5, 143.4)
+(6, 124.9)"
+MAT/MA106-DVDSales,3,4,Thai,tha-THA,"ยอดขายดีวีดี  คำถามที่ 2 / 3
+จากเรื่อง “ยอดขายดีวีดี” ทางด้านขวา ให้ใช้แป้นตัวเลข พิมพ์คำตอบของนักเรียนเพื่อตอบคำถาม
+สมการของเส้นตรงนี้คือ d = 254 – 22n   โดยที่ d คือ จำนวนยอดขายดีวีดี (ล้านแผ่น) และ n คือ จำนวนปีถัดจากปี 2008
+หากแนวโน้มการขายยังเป็นเช่นนี้ต่อไป ตามแบบจำลองนี้ จำนวนยอดขายดีวีดีจะน้อยกว่า 1 ล้านแผ่นในปีใด
+คำตอบ:"
+MAT/MA106-DVDSales,3,5,Thai,tha-THA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,1,Turkish,tur-TUR,Hesap Makinesiclose
+MAT/MA106-DVDSales,1,2,Turkish,tur-TUR,PISA
+MAT/MA106-DVDSales,1,3,Turkish,tur-TUR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA106-DVDSales,1,4,Turkish,tur-TUR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,1,5,Turkish,tur-TUR,"DVD Satışları  Giriş
+Girişi okuyunuz. Sonra İLERİ ok tuşuna tıklayınız.
+DVD SATIŞLARI
+Birleşik Krallık'ta 2008'den 2014'e kadar her yıl satılan toplam DVD sayısı aşağıdaki grafikte gösterilmektedir.
+Yatay eksendeki değerler, 2008'den sonraki yılların sayısını temsil etmektedir. Bir noktanın koordinatlarını görmek için imleci grafikteki o noktanın üzerine getiriniz. Örneğin, (0; 252,9) değerinin olduğu nokta, 2008 yılında 252,9 milyon DVD'nin satıldığını göstermektedir. (1; 234,6) değerinin olduğu nokta, 2009 yılı boyunca 234,6 milyon DVD'nin satıldığını göstermektedir.
+Birleşik Krallık'taki DVD Satışları
+Satılan DVD Sayısı(Milyon)
+2008'den Sonraki Yıl Sayısı
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,1,Turkish,tur-TUR,Hesap Makinesiclose
+MAT/MA106-DVDSales,2,2,Turkish,tur-TUR,PISA
+MAT/MA106-DVDSales,2,3,Turkish,tur-TUR,"DVD SATIŞLARI
+Birleşik Krallık'ta 2008'den 2014'e kadar her yıl satılan toplam DVD sayısı aşağıdaki grafikte gösterilmektedir.
+Yatay eksendeki değerler, 2008'den sonraki yılların sayısını temsil etmektedir. Bir noktanın koordinatlarını görmek için imleci grafikteki o noktanın üzerine getiriniz. Örneğin, (0; 252,9) değerinin olduğu nokta, 2008 yılında 252,9 milyon DVD'nin satıldığını göstermektedir. (1; 234,6) değerinin olduğu nokta, 2009 yılı boyunca 234,6 milyon DVD'nin satıldığını göstermektedir.
+Bu veri noktalarını modellemek için grafiğe bir çizgi eklenmiştir.
+Birleşik Krallık'taki DVD Satışları
+Satılan DVD Sayısı(Milyon)
+2008'den Sonraki Yıl Sayısı
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,2,4,Turkish,tur-TUR,"DVD Satışları  Soru 1 / 3
+Sağdaki “DVD Satışları”ndan yararlanınız. Soruyu cevaplamak için tablodaki seçeneklere tıklayınız.
+Grafikte yer alan bilgiler aşağıdaki ifadeleri destekler mi? Her bir ifade için Evet ya da Hayır seçeneklerinden birine tıklayınız.
+İfade
+Evet
+Hayır
+Satılan DVD sayısı, 2008'den 2014'e kadar yaklaşık %50 azalmıştır.
+Satılan DVD sayısı, 2008'den 2014'e kadar her yıl aynı miktarda azalmıştır.
+Çizginin eğimi 2008'den 2014'e kadar satılan DVD'lerde ortalama yıllık düşüşü göstermektedir."
+MAT/MA106-DVDSales,2,5,Turkish,tur-TUR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA106-DVDSales,3,1,Turkish,tur-TUR,Hesap Makinesiclose
+MAT/MA106-DVDSales,3,2,Turkish,tur-TUR,PISA
+MAT/MA106-DVDSales,3,3,Turkish,tur-TUR,"DVD SATIŞLARI
+Birleşik Krallık'ta 2008'den 2014'e kadar her yıl satılan toplam DVD sayısı aşağıdaki grafikte gösterilmektedir.
+Yatay eksendeki değerler, 2008'den sonraki yılların sayısını temsil etmektedir. Bir noktanın koordinatlarını görmek için imleci grafikteki o noktanın üzerine getiriniz. Örneğin, (0; 252,9) değerinin olduğu nokta, 2008 yılında 252,9 milyon DVD'nin satıldığını göstermektedir. (1; 234,6) değerinin olduğu nokta, 2009 yılı boyunca 234,6 milyon DVD'nin satıldığını göstermektedir.
+Bu veri noktalarını modellemek için grafiğe bir çizgi eklenmiştir.
+Birleşik Krallık'taki DVD Satışları
+Satılan DVD Sayısı(Milyon)
+2008'den Sonraki Yıl Sayısı
+(0; 252,9)
+(1; 234,6)
+(2; 210,1)
+(3; 191,8)
+(4; 162)
+(5; 143,4)
+(6; 124,9)"
+MAT/MA106-DVDSales,3,4,Turkish,tur-TUR,"DVD Satışları  Soru 2 / 3
+Sağdaki “DVD Satışları”ndan yararlanınız. Sayı tuşlarını kullanarak sorunun cevabını yazınız.
+Bu çizginin denklemi d = 254 - 22n şeklindedir, burada d satılan DVD sayısı (milyon cinsinden) ve n de 2008'den sonraki yıl sayısıdır.
+Bu satış trendi böyle devam ederse, bu modele göre hangi yılda satılan DVD sayısı 1 milyondan az olacaktır?
+Cevap:"
+MAT/MA106-DVDSales,3,5,Turkish,tur-TUR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="

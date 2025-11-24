@@ -1,0 +1,7505 @@
+﻿unit,page,part,language_name,lang_code,text
+MAT/MA104-CarPurchase,1,1,Albanian,sqi-ALB,Makinë llogaritëseclose
+MAT/MA104-CarPurchase,1,2,Albanian,sqi-ALB,PISA 2022
+MAT/MA104-CarPurchase,1,3,Albanian,sqi-ALB,"Blerja e Makinës  Hyrja
+Lexoni hyrjen. Më pas klikoni mbi shigjetën TJETËR.
+BLERJA E MAKINËS
+Tania po planifikon të blejë një makinë të re. Ajo dëshiron të dijë sa do t'i kushtojë të blejë një makinë dhe ta ngasë gjatë vitit të parë.
+Ajo gjen Vlerësuesin e Kostos online dhe bën llogaritë e mëposhtme:
+Distanca e llogaritur që ajo do të përshkojë me makinë këtë vit është 20 000 km.
+Kosotoja mesatare e karburantit do të jetë 1,54 zed për litër.
+Kosot e mirëmbajtes që ka llogaritur janë 250 zed gjatë vitit të parë.
+VLERËSUESI I KOSTOS
+Çmimi i Makinës (zed)
+Konsumi i Karburantit (L/100 km)
+Distanca e Përllogaritur e Përshkuar me Makinë (km)
+Kostoja Mesatare e Karburantit (zed/L)
+Kostot e Përllogaritura të Mirëmbajtjes (zed)
+Fshi
+Llogarit"
+MAT/MA104-CarPurchase,1,4,Albanian,sqi-ALB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Albanian,sqi-ALB,Makinë llogaritëseclose
+MAT/MA104-CarPurchase,2,2,Albanian,sqi-ALB,PISA 2022
+MAT/MA104-CarPurchase,2,3,Albanian,sqi-ALB,"BLERJA E MAKINËS
+Çmimet dhe konsumi i karburantit për katër makinat që Tania po mendon të blejë janë shfaqur në tabelën më poshtë.
+Konsumi i karburantit është numri i litrave të karburantit që nevojitet për t'i dhënë makinës për 100 kilometra.  Kjo është një mesatare bazuar në një kombinim midis dhënies së makinës në qytet dhe autostradë.
+Makina A
+Makina B
+Makina C
+Makina D
+Çmimi i Makinës (zed)
+Çmimi i makinës përfshin të gjitha taksat dhe kostot e regjistrimit.
+8000
+8700
+9900
+10 500
+Konsumi i Karburantit
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Disa nga qelizat e Vlerësuesit të Kostos janë mbushur në bazë të llogaritjeve të Tanias.
+VLERËSUESI I KOSTOS
+Çmimi i Makinës (zed)
+Konsumi i Karburantit (L/100 km)
+Distanca e Përllogaritur e Përshkuar me Makinë (km)
+20 000
+Kostoja Mesatare e Karburantit (zed/L)
+1,54
+Kostot e Përllogaritura të Mirëmbajtjes (zed)
+250
+Fshi
+Llogarit
+REZULTATET
+closeOK"
+MAT/MA104-CarPurchase,2,4,Albanian,sqi-ALB,"Blerja e Makinës  Pyetje 1 / 2
+Si të Përdorni Vlerësuesin e Kostos
+Vlerësuesi i Kostos do të përcaktojë sa do të kushtojë blerja dhe përdorimi i makinës gjatë vitit të parë.
+Për të përdorur matësin ndiqni këto hapa:
+Vendosni Çmimin e Makinës.
+Vendosni Koston e Karburantit.
+Klikoni mbi butonin ''Llogarit"". Rezultatet do të shfaqen në tabelën e rezultateve.
+Për të kryer llogaritje shtesë, klikoni mbi ""Fshi"", vendosni vlera të reja, më pas klikoni mbi butonin ""Llogarit"" përsëri.
+Për të fshirë ndonjë rresht të dhënash nga tabela e Rezultateve, klikoni mbi butonin e fshirjes pranë atij rreshti.
+Referohuni ""Blerjes së Makinës"" në të djathtë. Përdorni Vlerësuesin e Kostos për t'ju ndihmuar t'i përgjigjeni pyetjes më poshtë. Klikoni një alternativë për t'ju përgjigjur pyetjes.
+Për të parë se si të përdorni Vlerësuesin e Kostos klikoni mbi ""Si të Përdorni Vlerësuesin e Kostos"" më sipër.
+Bazuar në llogaritjet e Tanias, cila makinë do t'i kushtonte më pak për t'u blerë dhe përdorur gjatë vitit të parë?
+Makina A
+Makina B
+Makina C
+Makina D"
+MAT/MA104-CarPurchase,2,5,Albanian,sqi-ALB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Albanian,sqi-ALB,Makinë llogaritëseclose
+MAT/MA104-CarPurchase,3,2,Albanian,sqi-ALB,PISA 2022
+MAT/MA104-CarPurchase,3,3,Albanian,sqi-ALB,"BLERJA E MAKINËS
+Çmimet dhe konsumi i karburantit për katër makinat që Tania po mendon të blejë janë shfaqur në tabelën më poshtë.
+Konsumi i karburantit është numri i litrave të karburantit që nevojitet për t'i dhënë makinës për 100 kilometra.  Kjo është një mesatare bazuar në një kombinim midis dhënies së makinës në qytet dhe autostradë.
+Makina A
+Makina B
+Makina C
+Makina D
+Çmimi i Makinës (zed)
+Çmimi i makinës përfshin të gjitha taksat dhe kostot e regjistrimit.
+8000
+8700
+9900
+10 500
+Konsumi i Karburantit
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Albanian,sqi-ALB,"Blerja e Makinës  Pyetje 2 / 2
+Referohuni ""Blerjes së Makinës"" në të djathtë. Klikoni një alternativë për t'ju përgjigjur pyetjes.
+Çmimi i rishitjes së një makine është sa vlera e çmimit të llogaritur me të cilin mund të rishitet më pas.
+Për një makinë që mbetet në gjendet të shkëlqyer, vlera e saj do të ulet me nga 5% çdo vit.
+Nëse Tania vendos të blejë makinën D dhe ta shesë pas tre vitesh në gjendje të shkëlqyer, cila do të jetë afërsisht vlera në zed e makinës?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Albanian,sqi-ALB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Arabic,ara-ARE,الآلة الحاسبةclose
+MAT/MA104-CarPurchase,1,2,Arabic,ara-ARE,PISA 2022
+MAT/MA104-CarPurchase,1,3,Arabic,ara-ARE,"شراء سيارة  مقدمة
+اقرأ المقدمة. ثم انقر على زر التالي.
+شراء سيارة
+تخطط تهاني لشراء سيارة جديدة. وتريد أن تعرف كم ستكون تكلفة شراء سيارة وقيادتها في السنة الأولى.
+وجدت برنامج تقدير التكلفة هذا على الإنترنت وقامت بإجراء التقديرات التالية:
+ستقود السيارة لمسافة تٌقدر بـ 200‎00 km خلال هذه السنة.
+سيكون متوسط تكلفة الوقود 1.54 زد  لكل لتر.
+التكاليف المُقدّرة للصيانة هي 250 زد في السنة الأولى.
+برنامج تقدير التكلفة
+سعر السيارة (زد)
+استهلاك الوقود (L/100 km)
+المسافة المقطوعة المُقدرة (km)
+متوسط تكلفة الوقود (L/زد)
+التكاليف المُقدّرة للصيانة (زد)
+امسح
+احسب"
+MAT/MA104-CarPurchase,1,4,Arabic,ara-ARE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Arabic,ara-ARE,الآلة الحاسبةclose
+MAT/MA104-CarPurchase,2,2,Arabic,ara-ARE,PISA 2022
+MAT/MA104-CarPurchase,2,3,Arabic,ara-ARE,"شراء سيارة
+يوضّح الجدول أدناه الأسعار واستهلاك الوقود لأربع سيارات تفكر تهاني  في شراء إحداها.
+استهلاك الوقود هو عدد لترات الوقود اللازمة لقطع مسافة  100 كيلومتر. وهو تقدير مبني على القيادة في كلٍ من المدينة وعلى الطريق السريع معًا.
+سيارة  A
+سيارة  B
+سيارة  C
+سيارة  D
+سعر السيارة (زد)
+يشمل سعر السيارة الضرائب جميعها ورسوم التسجيل.
+8000
+8700
+9900
+10500
+استهلاك الوقود
+(L/100 km)
+18.9
+15.7
+12.4
+14.1
+تم تعبئة بعض الخلايا في ""برنامج تقدير التكلفة"" بناءً على تقديرات تهاني.
+برنامج تقدير التكلفة
+سعر السيارة (زد)
+استهلاك الوقود (L/100 km)
+المسافة المقطوعة المُقدرة (km)
+20000
+متوسط تكلفة الوقود (L/زد)
+1.54
+التكاليف المُقدّرة للصيانة (زد)
+250
+امسح
+احسب
+النتائج
+closeموافق"
+MAT/MA104-CarPurchase,2,4,Arabic,ara-ARE,"شراء سيارة  سؤال 1 / 2
+كيفية استخدام برنامج تقدير التكلفة
+سيحدد ""برنامج تقدير التكلفة"" كم ستكون تكلفة شراء السيارة وقيادتها في السنة الأولى.
+لاستخدام ""برنامج تقدير التكلفة""، اتبع هذه الخطوات:
+أدخل سعر السيارة.
+أدخل استهلاك الوقود.
+انقر على زر ""احسب"". سيتم عرض النتيجة في جدول النتائج.
+لعمل حسابات إضافية، انقر على ""امسح""، وأدخل قيمًا جديدة، ثم انقر على الزر ""احسب"" مرة أخرى.
+لحذف أحد صفوف البيانات من جدول النتائج، انقر على زر الحذف الذي يظهر بجانب ذلك الصف.
+ارجع إلى "" شراء سيارة "" على الجانب الأيسر. استخدم ""برنامج تقدير التكلفة"" لمساعدتك في الإجابة عن السؤال أدناه. انقر على أحد الخيارات للإجابة عن السؤال.
+لمعرفة كيفية استخدام ""برنامج تقدير التكلفة""، أنقر على ""كيف تستخدم برنامج تقدير التكلفة"" أعلاه.
+بناءً على تقديرات تهاني، أيّ سيارة ستكون ذات تكلفة أقل في الشراء والاستخدام خلال السنة الأولى؟
+سيارة  A
+سيارة  B
+سيارة  C
+سيارة  D"
+MAT/MA104-CarPurchase,2,5,Arabic,ara-ARE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Arabic,ara-ARE,الآلة الحاسبةclose
+MAT/MA104-CarPurchase,3,2,Arabic,ara-ARE,PISA 2022
+MAT/MA104-CarPurchase,3,3,Arabic,ara-ARE,"شراء سيارة
+يوضّح الجدول أدناه الأسعار واستهلاك الوقود لأربع سيارات تفكر تهاني  في شراء إحداها.
+استهلاك الوقود هو عدد لترات الوقود اللازمة لقطع مسافة  100 كيلومتر. وهو تقدير مبني على القيادة في كلٍ من المدينة وعلى الطريق السريع معًا.
+سيارة  A
+سيارة  B
+سيارة  C
+سيارة  D
+سعر السيارة (زد)
+يشمل سعر السيارة الضرائب جميعها ورسوم التسجيل.
+8000
+8700
+9900
+10500
+استهلاك الوقود
+(L/100 km)
+18.9
+15.7
+12.4
+14.1"
+MAT/MA104-CarPurchase,3,4,Arabic,ara-ARE,"شراء سيارة  سؤال 2 / 2
+ارجع إلى "" شراء سيارة "" على الجانب الأيسر. انقر على أحد الخيارات للإجابة عن السؤال.
+سعر إعادة البيع هو السعر المُقدّر الذي يمكن بيع السيارة به في وقتٍ لاحق.
+بالنسبة للسيارة التي تبقى في حالة ممتازة، ستنخفض قيمتها بنسبة  %5  كل سنة.
+إذا قررت تهاني شراء السيارة D  وإعادة بيعها بعد ثلاث سنوات وهي في حالة ممتازة، فما السعر التقريبي لإعادة بيع السيارة بالزد؟
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Arabic,ara-ARE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Azerbaijani / Azeri,aze-QAZ,Kalkulyatorclose
+MAT/MA104-CarPurchase,1,2,Azerbaijani / Azeri,aze-QAZ,PISA 2022
+MAT/MA104-CarPurchase,1,3,Azerbaijani / Azeri,aze-QAZ,"Maşın Alışı  Giriş
+Girişi oxuyun. Sonra NÖVBƏTİ oxunu klikləyin.
+MAŞIN ALIŞI
+Turan yeni maşın almağı planlaşdırır. O, maşını almaq və bir il müddətində sürməyin ona neçəyə başa gələcəyini hesablamaq istəyir.
+O, internetdə bu Xərc Hesablayıcısını tapır və aşağıdakı təxminləri edir:
+O, bu il təxminən 20 000 km məsafə sürəcək.
+1 litr yanacağın orta qiyməti 1,54 zed olacaq.
+Birinci ildə təxmini baxım xərci 250 zed olacaq.
+XƏRC HESABLAYICI
+Maşının Qiyməti (zedlə)
+Yanacaq Sərfiyyatı (l/100 km)
+Sürülən Təxmini Məsafə (km)
+Yanacağın Orta Qiyməti (zed/l)
+Təxmini Baxım Xərcləri (zedlə)
+Təmizlə
+Hesabla"
+MAT/MA104-CarPurchase,1,4,Azerbaijani / Azeri,aze-QAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Azerbaijani / Azeri,aze-QAZ,Kalkulyatorclose
+MAT/MA104-CarPurchase,2,2,Azerbaijani / Azeri,aze-QAZ,PISA 2022
+MAT/MA104-CarPurchase,2,3,Azerbaijani / Azeri,aze-QAZ,"MAŞIN ALIŞI
+Turanın almaq üçün nəzərdən keçirdiyi dörd maşının qiyməti və yanacaq sərfiyyatı aşağıdakı cədvəldə verilmişdir.
+Yanacaq sərfiyyatı 100 kilometr məsafə sürmək üçün ehtiyac olan yanacağın litrlə miqdarıdır.  Bu, şəhərdə və şəhərlərarası sürməyin birləşməsinə əsaslanan təxmindir.
+Maşın A
+Maşın B
+Maşın C
+Maşın D
+Maşının Qiyməti (zedlə)
+Maşının qiymətinə bütün vergilər və qeydiyyat rüsumu da daxildir.
+8000
+8700
+9900
+10 500
+Yanacaq Sərfiyyatı
+(l/100km)
+18,9
+15,7
+12,4
+14,1
+Xərc Hesablayıcının bəzi xanaları Turanın təxminlərinə əsasən dolduruıub.
+XƏRC HESABLAYICI
+Maşının Qiyməti (zedlə)
+Yanacaq Sərfiyyatı (l/100 km)
+Sürülən Təxmini Məsafə (km)
+20 000
+Yanacağın Orta Qiyməti (zed/l)
+1,54
+Təxmini Baxım Xərcləri (zedlə)
+250
+Təmizlə
+Hesabla
+NƏTİCƏLƏR
+closeOLDU"
+MAT/MA104-CarPurchase,2,4,Azerbaijani / Azeri,aze-QAZ,"Maşın Alışı  Sual 1 / 2
+Xərc Hesablayıcısından İstifadə Qaydaları
+Xərc Hesablayıcısı maşının alınması və ilk il ərzində sürülməsi üçün nə qədər xərc lazım olduğunu müəyyən edəcək.
+Hesablayıcıdan istifadə etmək üçün aşağıdakı addımları izləyin.
+Maşının Qiymətini daxil edin.
+Yanacaq Sərfiyyatını daxil edin.
+""Hesabla"" düyməsini klikləyin. Əldə olunan cavab Nəticələr cədvəlində görünəcək.
+Əlavə hesablamalar aparmaq üçün ""Təmizlə"" düyməsinə klikləyin, yeni dəyərləri əlavə edin; sonra isə yenidən ""Hesabla"" düyməsini klikləyin.
+Nəticələr cədvəlindəki hər hansı bir məlumatı silmək üçün həmin sətrin yanındakı sil düyməsini klikləyin.
+Sağdakı ""Maşın Alışı""-na istinad edin. Aşağıdakı suala cavab vermək üçün Xərc Hesablayıcıdan istifadə edin. Suala cavab vermək üçün seçimi klikləyin.
+Xərc Hesablayıcısından necə istifadə edəcəyinizi görmək üçün ""Xərc Hesablayıcıdan İstifadə Qaydaları""nı klikləyin.
+Turanın təxminlərinə əsasən, hansı maşını almaq və birinci il sürmək ona  ən az xərcə başa gələcək?
+Maşın A
+Maşın B
+Maşın C
+Maşın D"
+MAT/MA104-CarPurchase,2,5,Azerbaijani / Azeri,aze-QAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Azerbaijani / Azeri,aze-QAZ,Kalkulyatorclose
+MAT/MA104-CarPurchase,3,2,Azerbaijani / Azeri,aze-QAZ,PISA 2022
+MAT/MA104-CarPurchase,3,3,Azerbaijani / Azeri,aze-QAZ,"MAŞIN ALIŞI
+Turanın almaq üçün nəzərdən keçirdiyi dörd maşının qiyməti və yanacaq sərfiyyatı aşağıdakı cədvəldə verilmişdir.
+Yanacaq sərfiyyatı 100 kilometr məsafə sürmək üçün ehtiyac olan yanacağın litrlə miqdarıdır.  Bu, şəhərdə və şəhərlərarası sürməyin birləşməsinə əsaslanan təxmindir.
+Maşın A
+Maşın B
+Maşın C
+Maşın D
+Maşının Qiyməti (zedlə)
+Maşının qiymətinə bütün vergilər və qeydiyyat rüsumu da daxildir.
+8000
+8700
+9900
+10 500
+Yanacaq Sərfiyyatı
+(l/100km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Azerbaijani / Azeri,aze-QAZ,"Maşın Alışı  Sual 2 / 2
+Sağdakı ""Maşın Alışı""-na istinad edin. Suala cavab vermək üçün seçimi klikləyin.
+Maşının  yenidən satış qiyməti onun daha sonra yenidən satıla biləcəyi təxmini qiymətə bərabərdir.
+Əla vəziyyətdə qalan maşının dəyəri hər il 5% azalacaqdır.
+Əgər Turan maşın D-ni almağa və üç il sonra əla vəziyyətdə yenidən satmağa qərar verərsə, maşının zedlə təqribi yenidən satış qiyməti nə qədər olacaq?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Azerbaijani / Azeri,aze-QAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Basque,eus-ESP,Kalkulagailuaclose
+MAT/MA104-CarPurchase,1,2,Basque,eus-ESP,PISA
+MAT/MA104-CarPurchase,1,3,Basque,eus-ESP,"Autoaren erosketa  Sarrera
+Irakurri sarrera. Ondoren, egin klik HURRENGOA gezian.
+AUTOAREN EROSKETA
+Tania auto berria erosteko asmotan dabil.  Jakin nahi du zenbat kostatuko zaion auto bat erostea eta lehen urtean erabiltzea.
+Kostu kalkulagailu hau aurkitu du sarean, eta honako estimazio hauek egin ditu:
+Lehen urte horretan autoan egingo duen distantzia estimatua 20 000 km-koa da.
+Erregaiaren batez besteko kostua litroko 1,54 zedekoa izango da.
+Mantentze-lanen kostu estimatua 250 zedekoa da lehen urtean.
+KOSTU KALKULAGAILUA
+Autoaren prezioa (zed)
+Erregai-kontsumoa (L/100 km)
+Gidatutako distantziaren kalkulu estimatua (km)
+Erregaiaren batez besteko kostua litroko (zed/L)
+Mantentze-lanen kostuaren kalkulu estimatua (zed)
+Ezabatu
+Kalkulatu"
+MAT/MA104-CarPurchase,1,4,Basque,eus-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Basque,eus-ESP,Kalkulagailuaclose
+MAT/MA104-CarPurchase,2,2,Basque,eus-ESP,PISA
+MAT/MA104-CarPurchase,2,3,Basque,eus-ESP,"AUTOAREN EROSKETA
+Tania autoa erosteko asmotan dabil, eta beheko taula honetan daude Tania aztertzen ari den lau autoren prezioa eta erregai-kontsumoa.
+Erregai-kontsumoa da 100 kilometro egiteko behar den erregaiaren litroen kopurua. Kalkulu estimatua da, hirian eta autobidean gidatzearen konbinazio batean oinarrituta.
+A autoa
+B autoa
+C autoa
+D autoa
+Autoaren prezioa (zed)
+Autoaren prezioan sartuta daude zerga eta matrikulatze-tasa guztiak.
+8000
+8700
+9900
+10 500
+Erregai-kontsumoa
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Kostu kalkulagailuko gelaxka batzuk beteta daude, Taniaren kalkuluetan oinarrituta.
+KOSTU KALKULAGAILUA
+Autoaren prezioa (zed)
+Erregai-kontsumoa (L/100 km)
+Gidatutako distantziaren kalkulu estimatua (km)
+20 000
+Erregaiaren batez besteko kostua litroko (zed/L)
+1,54
+Mantentze-lanen kostuaren kalkulu estimatua (zed)
+250
+Ezabatu
+Kalkulatu
+EMAITZAK
+closeAdos"
+MAT/MA104-CarPurchase,2,4,Basque,eus-ESP,"Autoaren erosketa  Galdera 1 / 2
+Nola erabili kostu kalkulagailua
+Kostu kalkulagailuak adieraziko du zenbateko kostua izango duen auto bat erosteak eta lehen urtean erabiltzeak.
+Kalkulagailua erabiltzeko, jarraitu urrats hauei:
+Sartu autoaren prezioa.
+Sartu erregai-kontsumoa.
+Egin klik ""Kalkulatu"" botoian. Emaitza ondoko ""Emaitzak"" taulan ageriko da.
+Kalkulu gehiago egiteko, egin klik ""Ezabatu"" botoian, sartu beste balio batzuk eta, ondoren, egin klik ""Kalkulatu"" botoian berriro.
+Emaitzen taulatik datuen ilara bat ezabatzeko, egin klik ilararen ondoko ezabatzeko botoian.
+Begiratu ""Autoaren erosketa"" egoerari eskuinean. Erabili kostu kalkulagailua, lagungarri gisa, beheko galderari erantzuteko. Egin klik aukera batean, galderari erantzuteko.
+Kostu kalkulagailua nola erabiltzen den ikusteko, egin klik ""Nola erabili kostu kalkulagailua"" barran, goian.
+Taniaren estimazioen arabera, zer autok izango luke kosturik txikiena erosi eta lehen urtean erabiltzeko?
+A autoa
+B autoa
+C autoa
+D autoa"
+MAT/MA104-CarPurchase,2,5,Basque,eus-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Basque,eus-ESP,Kalkulagailuaclose
+MAT/MA104-CarPurchase,3,2,Basque,eus-ESP,PISA
+MAT/MA104-CarPurchase,3,3,Basque,eus-ESP,"AUTOAREN EROSKETA
+Tania autoa erosteko asmotan dabil, eta beheko taula honetan daude Tania aztertzen ari den lau autoren prezioa eta erregai-kontsumoa.
+Erregai-kontsumoa da 100 kilometro egiteko behar den erregaiaren litroen kopurua. Kalkulu estimatua da, hirian eta autobidean gidatzearen konbinazio batean oinarrituta.
+A autoa
+B autoa
+C autoa
+D autoa
+Autoaren prezioa (zed)
+Autoaren prezioan sartuta daude zerga eta matrikulatze-tasa guztiak.
+8000
+8700
+9900
+10 500
+Erregai-kontsumoa
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Basque,eus-ESP,"Autoaren erosketa  Galdera 2 / 2
+Begiratu ""Autoaren erosketa"" egoerari eskuinean. Egin klik aukera batean, galderari erantzuteko.
+Auto baten birsalmenta-prezioa da aurreragoan saltzean autoak izan dezakeen prezio estimatua.
+Egoera bikainean dagoen auto baten birsalmenta-prezioa % 5 jaisten da urtero.
+Taniak erabakitzen badu D autoa erostea eta hortik hiru urtera saltzea, egoera bikainean, zein izango da autoaren birsalmenta-prezio hurbildua zedetan?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Basque,eus-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Bokmål,nob-NOR,Kalkulatorclose
+MAT/MA104-CarPurchase,1,2,Bokmål,nob-NOR,PISA
+MAT/MA104-CarPurchase,1,3,Bokmål,nob-NOR,"Bilkjøp  Innledning
+Les innledningen. Klikk deretter på NESTE-pilen.
+BILKJØP
+Trine planlegger å kjøpe en ny bil. Hun ønsker å vite hvor mye det vil koste å kjøpe bilen og bruke den det første året.
+Hun finner denne kostnadskalkulatoren på nettet og gjør følgende beregninger:
+Hun beregner å kjøre omtrent 20 000 km dette året.
+Den gjennomsnittlige prisen på bensin er 1,54 zed per liter.
+Vedlikeholdskostnadene er beregnet til 250 zed det første året.
+KOSTNADSKALKULATOR
+Bilpris (zed)
+Bensinforbruk (l/100 km)
+Beregnet kjørelengde (km)
+Gjennomsnittlig bensinpris (zed/l)
+Beregnet vedlikeholdskostnad (zed)
+Nullstill
+Regn ut"
+MAT/MA104-CarPurchase,1,4,Bokmål,nob-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Bokmål,nob-NOR,Kalkulatorclose
+MAT/MA104-CarPurchase,2,2,Bokmål,nob-NOR,PISA
+MAT/MA104-CarPurchase,2,3,Bokmål,nob-NOR,"BILKJØP
+Prisen og bensinforbruket til fire biler som Trine vurderer å kjøpe, er vist i tabellen nedenfor.
+Bensinforbruket er antall liter bensin som trengs for å kjøre 100 kilometer. Dette er en beregning basert på en kombinasjon av by- og landeveiskjøring.
+Bil A
+Bil B
+Bil C
+Bil D
+Bilpris (zed)
+Bilpris inkluderer alle skatter og avgifter.
+8000
+8700
+9900
+10 500
+Bensinforbruk
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Noen av rutene i kostnadskalkulatoren er fyllt ut basert på Trines beregninger.
+KOSTNADSKALKULATOR
+Bilpris (zed)
+Bensinforbruk (l/100 km)
+Beregnet kjørelengde (km)
+20 000
+Gjennomsnittlig bensinpris (zed/l)
+1,54
+Beregnet vedlikeholdskostnad (zed)
+250
+Nullstill
+Regn ut
+RESULTATER
+closeOK"
+MAT/MA104-CarPurchase,2,4,Bokmål,nob-NOR,"Bilkjøp  Spørsmål 1 / 2
+Hvordan bruke kostnadskalkulatoren
+Kostnadskalkulatoren regner ut hvor mye det koster å kjøpe og bruke en bil det første året.
+Følg disse trinnene for å bruke kalkulatoren:
+Skriv inn Bilpris.
+Skriv inn Bensinforbruk.
+Klikk på ""Regn ut""-knappen. Resultatet vil vises i Resultat-tabellen.
+For å gjøre flere beregninger, klikk på ""Nullstill"", skriv inn nye verdier, og klikk deretter på ""Regn ut""-knappen igjen.
+For å slette en rad med data i Resultat-tabellen, klikk på ""Slett""-knappen ved siden av raden.
+Les ""Bilkjøp"" til høyre. Bruk kostnadskalkulatoren for å svare på spørsmålet nedenfor. Svar på spørsmålet ved å klikke på et av alternativene.
+Klikk på ""Hvordan bruke kostnadskalkulatoren"" ovenfor for å se hvordan du bruker kostnadskalkulatoren.
+Basert på Trines beregninger, hvilken bil vil være billigst for henne å kjøpe og bruke det første året?
+Bil A
+Bil B
+Bil C
+Bil D"
+MAT/MA104-CarPurchase,2,5,Bokmål,nob-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Bokmål,nob-NOR,Kalkulatorclose
+MAT/MA104-CarPurchase,3,2,Bokmål,nob-NOR,PISA
+MAT/MA104-CarPurchase,3,3,Bokmål,nob-NOR,"BILKJØP
+Prisen og bensinforbruket til fire biler som Trine vurderer å kjøpe, er vist i tabellen nedenfor.
+Bensinforbruket er antall liter bensin som trengs for å kjøre 100 kilometer. Dette er en beregning basert på en kombinasjon av by- og landeveiskjøring.
+Bil A
+Bil B
+Bil C
+Bil D
+Bilpris (zed)
+Bilpris inkluderer alle skatter og avgifter.
+8000
+8700
+9900
+10 500
+Bensinforbruk
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Bokmål,nob-NOR,"Bilkjøp  Spørsmål 2 / 2
+Les ""Bilkjøp"" til høyre. Svar på spørsmålet ved å klikke på et av alternativene.
+Bilens bruktpris er den beregnede prisen som bilen kan bli solgt for på et senere tidspunkt.
+For en bil som er i meget god stand, vil bruktprisen synke med 5 % hvert år.
+Omtrent hvor mye vil bruktprisen av bilen være i zed, hvis Trine bestemmer seg for å kjøpe bil D og selge den i meget god stand etter tre år?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Bokmål,nob-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Bosnian,bos-BIH,Digitronclose
+MAT/MA104-CarPurchase,1,2,Bosnian,bos-BIH,PISA 2022
+MAT/MA104-CarPurchase,1,3,Bosnian,bos-BIH,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,4,Bosnian,bos-BIH,"Kupovina automobila    Uvod
+Pročitaj uvod. Zatim klikni na strelicu SLJEDEĆE.
+KUPOVINA AUTOMOBILA
+Tanja planira da kupi novi automobil.  Ona želi da zna koliko će je koštati kupovina automobila i vožnja tokom prve godine.
+Pronašla je na internetu ovaj program za procjenjivanje troškova i pravi sljedeće procjene:
+Ove godine će preći procijenjenu kilometražu od 20 000 km.
+Prosječna cijena goriva će biti 1,54 zeda po litri.
+Troškovi održavanja tokom prve godine su procijenjeni na 250 zeda.
+PROGRAM ZA PROCJENU TROŠKOVA
+Cijena automobila (u zedima)
+Potrošnja goriva (l/100 km)
+Procjena pređenog puta (km)
+Prosječna cijena goriva (zedi/l)
+Procijenjeni troškovi održavanja (u zedima)
+Izbriši
+Izračunaj"
+MAT/MA104-CarPurchase,2,1,Bosnian,bos-BIH,Digitronclose
+MAT/MA104-CarPurchase,2,2,Bosnian,bos-BIH,PISA 2022
+MAT/MA104-CarPurchase,2,3,Bosnian,bos-BIH,"KUPOVINA AUTOMOBILA
+Tanja razmišlja o kupovini nekog od četiri automobila čije cijene i potrošnja goriva su prikazani u tabeli ispod.
+Potrošnja goriva odgovara broju litara goriva na pređenih 100 kilometara puta.  Procjena se zasniva na osnovu kombinacije gradske i vožnje autoputem.
+Automobil A
+Automobil B
+Automobil C
+Automobil D
+Cijena automobila (u zedima)
+Cijena automobila uključuje sve poreze i troškove registracije.
+8 000
+8 700
+9 900
+10 500
+Potrošnja goriva
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Neka od polja u programu za procjenu troškova su popunjena na osnovu Tanjinih procjena.
+PROGRAM ZA PROCJENU TROŠKOVA
+Cijena automobila (u zedima)
+Potrošnja goriva (l/100 km)
+Procjena pređenog puta (km)
+20 000
+Prosječna cijena goriva (zedi/l)
+1,54
+Procijenjeni troškovi održavanja (u zedima)
+250
+Izbriši
+Izračunaj
+REZULTATI
+closeOK"
+MAT/MA104-CarPurchase,2,4,Bosnian,bos-BIH,"Kupovina automobila    Pitanje 1 / 2
+Kako koristiti program za procjenu troškova
+Program za procjenu troškova će odrediti koliko će koštati kupovina automobila i vožnja tokom prve godine.
+Da bi se koristio program za procjenu troškova, prati ove korake:
+Unesi cijenu automobila.
+Unesi potrošnju goriva.
+Klikni na dugme „Izračunaj”. Rezultat će se prikazati u tabeli sa rezultatima.
+Za dodatne izračune klikni na „Izbriši”, unesi nove vrijednosti, a onda ponovo klikni na tipku „Izračunaj”.
+Da bi se bilo koji red podataka izbrisao iz tabele sa rezultatima, klikni na tipku za brisanje uz taj red.
+Koristi informacije iz teksta „Kupovina automobila” s desne strane. Koristi program za procjenu troškova da ti pomogne odgovoriti na pitanje ispod.  Odgovori na pitanje klikom na jednu od ponuđenih opcija.
+Da vidiš kako se koristi program za procjenu troškova, klikni na „Kako koristiti program za procjenu troškova” iznad.
+Na osnovu Tanjinih procjena, kupovina kojeg automobila i vožnja tokom prve godine bi je koštali najmanje?
+Automobil A
+Automobil B
+Automobil C
+Automobil D"
+MAT/MA104-CarPurchase,2,5,Bosnian,bos-BIH,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Bosnian,bos-BIH,Digitronclose
+MAT/MA104-CarPurchase,3,2,Bosnian,bos-BIH,PISA 2022
+MAT/MA104-CarPurchase,3,3,Bosnian,bos-BIH,"KUPOVINA AUTOMOBILA
+Tanja razmišlja o kupovini nekog od četiri automobila čije cijene i potrošnja goriva su prikazani u tabeli ispod.
+Potrošnja goriva odgovara broju litara goriva na pređenih 100 kilometara puta.  Procjena se zasniva na osnovu kombinacije gradske i vožnje autoputem.
+Automobil A
+Automobil B
+Automobil C
+Automobil D
+Cijena automobila (u zedima)
+Cijena automobila uključuje sve poreze i troškove registracije.
+8 000
+8 700
+9 900
+10 500
+Potrošnja goriva
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Bosnian,bos-BIH,"Kupovina automobila    Pitanje 2 / 2
+Koristi informacije iz teksta „Kupovina automobila” s desne strane. Odgovori na pitanje klikom na jednu od ponuđenih opcija.
+Preprodajna cijena automobila je procijenjena cijena za koju se kasnije može preprodati.
+Preprodajna cijena automobila koji je i dalje u odličnom stanju se umanjuje za 5% svake godine.
+Ako Tanja odluči da kupi automobil D, i preproda ga nakon tri godine u odličnom stanju, koja će biti približna preprodajna cijena automobila u zedima?
+1 575
+8 925
+9 000
+9 975"
+MAT/MA104-CarPurchase,3,5,Bosnian,bos-BIH,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Bulgarian,bul-BGR,Калкулаторclose
+MAT/MA104-CarPurchase,1,2,Bulgarian,bul-BGR,PISA
+MAT/MA104-CarPurchase,1,3,Bulgarian,bul-BGR,"Покупка на автомобил  Въведение
+Прочетете въведението. След това кликнете върху стрелката СЛЕДВАЩ.
+ПОКУПКА НА АВТОМОБИЛ
+Таня планира да си купи нов автомобил. Тя иска да разбере колко ще ѝ струва автомобилът и шофирането му през първата година.
+Тя намира онлайн автомобилен калкулатор и прави следните изчисления:
+Тя пресмята, че ще измине приблизително 20 000 km през тази година.
+Средната цена на горивото ще бъде 1,54 зеда за литър.
+Приблизителните разходи за поддръжка на автомобила през първата година ще бъдат 250 зеда.
+АВТОМОБИЛЕН КАЛКУЛАТОР
+Цена на автомобил (зеда)
+Разход на гориво (L/100 km)
+Приблизителен пробег (km)
+Средна цена на гориво (зеда/L)
+Приблизителни разходи за поддръжка (зеда)
+Изчисти
+Изчисли"
+MAT/MA104-CarPurchase,1,4,Bulgarian,bul-BGR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Bulgarian,bul-BGR,Калкулаторclose
+MAT/MA104-CarPurchase,2,2,Bulgarian,bul-BGR,PISA
+MAT/MA104-CarPurchase,2,3,Bulgarian,bul-BGR,"ПОКУПКА НА АВТОМОБИЛ
+В таблицата са показани цените и разходът на гориво на четири автомобила, които Таня си е харесала.
+Разходът на гориво посочва необходимите литри гориво за изминаване на 100 километра. Той е осреднен комбиниран разход при градско и извънградско шофиране.
+Кола А
+Кола Б
+Кола В
+Кола Г
+Цена на автомобил (зеда)
+Цената на автомобила включва всички данъци и регистрационни такси.
+8000
+8700
+9900
+10 500
+Разход на гориво
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Някои от полетата в автомобилния калкулатор са попълнени с изчисленията на Таня.
+АВТОМОБИЛЕН КАЛКУЛАТОР
+Цена на автомобил (зеда)
+Разход на гориво (L/100 km)
+Приблизителен пробег (km)
+20 000
+Средна цена на гориво (зеда/L)
+1,54
+Приблизителни разходи за поддръжка (зеда)
+250
+Изчисти
+Изчисли
+РЕЗУЛТАТИ
+closeОК"
+MAT/MA104-CarPurchase,2,4,Bulgarian,bul-BGR,"Покупка на автомобил  Въпрос 1 / 2
+Как да използвате автомобилния калкулатор
+Автомобилният калкулатор определя разходите за покупка на автомобил и шофирането му през първата година.
+За да видите как работи калкулаторът, следвайте стъпките:
+Въведете цена на колата.
+Въведете разход на гориво.
+Кликнете върху бутона ""Изчисли"". Резултатът ще се появи в таблица ""Резултати"".
+За да направите още изчисления, кликнете върху ""Изчисти"", въведете нови стойности и след това отново кликнете върху бутона ""Изчисли"".
+За да изтриете ред с данни от таблицата ""Резултати"", кликнете върху бутона ""Изтрий“ в края на реда.
+Използвайте ""Покупка на кола"" вдясно. Използвайте автомобилния калкулатор, за да отговорите на въпроса.  Кликнете върху отговора, който смятате за правилен.
+За да видите как работи калкулаторът, кликнете върху ""Как да използвате автомобилния калкулатор"".
+Според изчисленията на Таня, коя кола ще струва най-малко да си купи и да шофира през първата година?
+Кола А
+Кола Б
+Кола В
+Кола Г"
+MAT/MA104-CarPurchase,2,5,Bulgarian,bul-BGR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Bulgarian,bul-BGR,Калкулаторclose
+MAT/MA104-CarPurchase,3,2,Bulgarian,bul-BGR,PISA
+MAT/MA104-CarPurchase,3,3,Bulgarian,bul-BGR,"ПОКУПКА НА АВТОМОБИЛ
+В таблицата са показани цените и разходът на гориво на четири автомобила, които Таня си е харесала.
+Разходът на гориво посочва необходимите литри гориво за изминаване на 100 километра. Той е осреднен комбиниран разход при градско и извънградско шофиране.
+Кола А
+Кола Б
+Кола В
+Кола Г
+Цена на автомобил (зеда)
+Цената на автомобила включва всички данъци и регистрационни такси.
+8000
+8700
+9900
+10 500
+Разход на гориво
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Bulgarian,bul-BGR,"Покупка на автомобил  Въпрос 2 / 2
+Използвайте ""Покупка на кола"" вдясно. Кликнете върху отговора, който смятате за правилен.
+Препродажната цена на една кола е приблизителната цена, за която тя може да бъде препродадена след време.
+Всяка година препродажната цена на кола в отлично състояние намалява с 5%.
+Ако Таня реши да купи кола Г и я препродаде след 3 години в отлично състояние, каква ще бъде приблизителната препродажна цена на колата в зедове?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Bulgarian,bul-BGR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Catalan,cat-ESP,Calculadoraclose
+MAT/MA104-CarPurchase,1,2,Catalan,cat-ESP,PISA
+MAT/MA104-CarPurchase,1,3,Catalan,cat-ESP,"Compra d'un cotxe  Introducció
+Llegeix la introducció. A continuació clica la fletxa SEGÜENT.
+COMPRA D'UN COTXE
+La Tània vol comprar-se un cotxe nou. Vol saber quant costarà comprar un cotxe i conduir-lo durant el primer any.
+Troba aquest estimador de costos en línia i fa les estimacions següents:
+Aquest any conduirà una distància estimada de 20 000 km.
+El cost mitjà del combustible serà d'1,54 zeds per litre.
+Els costos de manteniment estimats són de 250 zeds durant el primer any.
+ESTIMADOR DE COSTOS
+Preu del cotxe (zeds)
+Consum de combustible (L/100 km)
+Distància conduïda estimada (km)
+Cost mitjà del combustible (zeds/L)
+Costos de manteniment estimats (zeds)
+Esborra
+Calcula"
+MAT/MA104-CarPurchase,1,4,Catalan,cat-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Catalan,cat-ESP,Calculadoraclose
+MAT/MA104-CarPurchase,2,2,Catalan,cat-ESP,PISA
+MAT/MA104-CarPurchase,2,3,Catalan,cat-ESP,"COMPRA D'UN COTXE
+A la taula següent es mostren el preu i el consum de combustible de quatre cotxes que la Tània s'està plantejant comprar.
+El consum de combustible és el nombre de litres de combustible necessaris per conduir 100 quilòmetres. Es tracta d'una estimació basada en una combinació de conducció per ciutat i per carretera.
+Cotxe A
+Cotxe B
+Cotxe C
+Cotxe D
+Preu del cotxe (zeds)
+El preu del cotxe inclou tots els impostos i les taxes de matriculació.
+8000
+8700
+9900
+10 500
+Consum de combustible
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Algunes de les cel·les de l'estimador de costos s'han omplert segons les estimacions de la Tània.
+ESTIMADOR DE COSTOS
+Preu del cotxe (zeds)
+Consum de combustible (L/100 km)
+Distància conduïda estimada (km)
+20 000
+Cost mitjà del combustible (zeds/L)
+1,54
+Costos de manteniment estimats (zeds)
+250
+Esborra
+Calcula
+RESULTATS
+closeD'acord"
+MAT/MA104-CarPurchase,2,4,Catalan,cat-ESP,"Compra d'un cotxe  Pregunta 1 / 2
+Com utilitzar l'estimador de costos
+L'estimador de costos determinarà quant costarà comprar el cotxe i conduir-lo durant el primer any.
+Per utilitzar l'estimador, segueix aquests passos:
+Introdueix el preu del cotxe.
+Introdueix el consum de combustible.
+Clica el botó ""Calcula"". El resultat es mostrarà a la taula de resultats.
+Per fer càlculs addicionals, clica ""Esborra"", introdueix valors nous i clica el botó ""Calcula"" de nou.
+Per suprimir qualsevol fila de dades de la taula de resultats, clica el botó de supressió situat al costat de la fila.
+Consulta ""Compra d'un cotxe"" a la dreta. Utilitza l'estimador de costos per ajudar-te a respondre la pregunta següent. Clica una opció per respondre la pregunta.
+Per veure com s'utilitza l'estimador de costos, clica a ""Com utilitzar l'estimador de costos"" més amunt.
+Segons les estimacions de la Tània, quin cotxe li costaria menys comprar i conduir durant el primer any?
+Cotxe A
+Cotxe B
+Cotxe C
+Cotxe D"
+MAT/MA104-CarPurchase,2,5,Catalan,cat-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Catalan,cat-ESP,Calculadoraclose
+MAT/MA104-CarPurchase,3,2,Catalan,cat-ESP,PISA
+MAT/MA104-CarPurchase,3,3,Catalan,cat-ESP,"COMPRA D'UN COTXE
+A la taula següent es mostren el preu i el consum de combustible de quatre cotxes que la Tània s'està plantejant comprar.
+El consum de combustible és el nombre de litres de combustible necessaris per conduir 100 quilòmetres. Es tracta d'una estimació basada en una combinació de conducció per ciutat i per carretera.
+Cotxe A
+Cotxe B
+Cotxe C
+Cotxe D
+Preu del cotxe (zeds)
+El preu del cotxe inclou tots els impostos i les taxes de matriculació.
+8000
+8700
+9900
+10 500
+Consum de combustible
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Catalan,cat-ESP,"Compra d'un cotxe  Pregunta 2 / 2
+Consulta ""Compra d'un cotxe"" a la dreta. Clica una opció per respondre la pregunta.
+El preu de revenda d'un cotxe és el preu estimat pel qual es pot tornar a vendre més endavant.
+Per un cotxe que es manté en unes excel·lents condicions, el seu preu de revenda disminuirà un 5 % cada any.
+Si la Tània decideix comprar el cotxe D i revendre'l després de tres anys en excel·lents condicions, quin serà el preu aproximat de revenda del cotxe en zeds?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Catalan,cat-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Chinese,zho-CHN,计算器close
+MAT/MA104-CarPurchase,1,2,Chinese,zho-CHN,PISA
+MAT/MA104-CarPurchase,1,3,Chinese,zho-CHN,"购买汽车  简介
+阅读简介， 然后点击“下一页”的箭头。
+购买汽车
+田妮打算购买一辆新车。 她想知道购买一辆汽车，加上第一年行驶的费用是多少。
+她在网上找到了这个成本估算器并进行了以下估算：
+她估计今年会行驶的距离为 20000 千米。
+燃油的平均成本为每升 1.54 zeds。
+第一年的预估维修保养成本为 250 zeds。
+成本估算器
+汽车价格 (zeds)
+耗油量 (L/100 km)
+预估驾驶距离 (km)
+平均燃油成本 (zeds/L)
+预估维修保养成本 (zeds)
+清除
+计算"
+MAT/MA104-CarPurchase,1,4,Chinese,zho-CHN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Chinese,zho-CHN,计算器close
+MAT/MA104-CarPurchase,2,2,Chinese,zho-CHN,PISA
+MAT/MA104-CarPurchase,2,3,Chinese,zho-CHN,"购买汽车
+田妮考虑购买的四款汽车的价格和耗油量如下表所示。
+耗油量是驾驶 100 千米需要消耗的燃油升数。 这是综合了城市和高速公路行驶情形的估算值。
+汽车 A
+汽车 B
+汽车 C
+汽车 D
+汽车价格 (zeds)
+汽车价格包括所有税款和注册费。
+8000
+8700
+9900
+10500
+耗油量
+(L/100 km)
+18.9
+15.7
+12.4
+14.1
+成本估算器中的一些格子已经根据田妮的估算值填写了。
+成本估算器
+汽车价格 (zeds)
+耗油量 (L/100 km)
+预估驾驶距离 (km)
+20000
+平均燃油成本 (zeds/L)
+1.54
+预估维修保养成本 (zeds)
+250
+清除
+计算
+结果
+close确定"
+MAT/MA104-CarPurchase,2,4,Chinese,zho-CHN,"购买汽车  问题 1 / 2
+如何使用成本估算器
+成本估算器会确定购买一辆汽车，加上第一年行驶的费用是多少。
+按照下列步骤使用计算器：
+输入汽车价格。
+输入耗油量。
+点击“计算”按钮。 结果会显示在“结果”表中。
+要进行更多计算，请点击“清除”，输入新数值，然后再次点击“计算”按钮。
+要从”结果“表中删除任何数据行，请点击该行旁边的”删除“按钮。
+根据右侧的材料“购买汽车”， 使用成本估算器来帮助你回答以下问题。 点击一个选项来回答本题。
+要了解如何使用成本估算器，请点击上面的“如何使用成本估算器”。
+根据田妮的估算，购买哪辆汽车，会让她购买汽车和第一年行驶的合计费用最少？
+汽车 A
+汽车 B
+汽车 C
+汽车 D"
+MAT/MA104-CarPurchase,2,5,Chinese,zho-CHN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Chinese,zho-CHN,计算器close
+MAT/MA104-CarPurchase,3,2,Chinese,zho-CHN,PISA
+MAT/MA104-CarPurchase,3,3,Chinese,zho-CHN,"购买汽车
+田妮考虑购买的四款汽车的价格和耗油量如下表所示。
+耗油量是驾驶 100 千米需要消耗的燃油升数。 这是综合了城市和高速公路行驶情形的估算值。
+汽车 A
+汽车 B
+汽车 C
+汽车 D
+汽车价格 (zeds)
+汽车价格包括所有税款和注册费。
+8000
+8700
+9900
+10500
+耗油量
+(L/100 km)
+18.9
+15.7
+12.4
+14.1"
+MAT/MA104-CarPurchase,3,4,Chinese,zho-CHN,"购买汽车  问题 2 / 2
+根据右侧的材料“购买汽车”， 点击一个选项来回答本题。
+汽车的转售价格是指其以后转售时可以卖出的估计价格。
+对于保持良好车况的汽车，其转售价格每年递减 5%。
+如果田妮决定购买汽车 D 并于三年后在良好车况下转售，那么这辆汽车的转售价格大约是多少 (zeds)？
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Chinese,zho-CHN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Croatian,hrv-HRV,Kalkulatorclose
+MAT/MA104-CarPurchase,1,2,Croatian,hrv-HRV,PISA
+MAT/MA104-CarPurchase,1,3,Croatian,hrv-HRV,"Kupnja automobila    Uvod
+Pročitaj uvod,  a zatim klikni na strelicu SLJEDEĆE.
+KUPNJA AUTOMOBILA
+Tanja planira kupiti novi automobil. Želi znati koliko bi je koštala kupnja i korištenje automobila u prvih godinu dana.
+Na internetu pronalazi ""Procjenitelj troškova"" te procjenjuje sljedeće:
+Ove će godine prijeći procijenjenu udaljenost od 20 000 km.
+Prosječni trošak goriva iznosit će 1.54 zeda po litri.
+Troškovi održavanja u prvoj godini procijenjeni su na 250 zeda.
+PROCJENITELJ TROŠKOVA
+Cijena automobila (u zedima)
+Potrošnja goriva (L/100 km)
+Procjena prijeđene udaljenosti (km)
+Prosječan trošak goriva (zed/L)
+Procijenjeni troškovi održavanja (u zedima)
+Obriši
+Izračunaj"
+MAT/MA104-CarPurchase,1,4,Croatian,hrv-HRV,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Croatian,hrv-HRV,Kalkulatorclose
+MAT/MA104-CarPurchase,2,2,Croatian,hrv-HRV,PISA
+MAT/MA104-CarPurchase,2,3,Croatian,hrv-HRV,"KUPNJA AUTOMOBILA
+U donjoj tablici navedene su cijene i potrošnja goriva za četiri automobila koje Tanja razmatra.
+Potrošnja goriva odnosi se na broj litara goriva potrebnih da se prijeđe 100 kilometara. Riječ je o procjeni temeljenoj na kombinaciji gradske vožnje i vožnje autocestom.
+Automobil A
+Automobil B
+Automobil C
+Automobil D
+Cijena automobila (u zedima)
+Cijena automobila uključuje sve poreze i troškove registracije
+8000
+8700
+9900
+10 500
+Potrošnja goriva
+(L/100 km)
+18.9
+15.7
+12.4
+14.1
+Neke od kućica u Procjenitelju troškova popunjene su na temelju Tanjinih procjena.
+PROCJENITELJ TROŠKOVA
+Cijena automobila (u zedima)
+Potrošnja goriva (L/100 km)
+Procjena prijeđene udaljenosti (km)
+20 000
+Prosječan trošak goriva (zed/L)
+1.54
+Procijenjeni troškovi održavanja (u zedima)
+250
+Obriši
+Izračunaj
+REZULTATI
+closeOK"
+MAT/MA104-CarPurchase,2,4,Croatian,hrv-HRV,"Kupnja automobila    Pitanje 1 / 2
+Kako koristiti Procjenitelj troškova
+Procjenitelj troškova izračunava koliko će koštati kupnja i korištenje automobila u prvih godinu dana.
+Za korištenje Procjenitelja troškova slijedi ove korake:
+Unesi cijenu automobila.
+Unesi potrošnju goriva.
+Klikni na gumb ""Izračunaj"".  Rezultat će biti prikazan u tablici ""Rezultati"".
+Za novi izračun, klikni na ""Obriši"", unesi nove vrijednosti, a zatim ponovno klikni na gumb ""Izračunaj"".
+Ako želiš obrisati neki redak podataka u tablici s rezultatima, klikni na gumb za brisanje pokraj tog retka.
+Prouči ""Kupnju automobila"" na desnoj strani. Odgovori na donje pitanje služeći se Procjeniteljem troškova. Odgovori na pitanje klikom na jedan od ponuđenih odgovora.
+Da bi saznao/la kako koristiti Procjenitelj troškova, klikni na ""Kako koristiti Procjenitelj troškova"".
+Na temelju Tanjinih procjena, za koji bi automobil troškovi kupnje i korištenja tijekom prve godine bili najmanji?
+Za automobil A
+Za automobil B
+Za automobil C
+Za automobil D"
+MAT/MA104-CarPurchase,2,5,Croatian,hrv-HRV,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Croatian,hrv-HRV,Kalkulatorclose
+MAT/MA104-CarPurchase,3,2,Croatian,hrv-HRV,PISA
+MAT/MA104-CarPurchase,3,3,Croatian,hrv-HRV,"KUPNJA AUTOMOBILA
+U donjoj tablici navedene su cijene i potrošnja goriva za četiri automobila koje Tanja razmatra.
+Potrošnja goriva odnosi se na broj litara goriva potrebnih da se prijeđe 100 kilometara. Riječ je o procjeni temeljenoj na kombinaciji gradske vožnje i vožnje autocestom.
+Automobil A
+Automobil B
+Automobil C
+Automobil D
+Cijena automobila (u zedima)
+Cijena automobila uključuje sve poreze i troškove registracije
+8000
+8700
+9900
+10 500
+Potrošnja goriva
+(L/100 km)
+18.9
+15.7
+12.4
+14.1"
+MAT/MA104-CarPurchase,3,4,Croatian,hrv-HRV,"Kupnja automobila    Pitanje 2 / 2
+Prouči ""Kupnju automobila"" na desnoj strani. Odgovori na pitanje klikom na jedan od ponuđenih odgovora.
+Preprodajna cijena automobila je procjena cijene za koju ga kasnije može preprodati.
+Preprodajna cijena automobila koji je još u odličnom stanju svake godine se smanjuje za 5%.
+Ako Tanja odluči kupiti automobil D i preprodati ga u odličnom stanju nakon tri godine, koja će otprilike biti preprodajna cijena automobila u zedima?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Croatian,hrv-HRV,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Czech,ces-CZE,Kalkulačkaclose
+MAT/MA104-CarPurchase,1,2,Czech,ces-CZE,PISA
+MAT/MA104-CarPurchase,1,3,Czech,ces-CZE,"Nákup auta   Úvod
+Přečti si úvod. Pak klikni na šipku DALŠÍ.
+NÁKUP AUTA
+Táňa by si ráda koupila nové auto. Chce vědět, kolik bude auto stát a na kolik přijde jeho provoz v prvním roce.
+Na internetu si našla kalkulačku odhadu nákladůa předpokládá, že:
+V letošním roce ujede asi 20 000 km.
+Průměrná cena paliva bude 1,54 zedu za litr.
+Odhadované náklady na údržbu budou v prvním roce 250 zedů.
+KALKULAČKA ODHADU NÁKLADŮ
+Cena auta (zedy)
+Spotřeba paliva (l/100 km)
+Odhad ujeté vzdálenosti (km)
+Průměrná cena paliva (zedy/l)
+Odhadované náklady na údržbu (zedy)
+Vymazat
+Vypočítat"
+MAT/MA104-CarPurchase,1,4,Czech,ces-CZE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Czech,ces-CZE,Kalkulačkaclose
+MAT/MA104-CarPurchase,2,2,Czech,ces-CZE,PISA
+MAT/MA104-CarPurchase,2,3,Czech,ces-CZE,"NÁKUP AUTA
+Ceny a spotřeba paliva čtyř aut, jejichž nákup Táňa zvažuje, jsou uvedeny v tabulce.
+Spotřeba paliva je počet litrů pohonných hmot potřebný k ujetí 100 kilometrů. Je to odhad na základě kombinace jízdy ve městě i po dálnici.
+Auto A
+Auto B
+Auto C
+Auto D
+Cena auta (zedy)
+Cena auta zahrnuje všechny daně a registrační poplatky.
+8 000
+8 700
+9 900
+10 500
+Spotřeba paliva
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Některá políčka v kalkulačce odhadu nákladů byla vyplněna na základě Tániných odhadů.
+KALKULAČKA ODHADU NÁKLADŮ
+Cena auta (zedy)
+Spotřeba paliva (l/100 km)
+Odhad ujeté vzdálenosti (km)
+20 000
+Průměrná cena paliva (zedy/l)
+1,54
+Odhadované náklady na údržbu (zedy)
+250
+Vymazat
+Vypočítat
+VÝSLEDKY
+closeOK"
+MAT/MA104-CarPurchase,2,4,Czech,ces-CZE,"Nákup auta   Otázka 1 / 2
+Jak používat kalkulačku odhadu nákladů
+Kalkulačka odhadu nákladů spočítá, kolik bude stát nákup a provoz auta v prvním roce.
+Při používání kalkulačky odhadu dodržuj tyto kroky:
+Zadej cenu auta.
+Zadej spotřebu paliva.
+Klikni na tlačítko „Vypočítat“. Výsledek se zobrazí v tabulce s výsledky.
+Pro další výpočty klikni na „Vymazat“, zadej nové hodnoty, pak znovu klikni na tlačítko „Vypočítat“.
+Řádek s údaji můžeš odstranit kliknutím na tlačítko „Odstranit“ vedle tohoto řádku.
+Prostuduj si úlohu „Nákup auta“ na pravé straně. S využitím kalkulačky odhadu nákladů odpověz na otázku. Odpověz na otázku kliknutím na jednu z možností.
+Návod práce s kalkulačkou odhadu nákladů zobrazíš kliknutím na „Jak používat kalkulačku odhadu nákladů“ výše.
+Které auto bude podle Tániných odhadů (nákup a roční provoz) nejlevnější?
+Auto A
+Auto B
+Auto C
+Auto D"
+MAT/MA104-CarPurchase,2,5,Czech,ces-CZE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Czech,ces-CZE,Kalkulačkaclose
+MAT/MA104-CarPurchase,3,2,Czech,ces-CZE,PISA
+MAT/MA104-CarPurchase,3,3,Czech,ces-CZE,"NÁKUP AUTA
+Ceny a spotřeba paliva čtyř aut, jejichž nákup Táňa zvažuje, jsou uvedeny v tabulce.
+Spotřeba paliva je počet litrů pohonných hmot potřebný k ujetí 100 kilometrů. Je to odhad na základě kombinace jízdy ve městě i po dálnici.
+Auto A
+Auto B
+Auto C
+Auto D
+Cena auta (zedy)
+Cena auta zahrnuje všechny daně a registrační poplatky.
+8 000
+8 700
+9 900
+10 500
+Spotřeba paliva
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Czech,ces-CZE,"Nákup auta   Otázka 2 / 2
+Prostuduj si úlohu „Nákup auta“ na pravé straně. Odpověz na otázku kliknutím na jednu z
+možností.
+Prodejní cena ojetého auta je odhadovaná cena, za kterou by se auto později dalo prodat.
+U auta ve vynikajícím stavu se každý rok sníží jeho prodejní cena o 5 %.
+Jaká bude přibližná prodejní cena auta (v zedech), pokud se Táňa rozhodne koupit auto D a po třech letech ho ve vynikajícím stavu prodá?
+1 575
+8 925
+9 000
+9 975"
+MAT/MA104-CarPurchase,3,5,Czech,ces-CZE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Danish,dan-DNK,Lommeregnerclose
+MAT/MA104-CarPurchase,1,2,Danish,dan-DNK,PISA
+MAT/MA104-CarPurchase,1,3,Danish,dan-DNK,"Bilkøb  Introduktion
+Læs introduktionen. Klik derefter på NÆSTE-pilen.
+BILKØB
+Tanja planlægger at købe en ny bil. Hun ønsker at vide, hvor meget det koster at købe en bil og køre i den det første år.
+Hun finder omkostningsestimatoren online og foretager følgende estimater:
+Hun estimerer, at hun vil køre 20.000 km i år.
+Den gennemsnitlige brændstofpris er 1,54 zed per liter.
+Hun estimerer vedligeholdelsesomkostningerne til at være 250 zed det første år.
+OMKOSTNINGSESTIMATOR
+Bilens pris (i zed)
+Brændstofforbrug (L/100 km)
+Estimeret kørt distance (km)
+Gennemsnitlig pris på brændstof (zed/L)
+Estimerede vedligeholdelsesomkostninger (zed)
+Ryd
+Beregn"
+MAT/MA104-CarPurchase,1,4,Danish,dan-DNK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Danish,dan-DNK,Lommeregnerclose
+MAT/MA104-CarPurchase,2,2,Danish,dan-DNK,PISA
+MAT/MA104-CarPurchase,2,3,Danish,dan-DNK,"BILKØB
+Priserne og brændstofforbruget for fire biler, som Tanja overvejer at købe, er vist i tabellen nedenfor.
+Brændstofforbruget er det antal liter brændstof, der skal bruges til at køre 100 kilometer. Det er et estimat baseret på en kombination af by- og motorvejskørsel.
+Bil A
+Bil B
+Bil C
+Bil D
+Bilens pris (i zed)
+Bilens pris er inklusive alle afgifter og registreringsgebyrer.
+8.000
+8.700
+9.900
+10.500
+Brændstofforbrug
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Nogle af cellerne i omkostningsestimatoren er udfyldt på grundlag af Tanjas estimater.
+OMKOSTNINGSESTIMATOR
+Bilens pris (i zed)
+Brændstofforbrug (L/100 km)
+Estimeret kørt distance (km)
+20.000
+Gennemsnitlig pris på brændstof (zed/L)
+1,54
+Estimerede vedligeholdelsesomkostninger (zed)
+250
+Ryd
+Beregn
+RESULTATER
+closeOk"
+MAT/MA104-CarPurchase,2,4,Danish,dan-DNK,"Bilkøb  Spørgsmål 1 / 2
+Sådan bruges omkostningsestimatoren
+Omkostningsestimatoren fastsætter, hvor meget det koster at købe en bil og køre i den det første år.
+Følg disse trin for at bruge estimatoren:
+Indtast bilens pris.
+Indtast brændstofforbruget.
+Klik på ""Beregn""-knappen. Resultatet vises i resultattabellen.
+For at køre yderligere beregninger så klik på ""Ryd""; indtast de nye værdier, og klik dernæst på ""Beregn""-knappen igen.
+For at slette en datarække fra resultattabellen så klik på sletknappen ved siden af denne række.
+Tag udgangspunkt i informationen i ""Bilkøb"" til højre. Anvend omkostningsestimatoren til at hjælpe dig med at besvare spørgsmålet nedenfor. Klik på én af svarmulighederne for at besvare spørgsmålet.
+Klik på ""Sådan bruges omkostningsestimatoren"" ovenfor for at se, hvordan du bruger omkostningsestimatoren.
+Hvilken bil koster mindst at købe og køre i det første år ud fra Tanjas estimater?
+Bil A
+Bil B
+Bil C
+Bil D"
+MAT/MA104-CarPurchase,2,5,Danish,dan-DNK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Danish,dan-DNK,Lommeregnerclose
+MAT/MA104-CarPurchase,3,2,Danish,dan-DNK,PISA
+MAT/MA104-CarPurchase,3,3,Danish,dan-DNK,"BILKØB
+Priserne og brændstofforbruget for fire biler, som Tanja overvejer at købe, er vist i tabellen nedenfor.
+Brændstofforbruget er det antal liter brændstof, der skal bruges til at køre 100 kilometer. Det er et estimat baseret på en kombination af by- og motorvejskørsel.
+Bil A
+Bil B
+Bil C
+Bil D
+Bilens pris (i zed)
+Bilens pris er inklusive alle afgifter og registreringsgebyrer.
+8.000
+8.700
+9.900
+10.500
+Brændstofforbrug
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Danish,dan-DNK,"Bilkøb  Spørgsmål 2 / 2
+Tag udgangspunkt i informationen i ""Bilkøb"" til højre. Klik på én af svarmulighederne for at besvare spørgsmålet.
+En bils videresalgspris er den estimerede pris, den kan videresælges til på et senere tidspunkt.
+For en bil, som fortsat er i rigtig god stand, vil videresalgsprisen falde med 5 % om året.
+Hvis Tanja beslutter at købe bil D og videresælge den efter tre år, hvor høj vil den omtrentlige videresalgspris på bilen i zed så være på dette tidspunkt, hvis den fortsat er i rigtig god stand?
+1.575
+8.925
+9.000
+9.975"
+MAT/MA104-CarPurchase,3,5,Danish,dan-DNK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Dutch,nld-NLD,Rekenmachineclose
+MAT/MA104-CarPurchase,1,2,Dutch,nld-NLD,PISA
+MAT/MA104-CarPurchase,1,3,Dutch,nld-NLD,"Aankoop auto  Inleiding
+Lees de inleiding. Klik daarna op de pijl VOLGENDE.
+AANKOOP AUTO
+Tanja is van plan een nieuwe auto te kopen. Ze wil weten hoeveel het kost om een auto te kopen en er het eerste jaar in te rijden.
+Ze vindt deze Kostenschatter op internet en maakt de volgende schattingen:
+Ze zal dit jaar een geschatte afstand van 20 000 km afleggen.
+De gemiddelde brandstofkosten zullen 1,54 zed per liter zijn.
+De geschatte onderhoudskosten zijn 250 zed in het eerste jaar.
+KOSTENSCHATTER
+Autoprijs (zed)
+Brandstofverbruik (l/100 km)
+Geschatte gereden afstand (km)
+Gemiddelde brandstofkosten (zed/l)
+Geschatte onderhoudskosten (zed)
+Wissen
+Berekenen"
+MAT/MA104-CarPurchase,1,4,Dutch,nld-NLD,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Dutch,nld-NLD,Rekenmachineclose
+MAT/MA104-CarPurchase,2,2,Dutch,nld-NLD,PISA
+MAT/MA104-CarPurchase,2,3,Dutch,nld-NLD,"AANKOOP AUTO
+De prijzen en het brandstofverbruik van vier auto's die Tanja overweegt te kopen, worden getoond in onderstaande tabel.
+Brandstofverbruik is het aantal liters brandstof dat nodig is om 100 kilometer te rijden. Het is een schatting op basis van een combinatie van rijden in de stad en op de snelweg.
+Auto A
+Auto B
+Auto C
+Auto D
+Autoprijs (zed)
+Autoprijs is inclusief alle belastingen en registratiekosten.
+8000
+8700
+9900
+10 500
+Brandstofverbruik
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Sommige cellen in de Kostenschatter zijn ingevuld op basis van Tanja's schattingen.
+KOSTENSCHATTER
+Autoprijs (zed)
+Brandstofverbruik (l/100 km)
+Geschatte gereden afstand (km)
+20 000
+Gemiddelde brandstofkosten (zed/l)
+1,54
+Geschatte onderhoudskosten (zed)
+250
+Wissen
+Berekenen
+RESULTATEN
+closeOK"
+MAT/MA104-CarPurchase,2,4,Dutch,nld-NLD,"Aankoop auto  Vraag 1 / 2
+Hoe je de Kostenschatter moet gebruiken
+De Kostenschatter zal bepalen hoeveel het kost om een auto te kopen en er het eerste jaar in te rijden.
+Volg deze stappen om de Kostenschatter te gebruiken:
+Vul de Autoprijs in.
+Vul het Brandstofverbruik in.
+Klik op de knop 'Berekenen'. Het resultaat wordt in de Resultatentabel getoond.
+Om meer berekeningen uit te voeren, klik op 'Wissen', vul nieuwe waarden in en klik opnieuw op de knop 'Berekenen'.
+Om een rij gegevens uit de Resultatentabel te wissen, klik je op de knop wissen naast die rij.
+Raadpleeg 'Aankoop auto' aan de rechterkant. Gebruik de Kostenschatter als hulpmiddel bij het beantwoorden van de onderstaande vraag. Beantwoord de vraag door één van de opties aan te klikken.
+Om te zien hoe je de Kostenschatter gebruikt, klik je op 'Hoe je de Kostenschatter moet gebruiken' hierboven.
+Welke auto zou Tanja, op basis van haar schattingen, het minste kosten om te kopen en in te rijden in het eerste jaar?
+Auto A
+Auto B
+Auto C
+Auto D"
+MAT/MA104-CarPurchase,2,5,Dutch,nld-NLD,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Dutch,nld-NLD,Rekenmachineclose
+MAT/MA104-CarPurchase,3,2,Dutch,nld-NLD,PISA
+MAT/MA104-CarPurchase,3,3,Dutch,nld-NLD,"AANKOOP AUTO
+De prijzen en het brandstofverbruik van vier auto's die Tanja overweegt te kopen, worden getoond in onderstaande tabel.
+Brandstofverbruik is het aantal liters brandstof dat nodig is om 100 kilometer te rijden. Het is een schatting op basis van een combinatie van rijden in de stad en op de snelweg.
+Auto A
+Auto B
+Auto C
+Auto D
+Autoprijs (zed)
+Autoprijs is inclusief alle belastingen en registratiekosten.
+8000
+8700
+9900
+10 500
+Brandstofverbruik
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Dutch,nld-NLD,"Aankoop auto  Vraag 2 / 2
+Raadpleeg 'Aankoop auto' aan de rechterkant. Beantwoord de vraag door één van de opties aan te klikken.
+De doorverkoopprijs van een auto is de geschatte prijs waarvoor hij later kan worden doorverkocht.
+Voor een auto die in uitstekende staat blijft, zal de doorverkoopprijs elk jaar met 5% dalen.
+Als Tanja besluit om auto D te kopen en deze na drie jaar in uitstekende staat door te verkopen, wat zal dan ongeveer de doorverkoopprijs van de auto in zed zijn?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Dutch,nld-NLD,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,English,eng-CAN,Calculatorclose
+MAT/MA104-CarPurchase,1,2,English,eng-CAN,PISA
+MAT/MA104-CarPurchase,1,3,English,eng-CAN,"Car Purchase  Introduction
+Read the introduction. Then click on the NEXT arrow.
+CAR PURCHASE
+Tania is planning to purchase a new car. She wants to know how much it will cost to purchase a car and drive it for the first year.
+She finds this Cost Estimator online and makes the following estimates:
+She will drive an estimated distance of 20 000 km this year.
+The average cost of fuel will be 1.54 zeds per litre.
+The estimated maintenance costs are 250 zeds in the first year.
+COST ESTIMATOR
+Car Price (zeds)
+Fuel Consumption (L/100 km)
+Estimated Distance Driven (km)
+Average Cost of Fuel (zeds/L)
+Estimated Maintenance Costs (zeds)
+Clear
+Calculate"
+MAT/MA104-CarPurchase,1,4,English,eng-CAN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,English,eng-CAN,Calculatorclose
+MAT/MA104-CarPurchase,2,2,English,eng-CAN,PISA
+MAT/MA104-CarPurchase,2,3,English,eng-CAN,"CAR PURCHASE
+The prices and fuel consumption of four cars that Tania is considering purchasing are shown in the table below.
+Fuel consumption is the number of litres of fuel needed to drive 100 kilometres. It is an estimate based on a combination of city and highway driving.
+Car A
+Car B
+Car C
+Car D
+Car Price (zeds)
+Car price includes all taxes and registration fees.
+8000
+8700
+9900
+10 500
+Fuel Consumption
+(L/100 km)
+18.9
+15.7
+12.4
+14.1
+Some of the cells in the Cost Estimator have been filled in based on Tania’s estimates.
+COST ESTIMATOR
+Car Price (zeds)
+Fuel Consumption (L/100 km)
+Estimated Distance Driven (km)
+20 000
+Average Cost of Fuel (zeds/L)
+1.54
+Estimated Maintenance Costs (zeds)
+250
+Clear
+Calculate
+RESULTS
+closeOK"
+MAT/MA104-CarPurchase,2,4,English,eng-CAN,"Car Purchase  Question 1 / 2
+How to Use the Cost Estimator
+The Cost Estimator will determine how much a car will cost to purchase and drive in the first year.
+To use the estimator, follow these steps:
+Enter the Car Price.
+Enter the Fuel Consumption.
+Click on the “Calculate” button. The result will display in the Results table.
+To run additional calculations, click on “Clear”, enter new values, then click on the “Calculate” button again.
+To delete any row of data from the Results table, click on the delete button next to that row.
+Refer to “Car Purchase” on the right. Use the Cost Estimator to help you answer the question below. Click on a choice to answer the question.
+To see how to use the Cost Estimator, click on “How to Use the Cost Estimator” above.
+Based on Tania’s estimates, which car would cost her the least to purchase and drive in the first year?
+Car A
+Car B
+Car C
+Car D"
+MAT/MA104-CarPurchase,2,5,English,eng-CAN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,English,eng-CAN,Calculatorclose
+MAT/MA104-CarPurchase,3,2,English,eng-CAN,PISA
+MAT/MA104-CarPurchase,3,3,English,eng-CAN,"CAR PURCHASE
+The prices and fuel consumption of four cars that Tania is considering purchasing are shown in the table below.
+Fuel consumption is the number of litres of fuel needed to drive 100 kilometres. It is an estimate based on a combination of city and highway driving.
+Car A
+Car B
+Car C
+Car D
+Car Price (zeds)
+Car price includes all taxes and registration fees.
+8000
+8700
+9900
+10 500
+Fuel Consumption
+(L/100 km)
+18.9
+15.7
+12.4
+14.1"
+MAT/MA104-CarPurchase,3,4,English,eng-CAN,"Car Purchase  Question 2 / 2
+Refer to “Car Purchase” on the right. Click on a choice to answer the question.
+A car’s resale price is the estimated price for which it can be resold at a later time.
+For a car that stays in excellent condition, its value will decrease by 5% each year.
+If Tania decides to buy car D and resell it after three years in excellent condition, what will be the approximate resale price of the car in zeds?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,English,eng-CAN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Estonian,est-EST,Kalkulaatorclose
+MAT/MA104-CarPurchase,1,2,Estonian,est-EST,PISA
+MAT/MA104-CarPurchase,1,3,Estonian,est-EST,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,4,Estonian,est-EST,"Auto ostmine  Sissejuhatus
+Loe läbi sissejuhatus. Seejärel klõpsa noolt EDASI.
+AUTO OSTMINE
+Tanja kavatseb osta uue auto. Ta tahab teada, kui palju läheb maksma auto ostmine ja esimese aasta jooksul sellega sõitmine.
+Ta leiab veebist selle kulukalkulaatori ja hindab oma kulusid järgmiselt:
+ta sõidab sellel aastal hinnanguliselt 20 000 km;
+keskmine kütuse hind on 1,54 zedi liitri kohta;
+hoolduskulu on esimesel aastal hinnanguliselt 250 zedi.
+KULUKALKULAATOR
+Auto hind (zedi)
+Kütusekulu (l/100 km)
+Hinnanguline läbisõit (km)
+Keskmine kütuse hind (zedi/l)
+Hinnanguline hoolduskulu (zedi)
+Tühjenda
+Arvuta"
+MAT/MA104-CarPurchase,2,1,Estonian,est-EST,Kalkulaatorclose
+MAT/MA104-CarPurchase,2,2,Estonian,est-EST,PISA
+MAT/MA104-CarPurchase,2,3,Estonian,est-EST,"AUTO OSTMINE
+Järgmises tabelis on näidatud autode hinnad ja kütusekulud nelja auto puhul, mille ostmist Tanja kaalub.
+Kütusekulu on 100 kilomeetri sõitmiseks vajalik kütusekogus liitrites. See on hinnang, mis põhineb kombinatsioonil linnas ja maanteel sõitmisest.
+Auto A
+Auto B
+Auto C
+Auto D
+Auto hind (zedi)
+Auto hind sisaldab kõiki makse ja registreerimistasusid.
+8000
+8700
+9900
+10 500
+Kütusekulu
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Mõned kulukalkulaatori lahtrid on täidetud Tanja hinnangute põhjal.
+KULUKALKULAATOR
+Auto hind (zedi)
+Kütusekulu (l/100 km)
+Hinnanguline läbisõit (km)
+20 000
+Keskmine kütuse hind (zedi/l)
+1,54
+Hinnanguline hoolduskulu (zedi)
+250
+Tühjenda
+Arvuta
+TULEMUSED
+closeOK"
+MAT/MA104-CarPurchase,2,4,Estonian,est-EST,"Auto ostmine  Küsimus  1 / 2
+Kuidas kulukalkulaatorit kasutada
+Kulukalkulaator leiab, kui palju maksab auto ostmine ja sellega esimese aasta jooksul sõitmine.
+Kulukalkulaatori kasutamiseks toimi järgmiselt.
+Sisesta auto hind
+Sisesta kütusekulu
+Klõpsa nuppu „Arvuta”. Tulemus kuvatakse tulemuste tabelis.
+Uue arvutuse tegemiseks klõpsa nuppu „Tühjenda”, sisesta uued väärtused ja seejärel klõpsa uuesti nuppu „Arvuta”.
+Tulemuste tabelist andmerea kustutamiseks klõpsa kustutamisnuppu rea kõrval.
+Toetu materjalile „Auto ostmine” paremal. Alltoodud küsimusele vastamiseks kasuta kulukalkulaatori abi. Küsimusele vastamiseks klõpsa ühte vastusevarianti.
+Et näha, kuidas kulukalkulaator töötab, klõpsa ülal linki „Kuidas kulukalkulaatorit kasutada”.
+Millise auto ostmine ja esimesel aastal sellega sõitmine maksaks Tanja hinnangute põhjal talle kõige vähem?
+Auto A
+Auto B
+Auto C
+Auto D"
+MAT/MA104-CarPurchase,2,5,Estonian,est-EST,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Estonian,est-EST,Kalkulaatorclose
+MAT/MA104-CarPurchase,3,2,Estonian,est-EST,PISA
+MAT/MA104-CarPurchase,3,3,Estonian,est-EST,"AUTO OSTMINE
+Järgmises tabelis on näidatud autode hinnad ja kütusekulud nelja auto puhul, mille ostmist Tanja kaalub.
+Kütusekulu on 100 kilomeetri sõitmiseks vajalik kütusekogus liitrites. See on hinnang, mis põhineb kombinatsioonil linnas ja maanteel sõitmisest.
+Auto A
+Auto B
+Auto C
+Auto D
+Auto hind (zedi)
+Auto hind sisaldab kõiki makse ja registreerimistasusid.
+8000
+8700
+9900
+10 500
+Kütusekulu
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Estonian,est-EST,"Auto ostmine  Küsimus  2 / 2
+Toetu materjalile „Auto ostmine” paremal. Küsimusele vastamiseks klõpsa ühte vastusevarianti.
+Auto edasimüügihind on arvestuslik hind, millega auto saab tulevikus edasi müüa.
+Kui auto püsib väga heas seisukorras, siis tema edasimüügihind väheneb igal aastal 5% võrra.
+Kui Tanja otsustab osta auto D ja müüa selle kolme aasta pärast väga heas seisukorras edasi, siis milliseks kujuneb auto ligikaudne edasimüügihind zedides?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Estonian,est-EST,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Finnish,fin-FIN,Laskinclose
+MAT/MA104-CarPurchase,1,2,Finnish,fin-FIN,PISA
+MAT/MA104-CarPurchase,1,3,Finnish,fin-FIN,"Auton hankinta  Johdanto
+Lue johdanto  ja napsauta sitten SEURAAVA-nuolta.
+AUTON HANKINTA
+Tanja suunnittelee uuden auton hankkimista. Hän halua tietää, kuinka paljon auton hankkiminen ja sen käyttö ensimmäisen vuoden aikana tulisivat maksamaan.
+Hän löytää netistä tämän Kustannuslaskurin ja arvioi kulunsa seuraavasti:
+Hän ajaa tänä vuonna arviolta 20 000 km.
+Polttoaine maksaa keskimäärin 1,54 zediä per litra.
+Arvioidut ylläpitokustannukset ovat 250 zediä ensimmäisenä vuonna.
+KUSTANNUSLASKURI
+Auton hinta (zediä)
+Polttoaineen kulutus (l / 100 km)
+Arvioitu ajomatka (km)
+Polttoaineen hinta keskimäärin (zediä/l)
+Arvioidut ylläpitokustannukset (zediä)
+Tyhjennä
+Laske"
+MAT/MA104-CarPurchase,1,4,Finnish,fin-FIN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Finnish,fin-FIN,Laskinclose
+MAT/MA104-CarPurchase,2,2,Finnish,fin-FIN,PISA
+MAT/MA104-CarPurchase,2,3,Finnish,fin-FIN,"AUTON HANKINTA
+Alla olevassa taulukossa on esitetty hinnat ja polttoaineen kulutusta koskevat tiedot neljästä autosta, joiden hankintaa Tanja harkitsee.
+Polttoaineen kulutuksella tarkoitetaan sitä, kuinka monta litraa polttoainetta kuluu 100 kilometrin ajomatkalla. Se on arvio, joka perustuu yhdistettyyn kaupunki- ja maantieajoon.
+Auto A
+Auto B
+Auto C
+Auto D
+Auton hinta (zediä)
+Auton hinta sisältää kaikki verot ja rekisteröintimaksut.
+8 000
+8 700
+9 900
+10 500
+Polttoaineen kulutus
+(l / 100 km)
+18,9
+15,7
+12,4
+14,1
+Osa Kustannuslaskurin soluista on täytetty valmiiksi Tanjan arvioiden perusteella.
+KUSTANNUSLASKURI
+Auton hinta (zediä)
+Polttoaineen kulutus (l / 100 km)
+Arvioitu ajomatka (km)
+20 000
+Polttoaineen hinta keskimäärin (zediä/l)
+1,54
+Arvioidut ylläpitokustannukset (zediä)
+250
+Tyhjennä
+Laske
+TULOKSET
+closeOK"
+MAT/MA104-CarPurchase,2,4,Finnish,fin-FIN,"Auton hankinta  Tehtävä 1 / 2
+Miten Kustannuslaskuria käytetään
+Kustannuslaskuri määrittää, kuinka paljon auton hankinta ja käyttö ensimmäisen vuoden aikana tulisivat maksamaan.
+Etene laskuria käyttäessäsi seuraavien vaiheiden mukaan:
+Syötä auton hinta.
+Syötä polttoaineen kulutus.
+Napsauta ""Laske""-painiketta. Tulos tulee näkyviin Tulokset-taulukkoon.
+Jos haluat suorittaa lisää laskelmia, napsauta ""Tyhjennä""-painiketta, syötä uudet arvot ja napsauta sitten uudelleen ""Laske""-painiketta.
+Jos haluat poistaa rivejä Tulokset-taulukosta, napsauta kyseisen rivin vieressä olevaa poistopainiketta.
+Tarkastele oikealla olevaa ""Auton hankinta"" -aineistoa. Vastaa alla olevaan tehtävään käyttämällä apuna Kustannuslaskuria. Vastaa napsauttamalla yhtä vaihtoehtoa.
+Jos haluat tietää, kuinka Kustannuslaskuri toimii, napsauta yllä olevaa otsikkoa ""Miten Kustannuslaskuria käytetään"".
+Minkä auton hankinta ja käyttö tulisi Tanjan arvioiden perusteella hänelle ensimmäisenä vuonna kaikkein halvimmaksi?
+Auto A
+Auto B
+Auto C
+Auto D"
+MAT/MA104-CarPurchase,2,5,Finnish,fin-FIN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Finnish,fin-FIN,Laskinclose
+MAT/MA104-CarPurchase,3,2,Finnish,fin-FIN,PISA
+MAT/MA104-CarPurchase,3,3,Finnish,fin-FIN,"AUTON HANKINTA
+Alla olevassa taulukossa on esitetty hinnat ja polttoaineen kulutusta koskevat tiedot neljästä autosta, joiden hankintaa Tanja harkitsee.
+Polttoaineen kulutuksella tarkoitetaan sitä, kuinka monta litraa polttoainetta kuluu 100 kilometrin ajomatkalla. Se on arvio, joka perustuu yhdistettyyn kaupunki- ja maantieajoon.
+Auto A
+Auto B
+Auto C
+Auto D
+Auton hinta (zediä)
+Auton hinta sisältää kaikki verot ja rekisteröintimaksut.
+8 000
+8 700
+9 900
+10 500
+Polttoaineen kulutus
+(l / 100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Finnish,fin-FIN,"Auton hankinta  Tehtävä 2 / 2
+Tarkastele oikealla olevaa ""Auton hankinta"" -aineistoa. Vastaa napsauttamalla yhtä vaihtoehtoa.
+Auton jälleenmyyntiarvo on arvio hinnasta, jolla sen saa aikanaan myytyä eteenpäin.
+Erinomaisessa kunnossa pysyvän auton arvo laskee 5 % joka vuosi.
+Jos Tanja päättäisi ostaa auton D ja myydä sen eteenpäin erinomaisessa kunnossa kolmen vuoden kuluttua, mikä olisi suunnilleen auton jälleenmyyntiarvo zedeinä?
+1 575
+8 925
+9 000
+9 975"
+MAT/MA104-CarPurchase,3,5,Finnish,fin-FIN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,French,fra-FRA,Calculatriceclose
+MAT/MA104-CarPurchase,1,2,French,fra-FRA,PISA
+MAT/MA104-CarPurchase,1,3,French,fra-FRA,"Achat d'une voiture   Introduction
+Lisez l’introduction, puis cliquez sur la flèche « SUIVANT ».
+ACHAT D'UNE VOITURE
+Tania souhaite acheter une nouvelle voiture. Elle veut savoir combien coûteront l'achat d'une voiture et son utilisation la première année.
+Elle trouve cet « estimateur de coûts » en ligne et fait les estimations suivantes :
+Elle va parcourir une distance estimée à 20 000 km cette année.
+Le coût moyen du carburant sera de 1,54 zed le litre.
+Le coût d'entretien est estimé à 250 zeds pour la première année.
+ESTIMATEUR DE COÛTS
+Prix de la voiture (zeds)
+Consommation de carburant (L/100 km)
+Estimation de la distance parcourue (km)
+Coût moyen du carburant (zeds/L)
+Estimation du coût d'entretien (zeds)
+Effacer
+Calculer"
+MAT/MA104-CarPurchase,1,4,French,fra-FRA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,French,fra-FRA,Calculatriceclose
+MAT/MA104-CarPurchase,2,2,French,fra-FRA,PISA
+MAT/MA104-CarPurchase,2,3,French,fra-FRA,"ACHAT D'UNE VOITURE
+Le prix et la consommation de carburant de quatre voitures qui intéressent Tania sont indiqués dans le tableau ci-dessous.
+La consommation de carburant correspond au nombre de litres de carburant nécessaires pour parcourir 100 kilomètres. Il s'agit d'une estimation basée sur une conduite mixte (en ville et sur autoroute).
+Voiture A
+Voiture B
+Voiture C
+Voiture D
+Prix de la voiture (zeds)
+Le prix de la voiture inclut l'ensemble des taxes et des frais d'immatriculation.
+8 000
+8 700
+9 900
+10 500
+Consommation de carburant
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Certaines cases de l’estimateur de coûts ont été remplies d’après les estimations de Tania.
+ESTIMATEUR DE COÛTS
+Prix de la voiture (zeds)
+Consommation de carburant (L/100 km)
+Estimation de la distance parcourue (km)
+20 000
+Coût moyen du carburant (zeds/L)
+1,54
+Estimation du coût d'entretien (zeds)
+250
+Effacer
+Calculer
+RÉSULTATS
+closeOK"
+MAT/MA104-CarPurchase,2,4,French,fra-FRA,"Achat d'une voiture   Question 1 / 2
+Comment utiliser l’estimateur de coûts
+L'estimateur de coûts permet de déterminer combien coûteront l'achat d'une voiture et son utilisation la première année.
+Pour utiliser l'estimateur, suivez ces étapes :
+Tapez le prix de la voiture.
+Tapez la consommation de carburant.
+Cliquez sur le bouton « Calculer ». Le résultat s'affiche dans le tableau des résultats.
+Pour effectuer d'autres calculs, cliquez sur « Effacer », tapez les nouvelles valeurs, puis cliquez à nouveau sur le bouton « Calculer ».
+Pour supprimer une ligne de données du tableau des résultats, cliquez sur le bouton de suppression à côté de cette ligne.
+Utilisez les informations fournies sous « Achat d'une voiture » à droite. Aidez-vous de l'estimateur de coûts pour répondre à la question ci-dessous. Cliquez sur la réponse de votre choix.
+Pour voir comment fonctionne cet estimateur, cliquez sur « Comment utiliser l'estimateur de coûts » ci-dessus.
+D'après les estimations de Tania, quelle voiture lui coûtera le moins cher la première année (achat et usage compris) ?
+Voiture A
+Voiture B
+Voiture C
+Voiture D"
+MAT/MA104-CarPurchase,2,5,French,fra-FRA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,French,fra-FRA,Calculatriceclose
+MAT/MA104-CarPurchase,3,2,French,fra-FRA,PISA
+MAT/MA104-CarPurchase,3,3,French,fra-FRA,"ACHAT D'UNE VOITURE
+Le prix et la consommation de carburant de quatre voitures qui intéressent Tania sont indiqués dans le tableau ci-dessous.
+La consommation de carburant correspond au nombre de litres de carburant nécessaires pour parcourir 100 kilomètres. Il s'agit d'une estimation basée sur une conduite mixte (en ville et sur autoroute).
+Voiture A
+Voiture B
+Voiture C
+Voiture D
+Prix de la voiture (zeds)
+Le prix de la voiture inclut l'ensemble des taxes et des frais d'immatriculation.
+8 000
+8 700
+9 900
+10 500
+Consommation de carburant
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,French,fra-FRA,"Achat d'une voiture   Question 2 / 2
+Utilisez les informations fournies sous « Achat d'une voiture » à droite. Cliquez sur la réponse de votre choix.
+Le prix de revente d'une voiture correspond au prix auquel on estime qu'elle pourra être revendue plus tard.
+Le prix de revente d'une voiture qui reste en excellent état diminue chaque année de 5 %.
+Si Tania décide d'acheter la voiture D et de la revendre en excellent état trois ans plus tard, quelle sera le prix de revente approximatif de la voiture en zeds ?
+1 575
+8 925
+9 000
+9 975"
+MAT/MA104-CarPurchase,3,5,French,fra-FRA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Galician,glg-ESP,Calculadoraclose
+MAT/MA104-CarPurchase,1,2,Galician,glg-ESP,PISA
+MAT/MA104-CarPurchase,1,3,Galician,glg-ESP,"Compra dun coche  Introdución
+Le a introdución e, deseguido, fai clic na frecha de ""AVANZAR"".
+COMPRA DUN COCHE
+Tania pensa en mercar un coche novo. Quere saber canto lle custará mercar un coche e usalo durante o primeiro ano.
+Atopa esta calculadora de custos en liña e fai as seguintes estimacións:
+Conducirá unha distancia estimada de 20.000 km este ano.
+O custo medio de combustible será de 1,54 zeds por litro.
+O custo estimado do mantemento no primeiro ano será de 250 zeds.
+CALCULADORA DE CUSTOS
+Prezo do coche (zeds)
+Consumo de combustible (l/100 km)
+Distancia a percorrer estimada (km)
+Prezo medio do combustible (zeds/l)
+Custo estimado do mantemento (zeds)
+Limpar
+Calcular"
+MAT/MA104-CarPurchase,1,4,Galician,glg-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Galician,glg-ESP,Calculadoraclose
+MAT/MA104-CarPurchase,2,2,Galician,glg-ESP,PISA
+MAT/MA104-CarPurchase,2,3,Galician,glg-ESP,"COMPRA DUN COCHE
+Os prezos e o consumo de combustible de catro coches que Tania está pensando en mercar móstranse na seguinte táboa.
+O consumo de combustible é o número de litros de combustible necesarios para percorrer 100 quilómetros. Trátase dunha estimación baseada nunha combinación de condución por cidade e por autoestrada.
+Coche A
+Coche B
+Coche C
+Coche D
+Prezo do coche (zeds)
+O prezo do coche inclúe todos os impostos e taxas de matriculación.
+8000
+8700
+9900
+10.500
+Consumo de combustible
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Algunhas das celas da calculadora de custos completáronse tomando como base as estimacións de Tania.
+CALCULADORA DE CUSTOS
+Prezo do coche (zeds)
+Consumo de combustible (l/100 km)
+Distancia a percorrer estimada (km)
+20.000
+Prezo medio do combustible (zeds/l)
+1,54
+Custo estimado do mantemento (zeds)
+250
+Limpar
+Calcular
+RESULTADOS
+closeOK"
+MAT/MA104-CarPurchase,2,4,Galician,glg-ESP,"Compra dun coche  Pregunta 1 / 2
+Como utilizar a calculadora de custos
+A calculadora de custos determinará canto custará mercar e usar un coche no primeiro ano.
+Para usar a calculadora, sigue os seguintes pasos:
+Introduce o Prezo do coche.
+Introduce o Consumo de combustible.
+Fai clic no botón ""Calcular"". O resultado mostrarase na táboa ""Resultados"".
+Para facer cálculos adicionais, fai clic en ""Limpar"", introduce valores novos e, deseguido, fai clic de novo no botón ""Calcular"".
+Para eliminar calquera fila de datos da táboa de Resultados, fai clic no botón ""Suprimir"" ao lado da correspondente fila.
+Consulta o artigo ""Compra dun coche"" da dereita. Utiliza a calculadora de custos como axuda para responderes a seguinte pregunta. Fai clic nunha opción para responderes a pregunta.
+Para saber como utilizar a calculadora de custos, fai clic arriba en ""Como utilizar a calculadora de custos"".
+Baseándote nas estimacións de Tania, que coche lle custaría menos mercar e usar o primeiro ano?
+Coche A
+Coche B
+Coche C
+Coche D"
+MAT/MA104-CarPurchase,2,5,Galician,glg-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Galician,glg-ESP,Calculadoraclose
+MAT/MA104-CarPurchase,3,2,Galician,glg-ESP,PISA
+MAT/MA104-CarPurchase,3,3,Galician,glg-ESP,"COMPRA DUN COCHE
+Os prezos e o consumo de combustible de catro coches que Tania está pensando en mercar móstranse na seguinte táboa.
+O consumo de combustible é o número de litros de combustible necesarios para percorrer 100 quilómetros. Trátase dunha estimación baseada nunha combinación de condución por cidade e por autoestrada.
+Coche A
+Coche B
+Coche C
+Coche D
+Prezo do coche (zeds)
+O prezo do coche inclúe todos os impostos e taxas de matriculación.
+8000
+8700
+9900
+10.500
+Consumo de combustible
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Galician,glg-ESP,"Compra dun coche  Pregunta 2 / 2
+Consulta o artigo ""Compra dun coche"" da dereita. Fai clic nunha opción para responderes a pregunta.
+O prezo de revenda dun coche é o prezo estimado polo que se pode revender posteriormente.
+O prezo de revenda dun coche que se atopa nun estado excelente redúcese cada ano un 5 %.
+Se Tania decide mercar o coche D e revendelo despois de tres anos nun estado excelente, cal será o prezo de revenda aproximado do coche en zeds?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Galician,glg-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Georgian,geo-GEO,კალკულატორიclose
+MAT/MA104-CarPurchase,1,2,Georgian,geo-GEO,PISA 2022
+MAT/MA104-CarPurchase,1,3,Georgian,geo-GEO,"მანქანის შეძენა  შესავალი
+წაიკითხეთ შესავალი. მერე დააჭირეთ ისრიან ღილაკს „შემდეგი“.
+მანქანის შეძენა
+ქეთის სურს ახალი მანქანის შეძენა. მას სურს გამოიანგარიშოს მანქანის შეძენისა და ერთი წლის განმავლობაში მისი შენახვის ხარჯები.
+მან იპოვა ხარჯების ონლაინ გამომთვლელი და ჩაატარა შემდეგი გამოთვლები:
+ქეთი წელს გაივლის დაახლოებით 20 000კმ-ს.
+1 ლიტრი საწვავის საშუალო ფასი იქნება 1.54 ზედი.
+პირველ წელს მანქანის ტექნიკურ მოვლაზე სავარაუდოდ დაიხარჯება 250 ზედი.
+ხარჯების გამომთვლელი
+მანქანის ფასი (ზედი)
+საწვავის მოხმარება (ლ/100 კმ)
+გასავლელი სავარაუდო მანძილი (კმ)
+საწვავის ღირებულება საშუალოდ (ზედი/ლ)
+მანქანის შეკეთების სავარაუდო ხარჯები (ზედი)
+წაშლა
+გამოთვლა"
+MAT/MA104-CarPurchase,1,4,Georgian,geo-GEO,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Georgian,geo-GEO,კალკულატორიclose
+MAT/MA104-CarPurchase,2,2,Georgian,geo-GEO,PISA 2022
+MAT/MA104-CarPurchase,2,3,Georgian,geo-GEO,"მანქანის შეძენა
+ქეთის სურს მანქანის შეძენა. ქვემოთ მოცემულია ცხრილი ოთხი ავტომანქანის ფასებისა და საწვავის მოხმარების შესახებ.
+საწვავის მოხმარება არის 100 კილომეტრის გავლისათვის საჭირო საწვავის რაოდენობა ლიტრებში. გათვლა ეფუძნება ქალაქსა და მაგისტრალზე მანქანის ტარების კომბინაციას.
+მანქანა A
+მანქანა B
+მანქანა C
+მანქანა D
+მანქანის ფასი (ზედი)
+მანქანის ფასში შედის ყველა გადასახადი და რეგისტრაციის ხარჯი.
+8000
+8700
+9900
+10 500
+საწვავის მოხმარება
+(ლ/100 კმ)
+18.9
+15.7
+12.4
+14.1
+ხარჯების რამდენიმე უჯრა ქეთიმ თავისი გათვლებით შეავსო.
+ხარჯების გამომთვლელი
+მანქანის ფასი (ზედი)
+საწვავის მოხმარება (ლ/100 კმ)
+გასავლელი სავარაუდო მანძილი (კმ)
+20 000
+საწვავის ღირებულება საშუალოდ (ზედი/ლ)
+1.54
+მანქანის შეკეთების სავარაუდო ხარჯები (ზედი)
+250
+წაშლა
+გამოთვლა
+შედეგები
+closeდადასტურება"
+MAT/MA104-CarPurchase,2,4,Georgian,geo-GEO,"მანქანის შეძენა  შეკითხვა 1 / 2
+როგორ გამოვიყენოთ ხარჯების გამომთვლელი
+ხარჯების გამომთვლელი გამოიანგარიშებს, რა იქნება მანქანის შეძენისა და ერთი წლის განმავლობაში მისი შენახვის ხარჯი.
+ხარჯების გამომთვლელის გამოსაყენებლად, მიჰყევით შემდეგ ნაბიჯებს:
+შეიყვანეთ მანქანის ფასი.
+შეიყვანეთ საწვავის მოხმარების მაჩვენებელი.
+დააჭირეთ  ღილაკს „გამოთვლა“. პასუხი  გამოჩნდება შედეგების ცხრილში.
+დამატებითი გამოთვლების ჩასატარებლად, დააჭირეთ ღილაკს „წაშლა“,  შეიყვანეთ ახალი მაჩვენებლები და კვლავ დააჭირეთ ღილაკს „გამოთვლა“.
+შედეგების ცხრილიდან მწკრივების წასაშლელად, დააჭირეთ წაშლის ღილაკს მწკრივის გვერდით.
+გამოიყენეთ მარჯვნივ გამოტანილი დავალება „მანქანის შეძენა“. ხარჯების გამომთვლელის დახმარებით უპასუხეთ ქვემოთ მოცემულ შეკითხვას. პასუხის გასაცემად დააჭირეთ სწორ პასუხს.
+ხარჯების გამომთვლელის გამოყენების წესების სანახავად, დააჭირეთ ზემოთ ღილაკზე „როგორ გამოვიყენოთ ხარჯების გამომთვლელი“.
+ქეთის გაანგარიშებიდან გამომდინარე, რომელი მანქანის ყიდვა და პირველ წელს მართვა დაჯდება ყველაზე იაფი?
+მანქანა A
+მანქანა B
+მანქანა C
+მანქანა D"
+MAT/MA104-CarPurchase,2,5,Georgian,geo-GEO,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Georgian,geo-GEO,კალკულატორიclose
+MAT/MA104-CarPurchase,3,2,Georgian,geo-GEO,PISA 2022
+MAT/MA104-CarPurchase,3,3,Georgian,geo-GEO,"მანქანის შეძენა
+ქეთის სურს მანქანის შეძენა. ქვემოთ მოცემულია ცხრილი ოთხი ავტომანქანის ფასებისა და საწვავის მოხმარების შესახებ.
+საწვავის მოხმარება არის 100 კილომეტრის გავლისათვის საჭირო საწვავის რაოდენობა ლიტრებში. გათვლა ეფუძნება ქალაქსა და მაგისტრალზე მანქანის ტარების კომბინაციას.
+მანქანა A
+მანქანა B
+მანქანა C
+მანქანა D
+მანქანის ფასი (ზედი)
+მანქანის ფასში შედის ყველა გადასახადი და რეგისტრაციის ხარჯი.
+8000
+8700
+9900
+10 500
+საწვავის მოხმარება
+(ლ/100 კმ)
+18.9
+15.7
+12.4
+14.1"
+MAT/MA104-CarPurchase,3,4,Georgian,geo-GEO,"მანქანის შეძენა  შეკითხვა 2 / 2
+გამოიყენეთ მარჯვნივ გამოტანილი დავალება „მანქანის შეძენა“. პასუხის გასაცემად დააჭირეთ სწორ პასუხს.
+მანქანის ხელახლა გაყიდვის ფასი არის მანქანის მიახლოებითი ღირებულება მისი მოგვიანებით გაყიდვის შემთხვევაში.
+საუკეთესო მდგომარეობაში შენარჩუნებული მანქანის ხელახლა გაყიდვის ფასი ყოველწლიურად მცირდება 5 %–ით.
+თუ ქეთი გადაწყვეტს, იყიდოს მანქანა D და გაყიდოს ის საუკეთესო მდგომარეობაში 3 წლის შემდეგ, მიახლოებით რამდენი ზედი იქნება მანქანის ხელახლა გაყიდვის ფასი?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Georgian,geo-GEO,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,German,deu-DEU,Taschenrechnerclose
+MAT/MA104-CarPurchase,1,2,German,deu-DEU,PISA
+MAT/MA104-CarPurchase,1,3,German,deu-DEU,"Autokauf  Einleitung
+Lies die Einleitung. Klicke dann auf den WEITER-Pfeil.
+AUTOKAUF
+Tanja plant ein neues Auto zu kaufen. Sie möchte wissen, was es kostet, ein Auto zu kaufen und es im ersten Jahr zu fahren.
+Sie findet diesen Kostenrechner im Internet und macht folgende Schätzungen:
+Sie wird in diesem Jahr schätzungsweise eine Strecke von 20 000 km fahren.
+Die durchschnittlichen Treibstoffkosten werden 1,54 Zeds pro Liter betragen.
+Die geschätzten Instandhaltungskosten betragen im ersten Jahr 250 Zeds.
+KOSTENRECHNER
+Preis des Autos (Zeds)
+Treibstoffverbrauch (l/100 km)
+Geschätzte gefahrene Strecke (km)
+Durchschnittliche Treibstoffkosten (Zeds/l)
+Geschätzte Instandhaltungskosten (Zeds)
+Löschen
+Berechnen"
+MAT/MA104-CarPurchase,1,4,German,deu-DEU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,German,deu-DEU,Taschenrechnerclose
+MAT/MA104-CarPurchase,2,2,German,deu-DEU,PISA
+MAT/MA104-CarPurchase,2,3,German,deu-DEU,"AUTOKAUF
+Die Preise und der Treibstoffverbrauch von vier Autos, die Tanja interessieren, sind in der Tabelle unten angegeben.
+Der Treibstoffverbrauch entspricht der Menge an Treibstoff in Litern, die benötigt wird, um 100 Kilometer zu fahren. Es ist eine Schätzung basierend auf unterschiedlichen Fahrten (inner- und außerorts).
+Auto A
+Auto B
+Auto C
+Auto D
+Preis des Autos (Zeds)
+Der Preis des Autos enthält alle Steuern und Zulassungsgebühren.
+8 000
+8 700
+9 900
+10 500
+Treibstoffverbrauch
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Einige Felder des Kostenrechners wurden anhand Tanjas Schätzungen ausgefüllt.
+KOSTENRECHNER
+Preis des Autos (Zeds)
+Treibstoffverbrauch (l/100 km)
+Geschätzte gefahrene Strecke (km)
+20 000
+Durchschnittliche Treibstoffkosten (Zeds/l)
+1,54
+Geschätzte Instandhaltungskosten (Zeds)
+250
+Löschen
+Berechnen
+ERGEBNISSE
+closeOK"
+MAT/MA104-CarPurchase,2,4,German,deu-DEU,"Autokauf  Frage 1 / 2
+So verwendest du den Kostenrechner
+Der Kostenrechner ermittelt, was es kosten wird, ein Auto zu kaufen und es im ersten Jahr zu fahren.
+Um den Kostenrechner zu benutzen, führe folgende Schritte aus:
+Gib den Preis des Autos ein.
+Gib den Treibstoffverbrauch ein.
+Klicke auf „Berechnen“. Das Ergebnis wird in der Ergebnistabelle angezeigt.
+Um weitere Berechnungen durchzuführen, klicke auf „Löschen“, gib neue Werte ein und klicke dann erneut auf „Berechnen“.
+Um eine beliebige Datenzeile aus der Ergebnistabelle zu löschen, klicke auf „Löschen“ neben dieser Zeile.
+Beziehe dich auf „Autokauf“ auf der rechten Seite. Beantworte die Frage unten mithilfe des Kostenrechners. Klicke eine Antwort an, um die Frage zu beantworten.
+Um zu sehen, wie der Kostenrechner funktioniert, klicke oben auf „So verwendest du den Kostenrechner“.
+Bei welchem Auto hätte Tanja ihren Schätzungen nach die geringsten Kosten, wenn sie es kauft und im ersten Jahr fährt?
+Auto A
+Auto B
+Auto C
+Auto D"
+MAT/MA104-CarPurchase,2,5,German,deu-DEU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,German,deu-DEU,Taschenrechnerclose
+MAT/MA104-CarPurchase,3,2,German,deu-DEU,PISA
+MAT/MA104-CarPurchase,3,3,German,deu-DEU,"AUTOKAUF
+Die Preise und der Treibstoffverbrauch von vier Autos, die Tanja interessieren, sind in der Tabelle unten angegeben.
+Der Treibstoffverbrauch entspricht der Menge an Treibstoff in Litern, die benötigt wird, um 100 Kilometer zu fahren. Es ist eine Schätzung basierend auf unterschiedlichen Fahrten (inner- und außerorts).
+Auto A
+Auto B
+Auto C
+Auto D
+Preis des Autos (Zeds)
+Der Preis des Autos enthält alle Steuern und Zulassungsgebühren.
+8 000
+8 700
+9 900
+10 500
+Treibstoffverbrauch
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,German,deu-DEU,"Autokauf  Frage 2 / 2
+Beziehe dich auf „Autokauf“ auf der rechten Seite. Klicke eine Antwort an, um die Frage zu beantworten.
+Der Wiederverkaufspreis eines Autos ist der geschätzte Preis, zu dem es zu einem späteren Zeitpunkt weiterverkauft werden kann.
+Der Wiederverkaufspreis eines Autos, das in einem einwandfreien Zustand bleibt, verringert sich jedes Jahr um 5 %.
+Wenn sich Tanja entscheidet, Auto D zu kaufen und es nach drei Jahren in einwandfreiem Zustand weiterzuverkaufen, wie hoch wird der ungefähre Wiederverkaufspreis des Autos in Zeds sein?
+1 575
+8 925
+9 000
+9 975"
+MAT/MA104-CarPurchase,3,5,German,deu-DEU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Greek,ell-GRC,Κομπιουτεράκιclose
+MAT/MA104-CarPurchase,1,2,Greek,ell-GRC,PISA
+MAT/MA104-CarPurchase,1,3,Greek,ell-GRC,"Αγορά αυτοκινήτου  Εισαγωγή
+Να διαβάσεις την εισαγωγή. Μετά κάνε κλικ στο βελάκι ΕΠΟΜΕΝΟ.
+ΑΓΟΡΑ ΑΥΤΟΚΙΝΗΤΟΥ
+Η Τάνια σχεδιάζει να αγοράσει ένα καινούριο αυτοκίνητο. Θέλει να μάθει πόσο θα κοστίσει η αγορά ενός αυτοκινήτου και η χρήση του για τον πρώτο χρόνο.
+Βρίσκει αυτόν τον Εκτιμητή Κόστους στο διαδίκτυο και κάνει τις ακόλουθες εκτιμήσεις:
+Θα οδηγήσει φέτος μια εκτιμώμενη απόσταση 20 000 km.
+Το μέσο κόστος του καυσίμου θα είναι 1,54 ζεντ το λίτρο.
+Το εκτιμώμενο κόστος συντήρησης είναι 250 ζεντ για τον πρώτο χρόνο.
+ΕΚΤΙΜΗΤΗΣ ΚΟΣΤΟΥΣ
+Τιμή αυτοκινήτου (σε ζεντ)
+Κατανάλωση καυσίμου (σε L/100 km)
+Εκτιμώμενη απόσταση οδήγησης (σε km)
+Μέση τιμή του καυσίμου (σε ζεντ/L)
+Εκτιμώμενο κόστος συντήρησης (σε ζεντ)
+Διαγραφή
+Υπολογισμός"
+MAT/MA104-CarPurchase,1,4,Greek,ell-GRC,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Greek,ell-GRC,Κομπιουτεράκιclose
+MAT/MA104-CarPurchase,2,2,Greek,ell-GRC,PISA
+MAT/MA104-CarPurchase,2,3,Greek,ell-GRC,"ΑΓΟΡΑ ΑΥΤΟΚΙΝΗΤΟΥ
+Οι τιμές και η κατανάλωση καυσίμου τεσσάρων αυτοκινήτων που σκέφτεται να αγοράσει η Τάνια φαίνονται στον παρακάτω πίνακα.
+Η κατανάλωση καυσίμου είναι ο αριθμός των λίτρων καυσίμου που απαιτούνται, για να οδηγήσει κάποιος 100 χιλιόμετρα. Πρόκειται για μια εκτίμηση που βασίζεται σε έναν συνδυασμό οδήγησης στην πόλη και στον αυτοκινητόδρομο.
+Αυτοκίνητο A
+Αυτοκίνητο B
+Αυτοκίνητο Γ
+Αυτοκίνητο Δ
+Τιμή αυτοκινήτου (σε ζεντ)
+Η τιμή του αυτοκινήτου περιλαμβάνει όλους τους φόρους και τις πινακίδες κυκλοφορίας.
+8000
+8700
+9900
+10 500
+Κατανάλωση καυσίμου
+(σε L/100 km)
+18,9
+15,7
+12,4
+14,1
+Κάποια πεδία του Εκτιμητή Κόστους έχουν συμπληρωθεί σύμφωνα με τις εκτιμήσεις της Τάνιας.
+ΕΚΤΙΜΗΤΗΣ ΚΟΣΤΟΥΣ
+Τιμή αυτοκινήτου (σε ζεντ)
+Κατανάλωση καυσίμου (σε L/100 km)
+Εκτιμώμενη απόσταση οδήγησης (σε km)
+20 000
+Μέση τιμή του καυσίμου (σε ζεντ/L)
+1,54
+Εκτιμώμενο κόστος συντήρησης (σε ζεντ)
+250
+Διαγραφή
+Υπολογισμός
+ΑΠΟΤΕΛΕΣΜΑΤΑ
+closeΟΚ"
+MAT/MA104-CarPurchase,2,4,Greek,ell-GRC,"Αγορά αυτοκινήτου  Ερώτηση 1 / 2
+Πως χρησιμοποιείται ο Εκτιμητής Κόστους
+Ο Εκτιμητής Κόστους υπολογίζει πόσο κοστίζει η αγορά ενός αυτοκινήτου και η χρήση του για τον πρώτο χρόνο.
+Για να χρησιμοποιήσεις τον εκτιμητή, ακολούθησε αυτά τα βήματα:
+Πληκτρολόγησε την τιμή του αυτοκινήτου.
+Πληκτρολόγησε την κατανάλωση καυσίμου.
+Κάνε κλικ στο κουμπί «Υπολογισμός».  Το αποτέλεσμα θα εμφανιστεί στον πίνακα «ΑΠΟΤΕΛΕΣΜΑΤΑ».
+Για να κάνεις και άλλους υπολογισμούς κάνε κλικ στο κουμπί «Διαγραφή», πληκτρολόγησε τις νέες τιμές και κάνε πάλι κλικ στο κουμπί «Υπολογισμός».
+Για να διαγράψεις μία γραμμή δεδομένων από τον πίνακα, κάνε κλικ στο κουμπί διαγραφής δίπλα σε αυτήν τη γραμμή.
+Να λάβεις υπόψη το «Αγορά αυτοκινήτου» στα δεξιά. Να χρησιμοποιήσεις τον Εκτιμητή Κόστους, για να απαντήσεις στην παρακάτω ερώτηση. Κάνε κλικ σε μια επιλογή, για να απαντήσεις στην ερώτηση.
+Για να δεις πώς λειτουργεί αυτό το πρόγραμμα, κάνε κλικ πιο πάνω στο «Πώς χρησιμοποιείται ο Εκτιμητής Κόστους».
+Σύμφωνα με τις εκτιμήσεις της Τάνιας, ποιο αυτοκίνητο θα της κοστίσει λιγότερο τον πρώτο χρόνο (αγορά και χρήση);
+Αυτοκίνητο A
+Αυτοκίνητο B
+Αυτοκίνητο Γ
+Αυτοκίνητο Δ"
+MAT/MA104-CarPurchase,2,5,Greek,ell-GRC,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Greek,ell-GRC,Κομπιουτεράκιclose
+MAT/MA104-CarPurchase,3,2,Greek,ell-GRC,PISA
+MAT/MA104-CarPurchase,3,3,Greek,ell-GRC,"ΑΓΟΡΑ ΑΥΤΟΚΙΝΗΤΟΥ
+Οι τιμές και η κατανάλωση καυσίμου τεσσάρων αυτοκινήτων που σκέφτεται να αγοράσει η Τάνια φαίνονται στον παρακάτω πίνακα.
+Η κατανάλωση καυσίμου είναι ο αριθμός των λίτρων καυσίμου που απαιτούνται, για να οδηγήσει κάποιος 100 χιλιόμετρα. Πρόκειται για μια εκτίμηση που βασίζεται σε έναν συνδυασμό οδήγησης στην πόλη και στον αυτοκινητόδρομο.
+Αυτοκίνητο A
+Αυτοκίνητο B
+Αυτοκίνητο Γ
+Αυτοκίνητο Δ
+Τιμή αυτοκινήτου (σε ζεντ)
+Η τιμή του αυτοκινήτου περιλαμβάνει όλους τους φόρους και τις πινακίδες κυκλοφορίας.
+8000
+8700
+9900
+10 500
+Κατανάλωση καυσίμου
+(σε L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Greek,ell-GRC,"Αγορά αυτοκινήτου  Ερώτηση 2 / 2
+Να λάβεις υπόψη το «Αγορά αυτοκινήτου» στα δεξιά. Κάνε κλικ σε μια επιλογή, για να απαντήσεις στην ερώτηση.
+Η τιμή μεταπώλησης ενός αυτοκινήτου αντιστοιχεί στην τιμή στην οποία εκτιμάται ότι θα μεταπωληθεί μελλοντικά.
+Η τιμή μεταπώλησης ενός αυτοκινήτου το οποίο είναι σε άριστη κατάσταση μειώνεται κάθε χρόνο κατά 5%.
+Εάν η Τάνια αποφασίσει να αγοράσει το αυτοκίνητο Δ και να το μεταπωλήσει σε άριστη κατάσταση μετά από τρία χρόνια, ποια θα είναι κατά προσέγγιση η τιμή μεταπώλησης του αυτοκινήτου σε ζεντ;
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Greek,ell-GRC,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Hebrew,heb-ISR,מחשבוןclose
+MAT/MA104-CarPurchase,1,2,Hebrew,heb-ISR,PISA 2022
+MAT/MA104-CarPurchase,1,3,Hebrew,heb-ISR,"קניית מכונית  הקדמה
+קראו את ההקדמה. לאחר מכן לחצו על החץ ""הבא"".
+קניית מכונית
+טליה מתכננת לקנות מכונית חדשה. היא רוצה לדעת כמה יעלה לקנות מכונית ולהשתמש בה בשנה הראשונה.
+היא מצאה באינטרנט את ""מחשבון העלויות"" הזה והעריכה כי:
+השנה היא תיסע מרחק משוער של 20,000 ק""מ.
+עלות הדלק הממוצעת תהיה 1.54 זדים לליטר.
+בשנה הראשונה עלות התחזוקה המשוערת תהיה 250 זדים.
+מחשבון עלויות
+מחיר המכונית (בזדים)
+צריכת הדלק (בליטרים ל-100 ק""מ)
+מרחק הנסיעה המשוער (בק""מ)
+עלות הדלק הממוצעת (בזדים לליטר)
+עלות התחזוקה המשוערת (בזדים)
+מחק
+חשב"
+MAT/MA104-CarPurchase,1,4,Hebrew,heb-ISR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Hebrew,heb-ISR,מחשבוןclose
+MAT/MA104-CarPurchase,2,2,Hebrew,heb-ISR,PISA 2022
+MAT/MA104-CarPurchase,2,3,Hebrew,heb-ISR,"קניית מכונית
+בטבלה שלפניכם מוצגים המחירים וצריכת הדלק של ארבע מכוניות שטליה שוקלת לקנות.
+צריכת דלק היא מספר הליטרים של דלק הנדרשים כדי לנסוע 100 קילומטרים. זהו אומדן המבוסס על שילוב בין נהיגה בעיר לנהיגה בכביש מהיר.
+מכונית א
+מכונית ב
+מכונית ג
+מכונית ד
+מחיר המכונית (בזדים)
+מחיר המכונית כולל את כל המיסים ואת אגרת הרישוי.
+8,000
+8,700
+9,900
+10,500
+צריכת דלק
+(בליטרים ל-100 ק""מ)
+18.9
+15.7
+12.4
+14.1
+חלק מהתאים ב""מחשבון העלויות"" מולאו בהתאם להערכות של טליה.
+מחשבון עלויות
+מחיר המכונית (בזדים)
+צריכת הדלק (בליטרים ל-100 ק""מ)
+מרחק הנסיעה המשוער (בק""מ)
+20,000
+עלות הדלק הממוצעת (בזדים לליטר)
+1.54
+עלות התחזוקה המשוערת (בזדים)
+250
+מחק
+חשב
+תוצאות
+closeאישור"
+MAT/MA104-CarPurchase,2,4,Hebrew,heb-ISR,"קניית מכונית  שאלה 1 מתוך 2
+כיצד להשתמש במחשבון העלויות
+""מחשבון העלויות"" מאפשר להעריך כמה יעלה לקנות מכונית כלשהי ולהשתמש בה בשנה הראשונה.
+כדי להשתמש במחשבון זה, בצעו את הפעולות האלה:
+הקלידו את מחיר המכונית.
+הקלידו את צריכת הדלק.
+לחצו על הכפתור ""חשב"". התוצאה תוצג בטבלת התוצאות.
+כדי לבצע חישובים נוספים לחצו על הכפתור ""מחק"", הקלידו ערכים חדשים, ולאחר מכן לחצו שוב על הכפתור ""חשב"".
+כדי למחוק שורת נתונים מטבלת התוצאות, לחצו על כפתור המחיקה שליד אותה שורה.
+היעזרו בקטע ""קניית מכונית"" שבצד שמאל. השתמשו ב""מחשבון העלויות"" כדי לענות על השאלה שלפניכם. סמנו את תשובתכם.
+לחצו על ""כיצד להשתמש במחשבון העלויות"" שלמעלה כדי ללמוד כיצד להשתמש בו.
+לפי ההערכות של טליה, עבור איזו מכונית העלות של הקנייה והשימוש בשנה הראשונה תהיה הנמוכה ביותר?
+מכונית א
+מכונית ב
+מכונית ג
+מכונית ד"
+MAT/MA104-CarPurchase,2,5,Hebrew,heb-ISR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Hebrew,heb-ISR,מחשבוןclose
+MAT/MA104-CarPurchase,3,2,Hebrew,heb-ISR,PISA 2022
+MAT/MA104-CarPurchase,3,3,Hebrew,heb-ISR,"קניית מכונית
+בטבלה שלפניכם מוצגים המחירים וצריכת הדלק של ארבע מכוניות שטליה שוקלת לקנות.
+צריכת דלק היא מספר הליטרים של דלק הנדרשים כדי לנסוע 100 קילומטרים. זהו אומדן המבוסס על שילוב בין נהיגה בעיר לנהיגה בכביש מהיר.
+מכונית א
+מכונית ב
+מכונית ג
+מכונית ד
+מחיר המכונית (בזדים)
+מחיר המכונית כולל את כל המיסים ואת אגרת הרישוי.
+8,000
+8,700
+9,900
+10,500
+צריכת דלק
+(בליטרים ל-100 ק""מ)
+18.9
+15.7
+12.4
+14.1"
+MAT/MA104-CarPurchase,3,4,Hebrew,heb-ISR,"קניית מכונית  שאלה 2 מתוך 2
+היעזרו בקטע ""קניית מכונית"" שבצד שמאל. כדי לענות על השאלה, סמנו את תשובתכם.
+מחיר המכירה החוזרת של מכונית הוא המחיר המשוער שבו אפשר יהיה למכור אותה שוב במועד מאוחר יותר.
+אם המכונית נשארת במצב מצוין, מחיר המכירה החוזרת שלה יורד ב-5% בכל שנה.
+אם טליה תחליט לקנות את מכונית ד ולמכור אותה במצב מצוין לאחר שלוש שנים, מה יהיה בערך מחיר המכירה החוזרת של המכונית בזדים?
+1,575
+8,925
+9,000
+9,975"
+MAT/MA104-CarPurchase,3,5,Hebrew,heb-ISR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Hungarian,hun-HUN,Számológépclose
+MAT/MA104-CarPurchase,1,2,Hungarian,hun-HUN,PISA
+MAT/MA104-CarPurchase,1,3,Hungarian,hun-HUN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,4,Hungarian,hun-HUN,"Autóvásárlás  Ismertető
+Olvasd el a bevezetést,  majd kattints a „TOVÁBB"" nyílra!
+AUTÓVÁSÁRLÁS
+Tímea új autót szeretne vásárolni.  Fel szeretné mérni, milyen költségekkel jár a vásárlás és az autó fenntartása az első évben.
+Az interneten találta az alábbi Költségbecslőt, amibe a következő becsült adatokat írja be:
+Ebben az évben körülbelül 20 000 km-t fog autózni.
+Az üzemanyag átlagára literenként 1,54 zed.
+Az autó első éves fenntartási költségeit 250 zedre becsüli.
+KÖLTSÉGBECSLŐ
+Autó ára (zed)
+Üzemanyag-fogyasztás (l/100 km)
+Becsült megtett távolság (km)
+Üzemanyag átlagára (zed/l)
+Becsült fenntartási költség (zed)
+Törlés
+Kiszámol"
+MAT/MA104-CarPurchase,2,1,Hungarian,hun-HUN,Számológépclose
+MAT/MA104-CarPurchase,2,2,Hungarian,hun-HUN,PISA
+MAT/MA104-CarPurchase,2,3,Hungarian,hun-HUN,"AUTÓVÁSÁRLÁS
+Tímea négy autó közül szeretne választani, hogy melyiket vásárolja meg. Ezek ára és üzemanyag-fogyasztása az alábbi táblázatban látható.
+Az üzemanyag-fogyasztási adat azt mutatja, hány liter üzemanyagra van szüksége az autónak 100 kilométer megtételéhez.  A becslés vegyes (városi és országúti) fogyasztásra vonatkozik.
+A autó
+B autó
+C autó
+D autó
+Autó ára (zed)
+Az autó ára tartalmazza az adókat és a forgalomba helyezés költségét.
+8000
+8700
+9900
+10 500
+Üzemanyag-fogyasztás
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+A Költségbecslő néhány mezőjét kitöltöttük Tímea becslései alapján.
+KÖLTSÉGBECSLŐ
+Autó ára (zed)
+Üzemanyag-fogyasztás (l/100 km)
+Becsült megtett távolság (km)
+20 000
+Üzemanyag átlagára (zed/l)
+1,54
+Becsült fenntartási költség (zed)
+250
+Törlés
+Kiszámol
+EREDMÉNYEK
+closeOK"
+MAT/MA104-CarPurchase,2,4,Hungarian,hun-HUN,"Autóvásárlás  Kérdés 1 / 2
+Hogyan működik a Költségbecslő?
+A Költségbecslővel meghatározható, mennyibe kerül egy autó megvásárlása és fenntartása az első évben.
+A kalkulátor használatához kövesd a következő lépéseket!
+Írd be az Autó árát!
+Írd be az Üzemanyag-fogyasztást!
+Kattints a „Kiszámol"" gombra! Az eredmény megjelenik az Eredmények táblázatban.
+További számolásokhoz kattints a „Töröl"" gombra, írj be új értékeket, majd kattints ismét a „Kiszámol"" gombra!
+Ha adatsort szeretnél törölni az Eredmények táblázatból, kattints a sor melletti törlés gombra!
+A jobbra látható „Autóvásárlás"" című szöveg alapján válaszolj a kérdésre!  A Költségbecslő segítségével válaszolj a következő kérdésre! A kérdés megválaszolásához kattints az egyik válaszlehetőségre!
+A fenti ""Hogyan működik a Költségbecslő?"" feliratra kattintva megtudod, hogyan működik a Költségbecslő.
+Tímea becslései alapján melyik autó kerül majd a legkevesebbe az első évben az árat és a fenntartási költségeket is figyelembe véve?
+A autó
+B autó
+C autó
+D autó"
+MAT/MA104-CarPurchase,2,5,Hungarian,hun-HUN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Hungarian,hun-HUN,Számológépclose
+MAT/MA104-CarPurchase,3,2,Hungarian,hun-HUN,PISA
+MAT/MA104-CarPurchase,3,3,Hungarian,hun-HUN,"AUTÓVÁSÁRLÁS
+Tímea négy autó közül szeretne választani, hogy melyiket vásárolja meg. Ezek ára és üzemanyag-fogyasztása az alábbi táblázatban látható.
+Az üzemanyag-fogyasztási adat azt mutatja, hány liter üzemanyagra van szüksége az autónak 100 kilométer megtételéhez.  A becslés vegyes (városi és országúti) fogyasztásra vonatkozik.
+A autó
+B autó
+C autó
+D autó
+Autó ára (zed)
+Az autó ára tartalmazza az adókat és a forgalomba helyezés költségét.
+8000
+8700
+9900
+10 500
+Üzemanyag-fogyasztás
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Hungarian,hun-HUN,"Autóvásárlás  Kérdés 2 / 2
+A jobbra látható „Autóvásárlás"" című szöveg alapján válaszolj a kérdésre!  A kérdés megválaszolásához kattints az egyik válaszlehetőségre!
+Egy autó viszonteladási ára az a becsült ár, amennyiért később újra el lehet adni.
+Egy kiváló állapotát megőrző autó évente viszonteladási árának 5%-át veszíti el.
+Ha Tímea a D autó megvásárlása mellett dönt, majd három év múlva kiváló állapotban adja el, körülbelül hány zed lesz az autó viszonteladási ára?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Hungarian,hun-HUN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Icelandic,isl-ISL,Reiknivélclose
+MAT/MA104-CarPurchase,1,2,Icelandic,isl-ISL,PISA
+MAT/MA104-CarPurchase,1,3,Icelandic,isl-ISL,"Bílakaup  Inngangur
+Lestu innganginn. Smelltu síðan á NÆST örina.
+BÍLAKAUP
+Tanja ætlar að kaupa nýjan bíl. Hún vill vita hvað það mun kosta að kaupa bíl og keyra hann fyrsta árið.
+Hún finnur þennan kostnaðargreini á netinu og gerir eftirfarandi áætlanir:
+Hún áætlar að keyra 20.000 km á þessu ári.
+Meðalverð eldsneytis verður 1,54 setur á hvern lítra.
+Áætlaður viðhaldskostnaður er 250 setur fyrsta árið.
+KOSTNAÐARGREINIR
+Bílverð (setur)
+Eldsneytisnotkun (l /100 km)
+Áætluð ekin vegalengd (km)
+Meðaleldsneytisverð (setur/L)
+Áætlaður viðhaldskostnaður (setur)
+Hreinsa
+Reikna"
+MAT/MA104-CarPurchase,1,4,Icelandic,isl-ISL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Icelandic,isl-ISL,Reiknivélclose
+MAT/MA104-CarPurchase,2,2,Icelandic,isl-ISL,PISA
+MAT/MA104-CarPurchase,2,3,Icelandic,isl-ISL,"BÍLAKAUP
+Verð og eldsneytisnotkun fjögurra bíla sem Tanja íhugar að kaupa eru sýnd í töflunni hér fyrir neðan.
+Eldsneytisnotkun er sá fjöldi lítra af eldsneyti sem þarf til að aka 100 kílómetra. Það er áætlun sem byggir á blöndu af innanbæjar- og utanbæjarakstri.
+Bíll A
+Bíll B
+Bíll C
+Bíll D
+Bílverð (setur)
+Í bílverði eru allir skattar og skráningargjöld innifalin.
+8.000
+8.700
+9.900
+10.500
+Eldsneytisnotkun
+(l /100 km)
+18,9
+15,7
+12,4
+14,1
+Sumir reitirnir í kostnaðargreininum hafa verið fylltir út á grundvelli áætlunar Tönju.
+KOSTNAÐARGREINIR
+Bílverð (setur)
+Eldsneytisnotkun (l /100 km)
+Áætluð ekin vegalengd (km)
+20.000
+Meðaleldsneytisverð (setur/L)
+1,54
+Áætlaður viðhaldskostnaður (setur)
+250
+Hreinsa
+Reikna
+NIÐURSTÖÐUR
+closeÍ lagi"
+MAT/MA104-CarPurchase,2,4,Icelandic,isl-ISL,"Bílakaup  Spurning1 / 2
+Hvernig á að nota kostnaðargreininn
+Kostnaðargreinirinn ákvarðar hve mikið bíll mun kosta í innkaupum og í akstri fyrsta árið.
+Fylgdu þessum skrefum til að nota greininn:
+Sláðu inn bílverðið.
+Sláðu inn eldsneytisnotkunina.
+Smelltu á „Reikna” hnappinn. Niðurstaðan birtist í töflunni Niðurstöður.
+Til að gera fleiri útreikinga skaltu smella á „Hreinsa”, slá inn ný gildi og smella svo á „Reikna” hnappinn aftur.
+Til að eyða gagnaröð úr töflunni Niðurstöður skaltu smella á eyðingarhnappinn við hlið þeirrar raðar.
+Skoðaðu „Bílakaup” hér til hægri. Notaðu kostnaðargreininn til að hjálpa þér að svara spurningunni hér fyrir neðan. Smelltu á valmöguleika til að svara spurningunni.
+Til að sjá hvernig á að nota kostnaðargreininn skaltu smella á „Hvernig á að nota kostnaðargreininn” hér fyrir ofan.
+Miðað við áætlanir Tönju, hvaða bíll myndi kosta hana minnst að kaupa og aka fyrsta árið?
+Bíll A
+Bíll B
+Bíll C
+Bíll D"
+MAT/MA104-CarPurchase,2,5,Icelandic,isl-ISL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Icelandic,isl-ISL,Reiknivélclose
+MAT/MA104-CarPurchase,3,2,Icelandic,isl-ISL,PISA
+MAT/MA104-CarPurchase,3,3,Icelandic,isl-ISL,"BÍLAKAUP
+Verð og eldsneytisnotkun fjögurra bíla sem Tanja íhugar að kaupa eru sýnd í töflunni hér fyrir neðan.
+Eldsneytisnotkun er sá fjöldi lítra af eldsneyti sem þarf til að aka 100 kílómetra. Það er áætlun sem byggir á blöndu af innanbæjar- og utanbæjarakstri.
+Bíll A
+Bíll B
+Bíll C
+Bíll D
+Bílverð (setur)
+Í bílverði eru allir skattar og skráningargjöld innifalin.
+8.000
+8.700
+9.900
+10.500
+Eldsneytisnotkun
+(l /100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Icelandic,isl-ISL,"Bílakaup  Spurning2 / 2
+Skoðaðu „Bílakaup” hér til hægri. Smelltu á valmöguleika til að svara spurningunni.
+Endursöluverð bíls er áætlað verð hans í endursölu síðar.
+Endursöluverð bíls í mjög góðu ástandi minnkar um 5% á hverju ári.
+Ef Tanja ákveður að kaupa bíl D og selja hann aftur eftir þrjú ár í mjög góðu ástandi, hvert verður þá áætlað endursöluverð hans í setum?
+1.575
+8.925
+9.000
+9.975"
+MAT/MA104-CarPurchase,3,5,Icelandic,isl-ISL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Indonesian,ind-IDN,Kalkulatorclose
+MAT/MA104-CarPurchase,1,2,Indonesian,ind-IDN,PISA 2022
+MAT/MA104-CarPurchase,1,3,Indonesian,ind-IDN,"Pembelian Mobil   Pengantar
+Bacalah pengantar berikut ini. Kemudian klik pada tanda panah SELANJUTNYA.
+PEMBELIAN MOBIL
+Tania berencana membeli mobil baru. Dia ingin mengetahui berapa biaya pembelian dan pemakaian mobil untuk satu tahun pertama.
+Dia menemukan Penaksir Biaya Online dan membuat taksiran berikut:
+Dia akan menempuh jarak kira-kira 20.000 km tahun ini.
+Biaya rata-rata  bahan bakar adalah 1,54 zed per liter.
+Perkiraan biaya pemeliharaan adalah 250 zed di tahun pertama.
+PENAKSIR BIAYA
+Harga Mobil (zed)
+Pemakaian Bahan Bakar (L/100 km)
+Perkiraan Jarak Tempuh (km)
+Biaya rata-rata Harga Bahan Bakar (zed/L)
+Perkiraan Biaya Pemeliharaan (zed)
+Bersihkan
+Hitung"
+MAT/MA104-CarPurchase,1,4,Indonesian,ind-IDN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Indonesian,ind-IDN,Kalkulatorclose
+MAT/MA104-CarPurchase,2,2,Indonesian,ind-IDN,PISA 2022
+MAT/MA104-CarPurchase,2,3,Indonesian,ind-IDN,"PEMBELIAN MOBIL
+Harga dan pemakaian bahan bakar dari empat mobil yang Tania pertimbangkan untuk membelinya ditunjukkan pada tabel di bawah ini.
+Pemakaian bahan bakar adalah jumlah bahan bakar dalam liter yang dibutuhkan untuk menempuh jarak 100 kilometer. Jumlah ini adalah perkiraan berdasarkan kombinasi mengemudi di kota dan jalan raya.
+Mobil A
+Mobil B
+Mobil C
+Mobil D
+Harga Mobil (zed)
+Harga mobil sudah termasuk semua pajak dan biaya pendaftaran.
+8.000
+8.700
+9.900
+10.500
+Pemakaian  Bahan Bakar
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Beberapa kolom pada Penaksir Biaya telah diisi berdasarkan perkiraan Tania.
+PENAKSIR BIAYA
+Harga Mobil (zed)
+Pemakaian Bahan Bakar (L/100 km)
+Perkiraan Jarak Tempuh (km)
+20.000
+Biaya rata-rata Harga Bahan Bakar (zed/L)
+1,54
+Perkiraan Biaya Pemeliharaan (zed)
+250
+Bersihkan
+Hitung
+HASIL
+closeOK"
+MAT/MA104-CarPurchase,2,4,Indonesian,ind-IDN,"Pembelian Mobil   Pertanyaan 1 / 2
+Cara menggunakan Penaksir Biaya
+Penaksir Biaya akan menentukan berapa banyak biaya yang harus dikeluarkan untuk pembelian mobil dan pemakaiannya di tahun pertama.
+Untuk menggunakan penaksir biaya, ikuti langkah berikut:
+Masukkan Harga Mobil.
+Masukkan Pemakaian Bahan Bakar
+Klik pada tombol “Hitung”. Hasilnya akan muncul di tabel Hasil.
+Untuk menjalankan perhitungan tambahan, klik ”Bersihkan”, masukkan nilai baru, kemudian klik tombol ”Hitung” lagi.
+Untuk menghapus sembarang baris dari data pada tabel Hasil, klik pada tombol hapus di samping baris tersebut.
+Perhatikan teks “Pembelian Mobil” di samping. Gunakan penaksir biaya untuk membantumu menjawab pertanyaan berikut. Klik pada sebuah pilihan jawaban untuk menjawab pertanyaan berikut.
+Untuk mengetahui bagaimana cara menggunakan Penaksir Biaya, klik pada “Cara menggunakan Penaksir Biaya” di atas.
+Berdasarkan perkiraan Tania, mobil manakah yang paling murah untuk dibeli dan dipakai pada tahun pertama?
+Mobil A
+Mobil B
+Mobil C
+Mobil D"
+MAT/MA104-CarPurchase,2,5,Indonesian,ind-IDN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Indonesian,ind-IDN,Kalkulatorclose
+MAT/MA104-CarPurchase,3,2,Indonesian,ind-IDN,PISA 2022
+MAT/MA104-CarPurchase,3,3,Indonesian,ind-IDN,"PEMBELIAN MOBIL
+Harga dan pemakaian bahan bakar dari empat mobil yang Tania pertimbangkan untuk membelinya ditunjukkan pada tabel di bawah ini.
+Pemakaian bahan bakar adalah jumlah bahan bakar dalam liter yang dibutuhkan untuk menempuh jarak 100 kilometer. Jumlah ini adalah perkiraan berdasarkan kombinasi mengemudi di kota dan jalan raya.
+Mobil A
+Mobil B
+Mobil C
+Mobil D
+Harga Mobil (zed)
+Harga mobil sudah termasuk semua pajak dan biaya pendaftaran.
+8.000
+8.700
+9.900
+10.500
+Pemakaian  Bahan Bakar
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Indonesian,ind-IDN,"Pembelian Mobil   Pertanyaan 2 / 2
+Perhatikan teks “Pembelian Mobil” di samping. Klik pada sebuah pilihan jawaban untuk menjawab pertanyaan berikut.
+Harga penjualan kembali sebuah mobil adalah perkiraan harga mobil ketika akan dijual kembali di waktu mendatang.
+Untuk mobil yang tetap dalam kondisi baik, harga penjualan kembalinya akan turun 5% setiap tahunnya.
+Jika Tania memutuskan untuk membeli mobil D dan menjualnya kembali setelah tiga tahun dalam kondisi baik, berapakah perkiraan harga penjualan kembali mobil tersebut dalam zed?
+1.575
+8.925
+9.000
+9.975"
+MAT/MA104-CarPurchase,3,5,Indonesian,ind-IDN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Italian,ita-ITA,Calcolatriceclose
+MAT/MA104-CarPurchase,1,2,Italian,ita-ITA,PISA
+MAT/MA104-CarPurchase,1,3,Italian,ita-ITA,"Acquisto di un'automobile  Introduzione
+Leggi l'introduzione, poi clicca sulla freccia del pulsante AVANTI.
+ACQUISTO DI UN'AUTOMOBILE
+Tania sta pensando di comprare un'automobile nuova. Vuole sapere quanto costa comprare un'automobile e guidarla per il primo anno.
+Tania trova questo Calcolatore di costi stimati online ed effettua le seguenti stime:
+Quest'anno percorrerà una distanza stimata di 20 000 km.
+Il costo medio del carburante sarà di 1,54 zed per litro.
+I costi di manutenzione stimati sono di 250 zed nel primo anno.
+CALCOLATORE DI COSTI STIMATI
+Prezzo dell'automobile (zed)
+Consumo di carburante (L/100 km)
+Stima della distanza percorsa (km)
+Costo medio del carburante (zed/L)
+Costi di manutenzione stimati (zed)
+Cancella
+Calcola"
+MAT/MA104-CarPurchase,1,4,Italian,ita-ITA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Italian,ita-ITA,Calcolatriceclose
+MAT/MA104-CarPurchase,2,2,Italian,ita-ITA,PISA
+MAT/MA104-CarPurchase,2,3,Italian,ita-ITA,"ACQUISTO DI UN'AUTOMOBILE
+I prezzi e il consumo di carburante di quattro automobili che Tania sta considerando di comprare sono riportati nella tabella qui sotto.
+Il consumo di carburante è il numero di litri di carburante necessario per percorrere 100 chilometri. Si tratta di una stima basata su una combinazione di guida in città e in autostrada.
+Automobile A
+Automobile B
+Automobile C
+Automobile D
+Prezzo dell'automobile
+Nel prezzo dell'automobile sono incluse tutte le tasse e le spese di registrazione.
+8000
+8700
+9900
+10 500
+Consumo di carburante
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Alcune caselle del Calcolatore di costi stimati sono state compilate in base alle stime di Tania.
+CALCOLATORE DI COSTI STIMATI
+Prezzo dell'automobile (zed)
+Consumo di carburante (L/100 km)
+Stima della distanza percorsa (km)
+20 000
+Costo medio del carburante (zed/L)
+1,54
+Costi di manutenzione stimati (zed)
+250
+Cancella
+Calcola
+RISULTATI
+closeOK"
+MAT/MA104-CarPurchase,2,4,Italian,ita-ITA,"Acquisto di un'automobile  Domanda  1 / 2
+Come usare il Calcolatore di costi stimati
+Il Calcolatore di costi stimati determinerà quanto costerà l'acquisto e la guida di un'automobile nel primo anno.
+Per usare il calcolatore dei costi stimati, procedi come segue:
+Inserisci il prezzo dell'automobile.
+Inserisci il consumo di carburante.
+Clicca sul pulsante “Calcola”. Il risultato verrà visualizzato nella Tabella dei risultati.
+Per eseguire ulteriori calcoli, clicca su “Cancella”, inserisci nuovi valori, poi clicca di nuovo sul pulsante “Calcola”.
+Per eliminare i dati da una riga della Tabella dei risultati, clicca sul pulsante di eliminazione accanto a quella riga.
+Fai riferimento ad “Acquisto di un'automobile” presentato sulla destra. Usa il Calcolatore di costi stimati come aiuto per rispondere alla domanda qui sotto. Per rispondere alla domanda, clicca su una delle alternative.
+Per vedere come usare il Calcolatore di costi stimati, clicca su “Come usare il Calcolatore di costi stimati” qui sopra.
+In base alle stime di Tania, quale automobile le costerebbe di meno comprare e guidare per il primo anno?
+Automobile A
+Automobile B
+Automobile C
+Automobile D"
+MAT/MA104-CarPurchase,2,5,Italian,ita-ITA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Italian,ita-ITA,Calcolatriceclose
+MAT/MA104-CarPurchase,3,2,Italian,ita-ITA,PISA
+MAT/MA104-CarPurchase,3,3,Italian,ita-ITA,"ACQUISTO DI UN'AUTOMOBILE
+I prezzi e il consumo di carburante di quattro automobili che Tania sta considerando di comprare sono riportati nella tabella qui sotto.
+Il consumo di carburante è il numero di litri di carburante necessario per percorrere 100 chilometri. Si tratta di una stima basata su una combinazione di guida in città e in autostrada.
+Automobile A
+Automobile B
+Automobile C
+Automobile D
+Prezzo dell'automobile
+Nel prezzo dell'automobile sono incluse tutte le tasse e le spese di registrazione.
+8000
+8700
+9900
+10 500
+Consumo di carburante
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Italian,ita-ITA,"Acquisto di un'automobile  Domanda  2 / 2
+Fai riferimento ad “Acquisto di un'automobile” presentato sulla destra. Per rispondere alla domanda, clicca su una delle alternative.
+Il prezzo di rivendita di un'automobile è il prezzo stimato con cui può essere rivenduta in un secondo momento.
+Per un'automobile che rimane in ottime condizioni, il suo prezzo di rivendita diminuirà ogni anno del 5%.
+Se Tania decidesse di comprare l'automobile D e rivenderla dopo tre anni in ottime condizioni, quale sarebbe il prezzo di rivendita approssimativo dell'automobile in zed?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Italian,ita-ITA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Japanese,jpn-JPN,電卓close
+MAT/MA104-CarPurchase,1,2,Japanese,jpn-JPN,PISA 2022
+MAT/MA104-CarPurchase,1,3,Japanese,jpn-JPN,"自動車の購入  はじめに
+下の文章を読んで、 「次へ」ボタンをクリックしてください。
+自動車の購入
+千夏さんは新しい自動車を購入しようと思っています。 千夏さんは、自動車の購入と最初の1年間の走行にいくらかかるかを知りたいと思っています。
+千夏さんはネット上で「費用見積もりツール」を見つけ、下のように見積もりをしました。
+最初の1年間の推定走行距離は20,000kmです。
+平均燃料費は1リットルあたり1.54ゼッドです。
+推定維持費は最初の1年間で250ゼッドです。
+費用見積もりツール
+自動車の価格（ゼッド）
+燃費（L/100 km）
+推定走行距離（km）
+平均燃料費（ゼッド/L）
+推定維持費 (ゼッド)
+リセット
+計算"
+MAT/MA104-CarPurchase,1,4,Japanese,jpn-JPN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Japanese,jpn-JPN,電卓close
+MAT/MA104-CarPurchase,2,2,Japanese,jpn-JPN,PISA 2022
+MAT/MA104-CarPurchase,2,3,Japanese,jpn-JPN,"自動車の購入
+下の表には、千夏さんが購入を検討している四台の自動車の価格と燃費が示されています。
+燃費とは、100キロメートル走行するのに必要な燃料のリットル数です。 これは、市街地と高速道路の走行を組み合わせた見積もりです。
+自動車A
+自動車B
+自動車C
+自動車D
+自動車の価格（ゼッド）
+自動車の価格には税金・登録料がすべて含まれています。
+8,000
+8,700
+9,900
+10,500
+燃費
+(L/100km)
+18.9
+15.7
+12.4
+14.1
+費用見積もりツールのいくつかの枠には、すでに千夏さんの推定値が入力されています。
+費用見積もりツール
+自動車の価格（ゼッド）
+燃費（L/100 km）
+推定走行距離（km）
+20,000
+平均燃料費（ゼッド/L）
+1.54
+推定維持費 (ゼッド)
+250
+リセット
+計算
+結果
+closeOK"
+MAT/MA104-CarPurchase,2,4,Japanese,jpn-JPN,"自動車の購入  問  1 / 2
+費用見積もりツールの使い方
+費用見積もりツールは、自動車の購入と最初の1年間の走行にかかる費用を算出します。
+費用見積もりツールの使い方を、以下の手順で確認してください。
+自動車の価格を入力します。
+燃費を入力します。
+「計算」ボタンをクリックすると、 結果が表に示されます。
+別の計算をするには、「リセット」ボタンをクリックし、新しい値を入力した上で、「計算」ボタンをもう一度クリックしてください。
+結果の表からデータのある行を削除するには、その行の横にある削除ボタンをクリックします。
+右の「自動車の購入」を読んで、 費用見積もりツールを使って、下の問いに答えてください。 下の問いの答えを一つクリックしてください。
+上の「費用見積もりツールの使い方」をクリックすると、費用見積もりツールの使い方を見ることができます。
+千夏さんの見積もりに基づくと、自動車の購入と最初の1年間の走行にかかる費用が最も少ないのは、どの自動車ですか。
+自動車A
+自動車B
+自動車C
+自動車D"
+MAT/MA104-CarPurchase,2,5,Japanese,jpn-JPN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Japanese,jpn-JPN,電卓close
+MAT/MA104-CarPurchase,3,2,Japanese,jpn-JPN,PISA 2022
+MAT/MA104-CarPurchase,3,3,Japanese,jpn-JPN,"自動車の購入
+下の表には、千夏さんが購入を検討している四台の自動車の価格と燃費が示されています。
+燃費とは、100キロメートル走行するのに必要な燃料のリットル数です。 これは、市街地と高速道路の走行を組み合わせた見積もりです。
+自動車A
+自動車B
+自動車C
+自動車D
+自動車の価格（ゼッド）
+自動車の価格には税金・登録料がすべて含まれています。
+8,000
+8,700
+9,900
+10,500
+燃費
+(L/100km)
+18.9
+15.7
+12.4
+14.1"
+MAT/MA104-CarPurchase,3,4,Japanese,jpn-JPN,"自動車の購入  問  2 / 2
+右の「自動車の購入」を読んで、 下の問いの答えを一つクリックしてください。
+自動車の再販価格とは、後に売却する時に付けられる推定価格のことです。
+自動車の状態が大変良い場合、その価格は1年ごとに5%減少します。
+もし千夏さんが自動車Dを買うと決めて、3年後にそれを大変良い状態で売ることができるとしたら、その自動車の再販価格はおよそいくらになるでしょうか。
+1,575
+8,925
+9,000
+9,975"
+MAT/MA104-CarPurchase,3,5,Japanese,jpn-JPN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Kazakh,kaz-KAZ,Калькуляторclose
+MAT/MA104-CarPurchase,1,2,Kazakh,kaz-KAZ,PISA 2022
+MAT/MA104-CarPurchase,1,3,Kazakh,kaz-KAZ,"Автокөлік сатып алу  Кіріспе
+Кіріспені оқыңыз. Одан кейін КЕЛЕСІ батырмасының үстінен тінтуірмен басыңыз.
+АВТОКӨЛІК САТЫП АЛУ
+Тоғжан жаңа автокөлік сатып алуды жоспарлап отыр. Ол автокөлікті сатып алып оны бірінші жылда айдауға қанша ақша кететінін білгісі келеді.
+Ол осы Баға есептегішті онлайн тауып алып келесі есептеулер жүргізеді:
+Осы жылы ол есеппен 20 000 км қашықтықты жүреді.
+Жанармайдың орташа бағасы литріне 1,54 зед болады.
+Техникалық қызмет көрсету бағасы бірінші жылы есеппен 250 зед болады.
+БАҒА ЕСЕПТЕГІШІ
+Автокөлік бағасы (зед)
+Жанармай шығыны (л/100 км)
+Есеппен жүрілген қашықтық (км)
+Жанармайдың орташа құны (зед/л)
+Есеппен техникалық қызмет көрсету құны (зед)
+Өшіру
+Есептеу"
+MAT/MA104-CarPurchase,1,4,Kazakh,kaz-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Kazakh,kaz-KAZ,Калькуляторclose
+MAT/MA104-CarPurchase,2,2,Kazakh,kaz-KAZ,PISA 2022
+MAT/MA104-CarPurchase,2,3,Kazakh,kaz-KAZ,"АВТОКӨЛІК САТЫП АЛУ
+Тоғжан сатып алуға қарастырып жатқан төрт автокөліктің бағалары мен жанармай шығындары төмендегі кестеде көрсетілген.
+Жанармай шығыны дегеніміз 100 километр қашықтықты жүру үшін қажет жанармай мөлшері (литрмен). Бұл қала ішімен және тас жолымен аралас жүру негізінде есептелген.
+А автокөлігі
+Б автокөлігі
+В автокөлігі
+Г автокөлігі
+Автокөлік бағасы (зед)
+Автокөлік бағасы барлық салықтармен тіркеу алымдарымен қоса көрсетілген.
+8000
+8700
+9900
+10 500
+Жанармай шығыны
+(л/100 км)
+18,9
+15,7
+12,4
+14,1
+Баға есептегіштегі кейбір ұяшықтар Тоғжанның есептеулерінің негізінде толтырылған.
+БАҒА ЕСЕПТЕГІШІ
+Автокөлік бағасы (зед)
+Жанармай шығыны (л/100 км)
+Есеппен жүрілген қашықтық (км)
+20 000
+Жанармайдың орташа құны (зед/л)
+1,54
+Есеппен техникалық қызмет көрсету құны (зед)
+250
+Өшіру
+Есептеу
+НӘТИЖЕЛЕР
+closeОК"
+MAT/MA104-CarPurchase,2,4,Kazakh,kaz-KAZ,"Автокөлік сатып алу  Сұрақ 1 / 2
+Баға есептегішпен қалай қолдану керек
+Баға есептегіш автокөлікті сатып алып оны бір жыл бойы айдауға қанша ақша кететінін анықтайды.
+Баға есептегішті қолдану үшін келесі қадамдарды орындаңыз:
+Автокөлік бағасын енгізіңіз.
+Жанармай шығынын енгізіңіз.
+«Есептеу» батырмасын басыңыз. Нәтижелер кестесінде шыққан санды көресіз.
+Қосымша есептеулер жүргізу үшін «Өшіру» батырмасын басыңыз, содан кейін жаңа мәндерді енгізіп қайтадан «Есептеу» батырмасын басыңыз.
+Деректердің кез келген жолын Нәтижелер кестесінен жою үшін сол жолдың қасындағы жою батырмасын басыңыз.
+Оң жақтағы «Автокөлік сатып алу» мәтінін оқыңыз. Төмендегі сұраққа жауап беруге көмек ретінде Баға есептегішті қолданыңыз. Сұраққа жауап беру үшін таңдаған жауабыңыздың үстінен тінтуірмен басыңыз.
+Баға есептегішпен қалай қолдану керектігін көру үшін «Баға есептегішпен қалай қолдану керек» дегенді тінтуірмен басыңыз.
+Тоғжанның есебі бойынша, қай автокөлікті сатып алып оны бірінші жылда айдау ең арзан болады?
+А автокөлігі
+Б автокөлігі
+В автокөлігі
+Г автокөлігі"
+MAT/MA104-CarPurchase,2,5,Kazakh,kaz-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Kazakh,kaz-KAZ,Калькуляторclose
+MAT/MA104-CarPurchase,3,2,Kazakh,kaz-KAZ,PISA 2022
+MAT/MA104-CarPurchase,3,3,Kazakh,kaz-KAZ,"АВТОКӨЛІК САТЫП АЛУ
+Тоғжан сатып алуға қарастырып жатқан төрт автокөліктің бағалары мен жанармай шығындары төмендегі кестеде көрсетілген.
+Жанармай шығыны дегеніміз 100 километр қашықтықты жүру үшін қажет жанармай мөлшері (литрмен). Бұл қала ішімен және тас жолымен аралас жүру негізінде есептелген.
+А автокөлігі
+Б автокөлігі
+В автокөлігі
+Г автокөлігі
+Автокөлік бағасы (зед)
+Автокөлік бағасы барлық салықтармен тіркеу алымдарымен қоса көрсетілген.
+8000
+8700
+9900
+10 500
+Жанармай шығыны
+(л/100 км)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Kazakh,kaz-KAZ,"Автокөлік сатып алу  Сұрақ 2 / 2
+Оң жақтағы «Автокөлік сатып алу» мәтінін оқыңыз. Сұраққа жауап беру үшін таңдаған жауабыңыздың үстінен тінтуірмен басыңыз.
+Жүрілген автокөліктің бағасы – бұл автокөлікті кейінірек қаншаға қайта сатуға болатын есептелген баға.
+Өте жақсы жағдайында қалған жүрілген автокөліктің бағасы жыл сайын 5%-ға төмендей береді.
+Егер Тоғжан Г автокөлігін сатып алуды шешіп және оны үш жылдан кейін «өте жақсы» жағдайында қайта сатқысы келсе, жүрілген автокөліктің бағасы шамамен (зедпен) қанша болады?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Kazakh,kaz-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Korean,kor-KOR,계산기close
+MAT/MA104-CarPurchase,1,2,Korean,kor-KOR,PISA
+MAT/MA104-CarPurchase,1,3,Korean,kor-KOR,"자동차 구입  도입부
+도입부를 읽고, [다음 화면] 버튼을 클릭하시오.
+자동차 구입
+태연이는 새 자동차를 구입하려고 계획하고 있다. 자동차 구입 비용과 첫 해 운행 비용이 얼마나 될지 알고 싶다.
+온라인에서 비용 추정기를 찾아 다음과 같이 비용을 추정했다:
+첫 해 추정 주행 거리는 20000km이다.
+연료의 평균 가격은 리터당 1.54제드이다.
+첫 해의 추정 유지비는 250제드이다.
+비용 추정기
+자동차 가격(제드)
+연료소비 (L/100 km)
+추정 주행 거리 (km)
+연료의 평균 가격 (제드/L)
+추정 유지비 (제드)
+초기화
+계산"
+MAT/MA104-CarPurchase,1,4,Korean,kor-KOR,"C
+(
+)
+x2
+xy
+√x
+1/x
+π
+÷
+7
+8
+9
+×
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Korean,kor-KOR,계산기close
+MAT/MA104-CarPurchase,2,2,Korean,kor-KOR,PISA
+MAT/MA104-CarPurchase,2,3,Korean,kor-KOR,"자동차 구입
+태연이가 구입하려고 생각 중인 자동차 네 대의 가격과 연료소비가 아래 표와 같다.
+연료소비는 100킬로미터를 주행하는 데 필요한 연료의 양을 리터로 나타낸 것이다. 이것은 도심 주행과 고속도로 주행의 조합에 근거한 어림값이다.
+자동차 A
+자동차 B
+자동차 C
+자동차 D
+자동차 가격(제드)
+자동차 가격은 모든 세금과 등록비를 포함한다
+8000
+8700
+9900
+10500
+연료소비
+(L/100km)
+18.9
+15.7
+12.4
+14.1
+비용 추정기의 일부 칸은 태연이의 추정을 바탕으로 이미 채워져 있다.
+비용 추정기
+자동차 가격(제드)
+연료소비 (L/100 km)
+추정 주행 거리 (km)
+20000
+연료의 평균 가격 (제드/L)
+1.54
+추정 유지비 (제드)
+250
+초기화
+계산
+결과
+close확인"
+MAT/MA104-CarPurchase,2,4,Korean,kor-KOR,"자동차 구입  문제 1 / 2
+비용 추정기 사용 방법
+비용 추정기는 자동차의 구입 비용과 첫 해 운행 비용이 얼마나 될지를 산정해 준다.
+비용 추정기를 사용하려면 다음 단계를 따르시오:
+자동차 가격을 입력한다.
+연료소비를 입력한다.
+'계산' 버튼을 클릭한다. 결과표에 결과가 나타날 것이다.
+더 계산해보려면 '초기화' 버튼을 클릭하고 새로운 값을 입력한 후 '계산' 버튼을 다시 클릭하시오.
+결과 표에서 행을 삭제하려면, 해당하는 행 옆의 삭제 버튼을 클릭하시오.
+오른쪽 '자동차 구입'을 참고하시오. 비용 추정기를 사용하여 아래 물음에 답하시오. 물음에 대한 답을 하나 선택하여 클릭하시오.
+비용 추정기 사용 방법을 보려면 위의 '비용 추정기 사용 방법'을 클릭하시오.
+태연이의 추정에 근거할 때, 구입 비용과 첫 해 운행 비용이 가장 적은 자동차는?
+자동차 A
+자동차 B
+자동차 C
+자동차 D"
+MAT/MA104-CarPurchase,2,5,Korean,kor-KOR,"C
+(
+)
+x2
+xy
+√x
+1/x
+π
+÷
+7
+8
+9
+×
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Korean,kor-KOR,계산기close
+MAT/MA104-CarPurchase,3,2,Korean,kor-KOR,PISA
+MAT/MA104-CarPurchase,3,3,Korean,kor-KOR,"자동차 구입
+태연이가 구입하려고 생각 중인 자동차 네 대의 가격과 연료소비가 아래 표와 같다.
+연료소비는 100킬로미터를 주행하는 데 필요한 연료의 양을 리터로 나타낸 것이다. 이것은 도심 주행과 고속도로 주행의 조합에 근거한 어림값이다.
+자동차 A
+자동차 B
+자동차 C
+자동차 D
+자동차 가격(제드)
+자동차 가격은 모든 세금과 등록비를 포함한다
+8000
+8700
+9900
+10500
+연료소비
+(L/100km)
+18.9
+15.7
+12.4
+14.1"
+MAT/MA104-CarPurchase,3,4,Korean,kor-KOR,"자동차 구입  문제 2 / 2
+오른쪽 '자동차 구입'을 참고하시오. 물음에 대한 답을 하나 선택하여 클릭하시오.
+자동차의 중고차 가격은 나중에 되팔 수 있는 가격의 추정치이다.
+최상의 상태를 유지한 자동차의 경우, 중고차 가격은 매년 5%씩 감소한다.
+태연이가 자동차 D를 구입하여 3년 후에 최상의 상태로 되판다면, 자동차의 중고차 가격은 약 몇 제드인가?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Korean,kor-KOR,"C
+(
+)
+x2
+xy
+√x
+1/x
+π
+÷
+7
+8
+9
+×
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Latvian,lav-LVA,Kalkulatorsclose
+MAT/MA104-CarPurchase,1,2,Latvian,lav-LVA,PISA
+MAT/MA104-CarPurchase,1,3,Latvian,lav-LVA,"Mašīnas iegāde   Ievads
+Izlasi ievadu. Tad noklikšķini uz bultiņas TĀLĀK.
+MAŠĪNAS IEGĀDE
+Tamāra plāno iegādāties jaunu mašīnu.  Viņa vēlas zināt, cik maksās mašīna un tās izmantošana pirmajā gadā.
+Viņa internetā atrod izmaksu kalkulatoru un veic zemāk norādītos aprēķinus.
+Šajā gadā viņa nobrauks apmēram 20 000 km.
+Degviela vidēji izmaksās 1,54 zedi litrā.
+Uzturēšanas paredzamās izmaksas pirmajā gadā būs 250 zedi.
+IZMAKSU KALKULATORS
+Mašīnas cena (zedi)
+Degvielas patēriņš (L/100 km)
+Paredzamais nobraukums (km)
+Degvielas vidējās izmaksas (zedi/L)
+Mašīnas uzturēšanas paredzamās izmaksas (zedi)
+Dzēst
+Rēķināt"
+MAT/MA104-CarPurchase,1,4,Latvian,lav-LVA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Latvian,lav-LVA,Kalkulatorsclose
+MAT/MA104-CarPurchase,2,2,Latvian,lav-LVA,PISA
+MAT/MA104-CarPurchase,2,3,Latvian,lav-LVA,"MAŠĪNAS IEGĀDE
+Tamāra apsver iespēju pirkt vienu no četrām automašīnām, kuru cenas un degvielas patēriņš redzams zemāk dotajā tabulā.
+Degvielas patēriņš ir degvielas litru skaits, kas nepieciešams, lai nobrauktu 100 kilometrus.  Degvielas patēriņa aprēķinā ir ņemta vērtā braukšana pilsētā un ārpus apdzīvotām vietām.
+Mašīna A
+Mašīna B
+Mašīna C
+Mašīna D
+Mašīnas cena (zedi)
+Mašīnas cenā iekļauti visi nodokļi un reģistrācijas izmaksas.
+8000
+8700
+9900
+10 500
+Degvielas patēriņš
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Daži lodziņi izmaksu kalkulatorā ir aizpildīti, balstoties uz Tamāras aprēķiniem.
+IZMAKSU KALKULATORS
+Mašīnas cena (zedi)
+Degvielas patēriņš (L/100 km)
+Paredzamais nobraukums (km)
+20 000
+Degvielas vidējās izmaksas (zedi/L)
+1,54
+Mašīnas uzturēšanas paredzamās izmaksas (zedi)
+250
+Dzēst
+Rēķināt
+REZULTĀTI
+closeLabi"
+MAT/MA104-CarPurchase,2,4,Latvian,lav-LVA,"Mašīnas iegāde   Jautājums  1 / 2
+Kā izmantot izmaksu kalkulatoru
+Izmaksu kalkulators aprēķinās, cik izmaksās mašīnas iegāde un lietošana pirmajā gadā.
+Lai izmantotu kalkulatoru, rīkojies šādi:
+Ievadi mašīnas cenu.
+Ievadi degvielas patēriņu.
+Noklikšķini uz pogas ""Rēķināt"".   Rezultāts parādīsies rezultātu tabulā.
+Lai veiktu papildu aprēķinus, noklikšķini uz ""Dzēst"", ievadi jaunas vērtības, tad vēlreiz noklikšķini uz pogas ""Rēķināt"".
+Lai izdzēstu datus no jebkuras rindas rezultātu tabulā, noklikšķini uz dzēšanas pogas blakus attiecīgajai rindai.
+Aplūko labajā pusē doto informāciju ""Mašīnas iegāde"".   Lai atbildētu uz zemāk doto jautājumu, izmanto izmaksu kalkulatoru.  Noklikšķini uz atbildes varianta, lai atbildētu uz jautājumu.
+Lai redzētu, kā izmantot izmaksu kalkulatoru, noklikšķini uz augstāk dotās joslas ""Kā izmantot izmaksu kalkulatoru"".
+Balstoties uz Tamāras aprēķiniem, kuras mašīnas iegāde un izmantošana pirmajā gadā Tamārai izmaksās vismazāk?
+Mašīna A
+Mašīna B
+Mašīna C
+Mašīna D"
+MAT/MA104-CarPurchase,2,5,Latvian,lav-LVA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Latvian,lav-LVA,Kalkulatorsclose
+MAT/MA104-CarPurchase,3,2,Latvian,lav-LVA,PISA
+MAT/MA104-CarPurchase,3,3,Latvian,lav-LVA,"MAŠĪNAS IEGĀDE
+Tamāra apsver iespēju pirkt vienu no četrām automašīnām, kuru cenas un degvielas patēriņš redzams zemāk dotajā tabulā.
+Degvielas patēriņš ir degvielas litru skaits, kas nepieciešams, lai nobrauktu 100 kilometrus.  Degvielas patēriņa aprēķinā ir ņemta vērtā braukšana pilsētā un ārpus apdzīvotām vietām.
+Mašīna A
+Mašīna B
+Mašīna C
+Mašīna D
+Mašīnas cena (zedi)
+Mašīnas cenā iekļauti visi nodokļi un reģistrācijas izmaksas.
+8000
+8700
+9900
+10 500
+Degvielas patēriņš
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Latvian,lav-LVA,"Mašīnas iegāde   Jautājums  2 / 2
+Aplūko labajā pusē doto informāciju ""Mašīnas iegāde"".   Noklikšķini uz atbildes varianta, lai atbildētu uz jautājumu.
+Mašīnas tālākpārdošanas cena ir paredzamā cena, par kādu vēlāk to var pārdot.
+Labā stāvoklī uzturētu mašīnu vērtība katru gadu krītas par 5%.
+Kāda būs mašīnas aptuvenā tālākpārdošanas cena zedos, ja Tamāra nolems pirkt automašīnu D un pēc trīs gadiem to labā stāvoklī pārdos?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Latvian,lav-LVA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Lithuanian,lit-LTU,Skaičiuotuvasclose
+MAT/MA104-CarPurchase,1,2,Lithuanian,lit-LTU,Programme for International Student Assessment
+MAT/MA104-CarPurchase,1,3,Lithuanian,lit-LTU,"Automobilio įsigijimas   Įvadas
+Perskaitykite įvadą  ir spustelėkite rodyklę TOLIAU.
+AUTOMOBILIO ĮSIGIJIMAS
+Tania planuoja įsigyti naują automobilį. Ji nori sužinoti, kiek kainuotų įsigyti automobilį ir juo važinėti pirmaisiais metais.
+Internete ji rado išlaidų skaičiuoklę ir atliko štai tokius skaičiavimus:
+Šiais metais ji nuvažiuos apytiksliai 20 000 km atstumą.
+Vidutinė degalų litro kaina bus 1,54 zedo.
+Vidutinės remonto išlaidos pirmaisiais metais sudarys apytiksliai 250 zedų.
+IŠLAIDŲ SKAIČIUOKLĖ
+Automobilio kaina (zedai)
+Degalų sąnaudos (l/100 km)
+Apytikslis nuvažiuotas atstumas (km)
+Vidutinė degalų kaina (zedai/l)
+Apytikslės remonto išlaidos (zedai)
+Ištrinti
+Skaičiuoti"
+MAT/MA104-CarPurchase,1,4,Lithuanian,lit-LTU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Lithuanian,lit-LTU,Skaičiuotuvasclose
+MAT/MA104-CarPurchase,2,2,Lithuanian,lit-LTU,Programme for International Student Assessment
+MAT/MA104-CarPurchase,2,3,Lithuanian,lit-LTU,"AUTOMOBILIO ĮSIGIJIMAS
+Keturių automobilių, iš kurių renkasi Tania, kainos ir degalų sąnaudos nurodytos lentelėje.
+Degalų sąnaudos yra degalų kiekis (litrų skaičius), kurio reikia norint nuvažiuoti 100 kilometrų. Jis apskaičiuojamas derinant važiavimą ir mieste, ir greitkeliu.
+A automobilis
+B automobilis
+C automobilis
+D automobilis
+Automobilio kaina (zedai)
+Į automobilio kainą įtraukti visi privalomi ir registracijos mokesčiai
+8000
+8700
+9900
+10 500
+Degalų sąnaudos
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Kai kurie išlaidų skaičiuoklės langeliai jau yra užpildyti remiantis Tanios skaičiavimais.
+IŠLAIDŲ SKAIČIUOKLĖ
+Automobilio kaina (zedai)
+Degalų sąnaudos (l/100 km)
+Apytikslis nuvažiuotas atstumas (km)
+20 000
+Vidutinė degalų kaina (zedai/l)
+1,54
+Apytikslės remonto išlaidos (zedai)
+250
+Ištrinti
+Skaičiuoti
+REZULTATAI
+closeGERAI"
+MAT/MA104-CarPurchase,2,4,Lithuanian,lit-LTU,"Automobilio įsigijimas   Klausimas 1 / 2
+Kaip naudotis išlaidų skaičiuokle
+Išlaidų skaičiuoklė apskaičiuos, kiek kainuos nusipirkti automobilį ir juo važinėti pirmaisiais metais.
+Norėdami pasinaudoti skaičiuokle, atlikite šiuos veiksmus:
+Įrašykite automobilio kainą.
+Įrašykite degalų sąnaudas.
+Spustelėkite mygtuką „Skaičiuoti“.  Rezultatas pasirodys rezultatų lentelėje.
+Norėdami atlikti papildomus skaičiavimus, spustelėkite „Ištrinti“, įrašykite naujas reikšmes, tada vėl spustelėkite mygtuką „Skaičiuoti“.
+Norėdami rezultatų lentelėje ištrinti bet kurią duomenų eilutę, spustelėkite panaikinimo mygtuką šalia jos.
+Remdamiesi dešinėje pateikta užduoties „Automobilio įsigijimas“ informacija,  naudodamiesi išlaidų skaičiuokle,  pasirinkite atsakymą.
+Norėdami sužinoti, kaip naudotis išlaidų skaičiuokle, spustelėkite viršuje esantį laukelį „Kaip naudotis išlaidų skaičiuokle“.
+Remiantis Tanios skaičiavimais, kurio automobilio pirkimas ir jo vairavimas pirmaisiais metais jai kainuotų pigiausiai?
+A automobilis
+B automobilis
+C automobilis
+D automobilis"
+MAT/MA104-CarPurchase,2,5,Lithuanian,lit-LTU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Lithuanian,lit-LTU,Skaičiuotuvasclose
+MAT/MA104-CarPurchase,3,2,Lithuanian,lit-LTU,Programme for International Student Assessment
+MAT/MA104-CarPurchase,3,3,Lithuanian,lit-LTU,"AUTOMOBILIO ĮSIGIJIMAS
+Keturių automobilių, iš kurių renkasi Tania, kainos ir degalų sąnaudos nurodytos lentelėje.
+Degalų sąnaudos yra degalų kiekis (litrų skaičius), kurio reikia norint nuvažiuoti 100 kilometrų. Jis apskaičiuojamas derinant važiavimą ir mieste, ir greitkeliu.
+A automobilis
+B automobilis
+C automobilis
+D automobilis
+Automobilio kaina (zedai)
+Į automobilio kainą įtraukti visi privalomi ir registracijos mokesčiai
+8000
+8700
+9900
+10 500
+Degalų sąnaudos
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Lithuanian,lit-LTU,"Automobilio įsigijimas   Klausimas 2 / 2
+Remdamiesi dešinėje pateikta užduoties „Automobilio įsigijimas“ informacija,  pasirinkite atsakymą.
+Automobilio perpardavimo vertė yra apytikslė kaina, už kurią automobilį būtų galima vėliau perparduoti.
+Automobilio, kuris išlieka puikios būklės, perpardavimo vertė kiekvienais metais sumažės 5 %.
+Jeigu Tania nuspręstų įsigyti D automobilį ir jį puikios būklės parduotų po trejų metų, kokia tada būtų apytikslė šio automobilio perpardavimo vertė zedais?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Lithuanian,lit-LTU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Malay,msa-MYS,Kalkulatorclose
+MAT/MA104-CarPurchase,1,2,Malay,msa-MYS,PISA
+MAT/MA104-CarPurchase,1,3,Malay,msa-MYS,"Pembelian Kereta  Pengenalan
+Baca pengenalan. Kemudian klik pada anak panah SETERUSNYA.
+PEMBELIAN KERETA
+Tania merancang untuk membeli sebuah kereta baharu. Dia ingin mengetahui kos pembelian sebuah kereta dan memandu kereta itu bagi tahun pertama.
+Dia menemukan Penganggar Kos dalam talian ini dan membuat anggaran berikut:
+Dia akan memandu dengan anggaran jarak sejauh 20 000 km pada tahun ini.
+Purata kos bahan api ialah 1.54 zed per liter.
+Anggaran kos penyelenggaraan ialah 250 zed pada tahun pertama.
+PENGANGGAR KOS
+Harga Kereta (zed)
+Penggunaan Bahan Api (L/100 km)
+Anggaran Jarak Pemanduan (km)
+Purata Kos Bahan Api (zed/L)
+Anggaran Kos Penyelenggaraan (zed)
+Padam
+Kira"
+MAT/MA104-CarPurchase,1,4,Malay,msa-MYS,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Malay,msa-MYS,Kalkulatorclose
+MAT/MA104-CarPurchase,2,2,Malay,msa-MYS,PISA
+MAT/MA104-CarPurchase,2,3,Malay,msa-MYS,"PEMBELIAN KERETA
+Jadual di bawah menunjukkan harga dan penggunaan bahan api bagi empat buah kereta yang sedang dipertimbangkan untuk dibeli oleh Tania.
+Penggunaan bahan api ialah isi padu bahan api dalam liter yang diperlukan untuk pemanduan sejauh 100 kilometer. Anggaran ini berdasarkan gabungan pemanduan di dalam bandar dan di lebuh raya.
+Kereta A
+Kereta B
+Kereta C
+Kereta D
+Harga Kereta (zed)
+Harga kereta termasuk semua cukai dan yuran pendaftaran.
+8000
+8700
+9900
+10 500
+Penggunaan Bahan Api
+(L/100 km)
+18.9
+15.7
+12.4
+14.1
+Sebahagian ruang dalam Penganggar Kos telah diisi berdasarkan anggaran Tania.
+PENGANGGAR KOS
+Harga Kereta (zed)
+Penggunaan Bahan Api (L/100 km)
+Anggaran Jarak Pemanduan (km)
+20 000
+Purata Kos Bahan Api (zed/L)
+1.54
+Anggaran Kos Penyelenggaraan (zed)
+250
+Padam
+Kira
+KEPUTUSAN
+closeOK"
+MAT/MA104-CarPurchase,2,4,Malay,msa-MYS,"Pembelian Kereta  Soalan 1 / 2
+Cara Menggunakan Penganggar Kos
+Penganggar Kos akan menentukan kos pembelian dan pemanduan kereta pada tahun pertama.
+Untuk menggunakan pengganggar, ikut langkah-langkah berikut:
+Masukkan Harga Kereta.
+Masukkan Penggunaan Bahan Api.
+Klik pada butang ""Kira"". Hasil pengiraan akan dipaparkan dalam jadual Keputusan.
+Untuk melakukan pengiraan seterusnya, klik ""Padam"", masukkan nilai-nilai baharu, kemudian klik butang ""Kira"" sekali lagi.
+Untuk memadamkan sebarang baris data daripada jadual Keputusan, klik butang padam bersebelahan dengan baris itu.
+Rujuk ""Pembelian Kereta"" di sebelah kanan. Gunakan Penganggar Kos bagi membantu anda menjawab soalan di bawah. Klik pada satu pilihan untuk menjawab soalan.
+Untuk melihat cara Penganggar Kos digunakan, klik pada ""Cara Menggunakan Penganggar Kos"" di atas.
+Berdasarkan anggaran Tania, kereta yang manakah kosnya paling rendah untuk dibeli dan dipandu pada tahun pertama?
+Kereta A
+Kereta B
+Kereta C
+Kereta D"
+MAT/MA104-CarPurchase,2,5,Malay,msa-MYS,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Malay,msa-MYS,Kalkulatorclose
+MAT/MA104-CarPurchase,3,2,Malay,msa-MYS,PISA
+MAT/MA104-CarPurchase,3,3,Malay,msa-MYS,"PEMBELIAN KERETA
+Jadual di bawah menunjukkan harga dan penggunaan bahan api bagi empat buah kereta yang sedang dipertimbangkan untuk dibeli oleh Tania.
+Penggunaan bahan api ialah isi padu bahan api dalam liter yang diperlukan untuk pemanduan sejauh 100 kilometer. Anggaran ini berdasarkan gabungan pemanduan di dalam bandar dan di lebuh raya.
+Kereta A
+Kereta B
+Kereta C
+Kereta D
+Harga Kereta (zed)
+Harga kereta termasuk semua cukai dan yuran pendaftaran.
+8000
+8700
+9900
+10 500
+Penggunaan Bahan Api
+(L/100 km)
+18.9
+15.7
+12.4
+14.1"
+MAT/MA104-CarPurchase,3,4,Malay,msa-MYS,"Pembelian Kereta  Soalan 2 / 2
+Rujuk ""Pembelian Kereta"" di sebelah kanan. Klik pada satu pilihan untuk menjawab soalan.
+Harga jualan semula kereta ialah anggaran harga kereta boleh dijual semula pada masa akan datang.
+Bagi kereta yang berkeadaan baik, nilainya akan berkurang 5% setiap tahun.
+Sekiranya Tania membuat keputusan untuk membeli kereta D dan menjual semula kereta tersebut selepas tiga tahun dalam keadaan baik, apakah harga jualan semula terhampir kereta tersebut dalam zed?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Malay,msa-MYS,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Nynorsk,nno-NOR,Kalkulatorclose
+MAT/MA104-CarPurchase,1,2,Nynorsk,nno-NOR,PISA
+MAT/MA104-CarPurchase,1,3,Nynorsk,nno-NOR,"Bilkjøp  Innleiing
+Les innleiinga. Klikk deretter på NESTE-pila.
+BILKJØP
+Trine har planar om å kjøpe ein ny bil.  Ho ønskjer å vite kor mykje det vil koste å kjøpe bilen og bruke han det første året.
+Ho finn ein kostnadskalkulator på nettet og gjer desse utrekningane:
+Ho reknar med å køyre omtrent 20 000 km dette året.
+Den gjennomsnittlege prisen på bensin er 1,54 zed per liter.
+Vedlikehaldskostnadene set ho til 250 zed det første året.
+KOSTNADSKALKULATOR
+Bilpris (zed)
+Bensinforbruk (l/100 km)
+Køyrelengd (km)
+Gjennomsnittleg bensinpris (zed/l)
+Vedlikehaldskostnad  (zed)
+Nullstill
+Rekn ut"
+MAT/MA104-CarPurchase,1,4,Nynorsk,nno-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Nynorsk,nno-NOR,Kalkulatorclose
+MAT/MA104-CarPurchase,2,2,Nynorsk,nno-NOR,PISA
+MAT/MA104-CarPurchase,2,3,Nynorsk,nno-NOR,"BILKJØP
+Prisen og bensinforbruket til fire bilar som Trine vurderer å kjøpe, er vist i tabellen nedanfor.
+Bensinforbruket er oppgitt til kor mange liter bensin som trengst for å køyre 100 kilometer.  Den oppgitte bensinmengda er basert på ein kombinasjon av by- og landevegskøyring.
+Bil A
+Bil B
+Bil C
+Bil D
+Bilpris (zed)
+Bilpris inkluderer alle skattar og avgifter.
+8000
+8700
+9900
+10 500
+Bensinforbruk
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Nokre av rutene i kostnadskalkulatoren er fylte ut basert på det Trine har oppgitt.
+KOSTNADSKALKULATOR
+Bilpris (zed)
+Bensinforbruk (l/100 km)
+Køyrelengd (km)
+20 000
+Gjennomsnittleg bensinpris (zed/l)
+1,54
+Vedlikehaldskostnad  (zed)
+250
+Nullstill
+Rekn ut
+RESULTATER
+closeOK"
+MAT/MA104-CarPurchase,2,4,Nynorsk,nno-NOR,"Bilkjøp  Spørsmål 1 / 2
+Korleis bruke kostnadskalkulatoren
+Kostnadskalkulatoren rekner ut kor mykje det kostar å kjøpe og bruke ein bil det første året.
+Følg desse stega for å bruke kalkulatoren:
+Skriv inn Bilpris.
+Skriv inn Bensinforbruk.
+Klikk på ""Rekn ut""-knappen. Resultatet blir vist i Resultat-tabellen.
+For å gjere fleire utrekningar, klikk på ""Nullstill"", skriv inn nye verdiar, og klikk så på ""Rekn ut""-knappen att.
+For å slette ei rad med data i Resultat-tabellen, klikk på ""Slett""-knappen ved sida av rada.
+Les ""Bilkjøp"" til høgre.  Bruk kostnadskalkulatoren for å svare på spørsmålet nedanfor.  Svar på spørsmålet ved å klikke på eit av alternativa.
+Klikk på ""Korleis bruke kostnadskalkulatoren"" ovanfor for å sjå korleis du bruker kostnadskalkulatoren.
+Basert på dei tala Trine har oppgitt, kva bil vil vere billigast for henne å kjøpe og bruke det første året?
+Bil A
+Bil B
+Bil C
+Bil D"
+MAT/MA104-CarPurchase,2,5,Nynorsk,nno-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Nynorsk,nno-NOR,Kalkulatorclose
+MAT/MA104-CarPurchase,3,2,Nynorsk,nno-NOR,PISA
+MAT/MA104-CarPurchase,3,3,Nynorsk,nno-NOR,"BILKJØP
+Prisen og bensinforbruket til fire bilar som Trine vurderer å kjøpe, er vist i tabellen nedanfor.
+Bensinforbruket er oppgitt til kor mange liter bensin som trengst for å køyre 100 kilometer.  Den oppgitte bensinmengda er basert på ein kombinasjon av by- og landevegskøyring.
+Bil A
+Bil B
+Bil C
+Bil D
+Bilpris (zed)
+Bilpris inkluderer alle skattar og avgifter.
+8000
+8700
+9900
+10 500
+Bensinforbruk
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Nynorsk,nno-NOR,"Bilkjøp  Spørsmål 2 / 2
+Les ""Bilkjøp"" til høgre.  Svar på spørsmålet ved å klikke på eit av alternativa.
+Bruktprisen for bilen er den prisen ein reknar med at bilen kan bli seld for på eit seinare tidspunkt.
+For ein bil som er i svært god stand, vil bruktprisen minke med 5 % kvart år.
+Omtrent kor høg vil bruktprisen for bilen vere i zed dersom Trine bestemmer seg for å kjøpe bil D og selje han i svært god stand etter tre år?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Nynorsk,nno-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Polish,pol-POL,Kalkulatorclose
+MAT/MA104-CarPurchase,1,2,Polish,pol-POL,PISA
+MAT/MA104-CarPurchase,1,3,Polish,pol-POL,"Zakup samochodu  Wstęp
+Przeczytaj wstęp.  Następnie kliknij strzałkę DALEJ.
+ZAKUP SAMOCHODU
+Teresa planuje kupić nowy samochód. Chce wiedzieć, ile będzie kosztował zakup samochodu i jego eksploatacja przez pierwszy rok.
+W internecie znalazła ten kalkulator kosztów i szacuje, że:
+W ciągu tego roku przejedzie w przybliżeniu dystans 20 000 km.
+Średni koszt paliwa wyniesie 1,54 zeda za litr.
+Przewidywane koszty utrzymania, które poniesie w pierwszym roku to 250 zedów.
+KALKULATOR KOSZTÓW
+Cena samochodu (w zedach)
+Zużycie paliwa (l/100 km)
+Oszacowany przebyty dystans (km)
+Średni koszt paliwa (zedów/l)
+Oszacowane koszty utrzymania (w zedach)
+Wyczyść
+Oblicz"
+MAT/MA104-CarPurchase,1,4,Polish,pol-POL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Polish,pol-POL,Kalkulatorclose
+MAT/MA104-CarPurchase,2,2,Polish,pol-POL,PISA
+MAT/MA104-CarPurchase,2,3,Polish,pol-POL,"ZAKUP SAMOCHODU
+W poniższej tabeli przedstawiono cenę i zużycie paliwa czterech samochodów, których zakup interesuje Teresę.
+Zużycie paliwa wskazuje, ile litrów paliwa potrzebuje samochód do przebycia 100 kilometrów. Są to dane szacunkowe oparte na jeździe w trybie mieszanym (w mieście i po autostradzie).
+Samochód A
+Samochód B
+Samochód C
+Samochód D
+Cena samochodu (w zedach)
+Cena samochodu zawiera wszystkie podatki i koszty rejestracji.
+8000
+8700
+9900
+10 500
+Zużycie paliwa
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Niektóre pola kalkulatora kosztów zostały wypełnione zgodnie z szacunkami Teresy.
+KALKULATOR KOSZTÓW
+Cena samochodu (w zedach)
+Zużycie paliwa (l/100 km)
+Oszacowany przebyty dystans (km)
+20 000
+Średni koszt paliwa (zedów/l)
+1,54
+Oszacowane koszty utrzymania (w zedach)
+250
+Wyczyść
+Oblicz
+WYNIKI
+closeOK"
+MAT/MA104-CarPurchase,2,4,Polish,pol-POL,"Zakup samochodu  Pytanie  1 / 2
+Jak korzystać z kalkulatora kosztów
+Kalkulator kosztów pozwala określić, ile będzie kosztował zakup samochodu i jego eksploatacja przez pierwszy rok.
+Aby użyć kalkulatora, wykonaj następujące kroki:
+Wpisz cenę samochodu.
+Wpisz zużycie paliwa.
+Kliknij przycisk „Oblicz”. Wynik zostanie wyświetlony w tabeli wyników.
+Aby wykonać kolejne obliczenia, kliknij przycisk „Wyczyść”, wpisz nowe wartości, a następnie ponownie kliknij przycisk „Oblicz”.
+Aby usunąć wiersz z danymi z tabeli wyników, kliknij przycisk kasowania umieszczony obok tego wiersza.
+Zapoznaj się z informacjami do zadania „Zakup samochodu"" po prawej stronie. Skorzystaj z kalkulatora kosztów, aby odpowiedzieć na poniższe pytanie. Kliknij, aby wybrać odpowiedź.
+Aby dowiedzieć się, jak działa ten kalkulator, kliknij umieszczoną powyżej instrukcję „Jak korzystać z kalkulatora kosztów”.
+Według szacunków Teresy, który samochód będzie ją kosztował najmniej w ciągu pierwszego roku (zakup i eksploatacja łącznie)?
+Samochód A
+Samochód B
+Samochód C
+Samochód D"
+MAT/MA104-CarPurchase,2,5,Polish,pol-POL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Polish,pol-POL,Kalkulatorclose
+MAT/MA104-CarPurchase,3,2,Polish,pol-POL,PISA
+MAT/MA104-CarPurchase,3,3,Polish,pol-POL,"ZAKUP SAMOCHODU
+W poniższej tabeli przedstawiono cenę i zużycie paliwa czterech samochodów, których zakup interesuje Teresę.
+Zużycie paliwa wskazuje, ile litrów paliwa potrzebuje samochód do przebycia 100 kilometrów. Są to dane szacunkowe oparte na jeździe w trybie mieszanym (w mieście i po autostradzie).
+Samochód A
+Samochód B
+Samochód C
+Samochód D
+Cena samochodu (w zedach)
+Cena samochodu zawiera wszystkie podatki i koszty rejestracji.
+8000
+8700
+9900
+10 500
+Zużycie paliwa
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Polish,pol-POL,"Zakup samochodu  Pytanie  2 / 2
+Zapoznaj się z informacjami do zadania „Zakup samochodu"" po prawej stronie. Kliknij, aby wybrać odpowiedź.
+Cena odsprzedania samochodu to szacunkowa cena, za jaką będzie można sprzedać go później.
+Cena odsprzedania samochodu, który jest w doskonałym stanie, maleje co roku o 5%.
+Jeśli Teresa postanowi kupić samochód D i odsprzedać go w doskonałym stanie trzy lata później, jaka będzie przybliżona cena odsprzedania samochodu w zedach?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Polish,pol-POL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Portuguese,por-PRT,Calculadoraclose
+MAT/MA104-CarPurchase,1,2,Portuguese,por-PRT,PISA
+MAT/MA104-CarPurchase,1,3,Portuguese,por-PRT,"Comprar um carro  Introdução
+Lê a introdução. Depois clica na seta SEGUINTE.
+COMPRAR UM CARRO
+A Tânia está a pensar comprar um carro novo. Ela quer saber quanto custa comprar um carro e utilizá-lo durante o primeiro ano.
+Ela encontrou este «estimador de custos» na Internet e fez as estimativas seguintes:
+Deverá percorrer uma distância estimada de 20 000 km este ano.
+O custo médio do combustível será de 1,54 zeds por litro.
+Os custos estimados para manutenção no primeiro ano são de 250 zeds.
+ESTIMADOR DE CUSTOS
+Preço do carro (zeds)
+Consumo de combustível (L/100 km)
+Estimativa da distância percorrida (km)
+Custo médio do combustível (zeds/L)
+Estimativa dos custos de manutenção (zeds)
+Apagar
+Calcular"
+MAT/MA104-CarPurchase,1,4,Portuguese,por-PRT,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Portuguese,por-PRT,Calculadoraclose
+MAT/MA104-CarPurchase,2,2,Portuguese,por-PRT,PISA
+MAT/MA104-CarPurchase,2,3,Portuguese,por-PRT,"COMPRAR UM CARRO
+A tabela seguinte apresenta os preços e o consumo de combustível de quatro carros que a Tânia está a considerar comprar.
+O consumo de combustível é o número de litros de combustível necessários para conduzir 100 quilómetros. É uma estimativa baseada numa combinação de condução na cidade e na autoestrada.
+Carro A
+Carro B
+Carro C
+Carro D
+Preço do carro (zeds)
+O preço do carro inclui todos os impostos e taxas de registo.
+8000
+8700
+9900
+10 500
+Consumo de combustível
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Algumas células do estimador de custos foram preenchidas com base nas estimativas da Tânia.
+ESTIMADOR DE CUSTOS
+Preço do carro (zeds)
+Consumo de combustível (L/100 km)
+Estimativa da distância percorrida (km)
+20 000
+Custo médio do combustível (zeds/L)
+1,54
+Estimativa dos custos de manutenção (zeds)
+250
+Apagar
+Calcular
+RESULTADOS
+closeOk"
+MAT/MA104-CarPurchase,2,4,Portuguese,por-PRT,"Comprar um carro  Questão 1 / 2
+Como utilizar o estimador de custos
+O estimador de custos determina quanto custa comprar um carro e utilizá-lo no primeiro ano.
+Para utilizares o estimador de custos, segue estes passos:
+Escreve o preço do carro.
+Escreve o preço do combustível.
+Clica em «Calcular». O resultado aparece na tabela de resultados.
+Para efetuares mais cálculos, clica em «Apagar», escreve outros valores e depois clica novamente em «Calcular».
+Para eliminares uma linha de dados da tabela, clica no botão vermelho ao lado da linha.
+Considera a informação em «Comprar um carro», apresentada à direita.  Utiliza o estimador de custos para te ajudar a responder à questão apresentada abaixo. Para responderes à questão, seleciona uma opção.
+Para veres como se utiliza o estimador de custos, clica em «Como utilizar o estimador de custos», mais acima.
+De acordo com as estimativas da Tânia, qual dos carros lhe custará menos no primeiro ano (compra e utilização incluídas)?
+Carro A
+Carro B
+Carro C
+Carro D"
+MAT/MA104-CarPurchase,2,5,Portuguese,por-PRT,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Portuguese,por-PRT,Calculadoraclose
+MAT/MA104-CarPurchase,3,2,Portuguese,por-PRT,PISA
+MAT/MA104-CarPurchase,3,3,Portuguese,por-PRT,"COMPRAR UM CARRO
+A tabela seguinte apresenta os preços e o consumo de combustível de quatro carros que a Tânia está a considerar comprar.
+O consumo de combustível é o número de litros de combustível necessários para conduzir 100 quilómetros. É uma estimativa baseada numa combinação de condução na cidade e na autoestrada.
+Carro A
+Carro B
+Carro C
+Carro D
+Preço do carro (zeds)
+O preço do carro inclui todos os impostos e taxas de registo.
+8000
+8700
+9900
+10 500
+Consumo de combustível
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Portuguese,por-PRT,"Comprar um carro  Questão 2 / 2
+Considera a informação em «Comprar um carro», apresentada à direita.  Para responderes à questão, seleciona uma opção.
+O preço de revenda de um carro é o preço estimado pelo qual ele poderá ser revendido mais tarde.
+O preço de revenda de um carro que se mantenha em condições excelentes diminui cerca de 5% por cada ano.
+Se a Tânia decidir comprar o carro D e o vender passados três anos, estando este em condições excelentes, qual será, aproximadamente, o preço de revenda do carro em zeds?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Portuguese,por-PRT,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Russian,rus-KAZ,Калькуляторclose
+MAT/MA104-CarPurchase,1,2,Russian,rus-KAZ,PISA 2022
+MAT/MA104-CarPurchase,1,3,Russian,rus-KAZ,"Покупка машины  Введение
+Прочитайте введение. Затем кликните мышью на стрелку «ДАЛЕЕ».
+ПОКУПКА МАШИНЫ
+Таня планирует приобрести новую машину. Она хочет узнать, сколько будет стоить покупка машины и ее эксплуатация в течение первого года.
+Она находит этот калькулятор затрат онлайн и делает следующие расчеты:
+В этом году она проедет расчетное расстояние, равное 20 000 км.
+Средняя стоимость топлива составит 1,54 зеда за литр.
+Расчетная стоимость обслуживания составляет 250 зед в первый год.
+КАЛЬКУЛЯТОР ЗАТРАТ
+Стоимость машины (зед)
+Потребление топлива (л/100 км)
+Расчетное пройденное расстояние (км)
+Средняя стоимость топлива (зед/л)
+Расчетная стоимость обслуживания (зед)
+Очистить
+Вычислить"
+MAT/MA104-CarPurchase,1,4,Russian,rus-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Russian,rus-KAZ,Калькуляторclose
+MAT/MA104-CarPurchase,2,2,Russian,rus-KAZ,PISA 2022
+MAT/MA104-CarPurchase,2,3,Russian,rus-KAZ,"ПОКУПКА МАШИНЫ
+Цены и потребление топлива для четырех машин, которые рассматривает Таня, показаны в таблице ниже.
+Потребление топлива — это количество литров топлива, необходимое для проезда 100 километров. Это оценка, основанная на сочетании езды по городу и на трассе.
+Машина А
+Машина Б
+Машина В
+Машина Г
+Стоимость машины (зед)
+Стоимость машины включает все налоги и регистрационные сборы.
+8000
+8700
+9900
+10 500
+Потребление топлива
+(л/100 км)
+18,9
+15,7
+12,4
+14,1
+Некоторые ячейки в калькуляторе затрат были заполнены на основе расчетов Тани.
+КАЛЬКУЛЯТОР ЗАТРАТ
+Стоимость машины (зед)
+Потребление топлива (л/100 км)
+Расчетное пройденное расстояние (км)
+20 000
+Средняя стоимость топлива (зед/л)
+1,54
+Расчетная стоимость обслуживания (зед)
+250
+Очистить
+Вычислить
+РЕЗУЛЬТАТЫ
+closeОК"
+MAT/MA104-CarPurchase,2,4,Russian,rus-KAZ,"Покупка машины  Вопрос 1 / 2
+Как использовать калькулятор затрат
+Калькулятор затрат определит стоимость покупки машины и эксплуатации в первый год.
+Чтобы использовать калькулятор, выполните следующие действия:
+Введите стоимость машины.
+Введите данные потребления топлива.
+Нажмите на кнопку «Вычислить». Результат будет отображен в таблице результатов.
+Чтобы выполнить дополнительные расчеты, нажмите «Очистить», введите новые значения, затем снова нажмите кнопку «Вычислить».
+Чтобы удалить любую строку данных из таблицы результатов, нажмите кнопку удаления, расположенную рядом с этой строкой.
+Посмотрите на задание «Покупка машины» справа. Используйте калькулятор затрат, который поможет Вам ответить на вопрос ниже. Выберите ответ и кликните по нему мышью.
+Чтобы увидеть, как использовать калькулятор затрат, нажмите «Как использовать калькулятор затрат» выше.
+Основываясь на расчетах Тани, какая машина будет стоить ей меньше всего исходя из расходов на покупку и эксплуатацию в первый год?
+Машина А
+Машина Б
+Машина В
+Машина Г"
+MAT/MA104-CarPurchase,2,5,Russian,rus-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Russian,rus-KAZ,Калькуляторclose
+MAT/MA104-CarPurchase,3,2,Russian,rus-KAZ,PISA 2022
+MAT/MA104-CarPurchase,3,3,Russian,rus-KAZ,"ПОКУПКА МАШИНЫ
+Цены и потребление топлива для четырех машин, которые рассматривает Таня, показаны в таблице ниже.
+Потребление топлива — это количество литров топлива, необходимое для проезда 100 километров. Это оценка, основанная на сочетании езды по городу и на трассе.
+Машина А
+Машина Б
+Машина В
+Машина Г
+Стоимость машины (зед)
+Стоимость машины включает все налоги и регистрационные сборы.
+8000
+8700
+9900
+10 500
+Потребление топлива
+(л/100 км)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Russian,rus-KAZ,"Покупка машины  Вопрос 2 / 2
+Посмотрите на задание «Покупка машины» справа. Выберите ответ и кликните по нему мышью.
+Стоимость перепродажи машины — это расчетная цена, по которой она может быть перепродана позднее.
+Для машины, которая находится в отличном состоянии, ее стоимость будет уменьшаться на 5% каждый год.
+Если Таня решит купить машину Г и перепродать ее через три года в отличном состоянии, какова будет приблизительная стоимость перепродажи машины в зедах?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Russian,rus-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Serbian / Serb,srp-SRB,Kalkulatorclose
+MAT/MA104-CarPurchase,1,2,Serbian / Serb,srp-SRB,PISA 2022
+MAT/MA104-CarPurchase,1,3,Serbian / Serb,srp-SRB,"Kupovina automobila  Uvod
+Pročitaj uvod, zatim klikni na strelicu DALJE.
+KUPOVINA AUTOMOBILA
+Tanja planira da kupi novi automobil. Ona želi da zna koliko će je koštati kupovina automobila i vožnja tokom prve godine.
+Pronašla je na internetu ovaj program za procenjivanje troškova i pravi sledeće procene:
+Ove godine će preći procenjenu kilometražu od 20 000 km.
+Prosečna cena goriva će biti 1,54 zeda po litri.
+Troškovi održavanja tokom prve godine su procenjeni na 250 zeda.
+PROGRAM ZA PROCENU TROŠKOVA
+Cena automobila (u zedima)
+Potrošnja goriva (l/100 km)
+Procena pređenog puta (km)
+Prosečna cena goriva (zedi/l)
+Procenjeni troškovi održavanja (u zedima)
+Izbriši
+Izračunaj"
+MAT/MA104-CarPurchase,1,4,Serbian / Serb,srp-SRB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Serbian / Serb,srp-SRB,Kalkulatorclose
+MAT/MA104-CarPurchase,2,2,Serbian / Serb,srp-SRB,PISA 2022
+MAT/MA104-CarPurchase,2,3,Serbian / Serb,srp-SRB,"KUPOVINA AUTOMOBILA
+Tanja razmišlja o kupovini nekog od četiri automobila čije cene i potrošnja goriva su prikazani u tabeli ispod.
+Potrošnja goriva odgovara broju litara goriva na pređenih 100 kilometara puta. Procena se zasniva na kombinaciji gradske i vožnje autoputem.
+Automobil A
+Automobil B
+Automobil C
+Automobil D
+Cena automobila (u zedima)
+Cena automobila uključuje sve poreze i troškove registracije.
+8 000
+8 700
+9 900
+10 500
+Potrošnja goriva
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Neka od polja u programu za procenu troškova su popunjena na osnovu Tanjinih procena.
+PROGRAM ZA PROCENU TROŠKOVA
+Cena automobila (u zedima)
+Potrošnja goriva (l/100 km)
+Procena pređenog puta (km)
+20 000
+Prosečna cena goriva (zedi/l)
+1,54
+Procenjeni troškovi održavanja (u zedima)
+250
+Izbriši
+Izračunaj
+REZULTATI
+closeOK"
+MAT/MA104-CarPurchase,2,4,Serbian / Serb,srp-SRB,"Kupovina automobila  Pitanje 1 / 2
+Kako koristiti program za procenu troškova
+Program za procenu troškova će odrediti koliko će koštati kupovina automobila i vožnja tokom prve godine.
+Da bi koristio program za procenu troškova, prati ove korake:
+Unesi cenu automobila.
+Unesi potrošnju goriva.
+Klikni na dugme „Izračunaj”. Rezultat će se prikazati u tabeli sa rezultatima.
+Za dodatna računanja klikni na „Izbriši”, unesi nove vrednosti, a onda ponovo klikni na dugme „Izračunaj”.
+Da bi se bilo koji red podataka izbrisao iz tabele sa rezultatima, klikni na dugme za brisanje uz taj red.
+Koristi informacije iz teksta „Kupovina automobila” sa desne strane. Koristi program za procenu troškova da ti pomogne da odgovoriš na pitanje ispod. Odgovori na pitanje tako što ćeš kliknuti ispred izabranog odgovora.
+Da vidiš kako se koristi program za procenu troškova, klikni na „Kako koristiti program za procenu troškova” iznad.
+Na osnovu Tanjinih procena, kupovina kojeg automobila i vožnja tokom prve godine bi je koštali najmanje?
+Automobil A
+Automobil B
+Automobil C
+Automobil D"
+MAT/MA104-CarPurchase,2,5,Serbian / Serb,srp-SRB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Serbian / Serb,srp-SRB,Kalkulatorclose
+MAT/MA104-CarPurchase,3,2,Serbian / Serb,srp-SRB,PISA 2022
+MAT/MA104-CarPurchase,3,3,Serbian / Serb,srp-SRB,"KUPOVINA AUTOMOBILA
+Tanja razmišlja o kupovini nekog od četiri automobila čije cene i potrošnja goriva su prikazani u tabeli ispod.
+Potrošnja goriva odgovara broju litara goriva na pređenih 100 kilometara puta. Procena se zasniva na kombinaciji gradske i vožnje autoputem.
+Automobil A
+Automobil B
+Automobil C
+Automobil D
+Cena automobila (u zedima)
+Cena automobila uključuje sve poreze i troškove registracije.
+8 000
+8 700
+9 900
+10 500
+Potrošnja goriva
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Serbian / Serb,srp-SRB,"Kupovina automobila  Pitanje 2 / 2
+Koristi informacije iz teksta „Kupovina automobila” sa desne strane. Odgovori na pitanje tako što ćeš kliknuti ispred izabranog odgovora.
+Cena automobila u preprodaji je procenjena cena za koju se kasnije može preprodati.
+Cena automobila u preprodaji, a koji je i dalje u odličnom stanju, umanjuje se za 5% sadašnje vrednosti svake godine.
+Ako Tanja odluči da kupi automobil D, i preproda ga nakon tri godine u odličnom stanju, koja će biti približna cena automobila u preprodaji u zedima?
+1 575
+8 925
+9 000
+9 975"
+MAT/MA104-CarPurchase,3,5,Serbian / Serb,srp-SRB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Slovak,slo-SVK,Kalkulačkaclose
+MAT/MA104-CarPurchase,1,2,Slovak,slo-SVK,PISA
+MAT/MA104-CarPurchase,1,3,Slovak,slo-SVK,"Kúpa auta   Úvod
+Prečítaj si úvod. Potom klikni na šípku ĎALEJ.
+KÚPA AUTA
+Táňa má v pláne kúpiť si nové auto. Chce vedieť, koľko bude stáť kúpa auta a prvý rok jeho prevádzky.
+Na internete našla túto Kalkulačku odhadovaných nákladov a urobila nasledujúce odhady:
+Odhadla, že počas tohto roka prejde vzdialenosť 20 000 km.
+Priemerná cena paliva bude 1,54 zedov na liter.
+Odhad nákladov na údržbu počas prvého roka bude 250 zedov.
+KALKULAČKA ODHADOVANÝCH NÁKLADOV
+Cena auta (v zedoch)
+Spotreba paliva (l/100 km)
+Odhad prejdenej vzdialenosti (km)
+Priemerná cena paliva (zedy/l)
+Odhad nákladov na údržbu (v zedoch)
+Vymazať
+Vypočítať"
+MAT/MA104-CarPurchase,1,4,Slovak,slo-SVK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Slovak,slo-SVK,Kalkulačkaclose
+MAT/MA104-CarPurchase,2,2,Slovak,slo-SVK,PISA
+MAT/MA104-CarPurchase,2,3,Slovak,slo-SVK,"KÚPA AUTA
+V nasledujúcej tabuľke sú uvedené ceny a spotreba paliva pre štyri autá, ktorých kúpu Táňa zvažuje.
+Spotreba paliva predstavuje množstvo paliva v litroch, ktoré je potrebné na prejdenie 100 kilometrov. Je to odhad, ktorý vychádza z kombinácie jazdy v meste a po diaľnici.
+Auto A
+Auto B
+Auto C
+Auto D
+Cena auta (v zedoch)
+Súčasťou ceny auta sú všetky dane a registračné poplatky.
+8 000
+8 700
+9 900
+10 500
+Spotreba paliva
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Niektoré políčka v kalkulačke odhadovaných nákladov už obsahujú údaje založené na Tániných odhadoch.
+KALKULAČKA ODHADOVANÝCH NÁKLADOV
+Cena auta (v zedoch)
+Spotreba paliva (l/100 km)
+Odhad prejdenej vzdialenosti (km)
+20 000
+Priemerná cena paliva (zedy/l)
+1,54
+Odhad nákladov na údržbu (v zedoch)
+250
+Vymazať
+Vypočítať
+VÝSLEDKY
+closeOK"
+MAT/MA104-CarPurchase,2,4,Slovak,slo-SVK,"Kúpa auta   Otázka  1 / 2
+Ako používať kalkulačku odhadovaných nákladov
+Kalkulačka odhadovaných nákladov určí, koľko bude stáť kúpa auta a prvý rok jeho prevádzky.
+Postupuj podľa nasledujúcich krokov a zisti, ako sa kalkulačka používa:
+Vlož cenu auta.
+Vlož spotrebu paliva.
+Klikni na tlačidlo „Vypočítať“.  Výsledok sa zobrazí v tabuľke Výsledky.
+Ak chceš urobiť ďalší výpočet, klikni na tlačidlo „Vymazať“, vlož nové hodnoty a potom znovu klikni na tlačidlo „Vypočítať“.
+Keď chceš z tabuľky vymazať nejaký riadok s údajmi, klikni na tlačidlo vymazania vedľa príslušného riadku.
+Použi informácie z materiálu „Kúpa auta“ na pravej strane. Keď budeš odpovedať na nasledujúcu otázku, pomôž si kalkulačkou odhadovaných nákladov. Klikni na jednu z možností a odpovedz tak na otázku.
+Ak sa chceš oboznámiť s fungovaním kalkulačky odhadovaných nákladov, klikni na tlačidlo „Ako používať kalkulačku odhadovaných nákladov“, ktoré je vyššie.
+Ktoré auto bude stáť podľa Tániných odhadov najmenej, ak berieme do úvahy jeho kúpu a prvý rok jeho prevádzky?
+Auto A
+Auto B
+Auto C
+Auto D"
+MAT/MA104-CarPurchase,2,5,Slovak,slo-SVK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Slovak,slo-SVK,Kalkulačkaclose
+MAT/MA104-CarPurchase,3,2,Slovak,slo-SVK,PISA
+MAT/MA104-CarPurchase,3,3,Slovak,slo-SVK,"KÚPA AUTA
+V nasledujúcej tabuľke sú uvedené ceny a spotreba paliva pre štyri autá, ktorých kúpu Táňa zvažuje.
+Spotreba paliva predstavuje množstvo paliva v litroch, ktoré je potrebné na prejdenie 100 kilometrov. Je to odhad, ktorý vychádza z kombinácie jazdy v meste a po diaľnici.
+Auto A
+Auto B
+Auto C
+Auto D
+Cena auta (v zedoch)
+Súčasťou ceny auta sú všetky dane a registračné poplatky.
+8 000
+8 700
+9 900
+10 500
+Spotreba paliva
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Slovak,slo-SVK,"Kúpa auta   Otázka  2 / 2
+Použi informácie z materiálu „Kúpa auta“ na pravej strane. Klikni na jednu z možností a odpovedz tak na otázku.
+Cena auta pri opätovnom predaji je odhadovaná cena, za ktorú sa dá auto neskôr predať.
+Ak je auto udržiavané vo výbornom stave, jeho cena pri opätovnom predaji bude každý rok klesať o 5 %.
+Ak sa Táňa rozhodne, že si kúpi auto D a po troch rokoch ho vo výbornom stave predá, aká bude približná cena auta v zedoch pri jeho opätovnom predaji?
+1 575
+8 925
+9 000
+9 975"
+MAT/MA104-CarPurchase,3,5,Slovak,slo-SVK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Slovenian,slv-SVN,Računaloclose
+MAT/MA104-CarPurchase,1,2,Slovenian,slv-SVN,PISA
+MAT/MA104-CarPurchase,1,3,Slovenian,slv-SVN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,4,Slovenian,slv-SVN,"Nakup avtomobila  Uvod
+Preberi uvod. Nato klikni puščico »NAPREJ«.
+NAKUP AVTOMOBILA
+Tanja načrtuje nakup novega avtomobila. Zanima jo, koliko bosta stala nakup avtomobila in vožnja prvo leto.
+Na spletu najde program za izračun predvidenih stroškov in izračuna naslednje:
+Predvideva, da bo letos prevozila razdaljo 20 000 km.
+Povprečna cena goriva bo 1,54 zeda na liter.
+Predvideni stroški vzdrževanja bodo prvo leto znašali 250 zedov.
+IZRAČUN PREDVIDENIH STROŠKOV
+Cena avtomobila (v zedih)
+Poraba goriva (l/100 km)
+Predvidena prevožena razdalja (km)
+Povprečna cena goriva (zedov/l)
+Predvideni stroški vzdrževanja (v zedih)
+Počisti
+Izračunaj"
+MAT/MA104-CarPurchase,2,1,Slovenian,slv-SVN,Računaloclose
+MAT/MA104-CarPurchase,2,2,Slovenian,slv-SVN,PISA
+MAT/MA104-CarPurchase,2,3,Slovenian,slv-SVN,"NAKUP AVTOMOBILA
+V tabeli spodaj so prikazane cene in poraba goriva za štiri avtomobile, o katerih Tanja razmišlja, da bi jih kupila.
+Poraba goriva je število litrov goriva, ki jih potrebujemo, da prevozimo 100 kilometrov. Ocena porabe temelji na mešani vožnji v mestu in na avtocesti.
+Avtomobil A
+Avtomobil B
+Avtomobil C
+Avtomobil D
+Cena avtomobila (v zedih)
+V ceno avtomobila so vključeni vsi davki in stroški registracije.
+8000
+8700
+9900
+10 500
+Poraba goriva
+(l/100 km)
+18,9
+15,7
+12,4
+14,1
+Nekaj celic v izračunu predvidenih stroškov je na podlagi Tanjinih izračunov že izpolnjenih.
+IZRAČUN PREDVIDENIH STROŠKOV
+Cena avtomobila (v zedih)
+Poraba goriva (l/100 km)
+Predvidena prevožena razdalja (km)
+20 000
+Povprečna cena goriva (zedov/l)
+1,54
+Predvideni stroški vzdrževanja (v zedih)
+250
+Počisti
+Izračunaj
+REZULTATI
+closeV redu"
+MAT/MA104-CarPurchase,2,4,Slovenian,slv-SVN,"Nakup avtomobila  Vprašanje 1 / 2
+Kako uporabiš izračun predvidenih stroškov
+Program za izračun predvidenih stroškov bo pokazal, koliko bosta stala nakup in vožnja avtomobila prvo leto.
+Pri uporabi programa za izračun slediš naslednjim korakom:
+Vtipkaš ceno avtomobila.
+Vtipkaš porabo goriva.
+Klikneš gumb »Izračunaj«. Rezultat se bo prikazal v tabeli z rezultati.
+Če želiš narediti več izračunov, klikni gumb »Počisti«, vnesi nove vrednosti in nato ponovno klikni gumb »Izračunaj«.
+Vrstico s podatki iz tabele z rezultati izbrišeš tako, da klikneš gumb »IZBRIŠI«, ki je zraven te vrstice.
+Pomagaj si z besedilom ""Nakup avtomobila"" na desni. Pri odgovarjanju na vprašanje spodaj si pomagaj z izračunom predvidenih stroškov. Na vprašanje odgovori tako, da klikneš eno izmed možnosti.
+Navodila za uporabo programa za izračun predvidenih stroškov si ogledaš tako, da zgoraj klikneš gumb »Kako uporabiš izračun predvidenih stroškov«.
+Nakup in vožnja katerega avtomobila bi Tanjo na podlagi njenih izračunov prvo leto stala najmanj?
+Avtomobila A
+Avtomobila B
+Avtomobila C
+Avtomobila D"
+MAT/MA104-CarPurchase,2,5,Slovenian,slv-SVN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Slovenian,slv-SVN,Računaloclose
+MAT/MA104-CarPurchase,3,2,Slovenian,slv-SVN,PISA
+MAT/MA104-CarPurchase,3,3,Slovenian,slv-SVN,"NAKUP AVTOMOBILA
+V tabeli spodaj so prikazane cene in poraba goriva za štiri avtomobile, o katerih Tanja razmišlja, da bi jih kupila.
+Poraba goriva je število litrov goriva, ki jih potrebujemo, da prevozimo 100 kilometrov. Ocena porabe temelji na mešani vožnji v mestu in na avtocesti.
+Avtomobil A
+Avtomobil B
+Avtomobil C
+Avtomobil D
+Cena avtomobila (v zedih)
+V ceno avtomobila so vključeni vsi davki in stroški registracije.
+8000
+8700
+9900
+10 500
+Poraba goriva
+(l/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Slovenian,slv-SVN,"Nakup avtomobila  Vprašanje 2 / 2
+Pomagaj si z besedilom ""Nakup avtomobila"" na desni. Na vprašanje odgovori tako, da klikneš eno izmed možnosti.
+Tržna cena avtomobila je predvidena cena, po kateri ga bomo pozneje lahko prodali.
+Tržna cena avtomobila, ki je odlično ohranjen, se vsako leto zmanjša za 5 %.
+Če se bo Tanja odločila za nakup avtomobila D in ga bo po treh letih prodala v odličnem stanju, kolikšna bo njegova približna tržna cena v zedih?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Slovenian,slv-SVN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,1,1,Spanish,esp-ESP,Calculadoraclose
+MAT/MA104-CarPurchase,1,2,Spanish,esp-ESP,PISA
+MAT/MA104-CarPurchase,1,3,Spanish,esp-ESP,"La compra de un coche  Introducción
+Lee la introducción. Después pulsa en la flecha SIGUIENTE.
+LA COMPRA DE UN COCHE
+Tania está pensando en comprarse un coche nuevo. Quiere saber cuánto le costará comprarse un coche y conducirlo durante el primer año.
+Tania encuentra esta calculadora de costes en línea y hace las siguientes estimaciones:
+Ella calcula que recorrerá una distancia estimada de 20.000 km este año.
+El coste medio del combustible será de 1,54 zeds por litro.
+El coste estimado del mantenimiento será de 250 zeds en el primer año.
+CALCULADORA DE COSTES
+Precio del coche (zeds)
+Consumo de combustible (L/100 km)
+Estimación de la distancia recorrida (km)
+Coste medio del combustible (zeds/L)
+Estimación de los costes de mantenimiento (zeds)
+Borrar
+Calcular"
+MAT/MA104-CarPurchase,1,4,Spanish,esp-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,2,1,Spanish,esp-ESP,Calculadoraclose
+MAT/MA104-CarPurchase,2,2,Spanish,esp-ESP,PISA
+MAT/MA104-CarPurchase,2,3,Spanish,esp-ESP,"LA COMPRA DE UN COCHE
+En la siguiente tabla se indican los precios y el consumo de combustible de cuatro coches que Tania está considerando comprar.
+El consumo de combustible es el número de litros de combustible necesarios para recorrer 100 kilómetros. Se trata de una estimación que combina la conducción en ciudad y en autopista.
+Coche A
+Coche B
+Coche C
+Coche D
+Precio del coche (zeds)
+El precio del coche incluye todos los impuestos y tasas de matriculación.
+8.000
+8.700
+9.900
+10.500
+Consumo de combustible
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Algunas de las casillas de la calculadora de costes se han rellenado a partir de las estimaciones de Tania.
+CALCULADORA DE COSTES
+Precio del coche (zeds)
+Consumo de combustible (L/100 km)
+Estimación de la distancia recorrida (km)
+20.000
+Coste medio del combustible (zeds/L)
+1,54
+Estimación de los costes de mantenimiento (zeds)
+250
+Borrar
+Calcular
+RESULTADOS
+closeOK"
+MAT/MA104-CarPurchase,2,4,Spanish,esp-ESP,"La compra de un coche  Pregunta 1 / 2
+Cómo utilizar la calculadora de costes
+La calculadora de costes determinará cuánto costará comprar un coche y conducirlo durante el primer año.
+Para utilizar la calculadora, sigue estos pasos:
+Introduce el precio del coche.
+Introduce el consumo de combustible.
+Pulsa en el botón ""Calcular"". El resultado se mostrará en la tabla de resultados.
+Para realizar más cálculos, pulsa en ""Borrar"", introduce los valores nuevos y vuelve a pulsar en el botón ""Calcular"".
+Para borrar cualquier fila de datos de la tabla de resultados, pulsa en el botón de borrar junto a esa fila.
+Lee ""La compra de un coche"" a la derecha. Ayúdate de la calculadora de costes para responder a la siguiente pregunta. Pulsa en una opción para responder a la pregunta.
+Para ver cómo utilizar la calculadora de costes, pulsa en ""Cómo utilizar la calculadora de costes"" más arriba.
+A partir de las estimaciones de Tania, ¿qué coche sería el que menos le costaría comprar y conducir durante el primer año?
+Coche A
+Coche B
+Coche C
+Coche D"
+MAT/MA104-CarPurchase,2,5,Spanish,esp-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,1,Spanish,esp-ESP,Calculadoraclose
+MAT/MA104-CarPurchase,3,2,Spanish,esp-ESP,PISA
+MAT/MA104-CarPurchase,3,3,Spanish,esp-ESP,"LA COMPRA DE UN COCHE
+En la siguiente tabla se indican los precios y el consumo de combustible de cuatro coches que Tania está considerando comprar.
+El consumo de combustible es el número de litros de combustible necesarios para recorrer 100 kilómetros. Se trata de una estimación que combina la conducción en ciudad y en autopista.
+Coche A
+Coche B
+Coche C
+Coche D
+Precio del coche (zeds)
+El precio del coche incluye todos los impuestos y tasas de matriculación.
+8.000
+8.700
+9.900
+10.500
+Consumo de combustible
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Algunas de las casillas de la calculadora de costes se han rellenado a partir de las estimaciones de Tania.
+CALCULADORA DE COSTES
+Precio del coche (zeds)
+Consumo de combustible (L/100 km)
+Estimación de la distancia recorrida (km)
+20.000
+Coste medio del combustible (zeds/L)
+1,54
+Estimación de los costes de mantenimiento (zeds)
+250
+Borrar
+Calcular
+RESULTADOS
+closeOK"
+MAT/MA104-CarPurchase,3,4,Spanish,esp-ESP,"La compra de un coche  Pregunta 1 / 2
+Cómo utilizar la calculadora de costes
+La calculadora de costes determinará cuánto costará comprar un coche y conducirlo durante el primer año.
+Para utilizar la calculadora, sigue estos pasos:
+Introduce el precio del coche.
+Introduce el consumo de combustible.
+Pulsa en el botón ""Calcular"". El resultado se mostrará en la tabla de resultados.
+Para realizar más cálculos, pulsa en ""Borrar"", introduce los valores nuevos y vuelve a pulsar en el botón ""Calcular"".
+Para borrar cualquier fila de datos de la tabla de resultados, pulsa en el botón de borrar junto a esa fila.
+Lee ""La compra de un coche"" a la derecha. Ayúdate de la calculadora de costes para responder a la siguiente pregunta. Pulsa en una opción para responder a la pregunta.
+Para ver cómo utilizar la calculadora de costes, pulsa en ""Cómo utilizar la calculadora de costes"" más arriba.
+A partir de las estimaciones de Tania, ¿qué coche sería el que menos le costaría comprar y conducir durante el primer año?
+Coche A
+Coche B
+Coche C
+Coche D"
+MAT/MA104-CarPurchase,3,5,Spanish,esp-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA104-CarPurchase,3,6,Spanish,esp-ESP,"Confirmaciónclose
+OK"
+MAT/MA104-CarPurchase,1,1,Swedish,swe-SWE,Miniräknareclose
+MAT/MA104-CarPurchase,1,2,Swedish,swe-SWE,PISA
+MAT/MA104-CarPurchase,1,3,Swedish,swe-SWE,"Bilköp   Introduktion
+Läs introduktionen.  Klicka sedan på pilen NÄSTA.
+BILKÖP
+Tanja planerar att köpa en ny bil.  Hon vill veta hur mycket det kommer att kosta att köpa en bil och köra den under det första året.
+Hon hittar den här Kostnadsberäknaren på nätet och gör följande uppskattningar:
+Hon kommer att köra uppskattningsvis 20 000 km i år.
+Den genomsnittliga bränslekostnaden är 1,54 zed per liter.
+Den uppskattade kostnaden för underhåll är 250 zed under det första året.
+KOSTNADSBERÄKNARE
+Bilens pris (zed)
+Bränsleförbrukning (L/100 km)
+Uppskattad körsträcka (km)
+Genomsnittlig bränslekostnad (zed/L)
+Uppskattad kostnad för underhåll (zed)
+Rensa
+Beräkna"
+MAT/MA104-CarPurchase,1,4,Swedish,swe-SWE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Swedish,swe-SWE,Miniräknareclose
+MAT/MA104-CarPurchase,2,2,Swedish,swe-SWE,PISA
+MAT/MA104-CarPurchase,2,3,Swedish,swe-SWE,"BILKÖP
+Priset och bränsleförbrukningen för de fyra bilar som Tanja funderar på att köpa visas i tabellen nedan.
+Bränsleförbrukningen är antalet liter bränsle som behövs för att köra 100 kilometer.  Det är en uppskattning baserat på en kombination av att köra i staden och på motorväg.
+Bil A
+Bil B
+Bil C
+Bil D
+Bilens pris (zed)
+I bilens pris ingår alla skatter och registreringsavgifter.
+8 000
+8 700
+9 900
+10 500
+Bränsleförbrukning
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Några av rutorna i Kostnadsberäknaren har fyllts i baserat på Tanjas uppskattning.
+KOSTNADSBERÄKNARE
+Bilens pris (zed)
+Bränsleförbrukning (L/100 km)
+Uppskattad körsträcka (km)
+20 000
+Genomsnittlig bränslekostnad (zed/L)
+1,54
+Uppskattad kostnad för underhåll (zed)
+250
+Rensa
+Beräkna"
+MAT/MA104-CarPurchase,2,4,Swedish,swe-SWE,"Bilköp   Fråga 1 / 2
+Så här använder du Kostnadsberäknaren
+Kostnadsberäknaren kommer att beräkna hur mycket en bil kommer att kosta att köpa och att köra under det första året.
+Följ de här stegen för att använda Kostnadsberäknaren:
+Skriv Bilens pris.
+Skriv Bränsleförbrukning.
+Klicka på knappen ""Beräkna"".  Resultatet kommer att visas i resultattabellen.
+För att utföra nya beräkningar, klicka på ""Rensa"", skriv nya värden, och klicka sedan igen på knappen ""Beräkna"".
+För att ta bort informationen från en rad i resultattabellen, klicka på ta bort-knappen vid den raden.
+Utgå från ""Bilköp"" till höger.  Använd Kostnadsberäknaren för att svara på frågan nedan.  Svara på frågan genom att markera ett av alternativen.
+För att se hur du ska använda Kostnadsberäknaren klickar du på ""Så här använder du Kostnadsberäknaren"" ovan.
+Baserat på Tanjas uppskattningar, vilken bil skulle kosta henne minst att köpa och att köra under det första året?
+Bil A
+Bil B
+Bil C
+Bil D"
+MAT/MA104-CarPurchase,2,5,Swedish,swe-SWE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Swedish,swe-SWE,Miniräknareclose
+MAT/MA104-CarPurchase,3,2,Swedish,swe-SWE,PISA
+MAT/MA104-CarPurchase,3,3,Swedish,swe-SWE,"BILKÖP
+Priset och bränsleförbrukningen för de fyra bilar som Tanja funderar på att köpa visas i tabellen nedan.
+Bränsleförbrukningen är antalet liter bränsle som behövs för att köra 100 kilometer.  Det är en uppskattning baserat på en kombination av att köra i staden och på motorväg.
+Bil A
+Bil B
+Bil C
+Bil D
+Bilens pris (zed)
+I bilens pris ingår alla skatter och registreringsavgifter.
+8 000
+8 700
+9 900
+10 500
+Bränsleförbrukning
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Swedish,swe-SWE,"Bilköp   Fråga 2 / 2
+Utgå från ""Bilköp"" till höger.  Svara på frågan genom att markera ett av alternativen.
+En bils försäljningspris är det uppskattade pris som den kan säljas för vid ett senare tillfälle.
+För en bil som hålls i toppskick sjunker försäljningspriset varje år med 5 %.
+Om Tanja bestämmer sig för att köpa Bil D och att sälja den vidare i toppskick tre år senare, vilket blir det ungefärliga försäljningspriset på bilen i zed?
+1 575
+8 925
+9 000
+9 975"
+MAT/MA104-CarPurchase,3,5,Swedish,swe-SWE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Thai,tha-THA,เครื่องคิดเลขclose
+MAT/MA104-CarPurchase,1,2,Thai,tha-THA,PISA
+MAT/MA104-CarPurchase,1,3,Thai,tha-THA,"การซื้อรถยนต์  บทนำ
+เมื่ออ่านบทนำแล้ว ให้คลิกที่ลูกศรถัดไป
+การซื้อรถยนต์
+ทิชากำลังวางแผนที่จะซื้อรถยนต์คันใหม่ ทิชาต้องการทราบว่าในการซื้อรถยนต์หนึ่งคันและการใช้งานในปีแรกมีค่าใช้จ่ายมากน้อยเพียงใด
+ทิชาพบโปรแกรมประมาณค่าใช้จ่ายทางออนไลน์และได้ประมาณการค่าต่างๆ ดังต่อไปนี้:
+ในปีนี้ ทิชาคาดว่าจะขับรถยนต์เป็นระยะทางประมาณ 20,000 กิโลเมตร
+ค่าน้ำมันเชื้อเพลิงโดยเฉลี่ยจะเท่ากับ 1.54 เซดต่อลิตร
+ในปีแรกคาดว่าจะมีค่าบำรุงรักษาประมาณ 250 เซด
+โปรแกรมประมาณค่าใช้จ่าย
+ราคารถยนต์ (เซด)
+อัตราการสิ้นเปลืองน้ำมันเชื้อเพลิง (ลิตร/100 กิโลเมตร)
+ระยะทางที่ขับโดยประมาณ (กิโลเมตร)
+ค่าน้ำมันเชื้อเพลิงโดยเฉลี่ย (เซด/ลิตร)
+ค่าบำรุงรักษาโดยประมาณ (เซด)
+ลบทั้งหมด
+คำนวณ"
+MAT/MA104-CarPurchase,1,4,Thai,tha-THA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Thai,tha-THA,เครื่องคิดเลขclose
+MAT/MA104-CarPurchase,2,2,Thai,tha-THA,PISA
+MAT/MA104-CarPurchase,2,3,Thai,tha-THA,"การซื้อรถยนต์
+ราคาและอัตราการสิ้นเปลืองน้ำมันเชื้อเพลิงของรถยนต์สี่คันที่ทิชากำลังตัดสินใจเลือกซื้อ แสดงในตารางข้างล่าง
+อัตราการสิ้นเปลืองน้ำมันเชื้อเพลิง คือ จำนวนลิตรของน้ำมันเชื้อเพลิงที่ใช้ในการขับรถยนต์ในระยะทาง 100 กิโลเมตร ซึ่งเป็นการประมาณโดยเฉลี่ยจากการขับรถยนต์ในเมืองร่วมกับการขับรถยนต์บนทางหลวง
+รถยนต์ A
+รถยนต์ B
+รถยนต์ C
+รถยนต์ D
+ราคารถยนต์ (เซด)
+ราคารถยนต์รวมภาษีและค่าจดทะเบียนทั้งหมด
+8,000
+8,700
+9,900
+10,500
+อัตราการสิ้นเปลืองน้ำมันเชื้อเพลิง
+(ลิตร/100 กิโลเมตร)
+18.9
+15.7
+12.4
+14.1
+โปรแกรมประมาณค่าใช้จ่ายบางช่องได้กรอกข้อมูลไว้แล้วจากค่าต่างๆ ที่ทิชาประมาณไว้
+โปรแกรมประมาณค่าใช้จ่าย
+ราคารถยนต์ (เซด)
+อัตราการสิ้นเปลืองน้ำมันเชื้อเพลิง (ลิตร/100 กิโลเมตร)
+ระยะทางที่ขับโดยประมาณ (กิโลเมตร)
+20,000
+ค่าน้ำมันเชื้อเพลิงโดยเฉลี่ย (เซด/ลิตร)
+1.54
+ค่าบำรุงรักษาโดยประมาณ (เซด)
+250
+ลบทั้งหมด
+คำนวณ
+ผลการคำนวณ
+closeตกลง"
+MAT/MA104-CarPurchase,2,4,Thai,tha-THA,"การซื้อรถยนต์  คำถามที่ 1 / 2
+วิธีใช้งานโปรแกรมประมาณค่าใช้จ่าย
+โปรแกรมประมาณค่าใช้จ่ายจะคำนวณว่าในการซื้อรถยนต์หนึ่งคันและการใช้งานในปีแรกมีค่าใช้จ่ายมากน้อยเพียงใด
+ในการใช้งานโปรแกรมประมาณค่าใช้จ่าย ให้ทำตามขั้นตอนเหล่านี้:
+ใส่ราคารถยนต์
+ใส่อัตราการสิ้นเปลืองน้ำมันเชื้อเพลิง
+คลิกปุ่ม “คำนวณ” ผลที่ได้จะแสดงในตารางผลการคำนวณ
+ในการคำนวณข้อมูลชุดใหม่  ให้คลิก “ลบทั้งหมด” แล้วใส่ค่าข้อมูลชุดใหม่ จากนั้นคลิกปุ่ม  “คำนวณ” อีกครั้ง
+ในการลบแถวใดของข้อมูลที่อยู่ในตารางผลการคำนวณ ให้คลิกปุ่มลบที่อยู่ท้ายแถวข้อมูลนั้น
+จากเรื่อง “การซื้อรถยนต์” ทางด้านขวา ให้ใช้โปรแกรมประมาณค่าใช้จ่ายเพื่อช่วยนักเรียนในการตอบคำถามข้างล่าง แล้วคลิกหนึ่งตัวเลือกเพื่อตอบคำถาม
+เพื่อดูวิธีใช้งานโปรแกรมประมาณค่าใช้จ่าย ให้คลิกที่ “วิธีใช้งานโปรแกรมประมาณค่าใช้จ่าย” ข้างบน
+จากค่าต่างๆ ที่ทิชาประมาณไว้ การซื้อรถยนต์คันใดจะทำให้ทิชามีค่าใช้จ่ายในการซื้อและการใช้งานในปีแรกน้อยที่สุด
+รถยนต์ A
+รถยนต์ B
+รถยนต์ C
+รถยนต์ D"
+MAT/MA104-CarPurchase,2,5,Thai,tha-THA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Thai,tha-THA,เครื่องคิดเลขclose
+MAT/MA104-CarPurchase,3,2,Thai,tha-THA,PISA
+MAT/MA104-CarPurchase,3,3,Thai,tha-THA,"การซื้อรถยนต์
+ราคาและอัตราการสิ้นเปลืองน้ำมันเชื้อเพลิงของรถยนต์สี่คันที่ทิชากำลังตัดสินใจเลือกซื้อ แสดงในตารางข้างล่าง
+อัตราการสิ้นเปลืองน้ำมันเชื้อเพลิง คือ จำนวนลิตรของน้ำมันเชื้อเพลิงที่ใช้ในการขับรถยนต์ในระยะทาง 100 กิโลเมตร ซึ่งเป็นการประมาณโดยเฉลี่ยจากการขับรถยนต์ในเมืองร่วมกับการขับรถยนต์บนทางหลวง
+รถยนต์ A
+รถยนต์ B
+รถยนต์ C
+รถยนต์ D
+ราคารถยนต์ (เซด)
+ราคารถยนต์รวมภาษีและค่าจดทะเบียนทั้งหมด
+8,000
+8,700
+9,900
+10,500
+อัตราการสิ้นเปลืองน้ำมันเชื้อเพลิง
+(ลิตร/100 กิโลเมตร)
+18.9
+15.7
+12.4
+14.1"
+MAT/MA104-CarPurchase,3,4,Thai,tha-THA,"การซื้อรถยนต์  คำถามที่ 2 / 2
+จากเรื่อง “การซื้อรถยนต์” ทางด้านขวา ให้คลิกหนึ่งตัวเลือกเพื่อตอบคำถาม
+ราคาขายต่อของรถยนต์ คือ ราคาโดยประมาณของรถยนต์ที่จะขายต่อได้ในภายหลัง
+สำหรับรถยนต์ที่อยู่ในสภาพดีเยี่ยม ราคาขายต่อของรถยนต์จะลดลง 5% ในแต่ละปี
+ถ้าทิชาตัดสินใจซื้อรถยนต์ D และขายรถยนต์คันนี้ต่อหลังจากใช้งานมาแล้วสามปีในสภาพดีเยี่ยม รถยนต์คันนี้จะมีราคาขายต่อประมาณกี่เซด
+1,575
+8,925
+9,000
+9,975"
+MAT/MA104-CarPurchase,3,5,Thai,tha-THA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,1,1,Turkish,tur-TUR,Hesap Makinesiclose
+MAT/MA104-CarPurchase,1,2,Turkish,tur-TUR,PISA
+MAT/MA104-CarPurchase,1,3,Turkish,tur-TUR,"Araba Satın Alma  Giriş
+Girişi okuyunuz. Sonra İLERİ ok tuşuna tıklayınız.
+ARABA SATIN ALMA
+Tuğçe yeni bir araba almayı planlıyor. Arabaya ödeyeceği para ile birlikte bu arabayı ilk yıl kullanmanın kendisine ne kadara mal olacağını bilmek istiyor.
+Tuğçe, internette bir Maliyet Hesaplama Programı bulmuş ve aşağıdaki tahminlerde bulunmuştur:
+Bu yıl arabayla tahmini 20 000 km yol yapacak.
+Ortalama yakıt masrafı litre başına 1,54 zed olacak.
+Tahmini bakım masrafları ilk yıl için 250 zed olacak.
+MALİYET HESAPLAMA PROGRAMI
+Araba Fiyatı (zed)
+Yakıt Tüketimi (L/100 km)
+Tahmini Sürüş Mesafesi (km)
+Ortalama Yakıt Masrafı (zed/L)
+Tahmini Bakım Masrafları (zed)
+Temizle
+Hesapla"
+MAT/MA104-CarPurchase,1,4,Turkish,tur-TUR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,2,1,Turkish,tur-TUR,Hesap Makinesiclose
+MAT/MA104-CarPurchase,2,2,Turkish,tur-TUR,PISA
+MAT/MA104-CarPurchase,2,3,Turkish,tur-TUR,"ARABA SATIN ALMA
+Tuğçe'nin satın almayı düşündüğü dört arabanın fiyatı ve yakıt tüketimi aşağıdaki tabloda gösterilmektedir.
+Bir arabanın 100 kilometrede tükettiği yakıtın litre cinsinden miktarına yakıt tüketimi denir. Bir arabanın yakıt tüketimi hesaplanırken hem şehir içi hem de şehir dışı kullanım dikkate alınır.
+Araba A
+Araba B
+Araba C
+Araba D
+Araba Fiyatı (zed)
+Tüm vergiler ve ruhsat giderleri araba fiyatına dahildir.
+8000
+8700
+9900
+10 500
+Yakıt Tüketimi
+(L/100 km)
+18,9
+15,7
+12,4
+14,1
+Maliyet Hesaplama Programındaki hücrelerin bazıları, Tuğçe'nin tahminlerine dayanılarak doldurulmuştur.
+MALİYET HESAPLAMA PROGRAMI
+Araba Fiyatı (zed)
+Yakıt Tüketimi (L/100 km)
+Tahmini Sürüş Mesafesi (km)
+20 000
+Ortalama Yakıt Masrafı (zed/L)
+1,54
+Tahmini Bakım Masrafları (zed)
+250
+Temizle
+Hesapla
+SONUÇLAR
+closeTAMAM"
+MAT/MA104-CarPurchase,2,4,Turkish,tur-TUR,"Araba Satın Alma  Soru 1 / 2
+Maliyet Hesaplama Programı Nasıl Kullanılır?
+Maliyet Hesaplama Programı, bir arabaya ödenen para ile birlikte bu arabayı ilk yıl kullanmanın maliyetini belirler.
+Hesaplama programını kullanmak için aşağıdaki adımları takip ediniz:
+Araba Fiyatını giriniz.
+Yakıt Tüketimini giriniz.
+""Hesapla"" butonuna tıklayınız. Sonuçlar tablosunda sonucu görebilirsiniz.
+Başka bir hesaplama yapmak için ""Temizle"" butonuna tıklayınız, yeni değerler giriniz ve tekrar ""Hesapla"" butonuna tıklayınız.
+Bir veri satırını Sonuçlar tablosundan silmek için bu satırın yanındaki sil butonuna tıklayınız.
+Sağdaki “Araba Satın Alma”dan yararlanınız. Aşağıdaki soruyu cevaplamanıza yardımcı olması için Maliyet Hesaplama Programını kullanınız. Soruyu cevaplamak için seçeneklerden birine tıklayınız.
+Maliyet Hesaplama Programının nasıl kullanılacağını görmek için yukarıdaki “Maliyet Hesaplama Programı Nasıl Kullanılır?” butonuna tıklayınız.
+Tuğçe'nin tahminlerine göre, arabaya ödeyeceği para ile bu arabanın ilk yıl kullanım masrafları dikkate alındığında maliyeti en az olacak araba hangisidir?
+Araba A
+Araba B
+Araba C
+Araba D"
+MAT/MA104-CarPurchase,2,5,Turkish,tur-TUR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA104-CarPurchase,3,1,Turkish,tur-TUR,Hesap Makinesiclose
+MAT/MA104-CarPurchase,3,2,Turkish,tur-TUR,PISA
+MAT/MA104-CarPurchase,3,3,Turkish,tur-TUR,"ARABA SATIN ALMA
+Tuğçe'nin satın almayı düşündüğü dört arabanın fiyatı ve yakıt tüketimi aşağıdaki tabloda gösterilmektedir.
+Bir arabanın 100 kilometrede tükettiği yakıtın litre cinsinden miktarına yakıt tüketimi denir. Bir arabanın yakıt tüketimi hesaplanırken hem şehir içi hem de şehir dışı kullanım dikkate alınır.
+Araba A
+Araba B
+Araba C
+Araba D
+Araba Fiyatı (zed)
+Tüm vergiler ve ruhsat giderleri araba fiyatına dahildir.
+8000
+8700
+9900
+10 500
+Yakıt Tüketimi
+(L/100 km)
+18,9
+15,7
+12,4
+14,1"
+MAT/MA104-CarPurchase,3,4,Turkish,tur-TUR,"Araba Satın Alma  Soru 2 / 2
+Sağdaki “Araba Satın Alma”dan yararlanınız. Soruyu cevaplamak için seçeneklerden birine tıklayınız.
+Bir arabanın ikinci el olarak satılabileceği tahminî fiyata o arabanın ikinci el satış değeri denir.
+Bir arabanın ikinci el satış değeri her yıl %5 azalır.
+Tuğçe, Araba D'yi almaya ve üç yıl sonra satmaya karar verirse, bu arabanın ikinci el satış değeri zed cinsinden yaklaşık ne olur?
+1575
+8925
+9000
+9975"
+MAT/MA104-CarPurchase,3,5,Turkish,tur-TUR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
