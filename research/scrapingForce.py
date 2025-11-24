@@ -6,7 +6,7 @@ import os
 
 UNIT = "MAT/MA161-ForestedAreas"          
 # or , etc. "R551-RapaNui" R548-ChickenForum R557-CowsMilk R548-ChickenForum
-MAX_PAGES = 1                 # upper bound; loop stops when NEXT disappears
+MAX_PAGES = 7                 # upper bound; loop stops when NEXT disappears
 OUT_CSV = f"{UNIT}_parts_all_languages.csv"
 
 # Fill with your real language codes
@@ -122,7 +122,7 @@ def find_navigation_frame(page):
     return None
 
 
-def click_next(page) -> bool:
+def click_next(page, force=False) -> bool:
     """
     Click <li id='next' title='NEXT'> inside navigation iframe.
     Returns True if clicked, False if not found (last page).
@@ -137,14 +137,25 @@ def click_next(page) -> bool:
         print("  [INFO] NEXT button (li#next) not found – probably last page")
         return False
     
-    disabled = btn.get_attribute("disabled")
-    if disabled is not None:
-        print("  [INFO] NEXT button is disabled – last page")
+    disabled_attr = btn.get_attribute("disabled")
+
+    if disabled_attr is not None and not force:
+        # normal behaviour: treat disabled as last page
+        print("  [INFO] NEXT button is disabled – stopping here (force=False).")
         return False
 
     try:
-        # JS click inside the frame – bypasses overlay intercepting pointer events
-        nav_frame.eval_on_selector("li#next", "el => el.click()")
+        if disabled_attr is not None and force:
+            print("  [INFO] Forcing NEXT despite disabled attribute.")
+            # remove disabled and click via JS so overlays / pointer-events don't matter
+            nav_frame.eval_on_selector(
+                "li#next",
+                "el => { el.removeAttribute('disabled'); el.click(); }"
+            )
+        else:
+            # enabled case – still use JS click to avoid overlay issues
+            nav_frame.eval_on_selector("li#next", "el => el.click()")
+
     except PlaywrightTimeoutError:
         # if something weird happens, treat it as last page to avoid crash
         print("  [WARN] Timeout while clicking NEXT – stopping here.")
@@ -173,7 +184,7 @@ def scrape_language(play, language_name: str, lang_code: str):
         for part_idx, text in parts:
             rows.append((page_idx, part_idx, text))
 
-        if not click_next(page):
+        if not click_next(page, force=True):
             break
 
     browser.close()

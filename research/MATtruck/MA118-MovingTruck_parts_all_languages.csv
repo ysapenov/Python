@@ -1,0 +1,7630 @@
+﻿unit,page,part,language_name,lang_code,text
+MAT/MA118-MovingTruck,1,1,Albanian,sqi-ALB,Makinë llogaritëseclose
+MAT/MA118-MovingTruck,1,2,Albanian,sqi-ALB,PISA 2022
+MAT/MA118-MovingTruck,1,3,Albanian,sqi-ALB,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Albanian,sqi-ALB,"Kamioni i Shpërnguljes  Hyrja
+Lexoni hyrjen. Më pas klikoni mbi shigjetën TJETËR
+KAMIONI I SHPËRNGULJES
+Familja e Marës po shpërngulet.
+Ata kanë mundësi të zgjedhin të marrin me qira një nga dy kamionët e shpërnguljes, që kanë përmasa të ndryshme.  Përmasat e hapësirës së brendshme të kamionit janë paraqitur në tabelën më poshtë.  Të gjitha muret dhe dyshemetë e hapësirës së brendshme të kamionit kanë formë drejtkëndore
+Përmasat e Kamionit
+Gjatësia e Dyshemesë
+Gjerësia e Dyshemesë
+Lartësia
+A
+4 metra
+2 metra
+2 metra
+B
+6,6 metra
+2,3 metra
+2,3 metra
+Tre kuti me përmasa të ndryshme janë të disponueshme. Përmasat e këtyre kutive janë paraqitur në tabelën më poshtë.
+Madhësia e Kutisë
+Gjatësia
+Gjerësia
+Lartësia
+E Vogël
+0,4 metra
+0,3 metra
+0,3 metra
+E Mesme
+0,5 metra
+0,5 metra
+0,5 metra
+E Madhe
+0,5 metra
+0,5 metra
+0,75 metra"
+MAT/MA118-MovingTruck,1,5,Albanian,sqi-ALB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Albanian,sqi-ALB,Makinë llogaritëseclose
+MAT/MA118-MovingTruck,2,2,Albanian,sqi-ALB,PISA 2022
+MAT/MA118-MovingTruck,2,3,Albanian,sqi-ALB,"KAMIONI I SHPËRNGULJES
+Përmasat e Hapsirës së Brendshme
+Përmasat e Kamionit
+Gjatësia e Dyshemesë
+Gjerësia e Dyshemesë
+Lartësia
+A
+4 metra
+2 metra
+2 metra
+Përmasat e Kutisë
+Madhësia e Kutisë
+Gjatësia
+Gjerësia
+Lartësia
+E Mesme
+0,5 metra
+0,5 metra
+0,5 metra"
+MAT/MA118-MovingTruck,2,4,Albanian,sqi-ALB,"Kamioni i Shpërnguljes  Pyetje 1 / 2
+Referohuni ""Kamionit të Shpërnguljes"" në të djathtë. Klikoni një alternativë për t'ju përgjigjur pyetjes.
+Familja e Marës vendos të marrë me qira kamionin A.
+Cili është numri më i madh i kutive mesatare që mund të vendosen brenda kamionit A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Albanian,sqi-ALB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Albanian,sqi-ALB,Makinë llogaritëseclose
+MAT/MA118-MovingTruck,3,2,Albanian,sqi-ALB,PISA 2022
+MAT/MA118-MovingTruck,3,3,Albanian,sqi-ALB,"KAMIONI I SHPËRNGULJES
+Përmasat e Hapsirës së Brendshme
+Përmasat e Kamionit
+Gjatësia e Dyshemesë
+Gjerësia e Dyshemesë
+Lartësia
+A
+4 metra
+2 metra
+2 metra
+Përmasat e Kutisë
+Madhësia e Kutisë
+Gjatësia
+Gjerësia
+Lartësia
+E Mesme
+0,5 metra
+0,5 metra
+0,5 metra
+E Madhe
+0,5 metra
+0,5 metra
+0,75 metra"
+MAT/MA118-MovingTruck,3,4,Albanian,sqi-ALB,"Kamioni i Shpërnguljes  Pyetje 2 / 2
+Referohuni ""Kamionit të Shpërnguljes"" në të djathtë. Klikoni një alternativë për t'ju përgjigjur pyetjes.
+Kompania e cila jep kamionë me qera konfirmoi se kamioni A mund të mbushet vetëm duke përdorur kuti mesatare në mënyrë që e gjithë hapësira në depot e magazinimit të përdoret.
+Mara mendon se një kuti mesatare zë 2/3 e hapsirës së një kutie të madhe, kështu që ajo arrin në përfundimin se numri i kutive të mëdha që do të futen në kamionin A është sa 2/3 e kutive të mesme.
+Cila nga fjalitë e mëposhtme mbi përfundimin e Marës është e vërtetë?
+Ajo ka të drejtë, sepse lartësia e një kutie mesatare është sa 2/3 e lartësisë së një kutie të madhe.
+Ajo ka të drejtë, sepse 3 kuti mesatare mund të vendosen gjithmonë në të njejtën hapësirë si 2 kuti të mëdha.
+Ajo nuk ka të drejtë, sepse asnjëra nga përmasat e hapësirës së brendshme të kamionit A nuk është shumëfish i 0,75, që është lartësia e një kutie të madhe.
+Ajo nuk ka të drejtë, sepse lartësia e një kutie të madhe është 1,5 herë më e madhe se sa ajo e një kutie mesatare."
+MAT/MA118-MovingTruck,3,5,Albanian,sqi-ALB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Arabic,ara-ARE,الآلة الحاسبةclose
+MAT/MA118-MovingTruck,1,2,Arabic,ara-ARE,PISA 2022
+MAT/MA118-MovingTruck,1,3,Arabic,ara-ARE,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Arabic,ara-ARE,"شاحنة النقل  مقدمة
+اقرأ المقدمة ثم انقر على زر التالي  .
+شاحنة النقل
+سوف تنتقل عائلة مريم من منزلهم.
+سيقومون باستئجار شاحنة نقل، ويمكنهم الاختيار من بين حجمين مختلفين من الشاحنات. أبعاد مقصورة التخزين الداخلية للشاحنات موضّحة في الجدول أدناه.  جميع جدران وأرضية مقصورة التخزين في الشاحنات مستطيلة الشكل.
+حجم الشاحنة
+طول الأرضية
+عرض الأرضية
+الارتفاع
+A
+4 متر
+2 متر
+2 متر
+B
+6.6 متر
+2.3 متر
+2.3 متر
+تتوفر ثلاثة أحجام مختلفة من الصناديق،  كما أن أبعاد هذه الصناديق موضّحة في الجدول أدناه.
+حجم الصندوق
+الطول
+العرض
+الارتفاع
+صغير
+0.4 متر
+0.3 متر
+0.3 متر
+متوسط
+0.5 متر
+0.5 متر
+0.5 متر
+كبير
+0.5 متر
+0.5 متر
+0.75 متر"
+MAT/MA118-MovingTruck,1,5,Arabic,ara-ARE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Arabic,ara-ARE,الآلة الحاسبةclose
+MAT/MA118-MovingTruck,2,2,Arabic,ara-ARE,PISA 2022
+MAT/MA118-MovingTruck,2,3,Arabic,ara-ARE,"شاحنة النقل
+أبعاد مقصورة التخزين الداخلية
+حجم الشاحنة
+طول الأرضية
+عرض الأرضية
+الارتفاع
+A
+4 متر
+2 متر
+2 متر
+أبعاد الصندوق
+حجم الصندوق
+الطول
+العرض
+الارتفاع
+متوسط
+0.5 متر
+0.5 متر
+0.5 متر"
+MAT/MA118-MovingTruck,2,4,Arabic,ara-ARE,"شاحنة النقل  سؤال 1 / 2
+ارجع إلى ""شاحنة النقل"" على الجانب الأيسر. انقر على أحد الخيارات للإجابة عن السؤال.
+قررت عائلة مريم استئجار الشاحنة A.
+ما أكبر عدد من الصناديق متوسطة الحجم يمكن أن تستوعبها الشاحنة A ؟
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Arabic,ara-ARE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Arabic,ara-ARE,الآلة الحاسبةclose
+MAT/MA118-MovingTruck,3,2,Arabic,ara-ARE,PISA 2022
+MAT/MA118-MovingTruck,3,3,Arabic,ara-ARE,"شاحنة النقل
+أبعاد مقصورة التخزين الداخلية
+حجم الشاحنة
+طول الأرضية
+عرض الأرضية
+الارتفاع
+A
+4 متر
+2 متر
+2 متر
+أبعاد الصندوق
+حجم الصندوق
+الطول
+العرض
+الارتفاع
+متوسط
+0.5 متر
+0.5 متر
+0.5 متر
+كبير
+0.5 متر
+0.5 متر
+0.75 متر"
+MAT/MA118-MovingTruck,3,4,Arabic,ara-ARE,"شاحنة النقل  سؤال 2 / 2
+ارجع إلى ""شاحنة النقل"" على الجانب الأيسر. انقر على أحد الخيارات للإجابة عن السؤال.
+أكدت الشركة التي تؤجّر الشاحنات أنه يمكن ملء الشاحنة A باستخدام الصناديق المتوسطة فقط؛ بحيث يتم استخدام مساحة مقصورة التخزين بالكامل.
+تدّعي مريم أن الصندوق المتوسط يشغل 2/3 مساحة الصندوق الكبير، لذلك تستنتج أن عدد الصناديق الكبيرة التي ستملأ الشاحنة A هو 2/3 عدد الصناديق المتوسطة.
+أي عبارة من العبارات التالية تعدّ صحيحة حول استنتاج مريم؟
+هي مُحقة، لأن ارتفاع الصندوق المتوسط هو 2/3 ارتفاع الصندوق الكبير.
+هي مُحقة، لأن 3 صناديق متوسطة يمكن وضعها دائمًا في المساحة نفسها لصندوقين كبيرين.
+هي غير مُحقة، لأن جميع أبعاد التخزين الداخلية للشاحنة A  ليست من مضاعفات 0.75  وهو ارتفاع الصندوق الكبير.
+هي غير مُحقة، لأن ارتفاع الصندوق الكبير يبلغ 1.5 ضعف ارتفاع الصندوق المتوسط."
+MAT/MA118-MovingTruck,3,5,Arabic,ara-ARE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Azerbaijani / Azeri,aze-QAZ,Kalkulyatorclose
+MAT/MA118-MovingTruck,1,2,Azerbaijani / Azeri,aze-QAZ,PISA 2022
+MAT/MA118-MovingTruck,1,3,Azerbaijani / Azeri,aze-QAZ,"Əşya Daşıyan Yük Maşını  Giriş
+Girişi oxuyun. Sonra NÖVBƏTİ oxunu klikləyin.
+ƏŞYA DAŞIYAN YÜK MAŞINI
+Məryəmin ailəsi köçür.
+Onlar kirayələmək üçün iki ölçüdə olan əşya daşıyan yük maşınından seçim edə bilərlər. Yük maşınının daxili yükləmə bölməsinin ölçüləri aşağıdakı cədvəldə göstərilmişdir. Yük maşınının yükləmə bölməsinin bütün divarları və döşəməsi düzbucaqlıdır.
+Yük maşınının ölçüsü
+Döşəmənin Uzunluğu
+Döşəmənin Eni
+Hündürlük
+A
+4 metr
+2 metr
+2 metr
+B
+6,6 metr
+2,3 metr
+2,3 metr
+Üç müxtəlif ölçülü qutu mövcuddur. Bu qutuların göstəriciləri aşağıdakı cədvəldə göstərilib.
+Qutunun Ölçüsü
+Uzunluq
+En
+Hündürlük
+Kiçik
+0,4 metr
+0,3 metr
+0,3 metr
+Orta
+0,5 metr
+0,5 metr
+0,5 metr
+Böyük
+0,5 metr
+0,5 metr
+0,75 metr"
+MAT/MA118-MovingTruck,1,4,Azerbaijani / Azeri,aze-QAZ,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,5,Azerbaijani / Azeri,aze-QAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Azerbaijani / Azeri,aze-QAZ,Kalkulyatorclose
+MAT/MA118-MovingTruck,2,2,Azerbaijani / Azeri,aze-QAZ,PISA 2022
+MAT/MA118-MovingTruck,2,3,Azerbaijani / Azeri,aze-QAZ,"Əşya Daşıyan Yük Maşını  Sual   1 / 2
+Sağdakı ""Əşya Daşıyan Yük Maşını""-na istinad edin. Suala cavab vermək üçün seçiminizi klikləyin.
+Məryəmin ailəsi yük maşını A-nı kirayələməyi qərara alır.
+Yük maşını A-ya yerləşə biləcək orta ölçülü qutuların maksimum sayı nə qədərdir?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,4,Azerbaijani / Azeri,aze-QAZ,"ƏŞYA DAŞIYAN YÜK MAŞINI
+Daxili Yükləmə Bölməsinin Ölçüləri
+Yük maşınının ölçüsü
+Döşəmənin Uzunluğu
+Döşəmənin Eni
+Hündürlük
+A
+4 metr
+2 metr
+2 metr
+Qutunun Göstəriciləri
+Qutunun Ölçüsü
+Uzunluq
+En
+Hündürlük
+Orta
+0,5 metr
+0,5 metr
+0,5 metr"
+MAT/MA118-MovingTruck,2,5,Azerbaijani / Azeri,aze-QAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Azerbaijani / Azeri,aze-QAZ,Kalkulyatorclose
+MAT/MA118-MovingTruck,3,2,Azerbaijani / Azeri,aze-QAZ,PISA 2022
+MAT/MA118-MovingTruck,3,3,Azerbaijani / Azeri,aze-QAZ,"Əşya Daşıyan Yük Maşını  Sual   2 / 2
+Sağdakı ""Əşya Daşıyan Yük Maşını""-na istinad edin. Suala cavab vermək üçün seçiminizi klikləyin.
+Yük maşınlarını icarəyə verən şirkət yük maşını A-nın yükləmə bölməsindəki bütün boş yerlərin yalnız orta ölçülü qutular istifadə edilərək doldurula bilinəcəyini təsdiqlədi.
+Məryəm iddia edir ki, orta ölçülü qutular böyük qutuların sahəsinin 2/3-ni tutur, beləliklə o belə nəticəyə gəlir ki, yük maşını A-ya yerləşəcək böyük qutuların sayı orta ölçülü qutuların sayının 2/3-si qədər olacaqdır.
+Məryəmin gəldiyi nəticə haqqındakı aşağıdakı ifadələrdən hansı biri doğrudur?
+O, haqlıdır, çünki orta qutunun hündürlüyü böyük qutunun hündürlüyünün 2/3-si qədərdir.
+O, haqlıdır, çünki 3 orta ölçülü qutu 2 böyük qutunun yerləşdiyi yerə sığışa bilər.
+O, haqlı deyil, çünki yük maşınının daxili yükləmə bölməsinin ölçülərinin heç biri böyük qutunun hündürlüyü olan 0,75-ə vurulmur.
+O, haqlı deyil, çünki böyük qutunun hündürlüyü orta qutunun hündürlüyündən 1,5 dəfə böyükdür."
+MAT/MA118-MovingTruck,3,4,Azerbaijani / Azeri,aze-QAZ,"ƏŞYA DAŞIYAN YÜK MAŞINI
+Daxili Yükləmə Bölməsinin Ölçüləri
+Yük maşınının ölçüsü
+Döşəmənin Uzunluğu
+Döşəmənin Eni
+Hündürlük
+A
+4 metr
+2 metr
+2 metr
+Qutunun Göstəriciləri
+Qutunun Ölçüsü
+Uzunluq
+En
+Hündürlük
+Orta
+0,5 metr
+0,5 metr
+0,5 metr
+Böyük
+0,5 metr
+0,5 metr
+0,75 metr"
+MAT/MA118-MovingTruck,3,5,Azerbaijani / Azeri,aze-QAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Basque,eus-ESP,Kalkulagailuaclose
+MAT/MA118-MovingTruck,1,2,Basque,eus-ESP,PISA
+MAT/MA118-MovingTruck,1,3,Basque,eus-ESP,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Basque,eus-ESP,"Etxe-aldaketako kamioia  Sarrera
+Irakurri sarrera. Ondoren, egin klik HURRENGOA gezian.
+ETXE-ALDAKETAKO KAMIOIA
+Mirenen familia etxez aldatzen ari da.
+Neurri desberdinak dituzten bi etxe-aldaketako kamioiren artean aukeratu behar dute alokatzeko. Kamioien barneko biltegiratze lekuaren neurriak beheko taulan daude ikusgai. Kamioien biltegiratze lekuaren horma guztiak eta zorua laukizuzenak dira.
+Kamioiaren neurria
+Zoruaren luzera
+Zoruaren zabalera
+Altuera
+A
+4 metro
+2 metro
+2 metro
+B
+6,6 metro
+2,3 metro
+2,3 metro
+Hiru neurri desberdinetako kutxak daude eskuragarri. Kutxen neurriak beheko taulan daude ikusgai.
+Kutxaren neurria
+Luzera
+Zabalera
+Altuera
+Txikia
+0,4 metro
+0,3 metro
+0,3 metro
+Ertaina
+0,5 metro
+0,5 metro
+0,5 metro
+Handia
+0,5 metro
+0,5 metro
+0,75 metro"
+MAT/MA118-MovingTruck,1,5,Basque,eus-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Basque,eus-ESP,Kalkulagailuaclose
+MAT/MA118-MovingTruck,2,2,Basque,eus-ESP,PISA
+MAT/MA118-MovingTruck,2,3,Basque,eus-ESP,"ETXE-ALDAKETAKO KAMIOIA
+Barneko biltegiratze lekuaren neurriak
+Kamioiaren neurria
+Zoruaren luzera
+Zoruaren zabalera
+Altuera
+A
+4 metro
+2 metro
+2 metro
+Kutxaren neurriak
+Kutxaren neurria
+Luzera
+Zabalera
+Altuera
+Ertaina
+0,5 metro
+0,5 metro
+0,5 metro"
+MAT/MA118-MovingTruck,2,4,Basque,eus-ESP,"Etxe-aldaketako kamioia  Galdera 1 / 2
+Begiratu ""Etxe-aldaketako kamioia"" egoerari eskuinean. Egin klik aukera batean, galderari erantzuteko.
+Mirenen familiak A kamioia alokatzea erabaki du.
+Zenbat kutxa ertain sar daitezke A kamioian, gehienez jota?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Basque,eus-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Basque,eus-ESP,Kalkulagailuaclose
+MAT/MA118-MovingTruck,3,2,Basque,eus-ESP,PISA
+MAT/MA118-MovingTruck,3,3,Basque,eus-ESP,"ETXE-ALDAKETAKO KAMIOIA
+Barneko biltegiratze lekuaren neurriak
+Kamioiaren neurria
+Zoruaren luzera
+Zoruaren zabalera
+Altuera
+A
+4 metro
+2 metro
+2 metro
+Kutxaren neurriak
+Kutxaren neurria
+Luzera
+Zabalera
+Altuera
+Ertaina
+0,5 metro
+0,5 metro
+0,5 metro
+Handia
+0,5 metro
+0,5 metro
+0,75 metro"
+MAT/MA118-MovingTruck,3,4,Basque,eus-ESP,"Etxe-aldaketako kamioia  Galdera 2 / 2
+Begiratu ""Etxe-aldaketako kamioia"" egoerari eskuinean. Egin klik aukera batean, galderari erantzuteko.
+Kamioiak alokatzen dituen enpresak adierazi du kutxa ertainak bakarrik erabiliz, A kamioiaren biltegiratze leku osoa bete daitekeela.
+Mirenek esan du kutxa ertain batek kutxa handi baten espazioaren 2/3 hartzen duela. Beraz, ondorioztatu du A kamioia betetzeko behar den kutxa handien kopurua kutxa ertainen kopuruaren 2/3 dela.
+Mirenek ondorioztatu duena kontuan hartuta, ondorengo adierazpenetatik zein da egia?
+Arrazoi du, kutxa ertain baten altuera kutxa handi baten altueraren 2/3 delako.
+Arrazoi du, 2 kutxa handik hartzen duten leku berdinean 3 kutxa ertain sar daitezkeelako.
+Ez du arrazoirik, A kamioiaren barneko biltegiratze lekuaren dimentsioetatik bat ere ez delako 0,75en multiploa (kutxa handi baten altuera 0,75m-koa da).
+Ez du arrazoirik, kutxa handien altuera kutxa ertainen altuera baino 1,5 aldiz handiagoa delako."
+MAT/MA118-MovingTruck,3,5,Basque,eus-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Bokmål,nob-NOR,Kalkulatorclose
+MAT/MA118-MovingTruck,1,2,Bokmål,nob-NOR,PISA
+MAT/MA118-MovingTruck,1,3,Bokmål,nob-NOR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Bokmål,nob-NOR,"Flyttebil  Innledning
+Les innledningen. Klikk deretter på NESTE-pilen.
+FLYTTEBIL
+Marias familie skal flytte.
+De kan velge mellom to ulike størrelser på flyttebilen de skal leie. De innvendige målene på lasterommet i flyttebilene er vist i tabellen nedenfor. Alle vegger og gulvet i flyttebilenes lasterom er formet som rektangler.
+Størrelse på flyttebil
+Lengde på gulvet
+Bredde på gulvet
+Høyde
+A
+4 meter
+2 meter
+2 meter
+B
+6,6 meter
+2,3 meter
+2,3 meter
+Det finnes esker i tre ulike størrelser. Målene på disse eskene er vist i tabellen nedenfor.
+Størrelse på eske
+Lengde
+Bredde
+Høyde
+Liten
+0,4 meter
+0,3 meter
+0,3 meter
+Medium
+0,5 meter
+0,5 meter
+0,5 meter
+Stor
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,1,5,Bokmål,nob-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Bokmål,nob-NOR,Kalkulatorclose
+MAT/MA118-MovingTruck,2,2,Bokmål,nob-NOR,PISA
+MAT/MA118-MovingTruck,2,3,Bokmål,nob-NOR,"FLYTTEBIL
+Innvendige mål på lasterommet
+Størrelse på flyttebil
+Lengde på gulvet
+Bredde på gulvet
+Høyde
+A
+4 meter
+2 meter
+2 meter
+Mål på eske
+Størrelse på eske
+Lengde
+Bredde
+Høyde
+Medium
+0,5 meter
+0,5 meter
+0,5 meter"
+MAT/MA118-MovingTruck,2,4,Bokmål,nob-NOR,"Flyttebil  Spørsmål 1 / 2
+Les ""Flyttebil"" til høyre. Svar på spørsmålet ved å klikke på et av alternativene.
+Marias familie bestemmer seg for å leie flyttebil A.
+Hva er det største antallet esker i medium størrelse som kan få plass i flyttebil A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Bokmål,nob-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Bokmål,nob-NOR,Kalkulatorclose
+MAT/MA118-MovingTruck,3,2,Bokmål,nob-NOR,PISA
+MAT/MA118-MovingTruck,3,3,Bokmål,nob-NOR,"FLYTTEBIL
+Innvendige mål på lasterommet
+Størrelse på flyttebil
+Lengde på gulvet
+Bredde på gulvet
+Høyde
+A
+4 meter
+2 meter
+2 meter
+Mål på eske
+Størrelse på eske
+Lengde
+Bredde
+Høyde
+Medium
+0,5 meter
+0,5 meter
+0,5 meter
+Stor
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,3,4,Bokmål,nob-NOR,"Flyttebil  Spørsmål 2 / 2
+Les ""Flyttebil"" til høyre. Svar på spørsmålet ved å klikke på et av alternativene.
+Firmaet som leier ut flyttebilene, har bekreftet at flyttebil A kan fylles opp ved å bruke bare esker i medium størrelse slik at all lagringsplassen i lasterommet blir brukt.
+Maria hevder at en eske i medium størrelse tar opp 2/3 av plassen til en stor eske, så hun konkluderer med at antallet store esker som får plass i flyttebil A, er 2/3 av antallet esker i medium størrelse.
+Hvilken av påstandene nedenfor om Marias konklusjon er riktig?
+Hun har rett, fordi høyden til en eske i medium størrelse er 2/3 av høyden til en stor eske.
+Hun har rett, fordi 3 esker i medium størrelse vil alltid passe inn i samme rom som 2 store esker.
+Hun tar feil, fordi ingen av de innvendige målene på lasterommet i flyttebil A kan deles på 0,75, som er høyden til en stor eske.
+Hun tar feil, fordi høyden til den store esken er 1,5 ganger større enn høyden til esken i medium størrelse."
+MAT/MA118-MovingTruck,3,5,Bokmål,nob-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Bosnian,bos-BIH,Digitronclose
+MAT/MA118-MovingTruck,1,2,Bosnian,bos-BIH,PISA 2022
+MAT/MA118-MovingTruck,1,3,Bosnian,bos-BIH,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Bosnian,bos-BIH,"Kamion za selidbu  Uvod
+Pročitaj uvod. Zatim klikni na strelicu SLJEDEĆE.
+KAMION ZA SELIDBU
+Marina porodica se seli.
+Mogu da biraju između dvije veličine kamiona za iznajmljivanje. Unutrašnje dimenzije prtljažnika kamiona prikazane su u donjoj tabeli. Svi zidovi i pod prtljažnika su u obliku pravougaonika.
+Veličina kamiona
+Dužina poda
+Širina poda
+Visina
+A
+4 metra
+2 metra
+2 metra
+B
+6,6 metara
+2,3 metra
+2,3 metra
+Na raspolaganju su im tri različite veličine kutija. Dimenzije ovih kutija prikazane su u donjoj tabeli.
+Veličina kutije
+Dužina
+Širina
+Visina
+Mala
+0,4 metra
+0,3 metra
+0,3 metra
+Srednja
+0,5 metara
+0,5 metara
+0,5 metara
+Velika
+0,5 metara
+0,5 metara
+0,75 metara"
+MAT/MA118-MovingTruck,1,5,Bosnian,bos-BIH,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Bosnian,bos-BIH,Digitronclose
+MAT/MA118-MovingTruck,2,2,Bosnian,bos-BIH,PISA 2022
+MAT/MA118-MovingTruck,2,3,Bosnian,bos-BIH,"KAMION ZA SELIDBU
+Unutrašnje dimenzije prtljažnika
+Veličina kamiona
+Dužina poda
+Širina poda
+Visina
+A
+4 metra
+2 metra
+2 metra
+Dimenzije kutija
+Veličina kutije
+Dužina
+Širina
+Visina
+Srednja
+0,5 metara
+0,5 metara
+0,5 metara"
+MAT/MA118-MovingTruck,2,4,Bosnian,bos-BIH,"Kamion za selidbu  Pitanje 1 / 2
+Koristi informacije iz teksta „Kamion za selidbu“ s desne strane. Odgovori na pitanje klikom na jednu od ponuđenih opcija.
+Marina porodica je odlučila da iznajmi kamion A.
+Koliko najviše kutija srednje veličine može da stane u kamion A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Bosnian,bos-BIH,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Bosnian,bos-BIH,Digitronclose
+MAT/MA118-MovingTruck,3,2,Bosnian,bos-BIH,PISA 2022
+MAT/MA118-MovingTruck,3,3,Bosnian,bos-BIH,"KAMION ZA SELIDBU
+Unutrašnje dimenzije prtljažnika
+Veličina kamiona
+Dužina poda
+Širina poda
+Visina
+A
+4 metra
+2 metra
+2 metra
+Dimenzije kutija
+Veličina kutije
+Dužina
+Širina
+Visina
+Srednja
+0,5 metara
+0,5 metara
+0,5 metara
+Velika
+0,5 metara
+0,5 metara
+0,75 metara"
+MAT/MA118-MovingTruck,3,4,Bosnian,bos-BIH,"Kamion za selidbu  Pitanje 2 / 2
+Koristi informacije iz teksta „Kamion za selidbu“ s desne strane. Odgovori na pitanje klikom na jednu od ponuđenih opcija.
+Kompanija koja iznajmljuje kamione potvrdila je da se kamion A može napuniti do vrha samo kutijama srednje veličine tako da bude iskorišten čitav prtljažnik.
+Mara tvrdi da kutija srednje veličine zauzima 2/3 prostora velike kutije, pa zaključuje da je broj velikih kutija kojima bi se ispunio kamion A jednak 2/3 broja srednjih kutija.
+Koja od sljedećih tvrdnji o Marinom zaključku je tačna?
+U pravu je, jer je visina kutije srednje veličine 2/3 visine velike kutije.
+U pravu je, jer tri kutije srednje veličine uvijek mogu da zauzmu isti prostor kao 2 velike kutije.
+Nije u pravu, jer nijedna od unutrašnjih dimenzija prtljažnika kamiona A nije proizvod 0,75, što je visina velike kutije.
+Nije u pravu, jer je visina velike kutije 1,5 puta veća od visine srednje kutije."
+MAT/MA118-MovingTruck,3,5,Bosnian,bos-BIH,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Bulgarian,bul-BGR,Калкулаторclose
+MAT/MA118-MovingTruck,1,2,Bulgarian,bul-BGR,PISA
+MAT/MA118-MovingTruck,1,3,Bulgarian,bul-BGR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Bulgarian,bul-BGR,"Камион за пренасяне   Въведение
+Прочетете въведението. След това кликнете върху стрелката СЛЕДВАЩ.
+КАМИОН ЗА ПРЕНАСЯНЕ
+Семейството на Мария се пренася в нов дом и трябва да наеме камион.
+Те могат да изберат между два камиона с различни размери.  Вътрешните размери на товарното отделение на камионите са показани в таблицата. Подът и стените на товарното отделение на камионите са с правоъгълна форма.
+Размер на камиона
+Дължина на пода
+Широчина на пода
+Височина
+A
+4 метра
+2 метра
+2 метра
+Б
+6,6 метра
+2,3 метра
+2,3 метра
+Те могат да използват кашони с три различни големини. Размерите на кашоните са показани в таблицата.
+Големина на кашоните
+Дължина
+Широчина
+Височина
+Малък
+0,4 метра
+0,3 метра
+0,3 метра
+Среден
+0,5 метра
+0,5 метра
+0,5 метра
+Голям
+0,5 метра
+0,5 метра
+0,75 метра"
+MAT/MA118-MovingTruck,1,5,Bulgarian,bul-BGR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Bulgarian,bul-BGR,Калкулаторclose
+MAT/MA118-MovingTruck,2,2,Bulgarian,bul-BGR,PISA
+MAT/MA118-MovingTruck,2,3,Bulgarian,bul-BGR,"КАМИОН ЗА ПРЕНАСЯНЕ
+Вътрешни размери на товарното отделение
+Размер на камиона
+Дължина на пода
+Широчина на пода
+Височина
+A
+4 метра
+2 метра
+2 метра
+Размери на кашоните
+Големина на кашоните
+Дължина
+Широчина
+Височина
+Среден
+0,5 метра
+0,5 метра
+0,5 метра"
+MAT/MA118-MovingTruck,2,4,Bulgarian,bul-BGR,"Камион за пренасяне   Въпрос  1 / 2
+Използвайте ""Камион за пренасяне"" вдясно. Кликнете върху отговора, който смятате за правилен.
+Семейството на Мария решава да наеме камион А.
+Колко най-много средни кашона могат да се поберат в камион А?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Bulgarian,bul-BGR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Bulgarian,bul-BGR,Калкулаторclose
+MAT/MA118-MovingTruck,3,2,Bulgarian,bul-BGR,PISA
+MAT/MA118-MovingTruck,3,3,Bulgarian,bul-BGR,"КАМИОН ЗА ПРЕНАСЯНЕ
+Вътрешни размери на товарното отделение
+Размер на камиона
+Дължина на пода
+Широчина на пода
+Височина
+A
+4 метра
+2 метра
+2 метра
+Размери на кашоните
+Големина на кашоните
+Дължина
+Широчина
+Височина
+Среден
+0,5 метра
+0,5 метра
+0,5 метра
+Голям
+0,5 метра
+0,5 метра
+0,75 метра"
+MAT/MA118-MovingTruck,3,4,Bulgarian,bul-BGR,"Камион за пренасяне   Въпрос  2 / 2
+Използвайте ""Камион за пренасяне"" вдясно. Кликнете върху отговора, който смятате за правилен.
+Фирмата, от която наели камиона, им обяснила, че за да се употреби цялото пространство на товарното отделение на камион А, той трябва да бъде запълнен само със средни кашони.
+Мария пресметнала, че средният кашон заема 2/3 от пространството на големия кашон и така стигнала до заключението, че броят на големите кашони, които ще запълнят камион А, е 2/3 от броя на средните кашони.
+Кое от следните твърдения, свързани с направеното заключение на Мария, е вярно?
+Тя е права, защото височината на средния кашон е 2/3 от височината на големия кашон.
+Тя е права, защото 3 средни кашона заемат същото пространство като 2 големи кашона.
+Тя не е права, защото никои от вътрешните размери на товарното отделение на камион А не са кратни на 0,75, което е височината на големия кашон.
+Тя не е права, защото височината на големия кашон е 1,5 пъти височината на средния кашон."
+MAT/MA118-MovingTruck,3,5,Bulgarian,bul-BGR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Catalan,cat-ESP,Calculadoraclose
+MAT/MA118-MovingTruck,1,2,Catalan,cat-ESP,PISA
+MAT/MA118-MovingTruck,1,3,Catalan,cat-ESP,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Catalan,cat-ESP,"Camió de mudances  Introducció
+Llegeix la introducció. A continuació clica la fletxa SEGÜENT.
+CAMIÓ DE MUDANCES
+La família de la Marta es muda.
+Volen llogar un camió de mudances i poden triar entre dues mides diferents. Les dimensions interiors del compartiment d'emmagatzematge dels camions es mostren a la taula següent. Totes les parets i el terra del compartiment d'emmagatzematge dels camions són rectangles.
+Mida del camió
+Llargada del terra
+Amplada del terra
+Alçada
+A
+4 metres
+2 metres
+2 metres
+B
+6,6 metres
+2,3 metres
+2,3 metres
+Hi ha tres mides diferents de caixes disponibles. Les dimensions d'aquestes caixes es mostren a la taula següent.
+Mida de la caixa
+Llargada
+Amplada
+Alçada
+Petita
+0,4 metres
+0,3 metres
+0,3 metres
+Mitjana
+0,5 metres
+0,5 metres
+0,5 metres
+Gran
+0,5 metres
+0,5 metres
+0,75 metres"
+MAT/MA118-MovingTruck,1,5,Catalan,cat-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Catalan,cat-ESP,Calculadoraclose
+MAT/MA118-MovingTruck,2,2,Catalan,cat-ESP,PISA
+MAT/MA118-MovingTruck,2,3,Catalan,cat-ESP,"CAMIÓ DE MUDANCES
+Dimensions del compartiment d'emmagatzematge interior
+Mida del camió
+Llargada del terra
+Amplada del terra
+Alçada
+A
+4 metres
+2 metres
+2 metres
+Dimensions de la caixa
+Mida de la caixa
+Llargada
+Amplada
+Alçada
+Mitjana
+0,5 metres
+0,5 metres
+0,5 metres"
+MAT/MA118-MovingTruck,2,4,Catalan,cat-ESP,"Camió de mudances  Pregunta 1 / 2
+Consulta ""Camió de mudances"" a la dreta. Clica una opció per respondre la pregunta.
+La família de la Marta decideix llogar el camió A.
+Quin és el màxim nombre de caixes mitjanes que podrien cabre al camió A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Catalan,cat-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Catalan,cat-ESP,Calculadoraclose
+MAT/MA118-MovingTruck,3,2,Catalan,cat-ESP,PISA
+MAT/MA118-MovingTruck,3,3,Catalan,cat-ESP,"CAMIÓ DE MUDANCES
+Dimensions del compartiment d'emmagatzematge interior
+Mida del camió
+Llargada del terra
+Amplada del terra
+Alçada
+A
+4 metres
+2 metres
+2 metres
+Dimensions de la caixa
+Mida de la caixa
+Llargada
+Amplada
+Alçada
+Mitjana
+0,5 metres
+0,5 metres
+0,5 metres
+Gran
+0,5 metres
+0,5 metres
+0,75 metres"
+MAT/MA118-MovingTruck,3,4,Catalan,cat-ESP,"Camió de mudances  Pregunta 2 / 2
+Consulta ""Camió de mudances"" a la dreta. Clica una opció per respondre la pregunta.
+L'empresa que lloga els camions ha confirmat que el camió A es pot omplir utilitzant només caixes mitjanes de manera que s'utilitzi tot l'espai del compartiment d'emmagatzematge.
+La Marta afirma que una caixa mitjana ocupa 2/3 de l'espai d'una caixa gran, per la qual cosa conclou que el nombre de caixes grans que ompliran el camió A és de 2/3 el nombre de caixes mitjanes.
+Quina de les afirmacions següents sobre la conclusió de la Marta és vertadera?
+Té raó, perquè l'alçada d'una caixa mitjana fa 2/3 de l'alçada d'una caixa gran.
+Té raó, perquè 3 caixes mitjanes sempre es poden encabir en el mateix espai que 2 caixes grans.
+No té raó, perquè cap de les dimensions d'emmagatzematge interior del camió A és múltiple de 0,75, que és l'alçada d'una caixa gran.
+No té raó, perquè l'alçada d'una caixa gran és 1,5 vegades l'alçada d'una caixa mitjana."
+MAT/MA118-MovingTruck,3,5,Catalan,cat-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Chinese,zho-CHN,计算器close
+MAT/MA118-MovingTruck,1,2,Chinese,zho-CHN,PISA
+MAT/MA118-MovingTruck,1,3,Chinese,zho-CHN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Chinese,zho-CHN,"搬家货车  简介
+阅读简介， 然后点击“下一页”的箭头。
+搬家货车
+马莎要搬家了。
+有两种型号的搬家货车可供他们选择租用， 货车的储物车厢内部尺寸如下表所示。 货车储物车厢的所有厢壁和底板都是长方形的。
+货车型号
+底板长度
+底板宽度
+高度
+A
+4 米
+2 米
+2 米
+B
+6.6 米
+2.3 米
+2.3 米
+有三种不同型号的打包箱可供选择， 这些打包箱的尺寸如下表所示。
+打包箱型号
+长度
+宽度
+高度
+小号
+0.4 米
+0.3 米
+0.3 米
+中号
+0.5 米
+0.5 米
+0.5 米
+大号
+0.5 米
+0.5 米
+0.75 米"
+MAT/MA118-MovingTruck,1,5,Chinese,zho-CHN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Chinese,zho-CHN,计算器close
+MAT/MA118-MovingTruck,2,2,Chinese,zho-CHN,PISA
+MAT/MA118-MovingTruck,2,3,Chinese,zho-CHN,"搬家货车
+储物车厢内部尺寸
+货车型号
+底板长度
+底板宽度
+高度
+A
+4 米
+2 米
+2 米
+打包箱尺寸
+打包箱型号
+长度
+宽度
+高度
+中号
+0.5 米
+0.5 米
+0.5 米"
+MAT/MA118-MovingTruck,2,4,Chinese,zho-CHN,"搬家货车  问题 1 / 2
+根据右侧的材料“搬家货车”， 点击一个选项来回答本题。
+马莎的家人决定租用货车 A。
+货车 A 中最多能装入多少中号打包箱？
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Chinese,zho-CHN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Chinese,zho-CHN,计算器close
+MAT/MA118-MovingTruck,3,2,Chinese,zho-CHN,PISA
+MAT/MA118-MovingTruck,3,3,Chinese,zho-CHN,"搬家货车
+储物车厢内部尺寸
+货车型号
+底板长度
+底板宽度
+高度
+A
+4 米
+2 米
+2 米
+打包箱尺寸
+打包箱型号
+长度
+宽度
+高度
+中号
+0.5 米
+0.5 米
+0.5 米
+大号
+0.5 米
+0.5 米
+0.75 米"
+MAT/MA118-MovingTruck,3,4,Chinese,zho-CHN,"搬家货车  问题 2 / 2
+根据右侧的材料“搬家货车”， 点击一个选项来回答本题。
+出租货车的公司确认，货车 A 只能使用中号打包箱，才可以完全利用置物车厢的整个空间。
+马莎认为中号打包箱所占用的空间是大号打包箱的 2/3，因此她得出结论，装满卡车 A 所需的大号打包箱数量是中号打包箱的 2/3。
+关于马莎的结论，以下哪一项是正确的？
+她的说法正确，因为中号打包箱的高度是大号打包箱高度的 2/3。
+她的说法正确，因为 3 个中号打包箱总能装在与 2 个大号打包箱相同的空间内。
+她的说法不正确，因为货车 A 的內部置物尺寸都不是 0.75（一个大号打包箱的高度）的倍数。
+她的说法不正确，因为大号打包箱的高度是中号打包箱高度的 1.5 倍。"
+MAT/MA118-MovingTruck,3,5,Chinese,zho-CHN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Croatian,hrv-HRV,Kalkulatorclose
+MAT/MA118-MovingTruck,1,2,Croatian,hrv-HRV,PISA
+MAT/MA118-MovingTruck,1,3,Croatian,hrv-HRV,"Kamion za selidbu  Uvod
+Pročitaj uvod, a zatim klikni na strelicu SLJEDEĆE.
+KAMION ZA SELIDBU
+Mara i njezina obitelj se sele.
+Kamioni za selidbu mogu se unajmiti u dvije veličine. Dimenzije unutarnjeg prtljažnog prostora kamiona prikazane su u donjoj tablici. Svi zidovi i pod prtljažnog prostora kamiona su pravokutnici.
+Veličina kamiona
+Duljina poda
+Širina poda
+Visina
+A
+4 metra
+2 metra
+2 metra
+B
+6.6 metara
+2.3 metra
+2.3 metra
+Na raspolaganju imaju kutije u tri različite veličine. Dimenzije kutija prikazane su u donjoj tablici.
+Veličina kutije
+Duljina
+Širina
+Visina
+Mala
+0.4 metra
+0.3 metra
+0.3 metra
+Srednja
+0.5 metara
+0.5 metara
+0.5 metara
+Velika
+0.5 metara
+0.5 metara
+0.75 metara"
+MAT/MA118-MovingTruck,1,4,Croatian,hrv-HRV,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,5,Croatian,hrv-HRV,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Croatian,hrv-HRV,Kalkulatorclose
+MAT/MA118-MovingTruck,2,2,Croatian,hrv-HRV,PISA
+MAT/MA118-MovingTruck,2,3,Croatian,hrv-HRV,"Kamion za selidbu  Pitanje 1 / 2
+Prouči ""Kamion za selidbu"" na desnoj strani. Odgovori na pitanje klikom na jedan od ponuđenih odgovora.
+Marina obitelj odlučila je unajmiti kamion A.
+Koliko najviše srednjih kutija može stati u kamion A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,4,Croatian,hrv-HRV,"KAMION ZA SELIDBU
+Unutarnje dimenzije prtljažnog prostora
+Veličina kamiona
+Duljina poda
+Širina poda
+Visina
+A
+4 metra
+2 metra
+2 metra
+Dimenzije kutija
+Veličina kutije
+Duljina
+Širina
+Visina
+Srednja
+0.5 metara
+0.5 metara
+0.5 metara"
+MAT/MA118-MovingTruck,2,5,Croatian,hrv-HRV,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Croatian,hrv-HRV,Kalkulatorclose
+MAT/MA118-MovingTruck,3,2,Croatian,hrv-HRV,PISA
+MAT/MA118-MovingTruck,3,3,Croatian,hrv-HRV,"Kamion za selidbu  Pitanje 2 / 2
+Prouči ""Kamion za selidbu"" na desnoj strani. Odgovori na pitanje klikom na jedan od ponuđenih odgovora.
+Tvrtka za najam kamiona potvrdila je da se kamion A može napuniti jedino srednjim kutijama ako se želi iskoristiti sav prtljažni prostor.
+Mara tvrdi da srednja kutija zauzima 2/3 prostora velike kutije te zaključuje da je broj velikih kutija potrebnih da se napuni kamion A jednak 2/3 broja srednjih kutija.
+Koja je od sljedećih tvrdnji o Marinom zaključku točna?
+U pravu je, jer je visina srednje kutije jednaka 2/3 visine velike kutije.
+U pravu je, jer se tri srednje kutije uvijek mogu ugurati u jednak prostor kao i 2 velike kutije.
+U krivu je, jer nijedna od dimenzija unutarnjeg prtljažnog prostora kamiona A nije višekratnik 0.75, koliko iznosi visina velike kutije.
+U krivu je, jer visina velike kutije iznosi 1.5 visine srednje kutije."
+MAT/MA118-MovingTruck,3,4,Croatian,hrv-HRV,"KAMION ZA SELIDBU
+Unutarnje dimenzije prtljažnog prostora
+Veličina kamiona
+Duljina poda
+Širina poda
+Visina
+A
+4 metra
+2 metra
+2 metra
+Dimenzije kutija
+Veličina kutije
+Duljina
+Širina
+Visina
+Srednja
+0.5 metara
+0.5 metara
+0.5 metara
+Velika
+0.5 metara
+0.5 metara
+0.75 metara"
+MAT/MA118-MovingTruck,3,5,Croatian,hrv-HRV,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Czech,ces-CZE,Kalkulačkaclose
+MAT/MA118-MovingTruck,1,2,Czech,ces-CZE,PISA
+MAT/MA118-MovingTruck,1,3,Czech,ces-CZE,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Czech,ces-CZE,"Stěhovací vůz   Úvod
+Přečti si úvod. Pak klikni na šipku DALŠÍ.
+STĚHOVACÍ VŮZ
+Milena se s rodinou stěhuje.
+Mohou si vybrat stěhovací vůz ze dvou pronajímaných velikostí. V tabulce jsou uvedeny rozměry vnitřního nákladového prostoru stěhovacích vozů. Všechny stěny a podlaha nákladového prostoru u stěhovacího vozu mají tvar obdélníku.
+Velikost vozu
+Délka podlahy
+Šířka podlahy
+Výška
+A
+4 metry
+2 metry
+2 metry
+B
+6,6 metru
+2,3 metru
+2,3 metru
+K dispozici jsou tři různé velikosti krabic. Rozměry těchto krabic jsou uvedeny v tabulce.
+Velikost krabice
+Délka
+Šířka
+Výška
+Malá
+0,4 metru
+0,3 metru
+0,3 metru
+Střední
+0,5 metru
+0,5 metru
+0,5 metru
+Velká
+0,5 metru
+0,5 metru
+0,75 metru"
+MAT/MA118-MovingTruck,1,5,Czech,ces-CZE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Czech,ces-CZE,Kalkulačkaclose
+MAT/MA118-MovingTruck,2,2,Czech,ces-CZE,PISA
+MAT/MA118-MovingTruck,2,3,Czech,ces-CZE,"STĚHOVACÍ VŮZ
+Rozměry vnitřního nákladového prostoru
+Velikost vozu
+Délka podlahy
+Šířka podlahy
+Výška
+A
+4 metry
+2 metry
+2 metry
+Rozměry krabice
+Velikost krabice
+Délka
+Šířka
+Výška
+Střední
+0,5 metru
+0,5 metru
+0,5 metru"
+MAT/MA118-MovingTruck,2,4,Czech,ces-CZE,"Stěhovací vůz   Otázka 1 / 2
+Prostuduj si úlohu „Stěhovací vůz“ na pravé straně. Odpověz na otázku kliknutím na jednu z možností.
+Milenina rodina se rozhodne pronajmout vůz A.
+Jaký je největší počet středních krabic, které se vejdou do stěhovacího vozu A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Czech,ces-CZE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Czech,ces-CZE,Kalkulačkaclose
+MAT/MA118-MovingTruck,3,2,Czech,ces-CZE,PISA
+MAT/MA118-MovingTruck,3,3,Czech,ces-CZE,"STĚHOVACÍ VŮZ
+Rozměry vnitřního nákladového prostoru
+Velikost vozu
+Délka podlahy
+Šířka podlahy
+Výška
+A
+4 metry
+2 metry
+2 metry
+Rozměry krabice
+Velikost krabice
+Délka
+Šířka
+Výška
+Střední
+0,5 metru
+0,5 metru
+0,5 metru
+Velká
+0,5 metru
+0,5 metru
+0,75 metru"
+MAT/MA118-MovingTruck,3,4,Czech,ces-CZE,"Stěhovací vůz   Otázka 2 / 2
+Prostuduj si úlohu „Stěhovací vůz“ na pravé straně. Odpověz na otázku kliknutím na jednu z možností.
+Společnost, která pronajímá stěhovací vozy, potvrdila, že celý úložný prostor vozu A lze beze zbytku zaplnit pouze středními krabicemi.
+Milena tvrdí, že střední krabice zabírá  objemu velké krabice. Vyvozuje z toho, že počet velkých krabic, které vyplní stěhovací vůz A, je roven  počtu středních krabic.
+Které z následujících tvrzení o Milenině závěru je správné?
+Má pravdu, protože výška střední krabice je  výšky velké krabice.
+Má pravdu, protože 3 střední krabice vždy zaplní stejný prostor jako 2 velké krabice.
+Nemá pravdu, protože žádný z rozměrů vnitřního nákladového prostoru vozu A není násobkem 0,75, což je výška velké krabice.
+Nemá pravdu, protože výška velké krabice je 1,5 násobek výšky střední krabice."
+MAT/MA118-MovingTruck,3,5,Czech,ces-CZE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+·
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Danish,dan-DNK,Lommeregnerclose
+MAT/MA118-MovingTruck,1,2,Danish,dan-DNK,PISA
+MAT/MA118-MovingTruck,1,3,Danish,dan-DNK,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Danish,dan-DNK,"Flyttevogn   Introduktion
+Læs introduktionen. Klik dernæst på NÆSTE-pilen
+FLYTTEVOGN
+Maras familie er i gang med at flytte.
+De kan vælge mellem to størrelser af flyttevogne, som de kan leje. De indvendige mål på flyttevognenes lastrum er vist i tabellen herunder. Alle vægge og gulvet i flyttevognenes lastrum er rektangler.
+Flyttevognens størrelse
+Gulvlængde
+Gulvbredde
+Højde
+A
+4 meter
+2 meter
+2 meter
+B
+6,6 meter
+2,3 meter
+2,3 meter
+Man kan få flyttekasser i tre forskellige størrelser. Målene på disse flyttekasser er vist i tabellen herunder.
+Flyttekassernes størrelse
+Længde
+Bredde
+Højde
+Lille
+0,4 meter
+0,3 meter
+0,3 meter
+Mellem
+0,5 meter
+0,5 meter
+0,5 meter
+Stor
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,1,5,Danish,dan-DNK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Danish,dan-DNK,Lommeregnerclose
+MAT/MA118-MovingTruck,2,2,Danish,dan-DNK,PISA
+MAT/MA118-MovingTruck,2,3,Danish,dan-DNK,"FLYTTEVOGN
+Indvendige mål på lastrummet
+Flyttevognens størrelse
+Gulvlængde
+Gulvbredde
+Højde
+A
+4 meter
+2 meter
+2 meter
+Flyttekassernes mål
+Flyttekassernes størrelse
+Længde
+Bredde
+Højde
+Mellem
+0,5 meter
+0,5 meter
+0,5 meter"
+MAT/MA118-MovingTruck,2,4,Danish,dan-DNK,"Flyttevogn   Spørgsmål 1 / 2
+Tag udgangspunkt i ""Flyttevogn"" til højre. Klik på en svarmulighed for at besvare spørgsmålet.
+Maras familie beslutter sig for at leje flyttevogn A.
+Hvad er det største antal mellemstore flyttekasser, der kan være i flyttevogn A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Danish,dan-DNK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Danish,dan-DNK,Lommeregnerclose
+MAT/MA118-MovingTruck,3,2,Danish,dan-DNK,PISA
+MAT/MA118-MovingTruck,3,3,Danish,dan-DNK,"FLYTTEVOGN
+Indvendige mål på lastrummet
+Flyttevognens størrelse
+Gulvlængde
+Gulvbredde
+Højde
+A
+4 meter
+2 meter
+2 meter
+Flyttekassernes mål
+Flyttekassernes størrelse
+Længde
+Bredde
+Højde
+Mellem
+0,5 meter
+0,5 meter
+0,5 meter
+Stor
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,3,4,Danish,dan-DNK,"Flyttevogn   Spørgsmål 2 / 2
+Tag udgangspunkt i ""Flyttevogn"" til højre. Klik på en svarmulighed for at besvare spørgsmålet.
+Firmaet, der udlejer flyttebilerne, bekræfter, at flyttevogn A kan fyldes, så hele lastarealet udnyttes, hvis man kun bruger mellemstore flyttekasser.
+Mara påstår, at en mellemstor flyttekasse optager 2/3 af den plads, som en stor flyttekasse optager, så hun konkluderer, at antallet af store flyttekasser, der vil fylde lastvogn A, er 2/3 af antallet af mellemstore flyttekasser.
+Hvilket af følgende udsagn om Maras konklusion er rigtigt?
+Hun har ret, fordi højden på en mellemstor flyttekasse er 2/3 af højden på en stor flyttekasse.
+Hun har ret, fordi 3 mellemstore flyttekasser altid kan passes ind i det samme rumareal som 2 store flyttekasser.
+Hun har ikke ret, fordi ingen af de indvendige mål for lastrummet af flyttevogn A er delelige med 0,75, som er højden på en stor flyttekasse.
+Hun har ikke ret, fordi højden på en stor flyttekasse er 1,5 gange større end højden på en mellemstor flyttekasse."
+MAT/MA118-MovingTruck,3,5,Danish,dan-DNK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Dutch,nld-NLD,Rekenmachineclose
+MAT/MA118-MovingTruck,1,2,Dutch,nld-NLD,PISA
+MAT/MA118-MovingTruck,1,3,Dutch,nld-NLD,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Dutch,nld-NLD,"Verhuiswagen    Inleiding
+Lees de inleiding. Klik daarna op de pijl VOLGENDE.
+VERHUISWAGEN
+Mara’s gezin gaat verhuizen.
+Ze kunnen kiezen uit twee groottes voor de te huren verhuiswagen. De afmetingen van de interne opslagruimtes van de vrachtwagens worden getoond in de onderstaande tabel. Alle wanden en de vloer van de opslagruimte van de vrachtwagens zijn rechthoeken.
+Grootte van vrachtwagen
+Lengte van vloer
+Breedte van vloer
+Hoogte
+A
+4 meter
+2 meter
+2 meter
+B
+6,6 meter
+2,3 meter
+2,3 meter
+Er zijn dozen in drie verschillende maten beschikbaar. De afmetingen van deze dozen worden getoond in de onderstaande tabel.
+Doosmaat
+Lengte
+Breedte
+Hoogte
+Klein
+0,4 meter
+0,3 meter
+0,3 meter
+Middelgroot
+0,5 meter
+0,5 meter
+0,5 meter
+Groot
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,1,5,Dutch,nld-NLD,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Dutch,nld-NLD,Rekenmachineclose
+MAT/MA118-MovingTruck,2,2,Dutch,nld-NLD,PISA
+MAT/MA118-MovingTruck,2,3,Dutch,nld-NLD,"VERHUISWAGEN
+Afmetingen van interne opslagruimtes
+Grootte van vrachtwagen
+Lengte van vloer
+Breedte van vloer
+Hoogte
+A
+4 meter
+2 meter
+2 meter
+Afmetingen doos
+Doosmaat
+Lengte
+Breedte
+Hoogte
+Middelgroot
+0,5 meter
+0,5 meter
+0,5 meter"
+MAT/MA118-MovingTruck,2,4,Dutch,nld-NLD,"Verhuiswagen    Vraag 1 / 2
+Raadpleeg 'Verhuiswagen' aan de rechterkant. Beantwoord de vraag door één van de opties aan te klikken.
+Mara’s gezin besluit om vrachtwagen A te huren.
+Wat is het grootste aantal middelgrote dozen dat in vrachtwagen A zou kunnen passen?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Dutch,nld-NLD,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Dutch,nld-NLD,Rekenmachineclose
+MAT/MA118-MovingTruck,3,2,Dutch,nld-NLD,PISA
+MAT/MA118-MovingTruck,3,3,Dutch,nld-NLD,"VERHUISWAGEN
+Afmetingen van interne opslagruimtes
+Grootte van vrachtwagen
+Lengte van vloer
+Breedte van vloer
+Hoogte
+A
+4 meter
+2 meter
+2 meter
+Afmetingen doos
+Doosmaat
+Lengte
+Breedte
+Hoogte
+Middelgroot
+0,5 meter
+0,5 meter
+0,5 meter
+Groot
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,3,4,Dutch,nld-NLD,"Verhuiswagen    Vraag 2 / 2
+Raadpleeg 'Verhuiswagen' aan de rechterkant. Beantwoord de vraag door één van de opties aan te klikken.
+Het bedrijf dat de vrachtwagens verhuurt, bevestigde dat vrachtwagen A met alleen middelgrote dozen kan worden gevuld zodat de gehele ruimte in het opslagruimte wordt gebruikt.
+Mara beweert dat een middelgrote doos 2/3 van de ruimte van een grote doos inneemt, dus concludeert ze dat het aantal grote dozen om vrachtwagen A te vullen 2/3 van het aantal middelgrote dozen is.
+Welke van de volgende beweringen over Mara’s conclusie is juist?
+Ze heeft gelijk, omdat de hoogte van een middelgrote doos 2/3 van de hoogte van een grote doos is.
+Ze heeft gelijk, omdat 3 middelgrote dozen altijd in dezelfde ruimte kunnen worden gepast als 2 grote dozen.
+Ze heeft geen gelijk, omdat geen van de interne opslagafmetingen van vrachtwagen A een veelvoud is van 0,75, wat de hoogte van een grote doos is.
+Ze heeft geen gelijk, omdat de hoogte van een grote doos 1,5 keer de hoogte van een middelgrote doos is."
+MAT/MA118-MovingTruck,3,5,Dutch,nld-NLD,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,English,eng-CAN,Calculatorclose
+MAT/MA118-MovingTruck,1,2,English,eng-CAN,PISA
+MAT/MA118-MovingTruck,1,3,English,eng-CAN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,4,English,eng-CAN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,5,English,eng-CAN,"Moving Truck   Introduction
+Read the introduction. Then click on the NEXT arrow.
+MOVING TRUCK
+Mara’s family is moving.
+They can choose from two sizes of moving trucks to rent. The interior storage compartment dimensions of the trucks are shown in the table below. All walls and the floor of the storage compartment of the trucks are rectangles.
+Truck Size
+Length of Floor
+Width of Floor
+Height
+A
+4 metres
+2 metres
+2 metres
+B
+6.6 metres
+2.3 metres
+2.3 metres
+There are three different sizes of boxes available. The dimensions of these boxes are shown in the table below.
+Box Size
+Length
+Width
+Height
+Small
+0.4 metre
+0.3 metre
+0.3 metre
+Medium
+0.5 metre
+0.5 metre
+0.5 metre
+Large
+0.5 metre
+0.5 metre
+0.75 metre"
+MAT/MA118-MovingTruck,2,1,English,eng-CAN,Calculatorclose
+MAT/MA118-MovingTruck,2,2,English,eng-CAN,PISA
+MAT/MA118-MovingTruck,2,3,English,eng-CAN,"MOVING TRUCK
+Interior Storage Compartment Dimensions
+Truck Size
+Length of Floor
+Width of Floor
+Height
+A
+4 metres
+2 metres
+2 metres
+Box Dimensions
+Box Size
+Length
+Width
+Height
+Medium
+0.5 metre
+0.5 metre
+0.5 metre"
+MAT/MA118-MovingTruck,2,4,English,eng-CAN,"Moving Truck   Question 1 / 2
+Refer to “Moving Truck” on the right. Click on a choice to answer the question.
+Mara’s family decides to rent truck A.
+What is the greatest number of medium boxes that could fit into truck A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,English,eng-CAN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,English,eng-CAN,Calculatorclose
+MAT/MA118-MovingTruck,3,2,English,eng-CAN,PISA
+MAT/MA118-MovingTruck,3,3,English,eng-CAN,"MOVING TRUCK
+Interior Storage Compartment Dimensions
+Truck Size
+Length of Floor
+Width of Floor
+Height
+A
+4 metres
+2 metres
+2 metres
+Box Dimensions
+Box Size
+Length
+Width
+Height
+Medium
+0.5 metre
+0.5 metre
+0.5 metre
+Large
+0.5 metre
+0.5 metre
+0.75 metre"
+MAT/MA118-MovingTruck,3,4,English,eng-CAN,"Moving Truck   Question 2 / 2
+Refer to “Moving Truck” on the right. Click on a choice to answer the question.
+The company which rents the trucks confirmed that truck A can be filled using only medium boxes so that the entire space in the storage compartment is used.
+Mara claims that a medium box takes up 2/3 of the space of a large box, so she concludes that the number of large boxes that will fill truck A is 2/3 the number of medium boxes.
+Which one of the following statements about Mara’s conclusion is true?
+She is correct, because the height of a medium box is 2/3 the height of a large box.
+She is correct, because 3 medium boxes can always be fit into the same space as 2 large boxes.
+She is not correct, because none of the interior storage dimensions of truck A are multiples of 0.75, which is the height of a large box.
+She is not correct, because the height of a large box is 1.5 times the height of a medium box."
+MAT/MA118-MovingTruck,3,5,English,eng-CAN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Estonian,est-EST,Kalkulaatorclose
+MAT/MA118-MovingTruck,1,2,Estonian,est-EST,PISA
+MAT/MA118-MovingTruck,1,3,Estonian,est-EST,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Estonian,est-EST,"Kolimisauto  Sissejuhatus
+Loe läbi sissejuhatus. Seejärel klõpsa noolt EDASI.
+KOLIMISAUTO
+Maire pere hakkab kolima.
+Perel on võimalik valida rentimiseks kahes eri suuruses kolimisauto vahel.
+Autode veoseruumi sisemõõtmed on näidatud järgmises tabelis. Kõik veoseruumi seinad ja põrand on ristkülikukujulised.
+Auto suurus
+Põranda pikkus
+Põranda laius
+Kõrgus
+A
+4 meetrit
+2 meetrit
+2 meetrit
+B
+6,6 meetrit
+2,3 meetrit
+2,3 meetrit
+Kaste on võimalik saada kolmes eri suuruses. Kastide mõõtmed on näidatud järgmises tabelis.
+Kasti suurus
+Pikkus
+Laius
+Kõrgus
+Väike
+0,4 meetrit
+0,3 meetrit
+0,3 meetrit
+Keskmine
+0,5 meetrit
+0,5 meetrit
+0,5 meetrit
+Suur
+0,5 meetrit
+0,5 meetrit
+0,75 meetrit"
+MAT/MA118-MovingTruck,1,5,Estonian,est-EST,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Estonian,est-EST,Kalkulaatorclose
+MAT/MA118-MovingTruck,2,2,Estonian,est-EST,PISA
+MAT/MA118-MovingTruck,2,3,Estonian,est-EST,"KOLIMISAUTO
+Veoseruumi sisemõõtmed
+Auto suurus
+Põranda pikkus
+Põranda laius
+Kõrgus
+A
+4 meetrit
+2 meetrit
+2 meetrit
+Kasti mõõtmed
+Kasti suurus
+Pikkus
+Laius
+Kõrgus
+Keskmine
+0,5 meetrit
+0,5 meetrit
+0,5 meetrit"
+MAT/MA118-MovingTruck,2,4,Estonian,est-EST,"Kolimisauto  Küsimus 1 / 2
+Toetu materjalile „Kolimisauto” paremal. Küsimusele vastamiseks klõpsa ühte vastusevarianti.
+Maire pere otsustab rentida auto A.
+Kui palju keskmise suurusega kaste mahub autosse A maksimaalselt?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Estonian,est-EST,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Estonian,est-EST,Kalkulaatorclose
+MAT/MA118-MovingTruck,3,2,Estonian,est-EST,PISA
+MAT/MA118-MovingTruck,3,3,Estonian,est-EST,"KOLIMISAUTO
+Veoseruumi sisemõõtmed
+Auto suurus
+Põranda pikkus
+Põranda laius
+Kõrgus
+A
+4 meetrit
+2 meetrit
+2 meetrit
+Kasti mõõtmed
+Kasti suurus
+Pikkus
+Laius
+Kõrgus
+Keskmine
+0,5 meetrit
+0,5 meetrit
+0,5 meetrit
+Suur
+0,5 meetrit
+0,5 meetrit
+0,75 meetrit"
+MAT/MA118-MovingTruck,3,4,Estonian,est-EST,"Kolimisauto  Küsimus 2 / 2
+Toetu materjalile „Kolimisauto” paremal. Küsimusele vastamiseks klõpsa ühte vastusevarianti.
+Kolimisautosid pakkuv ettevõte kinnitas, et auto A saab täielikult täita keskmise suurusega kastidega nii, et kogu veoseruumi maht kasutatakse ära.
+Maire väidab, et keskmise suurusega kast võtab 2/3 sellest ruumist, mida võtab suur kast, ning järeldab, et suurte kastide arv, mis täidavad ära auto A, on 2/3 keskmise suurusega kastide arvust.
+Milline järgmistest väidetest Maire järelduse kohta on tõene?
+Tal on õigus, sest keskmise suurusega kasti kõrgus on 2/3 suure kasti kõrgusest.
+Tal on õigus, sest 3 keskmise suurusega kasti mahuvad ära samasse ruumi nagu 2 suurt kasti.
+Tal ei ole õigus, sest ükski auto A veoseruumi sisemõõtmetest ei ole 0,75 kordne ehk suure kasti kõrguse kordne.
+Tal ei ole õigus, sest suure kasti kõrgus on 1,5 korda suurem kui keskmise suurusega kasti kõrgus."
+MAT/MA118-MovingTruck,3,5,Estonian,est-EST,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Finnish,fin-FIN,Laskinclose
+MAT/MA118-MovingTruck,1,2,Finnish,fin-FIN,PISA
+MAT/MA118-MovingTruck,1,3,Finnish,fin-FIN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,4,Finnish,fin-FIN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,5,Finnish,fin-FIN,"Muuttoauto   Johdanto
+Lue johdanto ja napsauta sitten SEURAAVA-nuolta.
+MUUTTOAUTO
+Marjan perhe on muuttamassa.
+Vuokrattavana on kahdenkokoisia muuttoautoja. Alla olevassa taulukossa näkyvät näiden muuttoautojen sisätavaratilojen mitat. Muuttoautojen tavaratilojen seinät ja lattia ovat kaikki suorakulmion muotoisia.
+Muuttoauton koko
+Lattian pituus
+Lattian leveys
+Korkeus
+A
+4 metriä
+2 metriä
+2 metriä
+B
+6,6 metriä
+2,3 metriä
+2,3 metriä
+Laatikoita on saatavilla kolmea eri kokoa.  Alla olevassa taulukossa on esitetty näiden laatikoiden mitat.
+Laatikon koko
+Pituus
+Leveys
+Korkeus
+Pieni
+0,4 metriä
+0,3 metriä
+0,3 metriä
+Keskikokoinen
+0,5 metriä
+0,5 metriä
+0,5 metriä
+Suuri
+0,5 metriä
+0,5 metriä
+0,75 metriä"
+MAT/MA118-MovingTruck,2,1,Finnish,fin-FIN,Laskinclose
+MAT/MA118-MovingTruck,2,2,Finnish,fin-FIN,PISA
+MAT/MA118-MovingTruck,2,3,Finnish,fin-FIN,"MUUTTOAUTO
+Sisätavaratilan mitat
+Muuttoauton koko
+Lattian pituus
+Lattian leveys
+Korkeus
+A
+4 metriä
+2 metriä
+2 metriä
+Laatikon mitat
+Laatikon koko
+Pituus
+Leveys
+Korkeus
+Keskikokoinen
+0,5 metriä
+0,5 metriä
+0,5 metriä"
+MAT/MA118-MovingTruck,2,4,Finnish,fin-FIN,"Muuttoauto   Tehtävä 1 / 2
+Tarkastele oikealla olevaa ""Muuttoauto""-aineistoa. Vastaa napsauttamalla yhtä vaihtoehtoa.
+Marjan perhe päättää vuokrata muuttoauton A.
+Kuinka monta keskikokoista laatikkoa muuttoautoon A korkeintaan mahtuu?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Finnish,fin-FIN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Finnish,fin-FIN,Laskinclose
+MAT/MA118-MovingTruck,3,2,Finnish,fin-FIN,PISA
+MAT/MA118-MovingTruck,3,3,Finnish,fin-FIN,"MUUTTOAUTO
+Sisätavaratilan mitat
+Muuttoauton koko
+Lattian pituus
+Lattian leveys
+Korkeus
+A
+4 metriä
+2 metriä
+2 metriä
+Laatikon mitat
+Laatikon koko
+Pituus
+Leveys
+Korkeus
+Keskikokoinen
+0,5 metriä
+0,5 metriä
+0,5 metriä
+Suuri
+0,5 metriä
+0,5 metriä
+0,75 metriä"
+MAT/MA118-MovingTruck,3,4,Finnish,fin-FIN,"Muuttoauto   Tehtävä 2 / 2
+Tarkastele oikealla olevaa ""Muuttoauto""-aineistoa. Vastaa napsauttamalla yhtä vaihtoehtoa.
+Muuttoautoja vuokraava yritys vahvisti, että käyttämällä ainoastaan keskikokoisia laatikoita muuttoauto A saadaan täytettyä niin, että koko tavaratila on käytössä.
+Marja väittää, että keskikokoinen laatikko vie 2/3 suuren laatikon tilasta, ja päättelee siksi, että muuttoauton A täyttämiseen tarvittava suurten laatikoiden lukumäärä on 2/3 keskikokoisten laatikoiden lukumäärästä.
+Mikä seuraavista Marjan päättelyä koskevista väittämistä on oikein?
+Hän on oikeassa, koska keskikokoisen laatikon korkeus on 2/3 suuren laatikon korkeudesta.
+Hän on oikeassa, koska 3 keskikokoista laatikkoa mahtuu aina samaan tilaan kuin 2 suurta laatikkoa.
+Hän ei ole oikeassa, koska mikään muuttoauton A sisätavaratilan mitta ei ole jaollinen 0,75:llä, mikä on suuren laatikon korkeus.
+Hän ei ole oikeassa, koska suuren laatikon korkeus on 1,5 kertaa keskikokoisen laatikon korkeus."
+MAT/MA118-MovingTruck,3,5,Finnish,fin-FIN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,French,fra-FRA,Calculatriceclose
+MAT/MA118-MovingTruck,1,2,French,fra-FRA,PISA
+MAT/MA118-MovingTruck,1,3,French,fra-FRA,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,French,fra-FRA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,5,French,fra-FRA,"Camion de déménagement   Introduction
+Lisez l’introduction, puis cliquez sur la flèche « SUIVANT ».
+CAMION DE DÉMÉNAGEMENT
+Malika et sa famille déménagent.
+Ils vont louer un camion de déménagement et ont le choix entre deux tailles différentes de camion. Les dimensions intérieures de l'espace de stockage de chacun des camions sont indiquées dans le tableau ci-dessous. Les parois et le plancher du compartiment de stockage des camions sont tous des rectangles.
+Taille du camion
+Longueur du plancher
+Largeur du plancher
+Hauteur
+A
+4 mètres
+2 mètres
+2 mètres
+B
+6,6 mètres
+2,3 mètres
+2,3 mètres
+Ils ont à leur disposition des cartons de trois tailles différentes. Les dimensions de ces cartons sont indiquées dans le tableau ci-dessous.
+Taille du carton
+Longueur
+Largeur
+Hauteur
+Petit
+0,4 mètre
+0,3 mètre
+0,3 mètre
+Moyen
+0,5 mètre
+0,5 mètre
+0,5 mètre
+Grand
+0,5 mètre
+0,5 mètre
+0,75 mètre"
+MAT/MA118-MovingTruck,2,1,French,fra-FRA,Calculatriceclose
+MAT/MA118-MovingTruck,2,2,French,fra-FRA,PISA
+MAT/MA118-MovingTruck,2,3,French,fra-FRA,"CAMION DE DÉMÉNAGEMENT
+Dimensions intérieures du compartiment de stockage
+Taille du camion
+Longueur du plancher
+Largeur du plancher
+Hauteur
+A
+4 mètres
+2 mètres
+2 mètres
+Dimensions des cartons
+Taille du carton
+Longueur
+Largeur
+Hauteur
+Moyen
+0,5 mètre
+0,5 mètre
+0,5 mètre"
+MAT/MA118-MovingTruck,2,4,French,fra-FRA,"Camion de déménagement   Question 1 / 2
+Utilisez les informations fournies sous « Camion de déménagement » à droite. Cliquez sur la réponse de votre choix.
+La famille de Malika décide de louer le camion A.
+Quel est le plus grand nombre de cartons de taille moyenne que l'on peut faire rentrer dans le camion A ?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,French,fra-FRA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,French,fra-FRA,Calculatriceclose
+MAT/MA118-MovingTruck,3,2,French,fra-FRA,PISA
+MAT/MA118-MovingTruck,3,3,French,fra-FRA,"CAMION DE DÉMÉNAGEMENT
+Dimensions intérieures du compartiment de stockage
+Taille du camion
+Longueur du plancher
+Largeur du plancher
+Hauteur
+A
+4 mètres
+2 mètres
+2 mètres
+Dimensions des cartons
+Taille du carton
+Longueur
+Largeur
+Hauteur
+Moyen
+0,5 mètre
+0,5 mètre
+0,5 mètre
+Grand
+0,5 mètre
+0,5 mètre
+0,75 mètre"
+MAT/MA118-MovingTruck,3,4,French,fra-FRA,"Camion de déménagement   Question 2 / 2
+Utilisez les informations fournies sous « Camion de déménagement » à droite. Cliquez sur la réponse de votre choix.
+L'entreprise de location des camions confirme que le camion A peut être rempli uniquement avec des cartons de taille moyenne afin que tout l'espace du compartiment de stockage soit utilisé.
+Malika affirme qu'un carton de taille moyenne occupe 2/3 de l'espace d'un grand carton, et conclut donc que le nombre de grands cartons nécessaires pour remplir le camion A est égal à 2/3 du nombre de cartons de taille moyenne.
+Parmi les affirmations suivantes à propos de la conclusion de Malika, laquelle est correcte ?
+Elle a raison, car la hauteur d'un carton de taille moyenne est égale à 2/3 de celle d'un grand carton.
+Elle a raison, car on pourra toujours faire rentrer 3 cartons de taille moyenne dans le même espace que 2 grands cartons.
+Elle a tort, car aucune des dimensions intérieures du compartiment de stockage du camion A n'est un multiple de 0,75, qui est la hauteur d'un grand carton.
+Elle a tort, car la hauteur d'un grand carton est égale à 1,5 fois celle d'un carton de taille moyenne."
+MAT/MA118-MovingTruck,3,5,French,fra-FRA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Galician,glg-ESP,Calculadoraclose
+MAT/MA118-MovingTruck,1,2,Galician,glg-ESP,PISA
+MAT/MA118-MovingTruck,1,3,Galician,glg-ESP,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Galician,glg-ESP,"Camión de mudanzas  Introdución
+Le a introdución e, deseguido, fai clic na frecha de ""AVANZAR"".
+CAMIÓN DE MUDANZAS
+A familia de Mara vaise mudar.
+Van alugar un camión de mudanzas e poden elixir entre dous tamaños diferentes. As dimensións interiores do compartimento de carga de cada un dos camións móstranse na seguinte táboa. As paredes e o piso do compartimento de carga dos camións son rectangulares.
+Tamaño do camión
+Lonxitude do piso
+Anchura do piso
+Altura
+A
+4 metros
+2 metros
+2 metros
+B
+6,6 metros
+2,3 metros
+2,3 metros
+Teñen á súa disposición caixas de tres tamaños diferentes. As dimensións destas caixas móstranse na seguinte táboa.
+Tamaño de caixa
+Lonxitude
+Anchura
+Altura
+Pequena
+0,4 metros
+0,3 metros
+0,3 metros
+Mediana
+0,5 metros
+0,5 metros
+0,5 metros
+Grande
+0,5 metros
+0,5 metros
+0,75 metros"
+MAT/MA118-MovingTruck,1,5,Galician,glg-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Galician,glg-ESP,Calculadoraclose
+MAT/MA118-MovingTruck,2,2,Galician,glg-ESP,PISA
+MAT/MA118-MovingTruck,2,3,Galician,glg-ESP,"CAMIÓN DE MUDANZAS
+Medidas do interior do compartimento de carga
+Tamaño do camión
+Lonxitude do piso
+Anchura do piso
+Altura
+A
+4 metros
+2 metros
+2 metros
+Dimensións das caixas
+Tamaño de caixa
+Lonxitude
+Anchura
+Altura
+Mediana
+0,5 metros
+0,5 metros
+0,5 metros"
+MAT/MA118-MovingTruck,2,4,Galician,glg-ESP,"Camión de mudanzas  Pregunta 1 / 2
+Consulta o artigo ""Camión de mudanzas"" da dereita. Fai clic nunha opción para responderes a pregunta.
+A familia de Mara decide alugar o camión A.
+Cal é o maior número de caixas medianas que caberían no camión A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Galician,glg-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Galician,glg-ESP,Calculadoraclose
+MAT/MA118-MovingTruck,3,2,Galician,glg-ESP,PISA
+MAT/MA118-MovingTruck,3,3,Galician,glg-ESP,"CAMIÓN DE MUDANZAS
+Medidas do interior do compartimento de carga
+Tamaño do camión
+Lonxitude do piso
+Anchura do piso
+Altura
+A
+4 metros
+2 metros
+2 metros
+Dimensións das caixas
+Tamaño de caixa
+Lonxitude
+Anchura
+Altura
+Mediana
+0,5 metros
+0,5 metros
+0,5 metros
+Grande
+0,5 metros
+0,5 metros
+0,75 metros"
+MAT/MA118-MovingTruck,3,4,Galician,glg-ESP,"Camión de mudanzas  Pregunta 2 / 2
+Consulta o artigo ""Camión de mudanzas"" da dereita. Fai clic nunha opción para responderes a pregunta.
+A compañía que aluga os camións confirmou que o camión A pódese encher utilizando soamente caixas medianas para aproveitar todo o espazo do compartimento de carga.
+Mara afirma que unha caixa mediana ocupa 2/3 do espazo que ocupa unha caixa grande, polo que conclúe que o número de caixas grandes que enchería o camión A é 2/3 do número de caixas medianas.
+Cal das seguintes afirmacións sobre a conclusión de Mara é verdadeira?
+Ten razón, porque a altura dunha caixa mediana é 2/3 da altura dunha caixa grande.
+Ten razón, porque 3 caixas medianas sempre poden meterse no mesmo espazo que 2 caixas grandes.
+Non ten razón, porque ningunha das dimensións do interior do compartimento de carga do camión A son múltiplos de 0,75, que é a altura dunha caixa grande.
+Non ten razón, porque a altura dunha caixa grande é 1,5 veces a altura dunha caixa mediana."
+MAT/MA118-MovingTruck,3,5,Galician,glg-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Georgian,geo-GEO,კალკულატორიclose
+MAT/MA118-MovingTruck,1,2,Georgian,geo-GEO,PISA 2022
+MAT/MA118-MovingTruck,1,3,Georgian,geo-GEO,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Georgian,geo-GEO,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,5,Georgian,geo-GEO,"სატვირთო ავტომობილი   შესავალი
+წაიკითხეთ ინსტრუქცია. მერე დააჭირეთ ღილაკს „შემდეგი“.
+სატვირთო ავტომობილი
+ნანის ოჯახი საცხოვრებლად სხვაგან გადადის.
+მათ უნდა აირჩიონ ორი სატვირთო სატვირთო ავტომობილიდან ერთ-ერთი. ქვემოთ მოცემულ ცხრილში წარმოდგენილია სატვირთო ავტომობილების საბარგულის მონაცემები. საბარგულის ყველა კედელი და იატაკი მართკუთხა ფორმისაა.
+სატვირთო მანქანის ზომა
+იატაკის სიგრძე
+იატაკის სიგანე
+სიმაღლე
+A
+4 მეტრი
+2 მეტრი
+2 მეტრი
+B
+6.6 მეტრი
+2.3 მეტრი
+2.3 მეტრი
+წარმოდგენილია სამი სხვადასხვა ზომის ყუთი. ქვემოთ მოცემულ ცხრილში წარმოდგენილია ამ ყუთების მონაცემები.
+ყუთის ზომა
+სიგრძე
+სიგანე
+სიმაღლე
+პატარა
+0.4 მეტრი
+0.3 მეტრი
+0.3 მეტრი
+საშუალო
+0.5 მეტრი
+0.5 მეტრი
+0.5 მეტრი
+დიდი
+0.5 მეტრი
+0.5 მეტრი
+0.75 მეტრი"
+MAT/MA118-MovingTruck,2,1,Georgian,geo-GEO,კალკულატორიclose
+MAT/MA118-MovingTruck,2,2,Georgian,geo-GEO,PISA 2022
+MAT/MA118-MovingTruck,2,3,Georgian,geo-GEO,"სატვირთო ავტომობილი
+საბარგულის მონაცემები
+სატვირთო მანქანის ზომა
+იატაკის სიგრძე
+იატაკის სიგანე
+სიმაღლე
+A
+4 მეტრი
+2 მეტრი
+2 მეტრი
+ყუთის მონაცემები
+ყუთის ზომა
+სიგრძე
+სიგანე
+სიმაღლე
+საშუალო
+0.5 მეტრი
+0.5 მეტრი
+0.5 მეტრი"
+MAT/MA118-MovingTruck,2,4,Georgian,geo-GEO,"სატვირთო ავტომობილი   შეკითხვა 1 / 2
+გამოიყენეთ მარჯვნივ გამოტანილი დავალება „სატვირთო ავტომობილი“. პასუხისათვის დააჭირეთ არჩევანს.
+ნანის ოჯახმა გადაწყვიტა სატვირთო A-ს დაქირავება.
+მაქსიმუმ რა რაოდენობის საშუალო ყუთებს დაიტევს სატვირთო A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Georgian,geo-GEO,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Georgian,geo-GEO,კალკულატორიclose
+MAT/MA118-MovingTruck,3,2,Georgian,geo-GEO,PISA 2022
+MAT/MA118-MovingTruck,3,3,Georgian,geo-GEO,"სატვირთო ავტომობილი
+საბარგულის მონაცემები
+სატვირთო მანქანის ზომა
+იატაკის სიგრძე
+იატაკის სიგანე
+სიმაღლე
+A
+4 მეტრი
+2 მეტრი
+2 მეტრი
+ყუთის მონაცემები
+ყუთის ზომა
+სიგრძე
+სიგანე
+სიმაღლე
+საშუალო
+0.5 მეტრი
+0.5 მეტრი
+0.5 მეტრი
+დიდი
+0.5 მეტრი
+0.5 მეტრი
+0.75 მეტრი"
+MAT/MA118-MovingTruck,3,4,Georgian,geo-GEO,"სატვირთო ავტომობილი   შეკითხვა 2 / 2
+გამოიყენეთ მარჯვნივ გამოტანილი დავალება „სატვირთო ავტომობილი“. პასუხისათვის დააჭირეთ არჩევანს.
+გამქირავებელმა კომპანიამ დაადასტურა, რომ A სატვირთოში შესაძლებელია მხოლოდ საშუალო ზომის ყუთების მოთავსება ისე, რომ საბარგულის შიდა სივრცე მთლიანად შეივსოს.
+ნანი ფიქრობს, რომ საშუალო ზომის ყუთი დიდი ზომის ყუთის 2/3-ს იკავებს და ასკვნის, რომ დიდი ზომის ყუთების რაოდენობა, რითაც შეიძლება A სატვირთოს შევსება, არის საშუალო ზომის ყუთების რაოდენობის 2/3.
+ქვემოთ ჩამოთვლილი დებულებებიდან ნანის დასკვნის შესახებ რომელია ჭეშმარიტი?
+იგი მართალია, რადგან საშუალო ზომის ყუთის სიმაღლე არის დიდი ყუთის სიმაღლის 2/3.
+იგი მართალია, რადგან საშუალო ზომის 3 ყუთი ყოველთვის იკავებს დიდი ზომის 2 ყუთისათვის საჭირო სივრცეს.
+იგი არ არის მართალი, რადგან სატვირთო A-ს საბარგულის არცერთი მონაცემი არ არის 0.75-ის - რაც დიდი ყუთის სიმაღლეს წარმოადგენს - ნამრავლი.
+არ არის მართალი, რადგან დიდი ყუთის სიმაღლე 1.5-ჯერ მაღალია საშუალო ზომის ყუთის სიმაღლეზე."
+MAT/MA118-MovingTruck,3,5,Georgian,geo-GEO,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,German,deu-DEU,Taschenrechnerclose
+MAT/MA118-MovingTruck,1,2,German,deu-DEU,PISA
+MAT/MA118-MovingTruck,1,3,German,deu-DEU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,4,German,deu-DEU,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,5,German,deu-DEU,"Möbeltransporter   Einleitung
+Lies die Einleitung. Klicke dann auf den WEITER-Pfeil.
+MÖBELTRANSPORTER
+Maras Familie zieht um.
+Sie wollen einen Möbeltransporter mieten und haben die Wahl zwischen zwei verschiedenen Größen. Die Innenmaße des Laderaums der Transporter sind in der Tabelle unten angegeben. Alle Wände und der Boden des Laderaums der Transporter sind rechteckig.
+Größe des Transporters
+Länge des Bodens
+Breite des Bodens
+Höhe
+A
+4 Meter
+2 Meter
+2 Meter
+B
+6,6 Meter
+2,3 Meter
+2,3 Meter
+Es sind drei verschiedene Größen von Umzugskartons erhältlich. Die Maße dieser Umzugskartons sind in der Tabelle unten angegeben.
+Größe des Umzugskartons
+Länge
+Breite
+Höhe
+Klein
+0,4 Meter
+0,3 Meter
+0,3 Meter
+Mittel
+0,5 Meter
+0,5 Meter
+0,5 Meter
+Groß
+0,5 Meter
+0,5 Meter
+0,75 Meter"
+MAT/MA118-MovingTruck,2,1,German,deu-DEU,Taschenrechnerclose
+MAT/MA118-MovingTruck,2,2,German,deu-DEU,PISA
+MAT/MA118-MovingTruck,2,3,German,deu-DEU,"MÖBELTRANSPORTER
+Innenmaße des Laderaums
+Größe des Transporters
+Länge des Bodens
+Breite des Bodens
+Höhe
+A
+4 Meter
+2 Meter
+2 Meter
+Maße des Umzugskartons
+Größe des Umzugskartons
+Länge
+Breite
+Höhe
+Mittel
+0,5 Meter
+0,5 Meter
+0,5 Meter"
+MAT/MA118-MovingTruck,2,4,German,deu-DEU,"Möbeltransporter   Frage 1 / 2
+Beziehe dich auf „Möbeltransporter“ auf der rechten Seite. Klicke eine Antwort an, um die Frage zu beantworten.
+Maras Familie beschließt, Möbeltransporter A zu mieten.
+Wie viele mittlere Umzugskartons passen maximal in Möbeltransporter A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,German,deu-DEU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,German,deu-DEU,Taschenrechnerclose
+MAT/MA118-MovingTruck,3,2,German,deu-DEU,PISA
+MAT/MA118-MovingTruck,3,3,German,deu-DEU,"MÖBELTRANSPORTER
+Innenmaße des Laderaums
+Größe des Transporters
+Länge des Bodens
+Breite des Bodens
+Höhe
+A
+4 Meter
+2 Meter
+2 Meter
+Maße des Umzugskartons
+Größe des Umzugskartons
+Länge
+Breite
+Höhe
+Mittel
+0,5 Meter
+0,5 Meter
+0,5 Meter
+Groß
+0,5 Meter
+0,5 Meter
+0,75 Meter"
+MAT/MA118-MovingTruck,3,4,German,deu-DEU,"Möbeltransporter   Frage 2 / 2
+Beziehe dich auf „Möbeltransporter“ auf der rechten Seite. Klicke eine Antwort an, um die Frage zu beantworten.
+Die Firma, die die Möbeltransporter vermietet, hat zugesichert, dass der Platz im Laderaum des Möbeltransporters A komplett genutzt werden kann, wenn nur mittlere Umzugskartons verwendet werden.
+Mara behauptet, dass ein mittlerer Umzugskarton 2/3 des Platzes eines großen Umzugskartons einnimmt. Deshalb kommt sie zum Schluss, dass die Anzahl großer Umzugskartons, die in den Möbeltransporter passen, 2/3 der Anzahl mittlerer Umzugskartons entspricht.
+Welche der folgenden Aussagen über Maras Schlussfolgerung ist richtig?
+Sie hat recht, weil die Höhe eines mittleren Kartons 2/3 der Höhe eines großen Kartons beträgt.
+Sie hat recht, weil 3 mittlere Kartons immer genauso viel Platz benötigen wie 2 große Kartons.
+Sie hat nicht recht, weil keines der Innenmaße des Laderaums von Möbeltransporter A ein Vielfaches von 0,75 ist, was der Höhe eines großen Kartons entspricht.
+Sie hat nicht recht, weil die Höhe eines großen Kartons 1,5 mal der Höhe eines mittleren Kartons entspricht."
+MAT/MA118-MovingTruck,3,5,German,deu-DEU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Greek,ell-GRC,Κομπιουτεράκιclose
+MAT/MA118-MovingTruck,1,2,Greek,ell-GRC,PISA
+MAT/MA118-MovingTruck,1,3,Greek,ell-GRC,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Greek,ell-GRC,"Φορτηγό για μετακομίσεις   Εισαγωγή
+Να διαβάσεις την εισαγωγή. Μετά κάνε κλικ στο βελάκι ΕΠΟΜΕΝΟ.
+ΦΟΡΤΗΓΟ ΓΙΑ ΜΕΤΑΚΟΜΙΣΕΙΣ
+Η οικογένεια της Μαρίας μετακομίζει.
+Θα νοικιάσουν ένα φορτηγό για μετακομίσεις και μπορούν να επιλέξουν ανάμεσα σε δύο μεγέθη φορτηγών. Οι διαστάσεις του εσωτερικού αποθηκευτικού χώρου κάθε φορτηγού φαίνονται στον παρακάτω πίνακα. Όλα τα τοιχώματα και το δάπεδο του αποθηκευτικού χώρου των φορτηγών είναι ορθογώνια.
+Μέγεθος φορτηγού
+Μήκος δαπέδου
+Πλάτος δαπέδου
+Ύψος
+Α
+4 μέτρα
+2 μέτρα
+2 μέτρα
+B
+6,6 μέτρα
+2,3 μέτρα
+2,3 μέτρα
+Έχουν στη διάθεσή τους κιβώτια τριών διαφορετικών μεγεθών. Οι διαστάσεις αυτών των κιβωτίων φαίνονται στον παρακάτω πίνακα.
+Μέγεθος κιβωτίου
+Μήκος
+Πλάτος
+Ύψος
+Μικρό
+0,4 μέτρα
+0,3 μέτρα
+0,3 μέτρα
+Μεσαίο
+0,5 μέτρα
+0,5 μέτρα
+0,5 μέτρα
+Μεγάλο
+0,5 μέτρα
+0,5 μέτρα
+0,75 μέτρα"
+MAT/MA118-MovingTruck,1,5,Greek,ell-GRC,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Greek,ell-GRC,Κομπιουτεράκιclose
+MAT/MA118-MovingTruck,2,2,Greek,ell-GRC,PISA
+MAT/MA118-MovingTruck,2,3,Greek,ell-GRC,"ΦΟΡΤΗΓΟ ΓΙΑ ΜΕΤΑΚΟΜΙΣΕΙΣ
+Διαστάσεις του εσωτερικού αποθηκευτικού χώρου
+Μέγεθος φορτηγού
+Μήκος δαπέδου
+Πλάτος δαπέδου
+Ύψος
+Α
+4 μέτρα
+2 μέτρα
+2 μέτρα
+Διαστάσεις των κιβωτίων
+Μέγεθος κιβωτίου
+Μήκος
+Πλάτος
+Ύψος
+Μεσαίο
+0,5 μέτρα
+0,5 μέτρα
+0,5 μέτρα"
+MAT/MA118-MovingTruck,2,4,Greek,ell-GRC,"Φορτηγό για μετακομίσεις   Ερώτηση 1 / 2
+Να λάβεις υπόψη το «Φορτηγό για μετακομίσεις» στα δεξιά. Κάνε κλικ σε μια επιλογή, για να απαντήσεις στην ερώτηση.
+Η οικογένεια της Μαρίας αποφάσισε να νοικιάσει το φορτηγό Α.
+Ποιος είναι ο μεγαλύτερος αριθμός κιβωτίων μεσαίου μεγέθους που μπορούν να χωρέσουν στο φορτηγό Α;
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Greek,ell-GRC,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Greek,ell-GRC,Κομπιουτεράκιclose
+MAT/MA118-MovingTruck,3,2,Greek,ell-GRC,PISA
+MAT/MA118-MovingTruck,3,3,Greek,ell-GRC,"ΦΟΡΤΗΓΟ ΓΙΑ ΜΕΤΑΚΟΜΙΣΕΙΣ
+Διαστάσεις του εσωτερικού αποθηκευτικού χώρου
+Μέγεθος φορτηγού
+Μήκος δαπέδου
+Πλάτος δαπέδου
+Ύψος
+Α
+4 μέτρα
+2 μέτρα
+2 μέτρα
+Διαστάσεις των κιβωτίων
+Μέγεθος κιβωτίου
+Μήκος
+Πλάτος
+Ύψος
+Μεσαίο
+0,5 μέτρα
+0,5 μέτρα
+0,5 μέτρα
+Μεγάλο
+0,5 μέτρα
+0,5 μέτρα
+0,75 μέτρα"
+MAT/MA118-MovingTruck,3,4,Greek,ell-GRC,"Φορτηγό για μετακομίσεις   Ερώτηση 2 / 2
+Να λάβεις υπόψη το «Φορτηγό για μετακομίσεις» στα δεξιά. Κάνε κλικ σε μια επιλογή, για να απαντήσεις στην ερώτηση.
+Η εταιρεία ενοικίασης των φορτηγών υποστήριξε ότι, προκειμένου να χρησιμοποιηθεί όλος ο αποθηκευτικός χώρος, το φορτηγό Α πρέπει να γεμίσει αποκλειστικά με κιβώτια μεσαίου μεγέθους.
+Η Μαρία ισχυρίζεται ότι ένα κιβώτιο μεσαίου μεγέθους καταλαμβάνει τα 2/3 του χώρου ενός μεγάλου κιβωτίου και συμπεραίνει, λοιπόν, ότι ο αριθμός των μεγάλων κιβωτίων που χρειάζονται, για να γεμίσει το φορτηγό Α, ισούται με τα 2/3 του αριθμού των μεσαίων κιβωτίων.
+Ποια από τις παρακάτω προτάσεις σχετικά με το συμπέρασμα της Μαρίας είναι σωστή;
+Έχει δίκιο, γιατί το ύψος ενός κιβωτίου μεσαίου μεγέθους ισούται με τα 2/3 του ύψους ενός μεγάλου κιβωτίου.
+Έχει δίκιο, γιατί 3 κιβώτια μεσαίου μεγέθους χωράνε πάντα στον ίδιο χώρο που χωράνε 2 μεγάλα κιβώτια.
+Δεν έχει δίκιο, γιατί καμία από τις εσωτερικές διαστάσεις του αποθηκευτικού χώρου του φορτηγού Α δεν είναι πολλαπλάσιο του 0,75, το οποίο είναι το ύψος ενός μεγάλου κιβωτίου.
+Δεν έχει δίκιο, γιατί το ύψος ενός μεγάλου κιβωτίου είναι 1,5 φορά το ύψος ενός κιβωτίου μεσαίου μεγέθους."
+MAT/MA118-MovingTruck,3,5,Greek,ell-GRC,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Hebrew,heb-ISR,מחשבוןclose
+MAT/MA118-MovingTruck,1,2,Hebrew,heb-ISR,PISA 2022
+MAT/MA118-MovingTruck,1,3,Hebrew,heb-ISR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Hebrew,heb-ISR,"משאית הובלות  הקדמה
+קראו את ההקדמה, ולאחר מכן לחצו על החץ ""הבא"".
+משאית הובלות
+משפחתה של מאיה עוברת דירה.
+הם שוכרים שירותי הובלה ועליהם לבחור בין שני גדלים של משאיות. בטבלה שלפניכם מוצגות המידות הפנימיות של תא המטען בכל משאית. הרצפה וכל הקירות של תא המטען של המשאיות הם מלבניים.
+משאית
+אורך הרצפה
+רוחב הרצפה
+גובה
+א
+4 מטרים
+2 מטרים
+2 מטרים
+ב
+6.6 מטרים
+2.3 מטרים
+2.3 מטרים
+יש ארגזים בשלושה גדלים שונים. בטבלה שלפניכם מוצגות מידות הארגזים האלה.
+גודל הארגז
+אורך
+רוחב
+גובה
+קטן
+0.4 מטר
+0.3 מטר
+0.3 מטר
+בינוני
+0.5 מטר
+0.5 מטר
+0.5 מטר
+גדול
+0.5 מטר
+0.5 מטר
+0.75 מטר"
+MAT/MA118-MovingTruck,1,5,Hebrew,heb-ISR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Hebrew,heb-ISR,מחשבוןclose
+MAT/MA118-MovingTruck,2,2,Hebrew,heb-ISR,PISA 2022
+MAT/MA118-MovingTruck,2,3,Hebrew,heb-ISR,"משאית הובלות
+המידות הפנימיות של תא המטען
+משאית
+אורך הרצפה
+רוחב הרצפה
+גובה
+א
+4 מטרים
+2 מטרים
+2 מטרים
+מידות הארגז
+גודל הארגז
+אורך
+רוחב
+גובה
+בינוני
+0.5 מטר
+0.5 מטר
+0.5 מטר"
+MAT/MA118-MovingTruck,2,4,Hebrew,heb-ISR,"משאית הובלות  שאלה 1 מתוך 2
+היעזרו בקטע ""משאית הובלות"" שבצד שמאל. כדי לענות על השאלה, סמנו את תשובתכם.
+משפחתה של מאיה מחליטה לשכור את משאית א.
+מהו המספר הגדול ביותר של ארגזים בינוניים שיכולים להיכנס למשאית א?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Hebrew,heb-ISR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Hebrew,heb-ISR,מחשבוןclose
+MAT/MA118-MovingTruck,3,2,Hebrew,heb-ISR,PISA 2022
+MAT/MA118-MovingTruck,3,3,Hebrew,heb-ISR,"משאית הובלות
+המידות הפנימיות של תא המטען
+משאית
+אורך הרצפה
+רוחב הרצפה
+גובה
+א
+4 מטרים
+2 מטרים
+2 מטרים
+מידות הארגז
+גודל הארגז
+אורך
+רוחב
+גובה
+בינוני
+0.5 מטר
+0.5 מטר
+0.5 מטר
+גדול
+0.5 מטר
+0.5 מטר
+0.75 מטר"
+MAT/MA118-MovingTruck,3,4,Hebrew,heb-ISR,"משאית הובלות  שאלה 2 מתוך 2
+היעזרו בקטע ""משאית הובלות"" שבצד שמאל. כדי לענות על השאלה, סמנו את תשובתכם.
+חברת ההובלות אומרת שאם משתמשים רק בארגזים בינוניים, אפשר לנצל את כל החלל של תא המטען של משאית א.
+מאיה טוענת שארגז בינוני תופס 2/3 מהמקום שארגז גדול תופס, ומסיקה שמספר הארגזים הגדולים שימלאו את משאית א שווה ל-2/3 ממספר הארגזים הבינוניים שימלאו אותה.
+איזה היגד נכון לגבי המסקנה של מאיה?
+היא צודקת, כי הגובה של ארגז בינוני שווה ל-2/3 מהגובה של ארגז גדול.
+היא צודקת, כי תמיד אפשר להכניס 3 ארגזים בינוניים במקום שבו נכנסים 2 ארגזים גדולים.
+היא טועה, כי אף אחת מהמידות הפנימיות של תא המטען של משאית א אינה מכפלה של 0.75, שהוא הגובה של ארגז גדול.
+היא טועה, כי הגובה של ארגז גדול הוא פי 1.5 מהגובה של ארגז בינוני."
+MAT/MA118-MovingTruck,3,5,Hebrew,heb-ISR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Hungarian,hun-HUN,Számológépclose
+MAT/MA118-MovingTruck,1,2,Hungarian,hun-HUN,PISA
+MAT/MA118-MovingTruck,1,3,Hungarian,hun-HUN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Hungarian,hun-HUN,"Költöztető teherautó  Ismertető
+Olvasd el a bevezetést, majd kattints a „TOVÁBB"" nyílra!
+KÖLTÖZTETŐ TEHERAUTÓ
+Maráék költöznek.
+Kétféle méretű költöztető teherautót lehet bérelni. Az alábbi táblázatban láthatod a teherautók belső rakterének méreteit. A teherautók rakterének minden fala és a padlója téglalap alakú.
+Teherautó mérete
+Padló hossza
+Padló szélessége
+Magasság
+A
+4 méter
+2 méter
+2 méter
+B
+6,6 méter
+2,3 méter
+2,3 méter
+Három különböző méretű dobozból lehet választani. A dobozok méretei az alábbi táblázatban láthatók.
+Doboz nagysága
+Hosszúság
+Szélesség
+Magasság
+Kicsi
+0,4 méter
+0,3 méter
+0,3 méter
+Közepes
+0,5 méter
+0,5 méter
+0,5 méter
+Nagy
+0,5 méter
+0,5 méter
+0,75 méter"
+MAT/MA118-MovingTruck,1,5,Hungarian,hun-HUN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Hungarian,hun-HUN,Számológépclose
+MAT/MA118-MovingTruck,2,2,Hungarian,hun-HUN,PISA
+MAT/MA118-MovingTruck,2,3,Hungarian,hun-HUN,"KÖLTÖZTETŐ TEHERAUTÓ
+Raktér méretei
+Teherautó mérete
+Padló hossza
+Padló szélessége
+Magasság
+A
+4 méter
+2 méter
+2 méter
+Doboz méretei
+Doboz nagysága
+Hosszúság
+Szélesség
+Magasság
+Közepes
+0,5 méter
+0,5 méter
+0,5 méter"
+MAT/MA118-MovingTruck,2,4,Hungarian,hun-HUN,"Költöztető teherautó  Kérdés 1 / 2
+A jobbra látható „Költöztető teherautó"" című szöveg alapján válaszolj a kérdésre! A kérdés megválaszolásához kattints az egyik válaszlehetőségre!
+Maráék végül az A teherautó mellett döntenek.
+A közepes méretű dobozból legfeljebb hány darab fér be az A jelű teherautóba?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Hungarian,hun-HUN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Hungarian,hun-HUN,Számológépclose
+MAT/MA118-MovingTruck,3,2,Hungarian,hun-HUN,PISA
+MAT/MA118-MovingTruck,3,3,Hungarian,hun-HUN,"KÖLTÖZTETŐ TEHERAUTÓ
+Raktér méretei
+Teherautó mérete
+Padló hossza
+Padló szélessége
+Magasság
+A
+4 méter
+2 méter
+2 méter
+Doboz méretei
+Doboz nagysága
+Hosszúság
+Szélesség
+Magasság
+Közepes
+0,5 méter
+0,5 méter
+0,5 méter
+Nagy
+0,5 méter
+0,5 méter
+0,75 méter"
+MAT/MA118-MovingTruck,3,4,Hungarian,hun-HUN,"Költöztető teherautó  Kérdés 2 / 2
+A jobbra látható „Költöztető teherautó"" című szöveg alapján válaszolj a kérdésre! A kérdés megválaszolásához kattints az egyik válaszlehetőségre!
+A teherautókat bérbeadó cég megerősítette, hogy az A teherautó rakterét teljesen meg lehet tölteni kizárólag közepes méretű dobozokkal.
+Mara szerint egy közepes doboznak 2/3 akkora a térfogata mint egy nagy doboznak, ebből arra következtet, hogy nagy dobozból 2/3 annyi darab fogja megtölteni a teherautót, mint közepes dobozból.
+Melyik állítás igaz Mara következtetésére?
+Igaza van, mert a közepes doboz magassága 2/3-a a nagy doboz magasságának.
+Igaza van, mert 3 közepes méretű doboz ugyanakkora helyre fér be, mint 2 nagy.
+Nincs igaza, mert az A teherautó belső rakterének egyik mérete sem többszöröse a 0,75-nak, ami a nagy doboz magassága.
+Nincs igaza, mert a nagy doboz magassága 1,5-szerese a közepes doboz magasságának."
+MAT/MA118-MovingTruck,3,5,Hungarian,hun-HUN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Icelandic,isl-ISL,Reiknivélclose
+MAT/MA118-MovingTruck,1,2,Icelandic,isl-ISL,PISA
+MAT/MA118-MovingTruck,1,3,Icelandic,isl-ISL,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Icelandic,isl-ISL,"Flutningabíll   Inngangur
+Lestu innganginn. Smelltu síðan á NÆST örina.
+FLUTNINGABÍLL
+Fjölskylda Maríu er að flytja.
+Þau ætla að leigja flutningabíl og geta valið milli tveggja stærða af flutningabílum. Innanmál flutningsrýmis bílanna eru sýnd í töflunni hér að neðan. Allir veggir og gólf flutningsrýmis sendibílsins eru rétthyrningar.
+Stærð bíls
+Lengd gólfs
+Breidd gólfs
+Hæð
+A
+4 metrar
+2 metrar
+2 metrar
+B
+6,6 metrar
+2,3 metrar
+2,3 metrar
+Það eru til þrjár mismunandi stærðir af kössum. Mál þessara kassa eru sýnd í töflunni hér fyrir neðan.
+Stærð kassa
+Lengd
+Breidd
+Hæð
+Lítill
+0,4 metrar
+0,3 metrar
+0,3 metrar
+Meðalstór
+0,5 metrar
+0,5 metrar
+0,5 metrar
+Stór
+0,5 metrar
+0,5 metrar
+0,75 metrar"
+MAT/MA118-MovingTruck,1,5,Icelandic,isl-ISL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Icelandic,isl-ISL,Reiknivélclose
+MAT/MA118-MovingTruck,2,2,Icelandic,isl-ISL,PISA
+MAT/MA118-MovingTruck,2,3,Icelandic,isl-ISL,"FLUTNINGABÍLL
+Innanmál flutningsrýmis
+Stærð bíls
+Lengd gólfs
+Breidd gólfs
+Hæð
+A
+4 metrar
+2 metrar
+2 metrar
+Mál kassa
+Stærð kassa
+Lengd
+Breidd
+Hæð
+Meðalstór
+0,5 metrar
+0,5 metrar
+0,5 metrar"
+MAT/MA118-MovingTruck,2,4,Icelandic,isl-ISL,"Flutningabíll   Spurning1 / 2
+Skoðaðu „Sendibíll” hér til hægri. Smelltu á valmöguleika til að svara spurningunni.
+Fjölskylda Maríu ákveður að leigja sendibíl A.
+Hver er mesti fjöldi meðalstórra kassa sem gæti komist í bíl A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Icelandic,isl-ISL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Icelandic,isl-ISL,Reiknivélclose
+MAT/MA118-MovingTruck,3,2,Icelandic,isl-ISL,PISA
+MAT/MA118-MovingTruck,3,3,Icelandic,isl-ISL,"FLUTNINGABÍLL
+Innanmál flutningsrýmis
+Stærð bíls
+Lengd gólfs
+Breidd gólfs
+Hæð
+A
+4 metrar
+2 metrar
+2 metrar
+Mál kassa
+Stærð kassa
+Lengd
+Breidd
+Hæð
+Meðalstór
+0,5 metrar
+0,5 metrar
+0,5 metrar
+Stór
+0,5 metrar
+0,5 metrar
+0,75 metrar"
+MAT/MA118-MovingTruck,3,4,Icelandic,isl-ISL,"Flutningabíll   Spurning2 / 2
+Skoðaðu „Sendibíll” hér til hægri. Smelltu á valmöguleika til að svara spurningunni.
+Fyrirtækið sem leigir út sendibílana hefur staðfest að hægt sé að fylla sendibíl A með því að nota einungis meðalstóra kassa þannig að allt plássið í flutningsrýminu sé nýtt.
+María heldur því fram að meðalstór kassi taki 2/3 af plássi stórs kassa, svo hún dregur þá ályktun að sá fjöldi stórra kassa sem fylla sendibíl A sé 2/3 af fjölda meðalstórra kassa.
+Hver eftirfarandi staðhæfinga um ályktun Maríu er rétt?
+Hún hefur rétt fyrir sér af því að hæð meðalstórs kassa er 2/3 af hæð stórs kassa.
+Hún hefur rétt fyrir sér af því að það er alltaf hægt að koma 3 meðalstórum kössum fyrir í sama plássi og 2 stórum kössum.
+Hún hefur ekki rétt fyrir sér af því að ekkert af innanmálum flutningsrýmis sendibíls A er margfeldi af 0,75, sem er hæð stórs kassa.
+Hún hefur ekki rétt fyrir sér af því að hæð stórs kassa er 1,5 sinnum hæð meðalstórs kassa."
+MAT/MA118-MovingTruck,3,5,Icelandic,isl-ISL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Indonesian,ind-IDN,Kalkulatorclose
+MAT/MA118-MovingTruck,1,2,Indonesian,ind-IDN,PISA 2022
+MAT/MA118-MovingTruck,1,3,Indonesian,ind-IDN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Indonesian,ind-IDN,"Truk Pindahan
+Pengantar
+Bacalah pengantar berikut ini. Kemudian klik pada tanda panah SELANJUTNYA.
+TRUK PINDAHAN
+Keluarga Maya akan pindah rumah.
+Mereka hendak menyewa truk pindahan dan dapat memilih dari dua ukuran truk yang berbeda. Dimensi tempat penyimpanan bagian dalam truk ditunjukkan pada tabel di bawah. Semua dinding dan lantai tempat penyimpanan dalam truk berbentuk persegi panjang.
+Ukuran Truk
+Panjang lantai
+Lebar Lantai
+Tinggi
+A
+4 meter
+2 meter
+2 meter
+B
+6,6 meter
+2,3 meter
+2,3 meter
+Ada tiga ukuran kardus yang tersedia. Dimensi kardus-kardus tersebut ditunjukkan pada tabel di bawah.
+Ukuran Kardus
+Panjang
+Lebar
+Tinggi
+Kecil
+0,4 meter
+0,3 meter
+0,3 meter
+Sedang
+0,5 meter
+0,5 meter
+0,5 meter
+Besar
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,1,5,Indonesian,ind-IDN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Indonesian,ind-IDN,Kalkulatorclose
+MAT/MA118-MovingTruck,2,2,Indonesian,ind-IDN,PISA 2022
+MAT/MA118-MovingTruck,2,3,Indonesian,ind-IDN,"TRUK PINDAHAN
+Dimensi Tempat Penyimpanan Bagian Dalam
+Ukuran Truk
+Panjang lantai
+Lebar Lantai
+Tinggi
+A
+4 meter
+2 meter
+2 meter
+Dimensi Kardus
+Ukuran Kardus
+Panjang
+Lebar
+Tinggi
+Sedang
+0,5 meter
+0,5 meter
+0,5 meter"
+MAT/MA118-MovingTruck,2,4,Indonesian,ind-IDN,"Truk Pindahan
+Pertanyaan  1 / 2
+Perhatikan teks ""Truk Pindahan"" di samping. Klik pada satu pilihan jawaban untuk menjawab pertanyaan berikut.
+Keluarga Maya memutuskan untuk menyewa truk A.
+Berapakah jumlah kardus ukuran sedang terbanyak yang dapat dimuat oleh truk A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Indonesian,ind-IDN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Indonesian,ind-IDN,Kalkulatorclose
+MAT/MA118-MovingTruck,3,2,Indonesian,ind-IDN,PISA 2022
+MAT/MA118-MovingTruck,3,3,Indonesian,ind-IDN,"TRUK PINDAHAN
+Dimensi Tempat Penyimpanan Bagian Dalam
+Ukuran Truk
+Panjang lantai
+Lebar Lantai
+Tinggi
+A
+4 meter
+2 meter
+2 meter
+Dimensi Kardus
+Ukuran Kardus
+Panjang
+Lebar
+Tinggi
+Sedang
+0,5 meter
+0,5 meter
+0,5 meter
+Besar
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,3,4,Indonesian,ind-IDN,"Truk Pindahan
+Pertanyaan  2 / 2
+Perhatikan teks ""Truk Pindahan"" di samping. Klik pada satu pilihan jawaban untuk menjawab pertanyaan berikut.
+Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?
+Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar.
+Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar.
+Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.
+Dia tidak benar, karena tinggi kardus ukuran besar 1,5 kali tinggi kardus ukuran sedang."
+MAT/MA118-MovingTruck,3,5,Indonesian,ind-IDN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Italian,ita-ITA,Calcolatriceclose
+MAT/MA118-MovingTruck,1,2,Italian,ita-ITA,PISA
+MAT/MA118-MovingTruck,1,3,Italian,ita-ITA,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Italian,ita-ITA,"Camion dei traslochi  Introduzione
+Leggi l'introduzione, poi clicca sulla freccia del pulsante AVANTI.
+CAMION DEI TRASLOCHI
+La famiglia di Mara sta per traslocare.
+Possono scegliere tra due dimensioni di camion dei traslochi a noleggio. Le misure interne del vano di carico dei camion sono riportate nella tabella qui sotto. Tutte le pareti e il pianale del vano di carico dei camion sono rettangolari.
+Dimensione del camion
+Lunghezza del pianale
+Larghezza del pianale
+Altezza
+A
+4 metri
+2 metri
+2 metri
+B
+6,6 metri
+2,3 metri
+2,3 metri
+Sono disponibili tre diverse dimensioni di scatole. Le misure di queste scatole sono riportate nella tabella qui sotto.
+Dimensione della scatola
+Lunghezza
+Larghezza
+Altezza
+Piccola
+0,4 metri
+0,3 metri
+0,3 metri
+Media
+0,5 metri
+0,5 metri
+0,5 metri
+Grande
+0,5 metri
+0,5 metri
+0,75 metri"
+MAT/MA118-MovingTruck,1,5,Italian,ita-ITA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Italian,ita-ITA,Calcolatriceclose
+MAT/MA118-MovingTruck,2,2,Italian,ita-ITA,PISA
+MAT/MA118-MovingTruck,2,3,Italian,ita-ITA,"CAMION DEI TRASLOCHI
+Misure interne del vano di carico
+Dimensione del camion
+Lunghezza del pianale
+Larghezza del pianale
+Altezza
+A
+4 metri
+2 metri
+2 metri
+Misure della scatola
+Dimensione della scatola
+Lunghezza
+Larghezza
+Altezza
+Media
+0,5 metri
+0,5 metri
+0,5 metri"
+MAT/MA118-MovingTruck,2,4,Italian,ita-ITA,"Camion dei traslochi  Domanda  1 / 2
+Fai riferimento a «Camion dei traslochi» presentato sulla destra. Per rispondere alla domanda, clicca su una delle alternative.
+La famiglia di Mara decide di noleggiare il camion A.
+Qual è il numero massimo di scatole medie che si possono collocare nel camion A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Italian,ita-ITA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Italian,ita-ITA,Calcolatriceclose
+MAT/MA118-MovingTruck,3,2,Italian,ita-ITA,PISA
+MAT/MA118-MovingTruck,3,3,Italian,ita-ITA,"CAMION DEI TRASLOCHI
+Misure interne del vano di carico
+Dimensione del camion
+Lunghezza del pianale
+Larghezza del pianale
+Altezza
+A
+4 metri
+2 metri
+2 metri
+Misure della scatola
+Dimensione della scatola
+Lunghezza
+Larghezza
+Altezza
+Media
+0,5 metri
+0,5 metri
+0,5 metri
+Grande
+0,5 metri
+0,5 metri
+0,75 metri"
+MAT/MA118-MovingTruck,3,4,Italian,ita-ITA,"Camion dei traslochi  Domanda  2 / 2
+Fai riferimento a «Camion dei traslochi» presentato sulla destra. Per rispondere alla domanda, clicca su una delle alternative.
+La compagnia che noleggia i camion ha confermato che il camion A può essere riempito unicamente di scatole medie in modo tale da utilizzare completamente il vano di carico.
+Mara sostiene che una scatola media occupa i 2/3 dello spazio di una scatola grande e quindi conclude che il numero di scatole grandi che riempirebbero il camion A è pari ai 2/3 del numero di scatole medie.
+Quale delle seguenti affermazioni sulle conclusioni di Mara è vera?
+Mara ha ragione, perché l'altezza di una scatola media è 2/3 dell'altezza di una scatola grande.
+Mara ha ragione, perché 3 scatole medie possono sempre essere collocate nello stesso spazio di 2 scatole grandi.
+Mara ha torto, perché nessuna delle misure interne del vano di carico del camion A è un multiplo di 0,75, che è l'altezza di una scatola grande.
+Mara ha torto, perché l'altezza di una scatola grande è 1,5 volte l'altezza di una scatola media."
+MAT/MA118-MovingTruck,3,5,Italian,ita-ITA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+:
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Japanese,jpn-JPN,電卓close
+MAT/MA118-MovingTruck,1,2,Japanese,jpn-JPN,PISA 2022
+MAT/MA118-MovingTruck,1,3,Japanese,jpn-JPN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Japanese,jpn-JPN,"引越しトラック  はじめに
+下の文章を読んで、 「次へ」ボタンをクリックしてください。
+引越しトラック
+真奈さんの家族が引越しをします。
+引越しトラックは、2つのサイズのどちらかを選んで借りることができます。 下の表は、トラックの収納スペースの寸法を示しています。 どちらのトラックの収納スペースも、壁と床はすべて長方形です。
+トラックのサイズ
+床の長さ
+床の幅
+高さ
+A
+4メートル
+2メートル
+2メートル
+B
+6.6メートル
+2.3メートル
+2.3メートル
+箱のサイズは3種類あります。 下の表は、それぞれの箱の寸法を示しています。
+箱のサイズ
+長さ
+幅
+高さ
+S
+0.4メートル
+0.3メートル
+0.3メートル
+M
+0.5メートル
+0.5メートル
+0.5メートル
+L
+0.5メートル
+0.5メートル
+0.75メートル"
+MAT/MA118-MovingTruck,1,5,Japanese,jpn-JPN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Japanese,jpn-JPN,電卓close
+MAT/MA118-MovingTruck,2,2,Japanese,jpn-JPN,PISA 2022
+MAT/MA118-MovingTruck,2,3,Japanese,jpn-JPN,"引越しトラック
+車内の収納スペースの寸法
+トラックのサイズ
+床の長さ
+床の幅
+高さ
+A
+4メートル
+2メートル
+2メートル
+箱の寸法
+箱のサイズ
+長さ
+幅
+高さ
+M
+0.5メートル
+0.5メートル
+0.5メートル"
+MAT/MA118-MovingTruck,2,4,Japanese,jpn-JPN,"引越しトラック  問 1 / 2
+右の「引越しトラック」を読んで、 下の問いの答えを一つクリックしてください。
+真奈さんの家族は、トラックAを借りることにしました。
+Mサイズの箱は、トラックAに最大で何箱積むことができますか。
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Japanese,jpn-JPN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Japanese,jpn-JPN,電卓close
+MAT/MA118-MovingTruck,3,2,Japanese,jpn-JPN,PISA 2022
+MAT/MA118-MovingTruck,3,3,Japanese,jpn-JPN,"引越しトラック
+車内の収納スペースの寸法
+トラックのサイズ
+床の長さ
+床の幅
+高さ
+A
+4メートル
+2メートル
+2メートル
+箱の寸法
+箱のサイズ
+長さ
+幅
+高さ
+M
+0.5メートル
+0.5メートル
+0.5メートル
+L
+0.5メートル
+0.5メートル
+0.75メートル"
+MAT/MA118-MovingTruck,3,4,Japanese,jpn-JPN,"引越しトラック  問 2 / 2
+右の「引越しトラック」を読んで、 下の問いの答えを一つクリックしてください。
+トラックのレンタル会社は、Mサイズの箱のみを使えば、トラックAの収納スペースのすべてを使うことができると言っています。
+真奈さんは、Mサイズの箱はLサイズの箱の3分の2のスペースを占めるので、トラックAをいっぱいにするLサイズの箱の数は、Mサイズの箱の数の3分の2になると考えました。
+下の文章のうち、真奈さんの考えについて正しく述べているのはどれですか。
+Mサイズの箱の高さはLサイズの箱の3分の2なので、真奈さんの考えは正しい。
+Mサイズの箱3つは常にLサイズの箱2つのスペースに収まるので、真奈さんの考えは正しい。
+トラックAの車内の収納スペースのどの寸法も、Lサイズの箱の高さである0.75の倍数でないので、真奈さんの考えは正しくない。
+Lサイズの箱の高さは、Mサイズの箱の1.5倍なので、真奈さんの考えは正しくない。"
+MAT/MA118-MovingTruck,3,5,Japanese,jpn-JPN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Kazakh,kaz-KAZ,Калькуляторclose
+MAT/MA118-MovingTruck,1,2,Kazakh,kaz-KAZ,PISA 2022
+MAT/MA118-MovingTruck,1,3,Kazakh,kaz-KAZ,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Kazakh,kaz-KAZ,"Көшуге арналған жүк көлігі  Кіріспе
+Кіріспені оқыңыз. Одан кейін КЕЛЕСІ батырмасының үстінен тінтуірмен басыңыз.
+КӨШУГЕ АРНАЛҒАН ЖҮК КӨЛІГІ
+Маралдың отбасы көшіп жатыр.
+Олар 2 түрлі көлемдегі көшуге арналған жүк көлігінің біреуін таңдай алады. Көліктердің жүк бөлігінің ішкі өлшемдері төмендегі кестеде көрсетілген. Көліктердің жүк бөлігінің барлық қабырғалары мен едені — тік төртбұрыш.
+Жүк көлігінің түрі
+Еден ұзындығы
+Еден ені
+Биіктігі
+A
+4 метр
+2 метр
+2 метр
+B
+6,6 метр
+2,3 метр
+2,3 метр
+Қораптың үш түрлі көлемі бар. Осы қораптардың өлшемдері төмендегі кестеде көрсетілген.
+Қорап көлемі
+Ұзындығы
+Ені
+Биіктігі
+Кішкентай
+0,4 метр
+0,3 метр
+0,3 метр
+Орташа
+0,5 метр
+0,5 метр
+0,5 метр
+Үлкен
+0,5 метр
+0,5 метр
+0,75 метр"
+MAT/MA118-MovingTruck,1,5,Kazakh,kaz-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Kazakh,kaz-KAZ,Калькуляторclose
+MAT/MA118-MovingTruck,2,2,Kazakh,kaz-KAZ,PISA 2022
+MAT/MA118-MovingTruck,2,3,Kazakh,kaz-KAZ,"КӨШУГЕ АРНАЛҒАН ЖҮК КӨЛІГІ
+Жүк бөлігінің ішкі өлшемдері
+Жүк көлігінің түрі
+Еден ұзындығы
+Еден ені
+Биіктігі
+A
+4 метр
+2 метр
+2 метр
+Қорап өлшемдері
+Қорап көлемі
+Ұзындығы
+Ені
+Биіктігі
+Орташа
+0,5 метр
+0,5 метр
+0,5 метр"
+MAT/MA118-MovingTruck,2,4,Kazakh,kaz-KAZ,"Көшуге арналған жүк көлігі  Сұрақ 1 / 2
+Оң жақтағы «Көшуге арналған жүк көлігі» мәтінін оқыңыз. Сұраққа жауап беру үшін таңдаған жауабыңыздың үстінен тінтуірмен басыңыз.
+Маралдың отбасы А көлігін жалдаймыз деп шешті.
+А көлігіне орташа көлемді қораптардың ең көп дегенде қаншасы сияды?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Kazakh,kaz-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Kazakh,kaz-KAZ,Калькуляторclose
+MAT/MA118-MovingTruck,3,2,Kazakh,kaz-KAZ,PISA 2022
+MAT/MA118-MovingTruck,3,3,Kazakh,kaz-KAZ,"КӨШУГЕ АРНАЛҒАН ЖҮК КӨЛІГІ
+Жүк бөлігінің ішкі өлшемдері
+Жүк көлігінің түрі
+Еден ұзындығы
+Еден ені
+Биіктігі
+A
+4 метр
+2 метр
+2 метр
+Қорап өлшемдері
+Қорап көлемі
+Ұзындығы
+Ені
+Биіктігі
+Орташа
+0,5 метр
+0,5 метр
+0,5 метр
+Үлкен
+0,5 метр
+0,5 метр
+0,75 метр"
+MAT/MA118-MovingTruck,3,4,Kazakh,kaz-KAZ,"Көшуге арналған жүк көлігі  Сұрақ 2 / 2
+Оң жақтағы «Көшуге арналған жүк көлігі» мәтінін оқыңыз. Сұраққа жауап беру үшін таңдаған жауабыңыздың үстінен тінтуірмен басыңыз.
+Жүк көліктерін жалға беретін компания А көлігінің жүк бөлігін толығымен толтыру үшін тек қана орташа көлемді қораптарды қолдану керектігін растады.
+Марал орташа қорап үлкен қорап алатын кеңістіктің 2/3 бөлігін алады деді, сондықтан ол А көлігін толтыратын үлкен қораптар саны орташа қораптар санының 2/3 бөлігі болады деген тұжырымға келді.
+Маралдың тұжырымы бойынша келесі пікірлердің қайсысы дұрыс?
+Оныкі дұрыс, өйткені орташа қораптың биіктігі үлкен қораптың биіктігінің 2/3 бөлігін құрайды.
+Оныкі дұрыс, өйткені 3 орташа қорапты әрдайым 2 үлкен қорап сиятын кеңістікте орналастыруға болады.
+Оныкі дұрыс емес, өйткені А көлігінің жүк бөлігінің ішкі өлшемдерінің бірде-біреуі 0,75-ке еселі емес, ал бұл – үлкен қораптың биіктігі.
+Оныкі дұрыс емес, өйткені үлкен қораптың биіктігі орташа қораптың биіктігінен 1,5 есе үлкен."
+MAT/MA118-MovingTruck,3,5,Kazakh,kaz-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Korean,kor-KOR,계산기close
+MAT/MA118-MovingTruck,1,2,Korean,kor-KOR,PISA
+MAT/MA118-MovingTruck,1,3,Korean,kor-KOR,"C
+(
+)
+x2
+xy
+√x
+1/x
+π
+÷
+7
+8
+9
+×
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,4,Korean,kor-KOR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,5,Korean,kor-KOR,"이사 트럭  도입부
+도입부를 읽고, [다음 화면] 버튼을 클릭하시오.
+이사 트럭
+미진이의 가족이 이사를 한다.
+두 가지 크기의 이사 트럭 중에 선택하여 빌릴 수 있다. 트럭 짐칸의 내부 치수는 아래 표에 제시되어 있다. 트럭 짐칸의 벽과 바닥은 모두 직사각형 모양이다.
+트럭 크기
+바닥의 세로
+바닥의 가로
+높이
+A
+4미터
+2미터
+2미터
+B
+6.6미터
+2.3미터
+2.3미터
+세 가지 서로 다른 크기의 상자를 사용할 수 있다. 상자의 치수는 아래 표에 제시되어 있다.
+상자 크기
+세로
+가로
+높이
+소형
+0.4미터
+0.3미터
+0.3미터
+중형
+0.5미터
+0.5미터
+0.5미터
+대형
+0.5미터
+0.5미터
+0.75미터"
+MAT/MA118-MovingTruck,2,1,Korean,kor-KOR,계산기close
+MAT/MA118-MovingTruck,2,2,Korean,kor-KOR,PISA
+MAT/MA118-MovingTruck,2,3,Korean,kor-KOR,"이사 트럭
+짐칸의 내부 치수
+트럭 크기
+바닥의 세로
+바닥의 가로
+높이
+A
+4미터
+2미터
+2미터
+상자의 치수
+상자 크기
+세로
+가로
+높이
+중형
+0.5미터
+0.5미터
+0.5미터"
+MAT/MA118-MovingTruck,2,4,Korean,kor-KOR,"이사 트럭  문제 1 / 2
+오른쪽 '이사 트럭'을 참고하시오. 물음에 대한 답을 하나 선택하여 클릭하시오.
+미진이의 가족은 트럭 A를 빌리기로 결정했다.
+트럭 A에 들어갈 수 있는 중형 상자의 최대 개수는?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Korean,kor-KOR,"C
+(
+)
+x2
+xy
+√x
+1/x
+π
+÷
+7
+8
+9
+×
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Korean,kor-KOR,계산기close
+MAT/MA118-MovingTruck,3,2,Korean,kor-KOR,PISA
+MAT/MA118-MovingTruck,3,3,Korean,kor-KOR,"이사 트럭
+짐칸의 내부 치수
+트럭 크기
+바닥의 세로
+바닥의 가로
+높이
+A
+4미터
+2미터
+2미터
+상자의 치수
+상자 크기
+세로
+가로
+높이
+중형
+0.5미터
+0.5미터
+0.5미터
+대형
+0.5미터
+0.5미터
+0.75미터"
+MAT/MA118-MovingTruck,3,4,Korean,kor-KOR,"이사 트럭  문제 2 / 2
+오른쪽 '이사 트럭'을 참고하시오. 물음에 대한 답을 하나 선택하여 클릭하시오.
+중형 상자만 사용하여 채워야 트럭 A의 짐칸 전체 공간을 사용할 수 있다고 트럭을 빌려주는 회사가 확인시켜 주었다.
+미진이는 중형 상자가 대형 상자 공간의 2/3를 차지하므로, 트럭 A를 채울 대형 상자의 수는 중형 상자 수의 2/3라고 결론지었다.
+미진이의 결론에 대한 다음 설명 중 참인 것은?
+중형 상자의 높이가 대형 상자의 높이의 2/3이기 때문에 옳다.
+중형 상자 3개는 항상 대형 상자 2개와 같은 공간을 차지할 수 있으므로 옳다.
+트럭 A의 짐칸 내부 치수의 어느 것도 대형 상자의 높이인 0.75의 배수가 아니기 때문에 옳지 않다.
+대형 상자의 높이는 중형 상자 높이의 1.5배이므로 옳지 않다."
+MAT/MA118-MovingTruck,3,5,Korean,kor-KOR,"C
+(
+)
+x2
+xy
+√x
+1/x
+π
+÷
+7
+8
+9
+×
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Latvian,lav-LVA,Kalkulatorsclose
+MAT/MA118-MovingTruck,1,2,Latvian,lav-LVA,PISA
+MAT/MA118-MovingTruck,1,3,Latvian,lav-LVA,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Latvian,lav-LVA,"Pārcelšanās kravas mašīna    Ievads
+Izlasi ievadu.  Tad noklikšķini uz bultiņas TĀLĀK.
+PĀRCELŠANĀS KRAVAS MAŠĪNA
+Māras ģimene pārceļas uz jaunu mājvietu.
+Īrēšanai ir pieejamas divu izmēru kravas mašīnas.  Zemāk dotajā tabulā redzami mašīnu kravas nodalījumu izmēri.   Mašīnu kravas nodalījumam visas sienas un grīda ir taisnstūra formas.
+Kravas mašīnas izmērs
+Grīdas garums
+Grīdas platums
+Augstums
+A
+4 metri
+2 metri
+2 metri
+B
+6,6 metri
+2,3 metri
+2,3 metri
+Piedāvājumā ir trīs dažādu izmēru kastes.  Zemāk dotajā tabulā redzami kastu izmēri.
+Kastes izmērs
+Garums
+Platums
+Augstums
+Maza
+0,4 metri
+0,3 metri
+0,3 metri
+Vidēja
+0,5 metri
+0,5 metri
+0,5 metri
+Liela
+0,5 metri
+0,5 metri
+0,75 metri"
+MAT/MA118-MovingTruck,1,5,Latvian,lav-LVA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Latvian,lav-LVA,Kalkulatorsclose
+MAT/MA118-MovingTruck,2,2,Latvian,lav-LVA,PISA
+MAT/MA118-MovingTruck,2,3,Latvian,lav-LVA,"PĀRCELŠANĀS KRAVAS MAŠĪNA
+Kravas nodalījuma iekšējie izmēri
+Kravas mašīnas izmērs
+Grīdas garums
+Grīdas platums
+Augstums
+A
+4 metri
+2 metri
+2 metri
+Kastes izmēri
+Kastes izmērs
+Garums
+Platums
+Augstums
+Vidēja
+0,5 metri
+0,5 metri
+0,5 metri"
+MAT/MA118-MovingTruck,2,4,Latvian,lav-LVA,"Pārcelšanās kravas mašīna    Jautājums  1 / 2
+Aplūko labajā pusē doto informāciju ""Pārcelšanās kravas mašīna"".  Noklikšķini uz atbildes varianta, lai atbildētu uz jautājumu.
+Māras ģimene nolemj noīrēt kravas mašīnu A
+Kāds ir lielākais skaits vidējo kastu, kas ietilptu kravas mašīnā A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Latvian,lav-LVA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Latvian,lav-LVA,Kalkulatorsclose
+MAT/MA118-MovingTruck,3,2,Latvian,lav-LVA,PISA
+MAT/MA118-MovingTruck,3,3,Latvian,lav-LVA,"PĀRCELŠANĀS KRAVAS MAŠĪNA
+Kravas nodalījuma iekšējie izmēri
+Kravas mašīnas izmērs
+Grīdas garums
+Grīdas platums
+Augstums
+A
+4 metri
+2 metri
+2 metri
+Kastes izmēri
+Kastes izmērs
+Garums
+Platums
+Augstums
+Vidēja
+0,5 metri
+0,5 metri
+0,5 metri
+Liela
+0,5 metri
+0,5 metri
+0,75 metri"
+MAT/MA118-MovingTruck,3,4,Latvian,lav-LVA,"Pārcelšanās kravas mašīna    Jautājums  2 / 2
+Aplūko labajā pusē doto informāciju ""Pārcelšanās kravas mašīna"".  Noklikšķini uz atbildes varianta, lai atbildētu uz jautājumu.
+Firma, kas izīrē pārcelšanās kravas automašīnas, apstiprināja, ka kravas mašīnā A var ievietot tikai vidēja izmēra kastes, ja vēlas izmantot visu kravas nodalījuma ietilpību.
+Māra apgalvo, ka vidējā izmēra kaste aizņem 2/3 no lielās kastes vietas, tāpēc viņa secina, ka lielo kastu skaits, kas piepildītu kravas mašīnu A, ir 2/3 no vidējā izmēra kastu skaita.
+Kurš no šiem apgalvojumiem par Māras secinājumu ir pareizs?
+Viņai ir taisnība, jo vidējā izmēra kastes augstums ir 2/3 no lielās kastes augstuma.
+Viņai ir taisnība, jo 3 vidējā izmēra kastes vienmēr aizņem to pašu vietu, ko 2 lielās kastes.
+Viņai nav taisnība, jo neviens no kravas mašīnas A kravas nodalījuma iekšējiem izmēriem nav reizinājums ar 0,75, kas ir lielās kastes augstums.
+Viņai nav taisnība, jo lielās kastes augstums ir 1,5 reizes lielāks par vidējā izmēra kastes augstumu."
+MAT/MA118-MovingTruck,3,5,Latvian,lav-LVA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Lithuanian,lit-LTU,Skaičiuotuvasclose
+MAT/MA118-MovingTruck,1,2,Lithuanian,lit-LTU,Programme for International Student Assessment
+MAT/MA118-MovingTruck,1,3,Lithuanian,lit-LTU,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Lithuanian,lit-LTU,"Persikraustymo furgonas  Įvadas
+Perskaitykite įvadą ir  spustelėkite rodyklę TOLIAU.
+PERSIKRAUSTYMO FURGONAS
+Marijos šeima persikrausto.
+Jie gali rinktis, kurį iš dviejų persikraustymo furgonų išsinuomoti.  Lentelėje pateikti abiejų furgonų krovinių skyriaus vidaus matmenys. Visos furgonų krovinių skyriaus sienos ir grindys yra stačiakampio formos.
+Furgono dydis
+Grindų ilgis
+Grindų plotis
+Aukštis
+A
+4 metrai
+2 metrai
+2 metrai
+B
+6,6 metro
+2,3 metro
+2,3 metro
+Galima rinktis iš trijų skirtingo dydžio dėžių. Lentelėje pateikti šių dėžių matmenys.
+Dėžės dydis
+Ilgis
+Plotis
+Aukštis
+Maža
+0,4 metro
+0,3 metro
+0,3 metro
+Vidutinė
+0,5 metro
+0,5 metro
+0,5 metro
+Didelė
+0,5 metro
+0,5 metro
+0,75 metro"
+MAT/MA118-MovingTruck,1,5,Lithuanian,lit-LTU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Lithuanian,lit-LTU,Skaičiuotuvasclose
+MAT/MA118-MovingTruck,2,2,Lithuanian,lit-LTU,Programme for International Student Assessment
+MAT/MA118-MovingTruck,2,3,Lithuanian,lit-LTU,"PERSIKRAUSTYMO FURGONAS
+Krovinių skyriaus vidaus matmenys
+Furgono dydis
+Grindų ilgis
+Grindų plotis
+Aukštis
+A
+4 metrai
+2 metrai
+2 metrai
+Dėžės matmenys
+Dėžės dydis
+Ilgis
+Plotis
+Aukštis
+Vidutinė
+0,5 metro
+0,5 metro
+0,5 metro"
+MAT/MA118-MovingTruck,2,4,Lithuanian,lit-LTU,"Persikraustymo furgonas  Klausimas 1 / 2
+Remdamiesi dešinėje pateikta užduoties „Persikraustymo furgonas“ informacija,  pasirinkite atsakymą.
+Marijos šeima nusprendžia išsinuomoti furgoną A.
+Kiek daugiausia vidutinio dydžio dėžių galima sutalpinti į furgoną A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Lithuanian,lit-LTU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Lithuanian,lit-LTU,Skaičiuotuvasclose
+MAT/MA118-MovingTruck,3,2,Lithuanian,lit-LTU,Programme for International Student Assessment
+MAT/MA118-MovingTruck,3,3,Lithuanian,lit-LTU,"PERSIKRAUSTYMO FURGONAS
+Krovinių skyriaus vidaus matmenys
+Furgono dydis
+Grindų ilgis
+Grindų plotis
+Aukštis
+A
+4 metrai
+2 metrai
+2 metrai
+Dėžės matmenys
+Dėžės dydis
+Ilgis
+Plotis
+Aukštis
+Vidutinė
+0,5 metro
+0,5 metro
+0,5 metro
+Didelė
+0,5 metro
+0,5 metro
+0,75 metro"
+MAT/MA118-MovingTruck,3,4,Lithuanian,lit-LTU,"Persikraustymo furgonas  Klausimas 2 / 2
+Remdamiesi dešinėje pateikta užduoties „Persikraustymo furgonas“ informacija,  pasirinkite atsakymą.
+Furgonus nuomojanti įmonė patvirtino, kad furgoną A galima užpildyti tik vidutinio dydžio dėžėmis taip, kad būtų išnaudota visa krovinių skyriaus erdvė.
+Marija tvirtina, kad vidutinio dydžio dėžė užima 2/3 didelės dėžės tūrio, todėl daro išvadą, kad didelių dėžių skaičius, kuris užpildytų furgoną A, yra lygus 2/3 vidutinio dydžio dėžių skaičiaus.
+Kuris iš toliau pateiktų teiginių apie Marijos išvadą yra teisingas?
+Ji yra teisi, nes vidutinio dydžio dėžės aukštis sudaro 2/3 didelės dėžės aukščio.
+Ji yra teisi, nes 3 vidutinio dydžio dėžes visada galima sutalpinti į tiek pat erdvės, kiek ir 2 dideles dėžes.
+Ji yra neteisi, nes nė vienas furgono A krovinių skyriaus vidaus matmuo nėra skaičiaus 0,75 kartotinis (skaičius 0,75 yra didelės dėžės aukštis).
+Ji yra neteisi, nes didelė dėžė yra 1,5 karto aukštesnė už vidutinio dydžio dėžę."
+MAT/MA118-MovingTruck,3,5,Lithuanian,lit-LTU,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Malay,msa-MYS,Kalkulatorclose
+MAT/MA118-MovingTruck,1,2,Malay,msa-MYS,PISA
+MAT/MA118-MovingTruck,1,3,Malay,msa-MYS,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Malay,msa-MYS,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,5,Malay,msa-MYS,"Lori Sewa   Pengenalan
+Baca pengenalan. Kemudian klik pada anak panah SETERUSNYA.
+LORI SEWA
+Keluarga Maria akan berpindah.
+Mereka boleh memilih lori sewa daripada dua saiz lori yang berbeza. Dimensi ruang simpanan dalaman lori itu ditunjukkan dalam jadual di bawah. Semua dinding dan lantai ruang simpanan lori tersebut berbentuk segi empat tepat.
+Saiz Lori
+Panjang Lantai
+Lebar Lantai
+Tinggi
+A
+4 meter
+2 meter
+2 meter
+B
+6.6 meter
+2.3 meter
+2.3 meter
+Terdapat tiga saiz kotak yang berbeza. Dimensi kotak ini ditunjukkan dalam jadual di bawah.
+Saiz Kotak
+Panjang
+Lebar
+Tinggi
+Kecil
+0.4 meter
+0.3 meter
+0.3 meter
+Sederhana
+0.5 meter
+0.5 meter
+0.5 meter
+Besar
+0.5 meter
+0.5 meter
+0.75 meter"
+MAT/MA118-MovingTruck,2,1,Malay,msa-MYS,Kalkulatorclose
+MAT/MA118-MovingTruck,2,2,Malay,msa-MYS,PISA
+MAT/MA118-MovingTruck,2,3,Malay,msa-MYS,"LORI SEWA
+Dimensi Ruang-Simpanan Dalaman
+Saiz Lori
+Panjang Lantai
+Lebar Lantai
+Tinggi
+A
+4 meter
+2 meter
+2 meter
+Dimensi Kotak
+Saiz Kotak
+Panjang
+Lebar
+Tinggi
+Sederhana
+0.5 meter
+0.5 meter
+0.5 meter"
+MAT/MA118-MovingTruck,2,4,Malay,msa-MYS,"Lori Sewa   Soalan 1 / 2
+Rujuk ""Lori Sewa"" di sebelah kanan. Klik pada satu pilihan untuk menjawab soalan.
+Keluarga Maria memutuskan untuk menyewa lori A.
+Berapakah bilangan maksimum kotak bersaiz sederhana yang boleh dimuatkan di dalam lori A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Malay,msa-MYS,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Malay,msa-MYS,Kalkulatorclose
+MAT/MA118-MovingTruck,3,2,Malay,msa-MYS,PISA
+MAT/MA118-MovingTruck,3,3,Malay,msa-MYS,"LORI SEWA
+Dimensi Ruang-Simpanan Dalaman
+Saiz Lori
+Panjang Lantai
+Lebar Lantai
+Tinggi
+A
+4 meter
+2 meter
+2 meter
+Dimensi Kotak
+Saiz Kotak
+Panjang
+Lebar
+Tinggi
+Sederhana
+0.5 meter
+0.5 meter
+0.5 meter
+Besar
+0.5 meter
+0.5 meter
+0.75 meter"
+MAT/MA118-MovingTruck,3,4,Malay,msa-MYS,"Lori Sewa   Soalan 2 / 2
+Rujuk ""Lori Sewa"" di sebelah kanan. Klik pada satu pilihan untuk menjawab soalan.
+Syarikat yang menyewakan lori itu mengesahkan bahawa lori A hanya boleh dimuatkan dengan kotak sederhana sahaja supaya keseluruhan ruang simpanan dapat dipenuhi.
+Maria menyatakan bahawa sebuah kotak sederhana mengambil 2/3 daripada ruang sebuah kotak besar, maka dia membuat kesimpulan bahawa bilangan kotak besar yang boleh dimuatkan dalam lori A adalah 2/3 daripada bilangan kotak sederhana.
+Pernyataan yang mana satukah mengenai kesimpulan yang dibuat oleh Maria adalah benar?
+Dia betul, kerana tinggi kotak sederhana adalah 2/3 daripada tinggi kotak besar.
+Dia betul, kerana 3 kotak sederhana boleh dimuatkan dalam ruang yang sama bagi 2 kotak besar.
+Dia salah, kerana dimensi ruang simpanan dalaman lori A bukan gandaan 0.75, iaitu tinggi kotak besar.
+Dia salah, kerana tinggi kotak besar adalah 1.5 kali ganda tinggi kotak sederhana."
+MAT/MA118-MovingTruck,3,5,Malay,msa-MYS,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Nynorsk,nno-NOR,Kalkulatorclose
+MAT/MA118-MovingTruck,1,2,Nynorsk,nno-NOR,PISA
+MAT/MA118-MovingTruck,1,3,Nynorsk,nno-NOR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Nynorsk,nno-NOR,"Flyttebil  Innleiing
+Les innleiinga.  Klikk deretter på NESTE-pila.
+FLYTTEBIL
+Familien til Maria skal flytte.
+Dei kan velje mellom to ulike storleikar på flyttebilen dei skal leige.  Dei innvendige måla på lasterommet i flyttebilane er viste i tabellen nedanfor. Alle veggene og golvet i lasterommet på flyttebilane er forma som rektangel.
+Storleik på flyttebil
+Lengd på golvet
+Breidd på golvet
+Høgd
+A
+4 meter
+2 meter
+2 meter
+B
+6,6 meter
+2,3 meter
+2,3 meter
+Det finst esker i tre ulike storleikar.  Måla på desse eskene er viste i tabellen nedanfor.
+Storleik på eske
+Lengd
+Breidd
+Høgd
+Liten
+0,4 meter
+0,3 meter
+0,3 meter
+Medium
+0,5 meter
+0,5 meter
+0,5 meter
+Stor
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,1,5,Nynorsk,nno-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Nynorsk,nno-NOR,Kalkulatorclose
+MAT/MA118-MovingTruck,2,2,Nynorsk,nno-NOR,PISA
+MAT/MA118-MovingTruck,2,3,Nynorsk,nno-NOR,"FLYTTEBIL
+Innvendige mål i lasterommet
+Storleik på flyttebil
+Lengd på golvet
+Breidd på golvet
+Høgd
+A
+4 meter
+2 meter
+2 meter
+Mål på eske
+Storleik på eske
+Lengd
+Breidd
+Høgd
+Medium
+0,5 meter
+0,5 meter
+0,5 meter"
+MAT/MA118-MovingTruck,2,4,Nynorsk,nno-NOR,"Flyttebil  Spørsmål 1 / 2
+Les ""Flyttebil"" til høgre. Svar på spørsmålet ved å klikke på eit av alternativa.
+Familien til Maria bestemmer seg for å leige flyttebil A.
+Kva er det største talet på esker i medium storleik som kan få plass i flyttebil A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Nynorsk,nno-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Nynorsk,nno-NOR,Kalkulatorclose
+MAT/MA118-MovingTruck,3,2,Nynorsk,nno-NOR,PISA
+MAT/MA118-MovingTruck,3,3,Nynorsk,nno-NOR,"FLYTTEBIL
+Innvendige mål i lasterommet
+Storleik på flyttebil
+Lengd på golvet
+Breidd på golvet
+Høgd
+A
+4 meter
+2 meter
+2 meter
+Mål på eske
+Storleik på eske
+Lengd
+Breidd
+Høgd
+Medium
+0,5 meter
+0,5 meter
+0,5 meter
+Stor
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,3,4,Nynorsk,nno-NOR,"Flyttebil  Spørsmål 2 / 2
+Les ""Flyttebil"" til høgre. Svar på spørsmålet ved å klikke på eit av alternativa.
+Firmaet som leiger ut flyttebilane, har sagt frå om at flyttebil A kan fyllast opp ved å bruke berre esker i medium storleik, og at all lagringsplassen i lasterommet då blir utnytta.
+Maria hevdar at ei eske i medium storleik tek opp 2/3 av plassen til ei stor eske, så ho konkluderer med at talet på store esker som får plass i flyttebil A, er 2/3 av talet på esker i medium storleik.
+Kva for ein av påstandane nedanfor om konklusjonen til Maria er korrekt?
+Ho har rett, for høgda på ei eske i medium storleik er 2/3 av høgda på ei stor eske.
+Ho har rett, for tre esker i medium storleik vil alltid passe inn i same rom som to store esker.
+Ho tek feil, for ingen av dei innvendige måla på lasterommet i flyttebil A kan delast på 0,75, som er høgda på ei stor eske.
+Ho tek feil, for høgda på den store eska er 1,5 gonger større enn høgda på eska i medium storleik."
+MAT/MA118-MovingTruck,3,5,Nynorsk,nno-NOR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Polish,pol-POL,Kalkulatorclose
+MAT/MA118-MovingTruck,1,2,Polish,pol-POL,PISA
+MAT/MA118-MovingTruck,1,3,Polish,pol-POL,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Polish,pol-POL,"Ciężarówka do przeprowadzek   Wstęp
+Przeczytaj wstęp. Następnie kliknij strzałkę DALEJ.
+CIĘŻARÓWKA DO PRZEPROWADZEK
+Rodzina Marty się przeprowadza.
+Mogą wypożyczyć ciężarówki do przeprowadzek w dwóch różnych rozmiarach. Wymiary wewnętrznych przestrzeni ładunkowych ciężarówek przedstawiono w tabeli poniżej. Wszystkie ściany i podłogi przestrzeni ładunkowych ciężarówek są prostokątne.
+Rozmiar ciężarówki
+Długość podłogi
+Szerokość podłogi
+Wysokość
+A
+4 metry
+2 metry
+2 metry
+B
+6,6 metra
+2,3 metra
+2,3 metra
+Dostępne są trzy rozmiary pudełek. Wymiary tych pudełek przedstawiono w tabeli poniżej.
+Rozmiar pudełka
+Długość
+Szerokość
+Wysokość
+Małe
+0,4 metra
+0,3 metra
+0,3 metra
+Średnie
+0,5 metra
+0,5 metra
+0,5 metra
+Duże
+0,5 metra
+0,5 metra
+0,75 metra"
+MAT/MA118-MovingTruck,1,5,Polish,pol-POL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Polish,pol-POL,Kalkulatorclose
+MAT/MA118-MovingTruck,2,2,Polish,pol-POL,PISA
+MAT/MA118-MovingTruck,2,3,Polish,pol-POL,"CIĘŻARÓWKA DO PRZEPROWADZEK
+Wymiary wewnętrznej przestrzeni ładunkowej
+Rozmiar ciężarówki
+Długość podłogi
+Szerokość podłogi
+Wysokość
+A
+4 metry
+2 metry
+2 metry
+Wymiary pudełka
+Rozmiar pudełka
+Długość
+Szerokość
+Wysokość
+Średnie
+0,5 metra
+0,5 metra
+0,5 metra"
+MAT/MA118-MovingTruck,2,4,Polish,pol-POL,"Ciężarówka do przeprowadzek   Pytanie 1 / 2
+Zapoznaj się z informacjami do zadania „Ciężarówka do przeprowadzek” po prawej stronie. Kliknij, aby wybrać odpowiedź.
+Rodzina Marty zdecydowała się wypożyczyć ciężarówkę A.
+Jaka największa liczba średnich pudełek zmieści się w tej ciężarówce?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Polish,pol-POL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Polish,pol-POL,Kalkulatorclose
+MAT/MA118-MovingTruck,3,2,Polish,pol-POL,PISA
+MAT/MA118-MovingTruck,3,3,Polish,pol-POL,"CIĘŻARÓWKA DO PRZEPROWADZEK
+Wymiary wewnętrznej przestrzeni ładunkowej
+Rozmiar ciężarówki
+Długość podłogi
+Szerokość podłogi
+Wysokość
+A
+4 metry
+2 metry
+2 metry
+Wymiary pudełka
+Rozmiar pudełka
+Długość
+Szerokość
+Wysokość
+Średnie
+0,5 metra
+0,5 metra
+0,5 metra
+Duże
+0,5 metra
+0,5 metra
+0,75 metra"
+MAT/MA118-MovingTruck,3,4,Polish,pol-POL,"Ciężarówka do przeprowadzek   Pytanie 2 / 2
+Zapoznaj się z informacjami do zadania „Ciężarówka do przeprowadzek” po prawej stronie. Kliknij, aby wybrać odpowiedź.
+Firma wypożyczająca ciężarówki stwierdziła, że aby wykorzystać całą przestrzeń ładunkową, ciężarówka A może zostać wypełniona wyłącznie średnimi pudełkami.
+Zdaniem Marty średnie pudełko zajmuje 2/3 objętości dużego pudełka, więc wywnioskowała ona, że liczba dużych pudełek, które wypełnią ciężarówkę A, jest równa 2/3 liczby średnich pudełek.
+Które z poniższych stwierdzeń dotyczących wniosku Marty jest prawdziwe?
+Marta ma rację, ponieważ wysokość pudełka średniego wynosi 2/3 wysokości pudełka dużego.
+Marta ma rację, ponieważ 3 pudełka średnie zmieszczą się zawsze w tej samej przestrzeni co 2 pudełka duże.
+Marta nie ma racji, ponieważ żaden z wymiarów wnętrza ciężarówki A nie jest wielokrotnością wartości 0,75, która jest wysokością pudełka dużego.
+Marta nie ma racji, ponieważ wysokość pudełka dużego jest 1,5 raza większa od wysokości pudełka średniego."
+MAT/MA118-MovingTruck,3,5,Polish,pol-POL,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Portuguese,por-PRT,Calculadoraclose
+MAT/MA118-MovingTruck,1,2,Portuguese,por-PRT,PISA
+MAT/MA118-MovingTruck,1,3,Portuguese,por-PRT,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,4,Portuguese,por-PRT,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,5,Portuguese,por-PRT,"Carrinha das mudanças  Introdução
+Lê a introdução. Depois clica na seta SEGUINTE.
+CARRINHA DAS MUDANÇAS
+A família da Mara está a mudar de casa.
+Para fazer a mudança, pode escolher entre dois modelos de carrinhas para alugar com tamanhos diferentes. As dimensões do compartimento de armazenamento interior das carrinhas são apresentadas na tabela seguinte. Todas as paredes e o chão do compartimento de armazenamento interior são retângulos.
+Modelo da carrinha
+Comprimento do chão
+Largura do chão
+Altura
+A
+4 metros
+2 metros
+2 metros
+B
+6,6 metros
+2,3 metros
+2,3 metros
+Estão disponíveis caixas de três tamanhos diferentes. As dimensões dessas caixas são apresentadas na tabela seguinte.
+Modelo da caixa
+Comprimento
+Largura
+Altura
+Pequena
+0,4 metros
+0,3 metros
+0,3 metros
+Média
+0,5 metros
+0,5 metros
+0,5 metros
+Grande
+0,5 metros
+0,5 metros
+0,75 metros"
+MAT/MA118-MovingTruck,2,1,Portuguese,por-PRT,Calculadoraclose
+MAT/MA118-MovingTruck,2,2,Portuguese,por-PRT,PISA
+MAT/MA118-MovingTruck,2,3,Portuguese,por-PRT,"CARRINHA DAS MUDANÇAS
+Dimensões do compartimento de armazenamento interior
+Modelo da carrinha
+Comprimento do chão
+Largura do chão
+Altura
+A
+4 metros
+2 metros
+2 metros
+Dimensões da caixa
+Modelo da caixa
+Comprimento
+Largura
+Altura
+Médio
+0,5 metros
+0,5 metros
+0,5 metros"
+MAT/MA118-MovingTruck,2,4,Portuguese,por-PRT,"Carrinha das mudanças  Questão 1 / 2
+Considera a informação em «Carrinha das mudanças», apresentada à direita.  Para responderes à questão, seleciona uma opção.
+A família da Mara decide alugar a carrinha A.
+Qual é o maior número de caixas médias que cabe na carrinha A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Portuguese,por-PRT,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Portuguese,por-PRT,Calculadoraclose
+MAT/MA118-MovingTruck,3,2,Portuguese,por-PRT,PISA
+MAT/MA118-MovingTruck,3,3,Portuguese,por-PRT,"CARRINHA DAS MUDANÇAS
+Dimensões do compartimento de armazenamento interior
+Modelo da carrinha
+Comprimento do chão
+Largura do chão
+Altura
+A
+4 metros
+2 metros
+2 metros
+Dimensões da caixa
+Modelo da caixa
+Comprimento
+Largura
+Altura
+Médio
+0,5 metros
+0,5 metros
+0,5 metros
+Grande
+0,5 metros
+0,5 metros
+0,75 metros"
+MAT/MA118-MovingTruck,3,4,Portuguese,por-PRT,"Carrinha das mudanças  Questão 2 / 2
+Considera a informação em «Carrinha das mudanças», apresentada à direita.  Para responderes à questão, seleciona uma opção.
+A empresa que aluga as carrinhas confirmou que é possível preencher completamente o espaço do compartimento de armazenamento da carrinha A, utilizando apenas caixas de tamanho médio.
+A Mara afirma que uma caixa média ocupa 2/3 do espaço ocupado por uma caixa grande, por isso conclui que o número de caixas grandes necessárias para encher a carrinha A é 2/3 do número de caixas médias.
+Qual das afirmações seguintes acerca da conclusão da Mara é verdadeira?
+Ela tem razão, porque a altura de uma caixa média é 2/3 da altura de uma caixa grande.
+Ela tem razão, porque é possível colocar 3 caixas médias no espaço que ocupariam 2 caixas grandes.
+Ela não tem razão, porque nenhuma das dimensões do compartimento interior da carrinha A é múltiplo de 0,75, que é a altura da caixa grande.
+Ela não tem razão, porque a altura da caixa grande é 1,5 vezes a altura da caixa média."
+MAT/MA118-MovingTruck,3,5,Portuguese,por-PRT,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Russian,rus-KAZ,Калькуляторclose
+MAT/MA118-MovingTruck,1,2,Russian,rus-KAZ,PISA 2022
+MAT/MA118-MovingTruck,1,3,Russian,rus-KAZ,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Russian,rus-KAZ,"Грузовик для переезда   Введение
+Прочитайте введение. Затем кликните мышью по кнопке «ДАЛЕЕ».
+ГРУЗОВИК ДЛЯ ПЕРЕЕЗДА
+Семья Маши переезжает.
+Они могут выбрать для аренды один из двух размеров грузовиков для переезда. Габариты внутреннего грузового отсека грузовиков показаны в таблице ниже. Все стены и пол грузового отсека грузовиков имеют прямоугольную форму.
+Размер грузовика
+Длина пола
+Ширина пола
+Высота
+A
+4 метра
+2 метра
+2 метра
+Б
+6,6 метров
+2,3 метра
+2,3 метра
+Доступны три разных размера коробок. Габариты этих коробок приведены в таблице ниже.
+Размер коробки
+Длина
+Ширина
+Высота
+Маленькая
+0,4 метра
+0,3 метра
+0,3 метра
+Средняя
+0,5 метра
+0,5 метра
+0,5 метра
+Большая
+0,5 метра
+0,5 метра
+0,75 метра"
+MAT/MA118-MovingTruck,1,5,Russian,rus-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Russian,rus-KAZ,Калькуляторclose
+MAT/MA118-MovingTruck,2,2,Russian,rus-KAZ,PISA 2022
+MAT/MA118-MovingTruck,2,3,Russian,rus-KAZ,"ГРУЗОВИК ДЛЯ ПЕРЕЕЗДА
+Размеры внутреннего грузового отсека
+Размер грузовика
+Длина пола
+Ширина пола
+Высота
+A
+4 метра
+2 метра
+2 метра
+Габариты коробки
+Размер коробки
+Длина
+Ширина
+Высота
+Средняя
+0,5 метра
+0,5 метра
+0,5 метра"
+MAT/MA118-MovingTruck,2,4,Russian,rus-KAZ,"Грузовик для переезда   Вопрос 1 / 2
+Посмотрите на задание «Грузовик для переезда» справа. Выберите ответ и кликните по нему мышью.
+Семья Маши решила арендовать грузовик А.
+Какое наибольшее количество средних коробок может поместиться в грузовик А?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Russian,rus-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Russian,rus-KAZ,Калькуляторclose
+MAT/MA118-MovingTruck,3,2,Russian,rus-KAZ,PISA 2022
+MAT/MA118-MovingTruck,3,3,Russian,rus-KAZ,"ГРУЗОВИК ДЛЯ ПЕРЕЕЗДА
+Размеры внутреннего грузового отсека
+Размер грузовика
+Длина пола
+Ширина пола
+Высота
+A
+4 метра
+2 метра
+2 метра
+Габариты коробки
+Размер коробки
+Длина
+Ширина
+Высота
+Средняя
+0,5 метра
+0,5 метра
+0,5 метра
+Большая
+0,5 метра
+0,5 метра
+0,75 метра"
+MAT/MA118-MovingTruck,3,4,Russian,rus-KAZ,"Грузовик для переезда   Вопрос 2 / 2
+Посмотрите на задание «Грузовик для переезда» справа. Выберите ответ и кликните по нему мышью.
+Компания, которая предоставляет в аренду грузовики, подтвердила, что грузовик А можно заполнять, используя только средние коробки, чтобы использовать все пространство в грузовом отсеке.
+Маша утверждает, что средняя коробка занимает 2/3 пространства большой коробки, поэтому она приходит к выводу, что количество больших коробок, которые будут заполнять грузовик А, составляет 2/3 от количества средних коробок.
+Какое из следующих утверждений о выводах Маши верно?
+Она права, потому что высота средней коробки составляет 2/3 высоты большой коробки.
+Она права, потому что 3 средних коробки всегда можно уместить в то же самое пространство, что и 2 больших коробки.
+Она не права, потому что ни один из габаритов внутреннего грузового отсека грузовика А не кратен 0,75, что является высотой большой коробки.
+Она не права, потому что высота большой коробки в 1,5 раза больше высоты средней коробки."
+MAT/MA118-MovingTruck,3,5,Russian,rus-KAZ,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Serbian / Serb,srp-SRB,Kalkulatorclose
+MAT/MA118-MovingTruck,1,2,Serbian / Serb,srp-SRB,PISA 2022
+MAT/MA118-MovingTruck,1,3,Serbian / Serb,srp-SRB,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Serbian / Serb,srp-SRB,"Kamion za selidbu  Uvod
+Pročitaj uvod, zatim klikni na strelicu DALJE.
+KAMION ZA SELIDBU
+Marinina porodica se seli.
+Mogu da biraju između dve veličine kamiona za iznajmljivanje. Unutrašnje dimenzije prtljažnika kamiona prikazane su u donjoj tabeli. Svi zidovi i pod prtljažnika su u obliku pravougaonika.
+Veličina kamiona
+Dužina poda
+Širina poda
+Visina
+A
+4 metra
+2 metra
+2 metra
+B
+6,6 metara
+2,3 metra
+2,3 metra
+Na raspolaganju su im tri različite veličine kutija. Dimenzije ovih kutija prikazane su u donjoj tabeli.
+Veličina kutije
+Dužina
+Širina
+Visina
+Mala
+0,4 metra
+0,3 metra
+0,3 metra
+Srednja
+0,5 metara
+0,5 metara
+0,5 metara
+Velika
+0,5 metara
+0,5 metara
+0,75 metara"
+MAT/MA118-MovingTruck,1,5,Serbian / Serb,srp-SRB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Serbian / Serb,srp-SRB,Kalkulatorclose
+MAT/MA118-MovingTruck,2,2,Serbian / Serb,srp-SRB,PISA 2022
+MAT/MA118-MovingTruck,2,3,Serbian / Serb,srp-SRB,"KAMION ZA SELIDBU
+Unutrašnje dimenzije prtljažnika
+Veličina kamiona
+Dužina poda
+Širina poda
+Visina
+A
+4 metra
+2 metra
+2 metra
+Dimenzije kutija
+Veličina kutije
+Dužina
+Širina
+Visina
+Srednja
+0,5 metara
+0,5 metara
+0,5 metara"
+MAT/MA118-MovingTruck,2,4,Serbian / Serb,srp-SRB,"Kamion za selidbu  Pitanje 1 / 2
+Koristi informacije iz teksta „Kamion za selidbu“ sa desne strane. Odgovori na pitanje tako što ćeš kliknuti ispred izabranog odgovora.
+Marinina porodica je odlučila da iznajmi kamion A.
+Koliko najviše kutija srednje veličine može da stane u kamion A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Serbian / Serb,srp-SRB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Serbian / Serb,srp-SRB,Kalkulatorclose
+MAT/MA118-MovingTruck,3,2,Serbian / Serb,srp-SRB,PISA 2022
+MAT/MA118-MovingTruck,3,3,Serbian / Serb,srp-SRB,"KAMION ZA SELIDBU
+Unutrašnje dimenzije prtljažnika
+Veličina kamiona
+Dužina poda
+Širina poda
+Visina
+A
+4 metra
+2 metra
+2 metra
+Dimenzije kutija
+Veličina kutije
+Dužina
+Širina
+Visina
+Srednja
+0,5 metara
+0,5 metara
+0,5 metara
+Velika
+0,5 metara
+0,5 metara
+0,75 metara"
+MAT/MA118-MovingTruck,3,4,Serbian / Serb,srp-SRB,"Kamion za selidbu  Pitanje 2 / 2
+Koristi informacije iz teksta „Kamion za selidbu“ sa desne strane. Odgovori na pitanje tako što ćeš kliknuti ispred izabranog odgovora.
+Kompanija koja iznajmljuje kamione potvrdila je da se kamion A može napuniti do vrha samo kutijama srednje veličine tako da bude iskorišten čitav prtljažnik.
+Marina tvrdi da kutija srednje veličine zauzima 2/3 prostora velike kutije, pa zaključuje da je broj velikih kutija kojima bi se ispunio kamion A jednak 2/3 broja srednjih kutija.
+Koja od sledećih tvrdnji o Marininom zaključku je tačna?
+U pravu je, jer je visina kutije srednje veličine 2/3 visine velike kutije.
+U pravu je, jer tri kutije srednje veličine uvek mogu da zauzmu isti prostor kao 2 velike kutije.
+Nije u pravu, jer nijedna od unutrašnjih dimenzija prtljažnika kamiona A nije proizvod 0,75, što je visina velike kutije.
+Nije u pravu, jer je visina velike kutije 1,5 puta veća od visine srednje kutije."
+MAT/MA118-MovingTruck,3,5,Serbian / Serb,srp-SRB,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Slovak,slo-SVK,Kalkulačkaclose
+MAT/MA118-MovingTruck,1,2,Slovak,slo-SVK,PISA
+MAT/MA118-MovingTruck,1,3,Slovak,slo-SVK,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Slovak,slo-SVK,"Sťahovacie auto   Úvod
+Prečítaj si úvod. Potom klikni na šípku ĎALEJ.
+SŤAHOVACIE AUTO
+Máriina rodina sa sťahuje.
+Pri prenájme sťahovacieho auta si môžu vybrať z dvoch veľkostí. Vnútorné rozmery úložného priestoru týchto sťahovacích áut sú uvedené v nasledujúcej tabuľke. Všetky steny a podlaha úložného priestoru sťahovacích áut majú tvar obdĺžnika.
+Veľkosť sťahovacieho auta
+Dĺžka podlahy
+Šírka podlahy
+Výška
+A
+4 metre
+2 metre
+2 metre
+B
+6,6 metra
+2,3 metra
+2,3 metra
+K dispozícii sú tri rôzne veľkosti škatúľ. Rozmery týchto škatúľ sú uvedené v nasledujúcej tabuľke.
+Veľkosť škatule
+Dĺžka
+Šírka
+Výška
+malá
+0,4 metra
+0,3 metra
+0,3 metra
+stredne veľká
+0,5 metra
+0,5 metra
+0,5 metra
+veľká
+0,5 metra
+0,5 metra
+0,75 metra"
+MAT/MA118-MovingTruck,1,5,Slovak,slo-SVK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Slovak,slo-SVK,Kalkulačkaclose
+MAT/MA118-MovingTruck,2,2,Slovak,slo-SVK,PISA
+MAT/MA118-MovingTruck,2,3,Slovak,slo-SVK,"SŤAHOVACIE AUTO
+Vnútorné rozmery úložného priestoru
+Veľkosť sťahovacieho auta
+Dĺžka podlahy
+Šírka podlahy
+Výška
+A
+4 metre
+2 metre
+2 metre
+Rozmery škatule
+Veľkosť škatule
+Dĺžka
+Šírka
+Výška
+stredne veľká
+0,5 metra
+0,5 metra
+0,5 metra"
+MAT/MA118-MovingTruck,2,4,Slovak,slo-SVK,"Sťahovacie auto   Otázka 1 / 2
+Použi informácie z materiálu „Sťahovacie auto“ na pravej strane. Klikni na jednu z možností a odpovedz tak na otázku.
+Máriina rodina sa rozhodla, že si prenajme sťahovacie auto A.
+Aký je najväčší počet stredne veľkých škatúľ, ktoré sa zmestia do sťahovacieho auta A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Slovak,slo-SVK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Slovak,slo-SVK,Kalkulačkaclose
+MAT/MA118-MovingTruck,3,2,Slovak,slo-SVK,PISA
+MAT/MA118-MovingTruck,3,3,Slovak,slo-SVK,"SŤAHOVACIE AUTO
+Vnútorné rozmery úložného priestoru
+Veľkosť sťahovacieho auta
+Dĺžka podlahy
+Šírka podlahy
+Výška
+A
+4 metre
+2 metre
+2 metre
+Rozmery škatule
+Veľkosť škatule
+Dĺžka
+Šírka
+Výška
+stredne veľká
+0,5 metra
+0,5 metra
+0,5 metra
+veľká
+0,5 metra
+0,5 metra
+0,75 metra"
+MAT/MA118-MovingTruck,3,4,Slovak,slo-SVK,"Sťahovacie auto   Otázka 2 / 2
+Použi informácie z materiálu „Sťahovacie auto“ na pravej strane. Klikni na jednu z možností a odpovedz tak na otázku.
+Spoločnosť prenajímajúca sťahovacie autá uviedla, že úložný priestor sťahovacieho auta A je možné celkom vyplniť tak, že použijeme iba stredne veľké škatule.
+Mária tvrdí, že stredne veľká škatuľa zaberá 2/3 priestoru veľkej škatule, takže usúdila, že počet veľkých škatúľ, ktoré zaplnia úložný priestor sťahovacieho auta A, predstavuje 2/3 počtu stredne veľkých škatúľ.
+Ktoré z nasledujúcich tvrdení týkajúcich sa Máriinho úsudku je pravdivé?
+Má pravdu, pretože výška stredne veľkej škatule predstavuje 2/3 výšky veľkej škatule.
+Má pravdu, pretože 3 stredne veľké škatule zaberú vždy rovnaký priestor ako 2 veľké škatule.
+Nemá pravdu, pretože žiadny z vnútorných rozmerov sťahovacieho auta A nie je násobkom čísla 0,75, čo je výška veľkej škatule.
+Nemá pravdu, pretože výška veľkej škatule je 1,5-násobkom výšky stredne veľkej škatule."
+MAT/MA118-MovingTruck,3,5,Slovak,slo-SVK,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Slovenian,slv-SVN,Računaloclose
+MAT/MA118-MovingTruck,1,2,Slovenian,slv-SVN,PISA
+MAT/MA118-MovingTruck,1,3,Slovenian,slv-SVN,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Slovenian,slv-SVN,"Selitveni tovornjak   Uvod
+Preberi uvod. Nato klikni puščico »NAPREJ«.
+SELITVENI TOVORNJAK
+Marina družina se seli.
+Najeli bodo selitveni tovornjak in na izbiro imajo dve velikosti. Notranje dimenzije prostora za tovor na vsakem tovornjaku so prikazane v spodnji tabeli. Vse stene in dno prostora za tovor imajo obliko pravokotnika.
+Velikost tovornjaka
+Dolžina dna
+Širina dna
+Višina
+A
+4 metre
+2 metra
+2 metra
+B
+6,6 metra
+2,3 metra
+2,3 metra
+Na voljo imajo škatle v treh različnih velikostih. Dimenzije škatel so navedene v spodnji tabeli.
+Velikost škatle
+Dolžina
+Širina
+Višina
+Majhna
+0,4 metra
+0,3 metra
+0,3 metra
+Srednja
+0,5 metra
+0,5 metra
+0,5 metra
+Velika
+0,5 metra
+0,5 metra
+0,75 metra"
+MAT/MA118-MovingTruck,1,5,Slovenian,slv-SVN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Slovenian,slv-SVN,Računaloclose
+MAT/MA118-MovingTruck,2,2,Slovenian,slv-SVN,PISA
+MAT/MA118-MovingTruck,2,3,Slovenian,slv-SVN,"SELITVENI TOVORNJAK
+Notranje dimenzije prostora za tovor
+Velikost tovornjaka
+Dolžina dna
+Širina dna
+Višina
+A
+4 metre
+2 metra
+2 metra
+Dimenzije škatel
+Velikost škatle
+Dolžina
+Širina
+Višina
+Srednja
+0,5 metra
+0,5 metra
+0,5 metra"
+MAT/MA118-MovingTruck,2,4,Slovenian,slv-SVN,"Selitveni tovornjak   Vprašanje 1 / 2
+Pomagaj si z besedilom ""Selitveni tovornjak"" na desni. Na vprašanje odgovori tako, da klikneš eno izmed možnosti.
+Marina družina se odloči, da bo najela tovornjak A.
+Kolikšno je največje število srednje velikih škatel, ki jih bodo lahko naložili na tovornjak A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Slovenian,slv-SVN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Slovenian,slv-SVN,Računaloclose
+MAT/MA118-MovingTruck,3,2,Slovenian,slv-SVN,PISA
+MAT/MA118-MovingTruck,3,3,Slovenian,slv-SVN,"SELITVENI TOVORNJAK
+Notranje dimenzije prostora za tovor
+Velikost tovornjaka
+Dolžina dna
+Širina dna
+Višina
+A
+4 metre
+2 metra
+2 metra
+Dimenzije škatel
+Velikost škatle
+Dolžina
+Širina
+Višina
+Srednja
+0,5 metra
+0,5 metra
+0,5 metra
+Velika
+0,5 metra
+0,5 metra
+0,75 metra"
+MAT/MA118-MovingTruck,3,4,Slovenian,slv-SVN,"Selitveni tovornjak   Vprašanje 2 / 2
+Pomagaj si z besedilom ""Selitveni tovornjak"" na desni. Na vprašanje odgovori tako, da klikneš eno izmed možnosti.
+Podjetje, ki oddaja tovornjake v najem, je potrdilo, da lahko tovornjak A napolnimo tako, da je izkoriščen ves prostor za tovor, če uporabimo samo srednje velike škatle.
+Mara trdi, da srednje velika škatla zasede 2/3 prostora velike škatle, zato sklepa, da je število velikih škatel, s katerimi bi napolnili tovornjak A, enako 2/3 števila srednje velikih škatel.
+Katera izmed naslednjih trditev o Marinem sklepu drži?
+Mara ima prav, saj je višina srednje velike škatle enaka 2/3 višine velike škatle.
+Mara ima prav, saj 3 srednje velike škatle vedno lahko spravimo v enak prostor kot 2 veliki škatli.
+Mara nima prav, saj nobena izmed notranjih dimenzij prostora za tovor na tovornjaku A ni večkratnik 0,75, kolikor je visoka velika škatla.
+Mara nima prav, ker je višina velike škatle 1,5-kratnik višine srednje velike škatle."
+MAT/MA118-MovingTruck,3,5,Slovenian,slv-SVN,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,1,1,Spanish,esp-ESP,Calculadoraclose
+MAT/MA118-MovingTruck,1,2,Spanish,esp-ESP,PISA
+MAT/MA118-MovingTruck,1,3,Spanish,esp-ESP,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Spanish,esp-ESP,"Camión de mudanza  Introducción
+Lee la introducción. Después pulsa en la flecha SIGUIENTE.
+CAMIÓN DE MUDANZA
+La familia de María está de mudanza.
+Van a alquilar un camión de mudanza y pueden elegir entre dos tamaños diferentes. En la tabla de abajo se muestran las dimensiones interiores del compartimento de carga de los camiones. Tanto las paredes como el suelo del compartimento de carga son rectángulos.
+Tamaño del camión
+Longitud del suelo
+Anchura del suelo
+Altura
+A
+4 metros
+2 metros
+2 metros
+B
+6,6 metros
+2,3 metros
+2,3 metros
+Tienen a su disposición cajas de tres tamaños diferentes. En la tabla de abajo se muestran las dimensiones de las cajas.
+Tamaño de la caja
+Longitud
+Anchura
+Altura
+Pequeño
+0,4 metros
+0,3 metros
+0,3 metros
+Mediano
+0,5 metros
+0,5 metros
+0,5 metros
+Grande
+0,5 metros
+0,5 metros
+0,75 metros"
+MAT/MA118-MovingTruck,1,5,Spanish,esp-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,2,1,Spanish,esp-ESP,Calculadoraclose
+MAT/MA118-MovingTruck,2,2,Spanish,esp-ESP,PISA
+MAT/MA118-MovingTruck,2,3,Spanish,esp-ESP,"CAMIÓN DE MUDANZA
+Dimensiones interiores del compartimento de carga
+Tamaño del camión
+Longitud del suelo
+Anchura del suelo
+Altura
+A
+4 metros
+2 metros
+2 metros
+Dimensiones de las cajas
+Tamaño de la caja
+Longitud
+Anchura
+Altura
+Mediano
+0,5 metros
+0,5 metros
+0,5 metros"
+MAT/MA118-MovingTruck,2,4,Spanish,esp-ESP,"Camión de mudanza  Pregunta 1 / 2
+Lee ""Camión de mudanza"" a la derecha. Pulsa en una opción para responder a la pregunta.
+La familia de María decide alquilar el camión A.
+¿Cuál es el mayor número de cajas de tamaño mediano que cabrían en el camión A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Spanish,esp-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,1,Spanish,esp-ESP,Calculadoraclose
+MAT/MA118-MovingTruck,3,2,Spanish,esp-ESP,PISA
+MAT/MA118-MovingTruck,3,3,Spanish,esp-ESP,"CAMIÓN DE MUDANZA
+Dimensiones interiores del compartimento de carga
+Tamaño del camión
+Longitud del suelo
+Anchura del suelo
+Altura
+A
+4 metros
+2 metros
+2 metros
+Dimensiones de las cajas
+Tamaño de la caja
+Longitud
+Anchura
+Altura
+Mediano
+0,5 metros
+0,5 metros
+0,5 metros"
+MAT/MA118-MovingTruck,3,4,Spanish,esp-ESP,"Camión de mudanza  Pregunta 1 / 2
+Lee ""Camión de mudanza"" a la derecha. Pulsa en una opción para responder a la pregunta.
+La familia de María decide alquilar el camión A.
+¿Cuál es el mayor número de cajas de tamaño mediano que cabrían en el camión A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,3,5,Spanish,esp-ESP,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+/
+7
+8
+9
+*
+4
+5
+6
+–
+1
+2
+3
++
+0
+,
++/-
+="
+MAT/MA118-MovingTruck,3,6,Spanish,esp-ESP,"Confirmaciónclose
+OK"
+MAT/MA118-MovingTruck,3,7,Spanish,esp-ESP,"Esta es la retroalimentación de CMA118Q01 en ecastellano.
+En la primera pregunta de esta unidad, se les dice a los estudiantes que la familia va a alquilar el camión A, y se les pide calcular el mayor número de cajas de tamaño medio que pueden caber dentro del camión A. En el panel derecho, las tablas de la introducción se repiten, tan solo con las dimensiones del camión A y de las cajas de tamaño medio. Esta es una pregunta fácil para los estudiantes, sobre todo porque las dimensiones de una caja de tamaño medio son las mismas, por lo que no necesitan pensar en formas distintas de colocar las cajas dentro del camión.
+A partir de la información de las tablas, los estudiantes pudieron calcular que en el “suelo” del camión cabían 32 cajas [esto es: (4 ÷ 0,5) * (2 ÷ 0,5)] dispuestas en 8 * 4, lo que supone una capa de cajas. El camión es lo suficientemente alto como para apilar cuatro cajas (esto es: 2 ÷ 0,5), por lo que el número total de cajas de tamaño medio que caben en el camión A es 8 * 4 * 4 = 128. Las opciones de respuesta alternativas se generaron a partir de varios usos incorrectos del área de superficie, así como del volumen del camión y/o de la caja.
+Nombre unidad - ID pregunta
+Camión de mudanza - CMA118Q01
+Área de contenido
+Espacio y forma
+Proceso
+Emplear
+Contexto
+Personal
+Formato de pregunta
+Opción múltiple simple - codificada por ordenador
+Respuesta
+128
+Dificultad estimada
+Nivel 2"
+MAT/MA118-MovingTruck,1,1,Swedish,swe-SWE,Miniräknareclose
+MAT/MA118-MovingTruck,1,2,Swedish,swe-SWE,PISA
+MAT/MA118-MovingTruck,1,3,Swedish,swe-SWE,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Swedish,swe-SWE,"Flyttbil    Introduktion
+Läs introduktionen.  Klicka sedan på pilen NÄSTA.
+FLYTTBIL
+Marias familj ska flytta.
+De ska hyra en flyttbil och kan välja mellan två olika storlekar.  Flyttbilarnas innermått anges i tabellen nedan.  Alla väggar och golvet i lastutrymmet är rektangulära.
+Flyttbilens storlek
+Golvets längd
+Golvets bredd
+Höjd
+A
+4 meter
+2 meter
+2 meter
+B
+6,6 meter
+2,3 meter
+2,3 meter
+Det finns flyttlådor i tre olika storlekar.  Måtten på flyttlådorna visas i tabellen nedan.
+Flyttlådornas storlek
+Längd
+Bredd
+Höjd
+Liten
+0,4 meter
+0,3 meter
+0,3 meter
+Mellanstor
+0,5 meter
+0,5 meter
+0,5 meter
+Stor
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,1,5,Swedish,swe-SWE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Swedish,swe-SWE,Miniräknareclose
+MAT/MA118-MovingTruck,2,2,Swedish,swe-SWE,PISA
+MAT/MA118-MovingTruck,2,3,Swedish,swe-SWE,"FLYTTBIL
+Lastutrymmets storlek
+Flyttbilens storlek
+Golvets längd
+Golvets bredd
+Höjd
+A
+4 meter
+2 meter
+2 meter
+Flyttlådornas mått
+Flyttlådornas storlek
+Längd
+Bredd
+Höjd
+Mellanstor
+0,5 meter
+0,5 meter
+0,5 meter"
+MAT/MA118-MovingTruck,2,4,Swedish,swe-SWE,"Flyttbil    Fråga 1 / 2
+Utgå från ""Flyttbil"" till höger.  Svara på frågan genom att markera ett av alternativen.
+Marias familj bestämmer sig för att hyra flyttbil A.
+Vilket är det största antalet mellanstora flyttlådor som får plats i flyttbil A?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Swedish,swe-SWE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Swedish,swe-SWE,Miniräknareclose
+MAT/MA118-MovingTruck,3,2,Swedish,swe-SWE,PISA
+MAT/MA118-MovingTruck,3,3,Swedish,swe-SWE,"FLYTTBIL
+Lastutrymmets storlek
+Flyttbilens storlek
+Golvets längd
+Golvets bredd
+Höjd
+A
+4 meter
+2 meter
+2 meter
+Flyttlådornas mått
+Flyttlådornas storlek
+Längd
+Bredd
+Höjd
+Mellanstor
+0,5 meter
+0,5 meter
+0,5 meter
+Stor
+0,5 meter
+0,5 meter
+0,75 meter"
+MAT/MA118-MovingTruck,3,4,Swedish,swe-SWE,"Flyttbil    Fråga 2 / 2
+Utgå från ""Flyttbil"" till höger.  Svara på frågan genom att markera ett av alternativen.
+Företaget som hyr ut flyttbilarna bekräftade att hela lastutrymmet i flyttbil A kan utnyttjas genom att enbart fylla det med mellanstora lådor.
+Maria påstår att en mellanstor låda tar upp 2/3 av utrymmet som en stor låda tar upp, så hon kommer fram till att antalet stora lådor som kommer att fylla flyttbilen är 2/3 av antalet mellanstora lådor.
+Vilket av följande påståenden om Marias slutsats är sant?
+Hon har rätt eftersom höjden på en mellanstor låda är 2/3 av höjden på en stor låda.
+Hon har rätt eftersom 3 mellanstora lådor alltid får plats på samma utrymme som 2 stora lådor.
+Hon har inte rätt eftersom ingen av de inre dimensionerna i lastutrymmet i flyttbil A är delbar med 0,75, vilket är höjden på en stor låda.
+Hon har inte rätt eftersom höjden på en stor låda är 1,5 gånger höjden på en mellanstor låda."
+MAT/MA118-MovingTruck,3,5,Swedish,swe-SWE,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Thai,tha-THA,เครื่องคิดเลขclose
+MAT/MA118-MovingTruck,1,2,Thai,tha-THA,PISA
+MAT/MA118-MovingTruck,1,3,Thai,tha-THA,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Thai,tha-THA,"รถขนย้าย   บทนำ
+เมื่ออ่านบทนำแล้ว ให้คลิกที่ลูกศรถัดไป
+รถขนย้าย
+ครอบครัวของมะลิกำลังจะย้ายบ้าน
+พวกเขาตัดสินใจจะเช่ารถขนย้ายซึ่งมีสองขนาดให้เลือก ขนาดของห้องเก็บของภายในรถแสดงดังตารางข้างล่าง ทุกด้านของผนังและพื้นของห้องเก็บของภายในรถเป็นรูปสี่เหลี่ยมผืนผ้า
+ขนาดของรถ
+ความยาวของพื้น
+ความกว้างของพื้น
+ความสูง
+A
+4 เมตร
+2 เมตร
+2 เมตร
+B
+6.6 เมตร
+2.3 เมตร
+2.3 เมตร
+มีกล่องอยู่สามขนาดให้เลือก ขนาดของกล่องเหล่านี้แสดงดังตารางข้างล่าง
+ขนาดของกล่อง
+ความยาว
+ความกว้าง
+ความสูง
+เล็ก
+0.4 เมตร
+0.3 เมตร
+0.3 เมตร
+กลาง
+0.5 เมตร
+0.5 เมตร
+0.5 เมตร
+ใหญ่
+0.5 เมตร
+0.5 เมตร
+0.75 เมตร"
+MAT/MA118-MovingTruck,1,5,Thai,tha-THA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Thai,tha-THA,เครื่องคิดเลขclose
+MAT/MA118-MovingTruck,2,2,Thai,tha-THA,PISA
+MAT/MA118-MovingTruck,2,3,Thai,tha-THA,"รถขนย้าย
+ขนาดของห้องเก็บของภายในรถ
+ขนาดของรถ
+ความยาวของพื้น
+ความกว้างของพื้น
+ความสูง
+A
+4 เมตร
+2 เมตร
+2 เมตร
+ขนาดของกล่อง
+ขนาดของกล่อง
+ความยาว
+ความกว้าง
+ความสูง
+กลาง
+0.5 เมตร
+0.5 เมตร
+0.5 เมตร"
+MAT/MA118-MovingTruck,2,4,Thai,tha-THA,"รถขนย้าย   คำถามที่ 1 / 2
+จากเรื่อง “รถขนย้าย” ทางด้านขวา ให้คลิกหนึ่งตัวเลือกเพื่อตอบคำถาม
+ครอบครัวของมะลิตัดสินใจเช่ารถ A
+รถ A สามารถบรรจุกล่องขนาดกลางจนเต็มพอดีได้มากที่สุดเป็นจำนวนเท่าใด
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Thai,tha-THA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Thai,tha-THA,เครื่องคิดเลขclose
+MAT/MA118-MovingTruck,3,2,Thai,tha-THA,PISA
+MAT/MA118-MovingTruck,3,3,Thai,tha-THA,"รถขนย้าย
+ขนาดของห้องเก็บของภายในรถ
+ขนาดของรถ
+ความยาวของพื้น
+ความกว้างของพื้น
+ความสูง
+A
+4 เมตร
+2 เมตร
+2 เมตร
+ขนาดของกล่อง
+ขนาดของกล่อง
+ความยาว
+ความกว้าง
+ความสูง
+กลาง
+0.5 เมตร
+0.5 เมตร
+0.5 เมตร
+ใหญ่
+0.5 เมตร
+0.5 เมตร
+0.75 เมตร"
+MAT/MA118-MovingTruck,3,4,Thai,tha-THA,"รถขนย้าย   คำถามที่ 2 / 2
+จากเรื่อง “รถขนย้าย” ทางด้านขวา ให้คลิกหนึ่งตัวเลือกเพื่อตอบคำถาม
+บริษัทให้เช่ารถยืนยันว่า ต้องใช้กล่องขนาดกลางเท่านั้นจึงสามารถใช้เนื้อที่ห้องเก็บของภายในรถ A ได้เต็มพิกัด
+มะลิกล่าวว่า กล่องขนาดกลางหนึ่งใบใช้เนื้อที่เป็น 2/3 ของเนื้อที่กล่องขนาดใหญ่  ดังนั้นเธอจึงสรุปว่าจำนวนของกล่องขนาดใหญ่ที่ใส่ในรถ A ได้จะเป็น 2/3 ของจำนวนกล่องขนาดกลาง
+ข้อความเกี่ยวกับข้อสรุปของมะลิต่อไปนี้ ข้อความใดถูกต้อง
+เธอพูดถูกต้อง เพราะความสูงของกล่องขนาดกลางเป็น 2/3 ของความสูงของกล่องขนาดใหญ่
+เธอพูดถูกต้อง เพราะกล่องขนาดกลาง 3 ใบ จะใช้เนื้อที่เท่ากับกล่องขนาดใหญ่ 2 ใบ เสมอ
+เธอพูดไม่ถูกต้อง เพราะขนาดของห้องเก็บของภายในรถ A ไม่มีด้านใดเลยที่เป็นพหุคูณของ 0.75 ซึ่งเป็นความสูงของกล่องขนาดใหญ่
+เธอพูดไม่ถูกต้อง เพราะความสูงของกล่องขนาดใหญ่เป็น 1.5 เท่าของความสูงของกล่องขนาดกลาง"
+MAT/MA118-MovingTruck,3,5,Thai,tha-THA,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,1,1,Turkish,tur-TUR,Hesap Makinesiclose
+MAT/MA118-MovingTruck,1,2,Turkish,tur-TUR,PISA
+MAT/MA118-MovingTruck,1,3,Turkish,tur-TUR,"Server Error
+404 - File or directory not found.
+The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+MAT/MA118-MovingTruck,1,4,Turkish,tur-TUR,"Nakliye Kamyonu  Giriş
+Girişi okuyunuz. Sonra İLERİ ok tuşuna tıklayınız.
+NAKLİYE KAMYONU
+Ceren'in ailesi taşınacaktır.
+Kiralamak için iki farklı büyüklükteki nakliye kamyonu arasından seçim yapacaklardır. Kamyonların kasalarının boyutları aşağıdaki tabloda gösterilmektedir. Kamyonların kasasının tüm duvarları ve tabanı dikdörtgen şeklindedir.
+Kamyon
+Taban Uzunluğu
+Taban Genişliği
+Yükseklik
+A
+4 metre
+2 metre
+2 metre
+B
+6,6 metre
+2,3 metre
+2,3 metre
+Üç farklı büyüklükte kutu mevcuttur. Bu kutuların boyutları aşağıdaki tabloda gösterilmiştir.
+Kutu Büyüklüğü
+Uzunluk
+Genişlik
+Yükseklik
+Küçük
+0,4 metre
+0,3 metre
+0,3 metre
+Orta
+0,5 metre
+0,5 metre
+0,5 metre
+Büyük
+0,5 metre
+0,5 metre
+0,75 metre"
+MAT/MA118-MovingTruck,1,5,Turkish,tur-TUR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,2,1,Turkish,tur-TUR,Hesap Makinesiclose
+MAT/MA118-MovingTruck,2,2,Turkish,tur-TUR,PISA
+MAT/MA118-MovingTruck,2,3,Turkish,tur-TUR,"NAKLİYE KAMYONU
+Kasanın Boyutları
+Kamyon
+Taban Uzunluğu
+Taban Genişliği
+Yükseklik
+A
+4 metre
+2 metre
+2 metre
+Kutu Boyutları
+Kutu Büyüklüğü
+Uzunluk
+Genişlik
+Yükseklik
+Orta
+0,5 metre
+0,5 metre
+0,5 metre"
+MAT/MA118-MovingTruck,2,4,Turkish,tur-TUR,"Nakliye Kamyonu  Soru 1 / 2
+Sağdaki “Nakliye Kamyonu”ndan yararlanınız. Soruyu cevaplamak için seçeneklerden birine tıklayınız.
+Ceren'in ailesi A kamyonunu kiralamaya karar veriyor.
+A kamyonuna orta büyüklükte en fazla kaç kutu sığabilir?
+320
+128
+26
+16"
+MAT/MA118-MovingTruck,2,5,Turkish,tur-TUR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
+MAT/MA118-MovingTruck,3,1,Turkish,tur-TUR,Hesap Makinesiclose
+MAT/MA118-MovingTruck,3,2,Turkish,tur-TUR,PISA
+MAT/MA118-MovingTruck,3,3,Turkish,tur-TUR,"NAKLİYE KAMYONU
+Kasanın Boyutları
+Kamyon
+Taban Uzunluğu
+Taban Genişliği
+Yükseklik
+A
+4 metre
+2 metre
+2 metre
+Kutu Boyutları
+Kutu Büyüklüğü
+Uzunluk
+Genişlik
+Yükseklik
+Orta
+0,5 metre
+0,5 metre
+0,5 metre
+Büyük
+0,5 metre
+0,5 metre
+0,75 metre"
+MAT/MA118-MovingTruck,3,4,Turkish,tur-TUR,"Nakliye Kamyonu  Soru 2 / 2
+Sağdaki “Nakliye Kamyonu”ndan yararlanınız. Soruyu cevaplamak için seçeneklerden birine tıklayınız.
+Nakliye şirketi, kiraya verdiği A kamyonunun kasasının sadece orta büyüklükteki kutular kullanılarak hiç boşluk kalmayacak şekilde doldurulabileceğini belirtiyor.
+Ceren orta büyüklükteki kutunun hacminin, büyük kutunun hacminin 2/3'ü olduğunu iddia ediyor. Bu nedenle de A kamyonunu dolduracak büyük kutu sayısının, orta büyüklükteki kutu sayısının 2/3'ü kadar olacağı sonucuna ulaşıyor.
+Ceren'in ulaştığı bu sonuçla ilgili aşağıdaki ifadelerden hangisi doğrudur?
+Ceren'in ulaştığı bu sonuç doğrudur çünkü orta büyüklükteki kutunun yüksekliği büyük kutunun yüksekliğinin 2/3'ü kadardır.
+Ceren'in ulaştığı bu sonuç doğrudur çünkü orta büyüklükteki 3 kutu her zaman 2 büyük kutunun sığdığı yere sığabilir.
+Ceren'in ulaştığı bu sonuç yanlıştır çünkü A kamyonunun kasasının iç boyutlarından hiçbiri, büyük kutunun yüksekliği olan 0,75'in katı değildir.
+Ceren'in ulaştığı bu sonuç yanlıştır çünkü büyük kutunun yüksekliği, orta büyüklükteki kutunun yüksekliğinin 1,5 katıdır."
+MAT/MA118-MovingTruck,3,5,Turkish,tur-TUR,"C
+(
+)
+x2
+yx
+√x
+1/x
+π
+÷
+7
+8
+9
+x
+4
+5
+6
+–
+1
+2
+3
++
+0
+.
++/-
+="
