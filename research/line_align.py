@@ -45,9 +45,34 @@ for _, q in df_eng.iterrows():
     question_lines_eng = split_nonempty_lines(q["question"])
 
     # Parse options from '["A) ...","B) ...",...]'
-    options_eng = ast.literal_eval(q["options"])
-    option_texts_eng = [re.sub(r"^[A-D]\)\s*", "", o).strip() for o in options_eng]
-    option_letters    = [o[0] for o in options_eng]  # "A","B","C","D"
+    raw = json.loads(q["options"])
+
+    option_letters = []
+    option_texts_eng = []   # this is what we’ll use for alignment
+
+    if isinstance(raw, list) and raw and isinstance(raw[0], str):
+        # --- OLD FORMAT: ["A) ...", "B) ...", ...] ---
+        for opt in raw:
+            # letter = first char: "A","B","C","D"
+            letter = opt[0]
+            text   = re.sub(r"^[A-D]\)\s*", "", opt).strip()
+            option_letters.append(letter)
+            option_texts_eng.append(text)
+
+    elif isinstance(raw, list) and raw and isinstance(raw[0], dict):
+        # --- NEW FORMAT: [{"A": ["Yes","Yes","No"]}, {"B": [...]}, ...] ---
+        for d in raw:
+            # each dict has a single key: "A","B","C","D"
+            (letter, pieces), = d.items()
+            option_letters.append(letter)
+
+            # For alignment we need a single string to search in scraped text.
+            # Join pieces with a space (or "|" if you prefer).
+            text = " ".join(pieces)
+            option_texts_eng.append(text)
+
+    else:
+        raise ValueError(f"Unexpected options format for qid={q['qid']}: {raw}")
 
     # Normalize English lines
     ctx_norms = [normalize(x) for x in context_lines_eng]
