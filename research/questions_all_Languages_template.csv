@@ -1,0 +1,1350 @@
+﻿qid,language,lang_code,question,context,options,gold,answer_type,category,difficulty,rationale,source
+q001,Albanian,sqi-ALB,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Arabic,ara-ARE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Azerbaijani / Azeri,aze-QAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Basque,eus-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Bokmål,nob-NOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Bosnian,bos-BIH,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Bulgarian,bul-BGR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Catalan,cat-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Chinese,zho-CHN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Croatian,hrv-HRV,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Czech,ces-CZE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Danish,dan-DNK,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Dutch,nld-NLD,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,English,eng-CAN,"If Tania decides to buy car D and resell it after three years in excellent condition, what will be the approximate resale price of the car in zeds?","A car’s resale price is the estimated price for which it can be resold at a later time.
+For a car that stays in excellent condition, its resale price will decrease by 5% each year.
+Car price includes all taxes and registration fees. Car D: Price (zeds): 10500. ","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Estonian,est-EST,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Finnish,fin-FIN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,French,fra-FRA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Galician,glg-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Georgian,geo-GEO,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,German,deu-DEU,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Greek,ell-GRC,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Hebrew,heb-ISR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Hungarian,hun-HUN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Icelandic,isl-ISL,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Indonesian,ind-IDN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Italian,ita-ITA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Japanese,jpn-JPN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Kazakh,kaz-KAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Korean,kor-KOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Latvian,lav-LVA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Lithuanian,lit-LTU,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Malay,msa-MYS,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Nynorsk,nno-NOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Polish,pol-POL,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Portuguese,por-PRT,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Russian,rus-KAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Serbian / Serb,srp-SRB,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Slovak,slo-SVK,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Slovenian,slv-SVN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Spanish,esp-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Swedish,swe-SWE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Thai,tha-THA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q001,Turkish,tur-TUR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q002,Albanian,sqi-ALB,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Arabic,ara-ARE,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Azerbaijani / Azeri,aze-QAZ,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Basque,eus-ESP,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Bokmål,nob-NOR,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Bosnian,bos-BIH,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Bulgarian,bul-BGR,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Catalan,cat-ESP,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Chinese,zho-CHN,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Croatian,hrv-HRV,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Czech,ces-CZE,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Danish,dan-DNK,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Dutch,nld-NLD,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,English,eng-CAN,"If this sales trend continues, what will be the first year the number of DVDs sold is less than 1 million according to the model?","The equation of the line is d = 254 – 22n, where d is the number of DVDs sold (in millions) and n is the number of years after 2008.","[""A) 2018"", ""B) 2019"", ""C) 2020"", ""D) 2021""]",C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Estonian,est-EST,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Finnish,fin-FIN,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,French,fra-FRA,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Galician,glg-ESP,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Georgian,geo-GEO,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,German,deu-DEU,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Greek,ell-GRC,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Hebrew,heb-ISR,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Hungarian,hun-HUN,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Icelandic,isl-ISL,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Indonesian,ind-IDN,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Italian,ita-ITA,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Japanese,jpn-JPN,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Kazakh,kaz-KAZ,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Korean,kor-KOR,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Latvian,lav-LVA,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Lithuanian,lit-LTU,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Malay,msa-MYS,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Nynorsk,nno-NOR,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Polish,pol-POL,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Portuguese,por-PRT,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Russian,rus-KAZ,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Serbian / Serb,srp-SRB,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Slovak,slo-SVK,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Slovenian,slv-SVN,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Spanish,esp-ESP,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Swedish,swe-SWE,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Thai,tha-THA,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q002,Turkish,tur-TUR,,,,C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q003,Albanian,sqi-ALB,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Arabic,ara-ARE,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Azerbaijani / Azeri,aze-QAZ,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Basque,eus-ESP,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Bokmål,nob-NOR,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Bosnian,bos-BIH,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Bulgarian,bul-BGR,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Catalan,cat-ESP,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Chinese,zho-CHN,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Croatian,hrv-HRV,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Czech,ces-CZE,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Danish,dan-DNK,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Dutch,nld-NLD,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,English,eng-CAN,What is the greatest number of medium boxes that could fit into truck A?,"Mara’s family decides to rent truck A.
+**Interior Storage-Compartment Dimensions**
+| Truck Size | Length of Floor | Width of Floor | Height |
+|-----------|----------------|---------------|--------|
+| A                | 4 metres            | 2 metres           | 2 metres |
+**Box Dimensions**
+| Box Size | Length | Width | Height |
+|---------|--------|-------|--------|
+| Medium | 0.5 metre | 0.5 metre | 0.5 metre |","[""A) 320"", ""B) 128"", ""C) 96"", ""D) 64""]",B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Estonian,est-EST,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Finnish,fin-FIN,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,French,fra-FRA,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Galician,glg-ESP,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Georgian,geo-GEO,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,German,deu-DEU,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Greek,ell-GRC,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Hebrew,heb-ISR,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Hungarian,hun-HUN,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Icelandic,isl-ISL,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Indonesian,ind-IDN,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Italian,ita-ITA,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Japanese,jpn-JPN,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Kazakh,kaz-KAZ,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Korean,kor-KOR,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Latvian,lav-LVA,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Lithuanian,lit-LTU,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Malay,msa-MYS,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Nynorsk,nno-NOR,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Polish,pol-POL,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Portuguese,por-PRT,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Russian,rus-KAZ,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Serbian / Serb,srp-SRB,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Slovak,slo-SVK,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Slovenian,slv-SVN,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Spanish,esp-ESP,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Swedish,swe-SWE,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Thai,tha-THA,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q003,Turkish,tur-TUR,,,,B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q004,Albanian,sqi-ALB,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Arabic,ara-ARE,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Azerbaijani / Azeri,aze-QAZ,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Basque,eus-ESP,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Bokmål,nob-NOR,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Bosnian,bos-BIH,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Bulgarian,bul-BGR,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Catalan,cat-ESP,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Chinese,zho-CHN,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Croatian,hrv-HRV,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Czech,ces-CZE,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Danish,dan-DNK,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Dutch,nld-NLD,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,English,eng-CAN,"The company which rents the trucks confirmed that truck A can be filled using only medium boxes so that the entire space in the storage compartment is used.
+Mara claims that a medium box takes up 2/3 of the space of a large box, so she concludes that the number of large boxes that will fill truck A is 2/3 the number of medium boxes. 
+Which one of the following statements about Mara’s conclusion is true?","**Interior Storage-Compartment Dimensions**
+| Truck Size | Length of Floor | Width of Floor | Height |
+|-----------|----------------|---------------|--------|
+| A                | 4 metres            | 2 metres           | 2 metres |
+**Box Dimensions**
+| Box Size | Length | Width | Height |
+|---------|--------|-------|--------|
+| Medium | 0.5 metre | 0.5 metre | 0.5 metre |
+| Large | 0.5 metre | 0.5 metre | 0.75 metre |","[""A) She is correct, because the height of a medium box is 2/3 the height of a large box."", ""B) She is correct, because 3 medium boxes can always be fit into the same space as 2 large boxes."", ""C) She is not correct, because none of the interior storage dimensions of truck A are multiples of 0.75, which is the height of a large box."", ""D) She is not correct, because the height of a large box is 1.5 times the height of a medium box.""]",C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Estonian,est-EST,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Finnish,fin-FIN,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,French,fra-FRA,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Galician,glg-ESP,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Georgian,geo-GEO,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,German,deu-DEU,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Greek,ell-GRC,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Hebrew,heb-ISR,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Hungarian,hun-HUN,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Icelandic,isl-ISL,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Indonesian,ind-IDN,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Italian,ita-ITA,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Japanese,jpn-JPN,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Kazakh,kaz-KAZ,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Korean,kor-KOR,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Latvian,lav-LVA,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Lithuanian,lit-LTU,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Malay,msa-MYS,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Nynorsk,nno-NOR,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Polish,pol-POL,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Portuguese,por-PRT,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Russian,rus-KAZ,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Serbian / Serb,srp-SRB,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Slovak,slo-SVK,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Slovenian,slv-SVN,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Spanish,esp-ESP,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Swedish,swe-SWE,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Thai,tha-THA,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q004,Turkish,tur-TUR,,,,C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q005,Albanian,sqi-ALB,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Arabic,ara-ARE,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Azerbaijani / Azeri,aze-QAZ,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Basque,eus-ESP,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Bokmål,nob-NOR,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Bosnian,bos-BIH,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Bulgarian,bul-BGR,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Catalan,cat-ESP,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Chinese,zho-CHN,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Croatian,hrv-HRV,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Czech,ces-CZE,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Danish,dan-DNK,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Dutch,nld-NLD,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,English,eng-CAN,"On average, approximately how many million kilometres from the Sun is the planet Neptune?","The table below shows the average distance from the Sun to the primary planets in Astronomical Units (au). 
+1 au is approximately 150 million kilometres. 
+| Planet | Average distance from Sun in au | 
+|-------|---------------------------------|
+| Mercury  | 0.39   |
+| Earth       | 1.00   |
+| Neptune | 30.05 |","[""A) 180 million km"", ""B) 450 million km"", ""C) 1500 million km"", ""D) 4500 million km""]",D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Estonian,est-EST,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Finnish,fin-FIN,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,French,fra-FRA,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Galician,glg-ESP,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Georgian,geo-GEO,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,German,deu-DEU,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Greek,ell-GRC,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Hebrew,heb-ISR,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Hungarian,hun-HUN,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Icelandic,isl-ISL,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Indonesian,ind-IDN,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Italian,ita-ITA,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Japanese,jpn-JPN,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Kazakh,kaz-KAZ,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Korean,kor-KOR,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Latvian,lav-LVA,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Lithuanian,lit-LTU,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Malay,msa-MYS,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Nynorsk,nno-NOR,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Polish,pol-POL,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Portuguese,por-PRT,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Russian,rus-KAZ,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Serbian / Serb,srp-SRB,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Slovak,slo-SVK,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Slovenian,slv-SVN,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Spanish,esp-ESP,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Swedish,swe-SWE,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Thai,tha-THA,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q005,Turkish,tur-TUR,,,,D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q006,Albanian,sqi-ALB,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Arabic,ara-ARE,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Azerbaijani / Azeri,aze-QAZ,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Basque,eus-ESP,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Bokmål,nob-NOR,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Bosnian,bos-BIH,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Bulgarian,bul-BGR,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Catalan,cat-ESP,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Chinese,zho-CHN,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Croatian,hrv-HRV,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Czech,ces-CZE,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Danish,dan-DNK,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Dutch,nld-NLD,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,English,eng-CAN,"Given the average margin of victory for the season, is it possible that the team never actually won a game by 19 points?","The following headlines about the Zedland basketball team appeared in the local newspaper.
+Basketball Team Wins Championship!
+Won every game this season.
+Averaged a 19-point margin of victory this season.
+Margin of victory is the difference between the number of points scored by the winning team and the number of points scored by the losing team in one game.","[""A) Yes"", ""B) No""]",A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Estonian,est-EST,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Finnish,fin-FIN,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,French,fra-FRA,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Galician,glg-ESP,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Georgian,geo-GEO,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,German,deu-DEU,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Greek,ell-GRC,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Hebrew,heb-ISR,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Hungarian,hun-HUN,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Icelandic,isl-ISL,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Indonesian,ind-IDN,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Italian,ita-ITA,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Japanese,jpn-JPN,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Kazakh,kaz-KAZ,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Korean,kor-KOR,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Latvian,lav-LVA,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Lithuanian,lit-LTU,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Malay,msa-MYS,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Nynorsk,nno-NOR,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Polish,pol-POL,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Portuguese,por-PRT,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Russian,rus-KAZ,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Serbian / Serb,srp-SRB,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Slovak,slo-SVK,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Slovenian,slv-SVN,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Spanish,esp-ESP,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Swedish,swe-SWE,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Thai,tha-THA,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q006,Turkish,tur-TUR,,,,A,mc,Math,level 5,,"PISA 2022, math, Points"
+q007,Albanian,sqi-ALB,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Arabic,ara-ARE,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Azerbaijani / Azeri,aze-QAZ,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Basque,eus-ESP,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Bokmål,nob-NOR,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Bosnian,bos-BIH,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Bulgarian,bul-BGR,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Catalan,cat-ESP,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Chinese,zho-CHN,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Croatian,hrv-HRV,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Czech,ces-CZE,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Danish,dan-DNK,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Dutch,nld-NLD,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,English,eng-CAN,"In terms of percentage points, which country had the greatest gain between 2005 and 2015?","The spreadsheet below shows the amount of forested area as a percentage of the total land area in each of the 15 countries in this data set. Data are shown for the years 2005, 2010, and 2015.
+| Country        | 2005  | 2010  | 2015  |
+|------------|-------|-------|-------|
+| Algeria        | 0.64  | 0.81  | 0.82  |
+| Armenia        | 11.77 | 11.74 | 11.77 |
+| Colombia       | 54.26 | 52.85 | 52.73 |
+| Germany        | 32.66 | 32.73 | 32.76 |
+| Greece         | 29.11 | 30.28 | 31.45 |
+| India          | 22.77 | 23.47 | 23.77 |
+| Kazakhstan     | 1.24  | 1.23  | 1.23  |
+| Lebanon        | 13.34 | 13.38 | 13.42 |
+| Panama         | 64.33 | 63.21 | 62.11 |
+| Peru           | 59.01 | 58.45 | 57.79 |
+| Portugal       | 36.52 | 35.89 | 35.25 |
+| Senegal        | 45.05 | 44.01 | 42.97 |
+| South Korea    | 64.42 | 64.08 | 63.69 |
+| Thailand       | 31.51 | 31.81 | 32.10 |
+| United States  | 33.26 | 33.70 | 33.85 |","[""A) Greece"", ""B) Armenia"", ""C) Panama"", ""D) Kazakhstan""]",A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Estonian,est-EST,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Finnish,fin-FIN,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,French,fra-FRA,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Galician,glg-ESP,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Georgian,geo-GEO,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,German,deu-DEU,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Greek,ell-GRC,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Hebrew,heb-ISR,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Hungarian,hun-HUN,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Icelandic,isl-ISL,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Indonesian,ind-IDN,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Italian,ita-ITA,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Japanese,jpn-JPN,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Kazakh,kaz-KAZ,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Korean,kor-KOR,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Latvian,lav-LVA,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Lithuanian,lit-LTU,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Malay,msa-MYS,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Nynorsk,nno-NOR,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Polish,pol-POL,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Portuguese,por-PRT,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Russian,rus-KAZ,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Serbian / Serb,srp-SRB,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Slovak,slo-SVK,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Slovenian,slv-SVN,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Spanish,esp-ESP,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Swedish,swe-SWE,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Thai,tha-THA,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q007,Turkish,tur-TUR,,,,A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Albanian,sqi-ALB,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Arabic,ara-ARE,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Azerbaijani / Azeri,aze-QAZ,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Basque,eus-ESP,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Bokmål,nob-NOR,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Bosnian,bos-BIH,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Bulgarian,bul-BGR,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Catalan,cat-ESP,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Chinese,zho-CHN,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Croatian,hrv-HRV,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Czech,ces-CZE,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Danish,dan-DNK,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Dutch,nld-NLD,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,English,eng-CAN,Which country had no overall change between 2005 and 2015?,"The spreadsheet below shows the amount of forested area as a percentage of the total land area in each of the 15 countries in this data set. Data are shown for the years 2005, 2010, and 2015.
+| Country        | 2005  | 2010  | 2015  |
+|------------|-------|-------|-------|
+| Algeria        | 0.64  | 0.81  | 0.82  |
+| Armenia        | 11.77 | 11.74 | 11.77 |
+| Colombia       | 54.26 | 52.85 | 52.73 |
+| Germany        | 32.66 | 32.73 | 32.76 |
+| Greece         | 29.11 | 30.28 | 31.45 |
+| India          | 22.77 | 23.47 | 23.77 |
+| Kazakhstan     | 1.24  | 1.23  | 1.23  |
+| Lebanon        | 13.34 | 13.38 | 13.42 |
+| Panama         | 64.33 | 63.21 | 62.11 |
+| Peru           | 59.01 | 58.45 | 57.79 |
+| Portugal       | 36.52 | 35.89 | 35.25 |
+| Senegal        | 45.05 | 44.01 | 42.97 |
+| South Korea    | 64.42 | 64.08 | 63.69 |
+| Thailand       | 31.51 | 31.81 | 32.10 |
+| United States  | 33.26 | 33.70 | 33.85 |","[""A) Greece"", ""B) Armenia"", ""C) Panama"", ""D) Kazakhstan""]",B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Estonian,est-EST,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Finnish,fin-FIN,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,French,fra-FRA,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Galician,glg-ESP,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Georgian,geo-GEO,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,German,deu-DEU,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Greek,ell-GRC,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Hebrew,heb-ISR,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Hungarian,hun-HUN,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Icelandic,isl-ISL,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Indonesian,ind-IDN,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Italian,ita-ITA,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Japanese,jpn-JPN,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Kazakh,kaz-KAZ,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Korean,kor-KOR,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Latvian,lav-LVA,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Lithuanian,lit-LTU,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Malay,msa-MYS,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Nynorsk,nno-NOR,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Polish,pol-POL,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Portuguese,por-PRT,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Russian,rus-KAZ,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Serbian / Serb,srp-SRB,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Slovak,slo-SVK,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Slovenian,slv-SVN,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Spanish,esp-ESP,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Swedish,swe-SWE,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Thai,tha-THA,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,Turkish,tur-TUR,,,,B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Albanian,sqi-ALB,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Arabic,ara-ARE,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Azerbaijani / Azeri,aze-QAZ,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Basque,eus-ESP,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Bokmål,nob-NOR,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Bosnian,bos-BIH,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Bulgarian,bul-BGR,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Catalan,cat-ESP,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Chinese,zho-CHN,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Croatian,hrv-HRV,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Czech,ces-CZE,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Danish,dan-DNK,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Dutch,nld-NLD,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,English,eng-CAN,"In terms of percentage points, which country had the greatest loss between 2005 and 2015?","The spreadsheet below shows the amount of forested area as a percentage of the total land area in each of the 15 countries in this data set. Data are shown for the years 2005, 2010, and 2015.
+| Country        | 2005  | 2010  | 2015  |
+|------------|-------|-------|-------|
+| Algeria        | 0.64  | 0.81  | 0.82  |
+| Armenia        | 11.77 | 11.74 | 11.77 |
+| Colombia       | 54.26 | 52.85 | 52.73 |
+| Germany        | 32.66 | 32.73 | 32.76 |
+| Greece         | 29.11 | 30.28 | 31.45 |
+| India          | 22.77 | 23.47 | 23.77 |
+| Kazakhstan     | 1.24  | 1.23  | 1.23  |
+| Lebanon        | 13.34 | 13.38 | 13.42 |
+| Panama         | 64.33 | 63.21 | 62.11 |
+| Peru           | 59.01 | 58.45 | 57.79 |
+| Portugal       | 36.52 | 35.89 | 35.25 |
+| Senegal        | 45.05 | 44.01 | 42.97 |
+| South Korea    | 64.42 | 64.08 | 63.69 |
+| Thailand       | 31.51 | 31.81 | 32.10 |
+| United States  | 33.26 | 33.70 | 33.85 |","[""A) Greece"", ""B) Armenia"", ""C) Panama"", ""D) Kazakhstan""]",C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Estonian,est-EST,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Finnish,fin-FIN,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,French,fra-FRA,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Galician,glg-ESP,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Georgian,geo-GEO,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,German,deu-DEU,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Greek,ell-GRC,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Hebrew,heb-ISR,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Hungarian,hun-HUN,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Icelandic,isl-ISL,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Indonesian,ind-IDN,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Italian,ita-ITA,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Japanese,jpn-JPN,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Kazakh,kaz-KAZ,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Korean,kor-KOR,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Latvian,lav-LVA,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Lithuanian,lit-LTU,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Malay,msa-MYS,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Nynorsk,nno-NOR,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Polish,pol-POL,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Portuguese,por-PRT,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Russian,rus-KAZ,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Serbian / Serb,srp-SRB,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Slovak,slo-SVK,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Slovenian,slv-SVN,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Spanish,esp-ESP,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Swedish,swe-SWE,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Thai,tha-THA,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,Turkish,tur-TUR,,,,C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q010,Albanian,sqi-ALB,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Arabic,ara-ARE,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Azerbaijani / Azeri,aze-QAZ,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Basque,eus-ESP,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Bokmål,nob-NOR,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Bosnian,bos-BIH,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Bulgarian,bul-BGR,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Catalan,cat-ESP,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Chinese,zho-CHN,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Croatian,hrv-HRV,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Czech,ces-CZE,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Danish,dan-DNK,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Dutch,nld-NLD,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,English,eng-CAN,"Consider the two time periods: 2005 to 2010 and 2010 to 2015.
+In terms of percentage points, which two countries had the biggest change in the percent of forested area from one time period to the other time period?","The spreadsheet below shows the amount of forested area as a percentage of the total land area in each of the 15 countries in this data set. Data are shown for the years 2005, 2010, and 2015.
+| Country        | 2005  | 2010  | 2015  |
+|------------|-------|-------|-------|
+| Algeria        | 0.64  | 0.81  | 0.82  |
+| Armenia        | 11.77 | 11.74 | 11.77 |
+| Colombia       | 54.26 | 52.85 | 52.73 |
+| Germany        | 32.66 | 32.73 | 32.76 |
+| Greece         | 29.11 | 30.28 | 31.45 |
+| India          | 22.77 | 23.47 | 23.77 |
+| Kazakhstan     | 1.24  | 1.23  | 1.23  |
+| Lebanon        | 13.34 | 13.38 | 13.42 |
+| Panama         | 64.33 | 63.21 | 62.11 |
+| Peru           | 59.01 | 58.45 | 57.79 |
+| Portugal       | 36.52 | 35.89 | 35.25 |
+| Senegal        | 45.05 | 44.01 | 42.97 |
+| South Korea    | 64.42 | 64.08 | 63.69 |
+| Thailand       | 31.51 | 31.81 | 32.10 |
+| United States  | 33.26 | 33.70 | 33.85 |","[""A) India and Colombia"", ""B) India and Armenia"", ""C) Panama and Colombia"", ""D) Kazakhstan and Colombia""]",A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Estonian,est-EST,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Finnish,fin-FIN,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,French,fra-FRA,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Galician,glg-ESP,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Georgian,geo-GEO,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,German,deu-DEU,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Greek,ell-GRC,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Hebrew,heb-ISR,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Hungarian,hun-HUN,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Icelandic,isl-ISL,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Indonesian,ind-IDN,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Italian,ita-ITA,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Japanese,jpn-JPN,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Kazakh,kaz-KAZ,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Korean,kor-KOR,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Latvian,lav-LVA,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Lithuanian,lit-LTU,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Malay,msa-MYS,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Nynorsk,nno-NOR,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Polish,pol-POL,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Portuguese,por-PRT,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Russian,rus-KAZ,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Serbian / Serb,srp-SRB,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Slovak,slo-SVK,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Slovenian,slv-SVN,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Spanish,esp-ESP,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Swedish,swe-SWE,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Thai,tha-THA,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q010,Turkish,tur-TUR,,,,A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Albanian,sqi-ALB,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Arabic,ara-ARE,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Azerbaijani / Azeri,aze-QAZ,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Basque,eus-ESP,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Bokmål,nob-NOR,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Bosnian,bos-BIH,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Bulgarian,bul-BGR,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Catalan,cat-ESP,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Chinese,zho-CHN,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Croatian,hrv-HRV,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Czech,ces-CZE,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Danish,dan-DNK,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Dutch,nld-NLD,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,English,eng-CAN,"Helena claims that South Korea has more forested area than any other country in this list for the years shown.
+Is her claim supported by the data in the spreadsheet?","The spreadsheet below shows the amount of forested area as a percentage of the total land area in each of the 15 countries in this data set. Data are shown for the years 2005, 2010, and 2015.
+| Country        | 2005  | 2010  | 2015  |
+|------------|-------|-------|-------|
+| Algeria        | 0.64  | 0.81  | 0.82  |
+| Armenia        | 11.77 | 11.74 | 11.77 |
+| Colombia       | 54.26 | 52.85 | 52.73 |
+| Germany        | 32.66 | 32.73 | 32.76 |
+| Greece         | 29.11 | 30.28 | 31.45 |
+| India          | 22.77 | 23.47 | 23.77 |
+| Kazakhstan     | 1.24  | 1.23  | 1.23  |
+| Lebanon        | 13.34 | 13.38 | 13.42 |
+| Panama         | 64.33 | 63.21 | 62.11 |
+| Peru           | 59.01 | 58.45 | 57.79 |
+| Portugal       | 36.52 | 35.89 | 35.25 |
+| Senegal        | 45.05 | 44.01 | 42.97 |
+| South Korea    | 64.42 | 64.08 | 63.69 |
+| Thailand       | 31.51 | 31.81 | 32.10 |
+| United States  | 33.26 | 33.70 | 33.85 |","[""A) Yes"", ""B) No""]",B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Estonian,est-EST,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Finnish,fin-FIN,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,French,fra-FRA,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Galician,glg-ESP,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Georgian,geo-GEO,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,German,deu-DEU,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Greek,ell-GRC,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Hebrew,heb-ISR,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Hungarian,hun-HUN,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Icelandic,isl-ISL,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Indonesian,ind-IDN,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Italian,ita-ITA,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Japanese,jpn-JPN,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Kazakh,kaz-KAZ,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Korean,kor-KOR,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Latvian,lav-LVA,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Lithuanian,lit-LTU,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Malay,msa-MYS,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Nynorsk,nno-NOR,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Polish,pol-POL,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Portuguese,por-PRT,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Russian,rus-KAZ,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Serbian / Serb,srp-SRB,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Slovak,slo-SVK,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Slovenian,slv-SVN,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Spanish,esp-ESP,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Swedish,swe-SWE,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Thai,tha-THA,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,Turkish,tur-TUR,,,,B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q012,Albanian,sqi-ALB,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Arabic,ara-ARE,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Azerbaijani / Azeri,aze-QAZ,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Basque,eus-ESP,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Bokmål,nob-NOR,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Bosnian,bos-BIH,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Bulgarian,bul-BGR,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Catalan,cat-ESP,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Chinese,zho-CHN,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Croatian,hrv-HRV,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Czech,ces-CZE,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Danish,dan-DNK,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Dutch,nld-NLD,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,English,eng-CAN,What do the scientists mentioned in the article and Jared Diamond agree on?,"Did Polynesian Rats Destroy Rapa Nui’s Trees?
+By Michael Kimball, Science Reporter
+In 2005, Jared Diamond published Collapse. In the book, he described the human settlement of Rapa Nui (also called Easter Island).
+The book caused a huge controversy soon after its publication. Many scientists questioned Diamond’s theory of what happened on Rapa Nui. They agreed that the huge trees had disappeared by the time Europeans first arrived on the island in the 18th century, but they did not agree with Jared Diamond’s theory about the cause of the disappearance.
+Now, two scientists, Carl Lipo and Terry Hunt, have published a new theory. They believe that the Polynesian rat ate the seeds of the trees, preventing new ones from growing. The rat, they believe, was brought over either accidentally or purposefully on the canoes that the first human settlers used to land on Rapa Nui.
+Studies have shown that a population of rats can double every 47 days. That’s a lot of rats to feed. To support their theory, Lipo and Hunt point to the remains of palm nuts that show the gnaw marks made by rats. Of course, they acknowledge that humans did play a role in the destruction of the forests of Rapa Nui. But they believe that the Polynesian rat was an even greater culprit among a series of factors.","[""A) Humans settled Rapa Nui hundreds of years ago."", ""B) Large trees have disappeared from Rapa Nui."", ""C) Polynesian rats ate the seeds of large trees on Rapa Nui."", ""D) Europeans arrived on Rapa Nui in the 18th century.""]",B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Estonian,est-EST,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Finnish,fin-FIN,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,French,fra-FRA,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Galician,glg-ESP,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Georgian,geo-GEO,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,German,deu-DEU,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Greek,ell-GRC,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Hebrew,heb-ISR,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Hungarian,hun-HUN,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Icelandic,isl-ISL,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Indonesian,ind-IDN,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Italian,ita-ITA,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Japanese,jpn-JPN,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Kazakh,kaz-KAZ,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Korean,kor-KOR,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Latvian,lav-LVA,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Lithuanian,lit-LTU,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Malay,msa-MYS,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Nynorsk,nno-NOR,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Polish,pol-POL,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Portuguese,por-PRT,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Russian,rus-KAZ,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Serbian / Serb,srp-SRB,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Slovak,slo-SVK,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Slovenian,slv-SVN,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Spanish,esp-ESP,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Swedish,swe-SWE,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Thai,tha-THA,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q012,Turkish,tur-TUR,,,,B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q013,Albanian,sqi-ALB,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Arabic,ara-ARE,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Azerbaijani / Azeri,aze-QAZ,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Basque,eus-ESP,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Bokmål,nob-NOR,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Bosnian,bos-BIH,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Bulgarian,bul-BGR,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Catalan,cat-ESP,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Chinese,zho-CHN,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Croatian,hrv-HRV,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Czech,ces-CZE,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Danish,dan-DNK,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Dutch,nld-NLD,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,English,eng-CAN,What evidence do Carl Lipo and Terry Hunt present to support their theory of why the large trees of Rapa Nui disappeared?,"Did Polynesian Rats Destroy Rapa Nui’s Trees?
+By Michael Kimball, Science Reporter
+In 2005, Jared Diamond published Collapse. In the book, he described the human settlement of Rapa Nui (also called Easter Island).
+The book caused a huge controversy soon after its publication. Many scientists questioned Diamond’s theory of what happened on Rapa Nui. They agreed that the huge trees had disappeared by the time Europeans first arrived on the island in the 18th century, but they did not agree with Jared Diamond’s theory about the cause of the disappearance.
+Now, two scientists, Carl Lipo and Terry Hunt, have published a new theory. They believe that the Polynesian rat ate the seeds of the trees, preventing new ones from growing. The rat, they believe, was brought over either accidentally or purposefully on the canoes that the first human settlers used to land on Rapa Nui.
+Studies have shown that a population of rats can double every 47 days. That’s a lot of rats to feed. To support their theory, Lipo and Hunt point to the remains of palm nuts that show the gnaw marks made by rats. Of course, they acknowledge that humans did play a role in the destruction of the forests of Rapa Nui. But they believe that the Polynesian rat was an even greater culprit among a series of factors.","[""A) The rats arrived on the island on settlers’ canoes."", ""B) The rats may have been brought by the settlers purposefully."", ""C) Rat populations can double every 47 days."", ""D) The remains of palm nuts show gnaw marks made by rats.""]",D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Estonian,est-EST,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Finnish,fin-FIN,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,French,fra-FRA,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Galician,glg-ESP,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Georgian,geo-GEO,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,German,deu-DEU,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Greek,ell-GRC,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Hebrew,heb-ISR,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Hungarian,hun-HUN,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Icelandic,isl-ISL,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Indonesian,ind-IDN,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Italian,ita-ITA,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Japanese,jpn-JPN,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Kazakh,kaz-KAZ,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Korean,kor-KOR,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Latvian,lav-LVA,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Lithuanian,lit-LTU,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Malay,msa-MYS,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Nynorsk,nno-NOR,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Polish,pol-POL,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Portuguese,por-PRT,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Russian,rus-KAZ,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Serbian / Serb,srp-SRB,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Slovak,slo-SVK,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Slovenian,slv-SVN,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Spanish,esp-ESP,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Swedish,swe-SWE,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Thai,tha-THA,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q013,Turkish,tur-TUR,,,,D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Albanian,sqi-ALB,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Arabic,ara-ARE,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Azerbaijani / Azeri,aze-QAZ,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Basque,eus-ESP,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Bokmål,nob-NOR,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Bosnian,bos-BIH,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Bulgarian,bul-BGR,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Catalan,cat-ESP,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Chinese,zho-CHN,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Croatian,hrv-HRV,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Czech,ces-CZE,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Danish,dan-DNK,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Dutch,nld-NLD,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,English,eng-CAN,"According to the blog, when did the professor start her field work?","The Professor’s Blog
+Posted May 23, 11:22 a.m.
+As I look out of my window this morning, I see the landscape I have learned to love here on Rapa Nui, which is known in some places by the name Easter Island. The grasses and shrubs are green, the sky is blue, and the old, now extinct volcanoes rise up in the background.
+I am a bit sad knowing that this is my last week on the island. I have finished my field work and will be returning home. Later today, I will take a walk through the hills and say good-bye to the moai that I have been studying for the past nine months. 
+If you have been following my blog this year, then you know that the people of Rapa Nui carved these moai hundreds of years ago. These impressive moai had been carved in a single quarry on the eastern part of the island. Some of them weighed thousands of kilos, yet the people of Rapa Nui were able to move them to locations far away from the quarry without cranes or any heavy equipment.
+For years, archeologists did not know how these massive statues were moved. It remained a mystery until the 1990s, when a team of archeologists and residents of Rapa Nui demonstrated that the moai could have been transported and raised using ropes made from plants and wooden rollers and tracks made from large trees that had once thrived on the island. The mystery of the moai was solved.
+Another mystery remained, however. What happened to these plants and large trees that had been used to move the moai? As I said, when I look out of my window, I see grasses and shrubs and a small tree or two, but nothing that could have been used to move these huge statues. It is a fascinating puzzle, one that I will explore in future posts and lectures. Until then, you may wish to investigate the mystery yourself. I suggest you begin with a book called Collapse by Jared Diamond. This review of Collapse is a good place to start.","[""A) During the 1990s."", ""B) Nine months ago."", ""C) One year ago."", ""D) At the beginning of May.""]",B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Estonian,est-EST,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Finnish,fin-FIN,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,French,fra-FRA,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Galician,glg-ESP,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Georgian,geo-GEO,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,German,deu-DEU,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Greek,ell-GRC,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Hebrew,heb-ISR,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Hungarian,hun-HUN,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Icelandic,isl-ISL,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Indonesian,ind-IDN,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Italian,ita-ITA,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Japanese,jpn-JPN,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Kazakh,kaz-KAZ,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Korean,kor-KOR,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Latvian,lav-LVA,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Lithuanian,lit-LTU,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Malay,msa-MYS,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Nynorsk,nno-NOR,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Polish,pol-POL,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Portuguese,por-PRT,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Russian,rus-KAZ,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Serbian / Serb,srp-SRB,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Slovak,slo-SVK,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Slovenian,slv-SVN,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Spanish,esp-ESP,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Swedish,swe-SWE,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Thai,tha-THA,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,Turkish,tur-TUR,,,,B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q015,Albanian,sqi-ALB,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Arabic,ara-ARE,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Azerbaijani / Azeri,aze-QAZ,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Basque,eus-ESP,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Bokmål,nob-NOR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Bosnian,bos-BIH,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Bulgarian,bul-BGR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Catalan,cat-ESP,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Chinese,zho-CHN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Croatian,hrv-HRV,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Czech,ces-CZE,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Danish,dan-DNK,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Dutch,nld-NLD,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,English,eng-CAN,"Is the statement a fact or an opinion?
+In the book, the author describes several civilizations that collapsed because of the choices they made and their impact on the environment.
+One of the most disturbing examples in the book is Rapa Nui.
+They carved the moai, the famous statues, and used the natural resources available to them to move these huge moai to different locations around the island.
+When the first Europeans landed on Easter Island in 1722, the moai were still there, but the trees were gone.
+The book is written well and deserves to be read by anyone who is concerned about the environment.","Review of Collapse
+Jared Diamond’s new book, Collapse, is a clear warning about the consequences of damaging our environment. In the book, the author describes several civilizations that collapsed because of the choices they made and their impact on the environment. One of the most disturbing examples in the book is Rapa Nui.
+According to the author, Rapa Nui was settled by Polynesians sometime after 700 CE. They developed a thriving society of, perhaps, 15 000 people. They carved the moai, the famous statues, and used the natural resources available to them to move these huge moai to different locations around the island. When the first Europeans landed on Rapa Nui in 1722, the moai were still there, but the trees were gone. The population was down to a few thousand people who were struggling to survive. Mr. Diamond writes that the people of Rapa Nui cleared the land for farming and other purposes and that they over-hunted the numerous species of sea and land birds that had lived on the island. He speculates that the dwindling natural resources led to civil wars and the collapse of Rapa Nui’s society.
+The lesson of this wonderful but frightening book is that in the past, humans made the choice to destroy their environment by cutting down all the trees and hunting animal species to extinction. Optimistically, the author points out, we can choose not to make the same mistakes today. The book is written well and deserves to be read by anyone who is concerned about the environment.","[""A) Fact, Opinion, Fact, Fact, Opinion."", ""B) Opinion, Opinion, Fact, Fact, Opinion."", ""C) Fact, Opinion, Fact, Opinion, Opinion."", ""D) Fact, Opinion, Opinion, Fact, Opinion..""]",A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Estonian,est-EST,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Finnish,fin-FIN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,French,fra-FRA,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Galician,glg-ESP,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Georgian,geo-GEO,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,German,deu-DEU,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Greek,ell-GRC,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Hebrew,heb-ISR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Hungarian,hun-HUN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Icelandic,isl-ISL,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Indonesian,ind-IDN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Italian,ita-ITA,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Japanese,jpn-JPN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Kazakh,kaz-KAZ,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Korean,kor-KOR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Latvian,lav-LVA,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Lithuanian,lit-LTU,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Malay,msa-MYS,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Nynorsk,nno-NOR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Polish,pol-POL,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Portuguese,por-PRT,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Russian,rus-KAZ,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Serbian / Serb,srp-SRB,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Slovak,slo-SVK,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Slovenian,slv-SVN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Spanish,esp-ESP,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Swedish,swe-SWE,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Thai,tha-THA,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q015,Turkish,tur-TUR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q016,Albanian,sqi-ALB,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Arabic,ara-ARE,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Azerbaijani / Azeri,aze-QAZ,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Basque,eus-ESP,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Bokmål,nob-NOR,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Bosnian,bos-BIH,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Bulgarian,bul-BGR,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Catalan,cat-ESP,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Chinese,zho-CHN,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Croatian,hrv-HRV,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Czech,ces-CZE,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Danish,dan-DNK,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Dutch,nld-NLD,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,English,eng-CAN,"According to the IDFA, with which statement do leading health professionals and organizations agree?","The Nutritional Value of Milk: Countless Benefits!
+Farm to Market Dairy milk products contain key nutrients: calcium, protein, vitamin D, vitamin B12, riboflavin, and potassium. These vitamins and minerals make Farm to Market Dairy milk products an important part of a healthful diet. Consuming Farm to Market Dairy milk products every day is a great way to ensure that you get the vitamins and minerals your body needs.
+Consuming Farm to Market Dairy milk products increases weight loss and helps maintain a healthy weight. Milk increases bone strength and density. It even improves cardiovascular health and helps prevent cancer. One glass of milk is packed with vitamins, minerals, and a wealth of health benefits.
+According to Bill Sears, MD, Associate Clinical Professor of Pediatrics at the University of California at Irvine, milk contains many important nutrients in one convenient place. The International Dairy Foods Association (IDFA) supports this idea. In fact, the IDFA suggests that many health professionals and groups would also agree.
+Milk contains a complete nutrient package of nine essential nutrients. In addition to being an excellent source of calcium and vitamin D, it is a good source of vitamin A, protein and potassium. Dairy is recommended by doctors. Dairy’s role in a healthy diet has long been established by the nutrition and science community. This includes the National Osteoporosis Foundation, the Surgeon General, the National Institutes of Health, the American Medical Association’s Council of Scientific Affairs and many other leading health organizations.
+International Dairy Foods Association, September 27, 2007","[""A) Consuming milk and milk products leads to obesity."", ""B) Milk is a good source of essential vitamins and minerals."", ""C) Milk contains more vitamins than minerals."", ""D) Drinking milk is a leading cause of osteoporosis.""]",B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Estonian,est-EST,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Finnish,fin-FIN,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,French,fra-FRA,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Galician,glg-ESP,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Georgian,geo-GEO,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,German,deu-DEU,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Greek,ell-GRC,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Hebrew,heb-ISR,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Hungarian,hun-HUN,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Icelandic,isl-ISL,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Indonesian,ind-IDN,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Italian,ita-ITA,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Japanese,jpn-JPN,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Kazakh,kaz-KAZ,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Korean,kor-KOR,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Latvian,lav-LVA,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Lithuanian,lit-LTU,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Malay,msa-MYS,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Nynorsk,nno-NOR,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Polish,pol-POL,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Portuguese,por-PRT,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Russian,rus-KAZ,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Serbian / Serb,srp-SRB,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Slovak,slo-SVK,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Slovenian,slv-SVN,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Spanish,esp-ESP,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Swedish,swe-SWE,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Thai,tha-THA,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q016,Turkish,tur-TUR,,,,B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q017,Albanian,sqi-ALB,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Arabic,ara-ARE,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Azerbaijani / Azeri,aze-QAZ,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Basque,eus-ESP,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Bokmål,nob-NOR,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Bosnian,bos-BIH,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Bulgarian,bul-BGR,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Catalan,cat-ESP,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Chinese,zho-CHN,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Croatian,hrv-HRV,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Czech,ces-CZE,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Danish,dan-DNK,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Dutch,nld-NLD,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,English,eng-CAN,What is the main purpose of this text?,"The Nutritional Value of Milk: Countless Benefits!
+Farm to Market Dairy milk products contain key nutrients: calcium, protein, vitamin D, vitamin B12, riboflavin, and potassium. These vitamins and minerals make Farm to Market Dairy milk products an important part of a healthful diet. Consuming Farm to Market Dairy milk products every day is a great way to ensure that you get the vitamins and minerals your body needs.
+Consuming Farm to Market Dairy milk products increases weight loss and helps maintain a healthy weight. Milk increases bone strength and density. It even improves cardiovascular health and helps prevent cancer. One glass of milk is packed with vitamins, minerals, and a wealth of health benefits.
+According to Bill Sears, MD, Associate Clinical Professor of Pediatrics at the University of California at Irvine, milk contains many important nutrients in one convenient place. The International Dairy Foods Association (IDFA) supports this idea. In fact, the IDFA suggests that many health professionals and groups would also agree.
+Milk contains a complete nutrient package of nine essential nutrients. In addition to being an excellent source of calcium and vitamin D, it is a good source of vitamin A, protein and potassium. Dairy is recommended by doctors. Dairy’s role in a healthy diet has long been established by the nutrition and science community. This includes the National Osteoporosis Foundation, the Surgeon General, the National Institutes of Health, the American Medical Association’s Council of Scientific Affairs and many other leading health organizations.
+International Dairy Foods Association, September 27, 2007","[""A) To argue that milk products increase weight loss."", ""B) To compare Farm to Market Dairy milk products to other dairy products."", ""C) To inform the public of the risks associated with heart disease."", ""D) To support the use of Farm to Market Dairy products.""]",D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Estonian,est-EST,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Finnish,fin-FIN,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,French,fra-FRA,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Galician,glg-ESP,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Georgian,geo-GEO,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,German,deu-DEU,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Greek,ell-GRC,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Hebrew,heb-ISR,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Hungarian,hun-HUN,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Icelandic,isl-ISL,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Indonesian,ind-IDN,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Italian,ita-ITA,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Japanese,jpn-JPN,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Kazakh,kaz-KAZ,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Korean,kor-KOR,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Latvian,lav-LVA,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Lithuanian,lit-LTU,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Malay,msa-MYS,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Nynorsk,nno-NOR,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Polish,pol-POL,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Portuguese,por-PRT,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Russian,rus-KAZ,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Serbian / Serb,srp-SRB,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Slovak,slo-SVK,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Slovenian,slv-SVN,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Spanish,esp-ESP,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Swedish,swe-SWE,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Thai,tha-THA,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q017,Turkish,tur-TUR,,,,D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q018,Albanian,sqi-ALB,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Arabic,ara-ARE,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Azerbaijani / Azeri,aze-QAZ,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Basque,eus-ESP,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Bokmål,nob-NOR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Bosnian,bos-BIH,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Bulgarian,bul-BGR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Catalan,cat-ESP,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Chinese,zho-CHN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Croatian,hrv-HRV,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Czech,ces-CZE,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Danish,dan-DNK,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Dutch,nld-NLD,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,English,eng-CAN,"Is the statement a fact or an opinion?
+Recent studies on the health benefits of milk are surprising.
+Studies have shown that drinking milk has detrimental health effects.
+Several studies have questioned the bone strengthening power of milk.
+Drinking milk and other dairy products is the best way to lose weight.","The Nutritional Value of Milk: Countless Benefits!
+Farm to Market Dairy milk products contain key nutrients: calcium, protein, vitamin D, vitamin B12, riboflavin, and potassium. These vitamins and minerals make Farm to Market Dairy milk products an important part of a healthful diet. Consuming Farm to Market Dairy milk products every day is a great way to ensure that you get the vitamins and minerals your body needs.
+Consuming Farm to Market Dairy milk products increases weight loss and helps maintain a healthy weight. Milk increases bone strength and density. It even improves cardiovascular health and helps prevent cancer. One glass of milk is packed with vitamins, minerals, and a wealth of health benefits.
+According to Bill Sears, MD, Associate Clinical Professor of Pediatrics at the University of California at Irvine, milk contains many important nutrients in one convenient place. The International Dairy Foods Association (IDFA) supports this idea. In fact, the IDFA suggests that many health professionals and groups would also agree.
+Milk contains a complete nutrient package of nine essential nutrients. In addition to being an excellent source of calcium and vitamin D, it is a good source of vitamin A, protein and potassium. Dairy is recommended by doctors. Dairy’s role in a healthy diet has long been established by the nutrition and science community. This includes the National Osteoporosis Foundation, the Surgeon General, the National Institutes of Health, the American Medical Association’s Council of Scientific Affairs and many other leading health organizations.
+International Dairy Foods Association, September 27, 2007
+
+JUST SAY 'NO' TO COW’S MILK!
+By Health Reporter, Dr. R. Garza
+Cow’s milk is a big part of many people’s lives in the United States. Babies drink cow’s milk in bottles. Children eat cereal drenched in cow’s milk. Even adults enjoy a cold glass of milk from time to time. Yes, cow’s milk is a huge part of the human diet in many places around the world. However, more and more research is suggesting that milk may not “do a body good” as the popular American advertising slogan claims.
+The United States Department of Agriculture, the American Dairy Council, Dairy Management, Inc., and other organizations have worked hard to advocate for milk for many years. They encourage adults to drink at least three glasses of milk a day. However, several studies in the last decade have questioned the bone-strengthening power of milk as well as other claims about the health benefits of milk. The results may surprise you.
+One of the most recent and most important studies on the effects of drinking milk was published in the October 2014 issue of the British Medical Journal. The findings in this study led to some powerful assertions about the consumption of milk. In this study over 100 000 people in Sweden were followed over periods of 20-30 years. Researchers found that the female milk drinkers suffered more bone fractures. Additionally, both male and female milk drinkers were more likely to suffer from heart disease and cancer. These staggering results are similar to findings from other studies.
+The Physicians Committee for Responsible Medicine (PCRM) commented on some of the health problems related to the consumption of milk. It claims that milk and dairy products “have little or no benefit for bones.” The PCRM goes further to describe some specific problems associated with milk:
+“Milk proteins, milk sugar, fat, and saturated fat in dairy products pose health risks for children and encourage the development of obesity, diabetes, and heart disease.”
+These are serious claims and more studies are needed in order to confirm the findings. However, there is mounting proof that drinking cow’s milk could be less beneficial to our health than originally thought. If these claims become indisputable facts, it may be time to just say ‘no’ to cow’s milk.","[""A) Opinion, Fact, Fact, Opinion."", ""B) Fact, Fact, Opinion, Opinion."", ""C) Fact, Opinion, Fact, Opinion."", ""D) Opinion, Opinion, Fact, Fact.""]",A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Estonian,est-EST,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Finnish,fin-FIN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,French,fra-FRA,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Galician,glg-ESP,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Georgian,geo-GEO,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,German,deu-DEU,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Greek,ell-GRC,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Hebrew,heb-ISR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Hungarian,hun-HUN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Icelandic,isl-ISL,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Indonesian,ind-IDN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Italian,ita-ITA,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Japanese,jpn-JPN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Kazakh,kaz-KAZ,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Korean,kor-KOR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Latvian,lav-LVA,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Lithuanian,lit-LTU,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Malay,msa-MYS,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Nynorsk,nno-NOR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Polish,pol-POL,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Portuguese,por-PRT,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Russian,rus-KAZ,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Serbian / Serb,srp-SRB,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Slovak,slo-SVK,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Slovenian,slv-SVN,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Spanish,esp-ESP,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Swedish,swe-SWE,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Thai,tha-THA,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q018,Turkish,tur-TUR,,,,A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q019,Albanian,sqi-ALB,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Arabic,ara-ARE,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Azerbaijani / Azeri,aze-QAZ,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Basque,eus-ESP,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Bokmål,nob-NOR,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Bosnian,bos-BIH,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Bulgarian,bul-BGR,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Catalan,cat-ESP,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Chinese,zho-CHN,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Croatian,hrv-HRV,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Czech,ces-CZE,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Danish,dan-DNK,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Dutch,nld-NLD,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,English,eng-CAN,"Could this statement represent the purpose of the article?
+To question the benefit of dairy products on general health.
+To discuss various research findings about cow’s milk.
+To point out that milk and other dairy products have not been studied.","JUST SAY 'NO' TO COW’S MILK!
+By Health Reporter, Dr. R. Garza
+Cow’s milk is a big part of many people’s lives in the United States. Babies drink cow’s milk in bottles. Children eat cereal drenched in cow’s milk. Even adults enjoy a cold glass of milk from time to time. Yes, cow’s milk is a huge part of the human diet in many places around the world. However, more and more research is suggesting that milk may not “do a body good” as the popular American advertising slogan claims.
+The United States Department of Agriculture, the American Dairy Council, Dairy Management, Inc., and other organizations have worked hard to advocate for milk for many years. They encourage adults to drink at least three glasses of milk a day. However, several studies in the last decade have questioned the bone-strengthening power of milk as well as other claims about the health benefits of milk. The results may surprise you.
+One of the most recent and most important studies on the effects of drinking milk was published in the October 2014 issue of the British Medical Journal. The findings in this study led to some powerful assertions about the consumption of milk. In this study over 100 000 people in Sweden were followed over periods of 20-30 years. Researchers found that the female milk drinkers suffered more bone fractures. Additionally, both male and female milk drinkers were more likely to suffer from heart disease and cancer. These staggering results are similar to findings from other studies.
+The Physicians Committee for Responsible Medicine (PCRM) commented on some of the health problems related to the consumption of milk. It claims that milk and dairy products “have little or no benefit for bones.” The PCRM goes further to describe some specific problems associated with milk:
+“Milk proteins, milk sugar, fat, and saturated fat in dairy products pose health risks for children and encourage the development of obesity, diabetes, and heart disease.”
+These are serious claims and more studies are needed in order to confirm the findings. However, there is mounting proof that drinking cow’s milk could be less beneficial to our health than originally thought. If these claims become indisputable facts, it may be time to just say ‘no’ to cow’s milk.","[""A) Yes, Yes, No"", ""B) Yes, No, No"", ""C) No, Yes, No"", ""D) No, Yes, Yes""]",A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Estonian,est-EST,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Finnish,fin-FIN,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,French,fra-FRA,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Galician,glg-ESP,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Georgian,geo-GEO,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,German,deu-DEU,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Greek,ell-GRC,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Hebrew,heb-ISR,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Hungarian,hun-HUN,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Icelandic,isl-ISL,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Indonesian,ind-IDN,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Italian,ita-ITA,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Japanese,jpn-JPN,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Kazakh,kaz-KAZ,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Korean,kor-KOR,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Latvian,lav-LVA,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Lithuanian,lit-LTU,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Malay,msa-MYS,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Nynorsk,nno-NOR,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Polish,pol-POL,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Portuguese,por-PRT,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Russian,rus-KAZ,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Serbian / Serb,srp-SRB,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Slovak,slo-SVK,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Slovenian,slv-SVN,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Spanish,esp-ESP,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Swedish,swe-SWE,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Thai,tha-THA,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q019,Turkish,tur-TUR,,,,A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q020,Albanian,sqi-ALB,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Arabic,ara-ARE,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Azerbaijani / Azeri,aze-QAZ,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Basque,eus-ESP,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Bokmål,nob-NOR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Bosnian,bos-BIH,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Bulgarian,bul-BGR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Catalan,cat-ESP,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Chinese,zho-CHN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Croatian,hrv-HRV,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Czech,ces-CZE,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Danish,dan-DNK,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Dutch,nld-NLD,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,English,eng-CAN,"The authors of the two texts disagree on the role of milk in a regular diet.
+What is the main point the authors disagree on?","The Nutritional Value of Milk: Countless Benefits!
+Farm to Market Dairy milk products contain key nutrients: calcium, protein, vitamin D, vitamin B12, riboflavin, and potassium. These vitamins and minerals make Farm to Market Dairy milk products an important part of a healthful diet. Consuming Farm to Market Dairy milk products every day is a great way to ensure that you get the vitamins and minerals your body needs.
+Consuming Farm to Market Dairy milk products increases weight loss and helps maintain a healthy weight. Milk increases bone strength and density. It even improves cardiovascular health and helps prevent cancer. One glass of milk is packed with vitamins, minerals, and a wealth of health benefits.
+According to Bill Sears, MD, Associate Clinical Professor of Pediatrics at the University of California at Irvine, milk contains many important nutrients in one convenient place. The International Dairy Foods Association (IDFA) supports this idea. In fact, the IDFA suggests that many health professionals and groups would also agree.
+Milk contains a complete nutrient package of nine essential nutrients. In addition to being an excellent source of calcium and vitamin D, it is a good source of vitamin A, protein and potassium. Dairy is recommended by doctors. Dairy’s role in a healthy diet has long been established by the nutrition and science community. This includes the National Osteoporosis Foundation, the Surgeon General, the National Institutes of Health, the American Medical Association’s Council of Scientific Affairs and many other leading health organizations.
+International Dairy Foods Association, September 27, 2007
+
+JUST SAY 'NO' TO COW’S MILK!
+By Health Reporter, Dr. R. Garza
+Cow’s milk is a big part of many people’s lives in the United States. Babies drink cow’s milk in bottles. Children eat cereal drenched in cow’s milk. Even adults enjoy a cold glass of milk from time to time. Yes, cow’s milk is a huge part of the human diet in many places around the world. However, more and more research is suggesting that milk may not “do a body good” as the popular American advertising slogan claims.
+The United States Department of Agriculture, the American Dairy Council, Dairy Management, Inc., and other organizations have worked hard to advocate for milk for many years. They encourage adults to drink at least three glasses of milk a day. However, several studies in the last decade have questioned the bone-strengthening power of milk as well as other claims about the health benefits of milk. The results may surprise you.
+One of the most recent and most important studies on the effects of drinking milk was published in the October 2014 issue of the British Medical Journal. The findings in this study led to some powerful assertions about the consumption of milk. In this study over 100 000 people in Sweden were followed over periods of 20-30 years. Researchers found that the female milk drinkers suffered more bone fractures. Additionally, both male and female milk drinkers were more likely to suffer from heart disease and cancer. These staggering results are similar to findings from other studies.
+The Physicians Committee for Responsible Medicine (PCRM) commented on some of the health problems related to the consumption of milk. It claims that milk and dairy products “have little or no benefit for bones.” The PCRM goes further to describe some specific problems associated with milk:
+“Milk proteins, milk sugar, fat, and saturated fat in dairy products pose health risks for children and encourage the development of obesity, diabetes, and heart disease.”
+These are serious claims and more studies are needed in order to confirm the findings. However, there is mounting proof that drinking cow’s milk could be less beneficial to our health than originally thought. If these claims become indisputable facts, it may be time to just say ‘no’ to cow’s milk.","[""A) Milk’s effects on health and milk’s role in human diets."", ""B) The number of vitamins and minerals found in milk."", ""C) The best form of dairy to regularly consume."", ""D) Which organization is the leading authority on milk.""]",A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Estonian,est-EST,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Finnish,fin-FIN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,French,fra-FRA,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Galician,glg-ESP,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Georgian,geo-GEO,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,German,deu-DEU,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Greek,ell-GRC,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Hebrew,heb-ISR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Hungarian,hun-HUN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Icelandic,isl-ISL,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Indonesian,ind-IDN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Italian,ita-ITA,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Japanese,jpn-JPN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Kazakh,kaz-KAZ,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Korean,kor-KOR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Latvian,lav-LVA,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Lithuanian,lit-LTU,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Malay,msa-MYS,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Nynorsk,nno-NOR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Polish,pol-POL,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Portuguese,por-PRT,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Russian,rus-KAZ,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Serbian / Serb,srp-SRB,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Slovak,slo-SVK,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Slovenian,slv-SVN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Spanish,esp-ESP,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Swedish,swe-SWE,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Thai,tha-THA,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q020,Turkish,tur-TUR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q021,Albanian,sqi-ALB,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Arabic,ara-ARE,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Azerbaijani / Azeri,aze-QAZ,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Basque,eus-ESP,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Bokmål,nob-NOR,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Bosnian,bos-BIH,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Bulgarian,bul-BGR,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Catalan,cat-ESP,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Chinese,zho-CHN,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Croatian,hrv-HRV,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Czech,ces-CZE,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Danish,dan-DNK,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Dutch,nld-NLD,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,English,eng-CAN,What does Ivana_88 want to know?,"Forum
+Giving Aspirin to Chickens
+Ivana_88 Thread Starter Posted 28 October 18:12
+Hello everyone!
+Is it okay to give aspirin to my hen? She is 2 years old and I think she hurt her leg. I can’t get to the veterinarian until Monday, and the vet isn’t answering the phone. My hen seems to be in a lot of pain. I’d like to give her something to make her feel better until I can go to the vet. Thank you for your help.
+NellieB79 Posted 28 October 18:36
+I don’t know if aspirin is safe for hens or not. I always check with my vet before giving my birds medicine. I know that some drugs that are safe for humans can be very dangerous for birds.
+Monie Posted 28 October 18:52
+I gave an aspirin to one of my hens when she was hurt. There was no problem. The next day I went to the vet but she was already better. I think it might be dangerous if you give too much, so don’t exceed the dose limits! I hope she feels better!
+Avian_Deals Posted 28 October 19:07
+Hi! Don’t forget to check out my super low deals on all bird supplies. I’m having a great sale right now!
+Bob Posted 28 October 19:15
+Can someone please tell me how to know if a chicken is sick? Thanks.
+Frank Posted 28 October 19:21
+Hello Ivana,
+I am a veterinarian, specializing in birds. It is okay to give injured chickens aspirin if they are showing signs that they are in pain. When prescribing aspirin to birds, I follow the guidelines published in Clinical Avian Medicine. Chickens should receive 5mg of aspirin per kg of body weight. You can give this 3-4 times per day until you can see your veterinarian. It is very important to follow up with your vet. Good luck!","[""A) If she can give aspirin to an injured hen."", ""B) How often she can give aspirin to an injured hen."", ""C) How to contact a veterinarian about an injured hen."", ""D) If she can determine the pain level of an injured hen.""]",A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Estonian,est-EST,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Finnish,fin-FIN,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,French,fra-FRA,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Galician,glg-ESP,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Georgian,geo-GEO,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,German,deu-DEU,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Greek,ell-GRC,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Hebrew,heb-ISR,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Hungarian,hun-HUN,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Icelandic,isl-ISL,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Indonesian,ind-IDN,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Italian,ita-ITA,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Japanese,jpn-JPN,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Kazakh,kaz-KAZ,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Korean,kor-KOR,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Latvian,lav-LVA,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Lithuanian,lit-LTU,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Malay,msa-MYS,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Nynorsk,nno-NOR,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Polish,pol-POL,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Portuguese,por-PRT,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Russian,rus-KAZ,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Serbian / Serb,srp-SRB,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Slovak,slo-SVK,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Slovenian,slv-SVN,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Spanish,esp-ESP,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Swedish,swe-SWE,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Thai,tha-THA,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q021,Turkish,tur-TUR,,,,A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Albanian,sqi-ALB,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Arabic,ara-ARE,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Azerbaijani / Azeri,aze-QAZ,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Basque,eus-ESP,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Bokmål,nob-NOR,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Bosnian,bos-BIH,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Bulgarian,bul-BGR,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Catalan,cat-ESP,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Chinese,zho-CHN,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Croatian,hrv-HRV,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Czech,ces-CZE,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Danish,dan-DNK,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Dutch,nld-NLD,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,English,eng-CAN,Why does Ivana_88 decide to post her question on an Internet forum?,"Forum
+Giving Aspirin to Chickens
+Ivana_88 Thread Starter Posted 28 October 18:12
+Hello everyone!
+Is it okay to give aspirin to my hen? She is 2 years old and I think she hurt her leg. I can’t get to the veterinarian until Monday, and the vet isn’t answering the phone. My hen seems to be in a lot of pain. I’d like to give her something to make her feel better until I can go to the vet. Thank you for your help.
+NellieB79 Posted 28 October 18:36
+I don’t know if aspirin is safe for hens or not. I always check with my vet before giving my birds medicine. I know that some drugs that are safe for humans can be very dangerous for birds.
+Monie Posted 28 October 18:52
+I gave an aspirin to one of my hens when she was hurt. There was no problem. The next day I went to the vet but she was already better. I think it might be dangerous if you give too much, so don’t exceed the dose limits! I hope she feels better!
+Avian_Deals Posted 28 October 19:07
+Hi! Don’t forget to check out my super low deals on all bird supplies. I’m having a great sale right now!
+Bob Posted 28 October 19:15
+Can someone please tell me how to know if a chicken is sick? Thanks.
+Frank Posted 28 October 19:21
+Hello Ivana,
+I am a veterinarian, specializing in birds. It is okay to give injured chickens aspirin if they are showing signs that they are in pain. When prescribing aspirin to birds, I follow the guidelines published in Clinical Avian Medicine. Chickens should receive 5mg of aspirin per kg of body weight. You can give this 3-4 times per day until you can see your veterinarian. It is very important to follow up with your vet. Good luck!","[""A) Because she doesn’t know how to find a veterinarian."", ""B) Because she thinks the hen’s problem isn’t serious."", ""C) Because she wants to help her hen as soon as possible."", ""D) Because she cannot afford to go to the veterinarian.""]",C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Estonian,est-EST,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Finnish,fin-FIN,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,French,fra-FRA,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Galician,glg-ESP,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Georgian,geo-GEO,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,German,deu-DEU,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Greek,ell-GRC,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Hebrew,heb-ISR,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Hungarian,hun-HUN,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Icelandic,isl-ISL,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Indonesian,ind-IDN,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Italian,ita-ITA,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Japanese,jpn-JPN,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Kazakh,kaz-KAZ,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Korean,kor-KOR,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Latvian,lav-LVA,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Lithuanian,lit-LTU,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Malay,msa-MYS,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Nynorsk,nno-NOR,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Polish,pol-POL,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Portuguese,por-PRT,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Russian,rus-KAZ,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Serbian / Serb,srp-SRB,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Slovak,slo-SVK,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Slovenian,slv-SVN,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Spanish,esp-ESP,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Swedish,swe-SWE,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Thai,tha-THA,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,Turkish,tur-TUR,,,,C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q023,Albanian,sqi-ALB,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Arabic,ara-ARE,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Azerbaijani / Azeri,aze-QAZ,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Basque,eus-ESP,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Bokmål,nob-NOR,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Bosnian,bos-BIH,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Bulgarian,bul-BGR,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Catalan,cat-ESP,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Chinese,zho-CHN,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Croatian,hrv-HRV,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Czech,ces-CZE,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Danish,dan-DNK,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Dutch,nld-NLD,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,English,eng-CAN,"Is the post relevant to Ivana_88’s problem?
+NellieB79’s post
+Monie’s post
+Avian_Deals’ post
+Bob’s post
+Frank’s post","Forum
+Giving Aspirin to Chickens
+Ivana_88 Thread Starter Posted 28 October 18:12
+Hello everyone!
+Is it okay to give aspirin to my hen? She is 2 years old and I think she hurt her leg. I can’t get to the veterinarian until Monday, and the vet isn’t answering the phone. My hen seems to be in a lot of pain. I’d like to give her something to make her feel better until I can go to the vet. Thank you for your help.
+NellieB79 Posted 28 October 18:36
+I don’t know if aspirin is safe for hens or not. I always check with my vet before giving my birds medicine. I know that some drugs that are safe for humans can be very dangerous for birds.
+Monie Posted 28 October 18:52
+I gave an aspirin to one of my hens when she was hurt. There was no problem. The next day I went to the vet but she was already better. I think it might be dangerous if you give too much, so don’t exceed the dose limits! I hope she feels better!
+Avian_Deals Posted 28 October 19:07
+Hi! Don’t forget to check out my super low deals on all bird supplies. I’m having a great sale right now!
+Bob Posted 28 October 19:15
+Can someone please tell me how to know if a chicken is sick? Thanks.
+Frank Posted 28 October 19:21
+Hello Ivana,
+I am a veterinarian, specializing in birds. It is okay to give injured chickens aspirin if they are showing signs that they are in pain. When prescribing aspirin to birds, I follow the guidelines published in Clinical Avian Medicine. Chickens should receive 5mg of aspirin per kg of body weight. You can give this 3-4 times per day until you can see your veterinarian. It is very important to follow up with your vet. Good luck!","[""A) Yes, Yes, No, No, Yes"", ""B) Yes, No, No, No, Yes"", ""C) No, Yes, No, No, Yes"", ""D) Yes, Yes, No, No, No""]",A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Estonian,est-EST,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Finnish,fin-FIN,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,French,fra-FRA,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Galician,glg-ESP,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Georgian,geo-GEO,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,German,deu-DEU,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Greek,ell-GRC,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Hebrew,heb-ISR,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Hungarian,hun-HUN,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Icelandic,isl-ISL,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Indonesian,ind-IDN,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Italian,ita-ITA,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Japanese,jpn-JPN,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Kazakh,kaz-KAZ,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Korean,kor-KOR,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Latvian,lav-LVA,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Lithuanian,lit-LTU,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Malay,msa-MYS,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Nynorsk,nno-NOR,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Polish,pol-POL,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Portuguese,por-PRT,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Russian,rus-KAZ,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Serbian / Serb,srp-SRB,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Slovak,slo-SVK,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Slovenian,slv-SVN,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Spanish,esp-ESP,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Swedish,swe-SWE,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Thai,tha-THA,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q023,Turkish,tur-TUR,,,,A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q024,Albanian,sqi-ALB,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Arabic,ara-ARE,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Azerbaijani / Azeri,aze-QAZ,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Basque,eus-ESP,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Bokmål,nob-NOR,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Bosnian,bos-BIH,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Bulgarian,bul-BGR,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Catalan,cat-ESP,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Chinese,zho-CHN,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Croatian,hrv-HRV,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Czech,ces-CZE,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Danish,dan-DNK,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Dutch,nld-NLD,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,English,eng-CAN,Who has had positive experiences giving aspirin to an injured hen?,"Forum
+Giving Aspirin to Chickens
+Ivana_88 Thread Starter Posted 28 October 18:12
+Hello everyone!
+Is it okay to give aspirin to my hen? She is 2 years old and I think she hurt her leg. I can’t get to the veterinarian until Monday, and the vet isn’t answering the phone. My hen seems to be in a lot of pain. I’d like to give her something to make her feel better until I can go to the vet. Thank you for your help.
+NellieB79 Posted 28 October 18:36
+I don’t know if aspirin is safe for hens or not. I always check with my vet before giving my birds medicine. I know that some drugs that are safe for humans can be very dangerous for birds.
+Monie Posted 28 October 18:52
+I gave an aspirin to one of my hens when she was hurt. There was no problem. The next day I went to the vet but she was already better. I think it might be dangerous if you give too much, so don’t exceed the dose limits! I hope she feels better!
+Avian_Deals Posted 28 October 19:07
+Hi! Don’t forget to check out my super low deals on all bird supplies. I’m having a great sale right now!
+Bob Posted 28 October 19:15
+Can someone please tell me how to know if a chicken is sick? Thanks.
+Frank Posted 28 October 19:21
+Hello Ivana,
+I am a veterinarian, specializing in birds. It is okay to give injured chickens aspirin if they are showing signs that they are in pain. When prescribing aspirin to birds, I follow the guidelines published in Clinical Avian Medicine. Chickens should receive 5mg of aspirin per kg of body weight. You can give this 3-4 times per day until you can see your veterinarian. It is very important to follow up with your vet. Good luck!","[""A) Ivana_88"", ""B) NellieB79"", ""C) Monie"", ""D) Bob""]",C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Estonian,est-EST,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Finnish,fin-FIN,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,French,fra-FRA,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Galician,glg-ESP,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Georgian,geo-GEO,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,German,deu-DEU,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Greek,ell-GRC,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Hebrew,heb-ISR,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Hungarian,hun-HUN,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Icelandic,isl-ISL,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Indonesian,ind-IDN,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Italian,ita-ITA,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Japanese,jpn-JPN,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Kazakh,kaz-KAZ,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Korean,kor-KOR,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Latvian,lav-LVA,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Lithuanian,lit-LTU,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Malay,msa-MYS,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Nynorsk,nno-NOR,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Polish,pol-POL,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Portuguese,por-PRT,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Russian,rus-KAZ,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Serbian / Serb,srp-SRB,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Slovak,slo-SVK,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Slovenian,slv-SVN,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Spanish,esp-ESP,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Swedish,swe-SWE,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Thai,tha-THA,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q024,Turkish,tur-TUR,,,,C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q025,Albanian,sqi-ALB,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Arabic,ara-ARE,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Azerbaijani / Azeri,aze-QAZ,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Basque,eus-ESP,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Bokmål,nob-NOR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Bosnian,bos-BIH,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Bulgarian,bul-BGR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Catalan,cat-ESP,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Chinese,zho-CHN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Croatian,hrv-HRV,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Czech,ces-CZE,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Danish,dan-DNK,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Dutch,nld-NLD,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,English,eng-CAN,Why does Avian_Deals respond to Ivana_88’s post?,"Forum
+Giving Aspirin to Chickens
+Ivana_88 Thread Starter Posted 28 October 18:12
+Hello everyone!
+Is it okay to give aspirin to my hen? She is 2 years old and I think she hurt her leg. I can’t get to the veterinarian until Monday, and the vet isn’t answering the phone. My hen seems to be in a lot of pain. I’d like to give her something to make her feel better until I can go to the vet. Thank you for your help.
+NellieB79 Posted 28 October 18:36
+I don’t know if aspirin is safe for hens or not. I always check with my vet before giving my birds medicine. I know that some drugs that are safe for humans can be very dangerous for birds.
+Monie Posted 28 October 18:52
+I gave an aspirin to one of my hens when she was hurt. There was no problem. The next day I went to the vet but she was already better. I think it might be dangerous if you give too much, so don’t exceed the dose limits! I hope she feels better!
+Avian_Deals Posted 28 October 19:07
+Hi! Don’t forget to check out my super low deals on all bird supplies. I’m having a great sale right now!
+Bob Posted 28 October 19:15
+Can someone please tell me how to know if a chicken is sick? Thanks.
+Frank Posted 28 October 19:21
+Hello Ivana,
+I am a veterinarian, specializing in birds. It is okay to give injured chickens aspirin if they are showing signs that they are in pain. When prescribing aspirin to birds, I follow the guidelines published in Clinical Avian Medicine. Chickens should receive 5mg of aspirin per kg of body weight. You can give this 3-4 times per day until you can see your veterinarian. It is very important to follow up with your vet. Good luck!","[""A) To promote a business."", ""B) To answer Ivana_88’s question."", ""C) To add to Monie’s advice."", ""D) To demonstrate expertise with birds.""]",A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Estonian,est-EST,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Finnish,fin-FIN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,French,fra-FRA,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Galician,glg-ESP,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Georgian,geo-GEO,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,German,deu-DEU,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Greek,ell-GRC,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Hebrew,heb-ISR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Hungarian,hun-HUN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Icelandic,isl-ISL,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Indonesian,ind-IDN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Italian,ita-ITA,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Japanese,jpn-JPN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Kazakh,kaz-KAZ,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Korean,kor-KOR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Latvian,lav-LVA,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Lithuanian,lit-LTU,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Malay,msa-MYS,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Nynorsk,nno-NOR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Polish,pol-POL,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Portuguese,por-PRT,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Russian,rus-KAZ,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Serbian / Serb,srp-SRB,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Slovak,slo-SVK,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Slovenian,slv-SVN,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Spanish,esp-ESP,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Swedish,swe-SWE,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Thai,tha-THA,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
+q025,Turkish,tur-TUR,,,,A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"

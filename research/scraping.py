@@ -12,7 +12,7 @@ OUT_CSV = f"{UNIT}_parts_all_languages.csv"
 # Fill with your real language codes
 LANG_CODES = {
     "Albanian": "sqi-ALB",
-    "Arabic": "ara-ARE",              # depends on country: EGY, SAU, QAT, etc.
+    "Arabic": "ara-ARE",              
     "Azerbaijani / Azeri": "aze-QAZ",
     "Basque": "eus-ESP",
     "Bokmål": "nob-NOR",
@@ -24,7 +24,7 @@ LANG_CODES = {
     "Czech": "ces-CZE",
     "Danish": "dan-DNK",
     "Dutch": "nld-NLD",
-    "English": "eng-CAN",             # depends on country
+    "English": "eng-CAN",             
     "Estonian": "est-EST",
     "Finnish": "fin-FIN",
     "French": "fra-FRA",
@@ -46,7 +46,7 @@ LANG_CODES = {
     "Nynorsk": "nno-NOR",
     "Polish": "pol-POL",
     "Portuguese": "por-PRT",
-    "Russian": "rus-KAZ",             # your example
+    "Russian": "rus-KAZ",             
     "Serbian / Serb": "srp-SRB",
     "Slovak": "slo-SVK",
     "Slovenian": "slv-SVN",

@@ -1,0 +1,300 @@
+qid,language,question,context,options,gold,answer_type,category,difficulty,rationale,source
+q001,English,"If Tania decides to buy car D and resell it after three years in excellent condition, what will be the approximate resale price of the car in zeds?","A car’s resale price is the estimated price for which it can be resold at a later time.
+For a car that stays in excellent condition, its resale price will decrease by 5% each year.
+Car price includes all taxes and registration fees. Car D: Price (zeds): 10500. ","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+q002,English,"If this sales trend continues, what will be the first year the number of DVDs sold is less than 1 million according to the model?","The equation of the line is d = 254 – 22n, where d is the number of DVDs sold (in millions) and n is the number of years after 2008.","[""A) 2018"", ""B) 2019"", ""C) 2020"", ""D) 2021""]",C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
+q003,English,What is the greatest number of medium boxes that could fit into truck A?,"Mara’s family decides to rent truck A.
+**Interior Storage-Compartment Dimensions**
+| Truck Size | Length of Floor | Width of Floor | Height |
+|-----------|----------------|---------------|--------|
+| A                | 4 metres            | 2 metres           | 2 metres |
+**Box Dimensions**
+| Box Size | Length | Width | Height |
+|---------|--------|-------|--------|
+| Medium | 0.5 metre | 0.5 metre | 0.5 metre |","[""A) 320"", ""B) 128"", ""C) 96"", ""D) 64""]",B,mc,Math,level 2,8 * 4 * 4 = 128,"PISA 2022, math, Moving Truck"
+q004,English,"The company which rents the trucks confirmed that truck A can be filled using only medium boxes so that the entire space in the storage compartment is used.
+Mara claims that a medium box takes up 2/3 of the space of a large box, so she concludes that the number of large boxes that will fill truck A is 2/3 the number of medium boxes. 
+Which one of the following statements about Mara’s conclusion is true?","**Interior Storage-Compartment Dimensions**
+| Truck Size | Length of Floor | Width of Floor | Height |
+|-----------|----------------|---------------|--------|
+| A                | 4 metres            | 2 metres           | 2 metres |
+**Box Dimensions**
+| Box Size | Length | Width | Height |
+|---------|--------|-------|--------|
+| Medium | 0.5 metre | 0.5 metre | 0.5 metre |
+| Large | 0.5 metre | 0.5 metre | 0.75 metre |","[""A) She is correct, because the height of a medium box is 2/3 the height of a large box."", ""B) She is correct, because 3 medium boxes can always be fit into the same space as 2 large boxes."", ""C) She is not correct, because none of the interior storage dimensions of truck A are multiples of 0.75, which is the height of a large box."", ""D) She is not correct, because the height of a large box is 1.5 times the height of a medium box.""]",C,mc,Math,level 6,,"PISA 2022, math, Moving Truck"
+q005,English,"On average, approximately how many million kilometres from the Sun is the planet Neptune?","The table below shows the average distance from the Sun to the primary planets in Astronomical Units (au). 
+1 au is approximately 150 million kilometres. 
+| Planet | Average distance from Sun in au | 
+|-------|---------------------------------|
+| Mercury  | 0.39   |
+| Earth       | 1.00   |
+| Neptune | 30.05 |","[""A) 180 million km"", ""B) 450 million km"", ""C) 1500 million km"", ""D) 4500 million km""]",D,mc,Math,level 2,150 * 30 = 4500,"PISA 2022, math, Solar System"
+q006,English,"Given the average margin of victory for the season, is it possible that the team never actually won a game by 19 points?","The following headlines about the Zedland basketball team appeared in the local newspaper.
+Basketball Team Wins Championship!
+Won every game this season.
+Averaged a 19-point margin of victory this season.
+Margin of victory is the difference between the number of points scored by the winning team and the number of points scored by the losing team in one game.","[""A) Yes"", ""B) No""]",A,mc,Math,level 5,,"PISA 2022, math, Points"
+q007,English,"In terms of percentage points, which country had the greatest gain between 2005 and 2015?","The spreadsheet below shows the amount of forested area as a percentage of the total land area in each of the 15 countries in this data set. Data are shown for the years 2005, 2010, and 2015.
+| Country        | 2005  | 2010  | 2015  |
+|------------|-------|-------|-------|
+| Algeria        | 0.64  | 0.81  | 0.82  |
+| Armenia        | 11.77 | 11.74 | 11.77 |
+| Colombia       | 54.26 | 52.85 | 52.73 |
+| Germany        | 32.66 | 32.73 | 32.76 |
+| Greece         | 29.11 | 30.28 | 31.45 |
+| India          | 22.77 | 23.47 | 23.77 |
+| Kazakhstan     | 1.24  | 1.23  | 1.23  |
+| Lebanon        | 13.34 | 13.38 | 13.42 |
+| Panama         | 64.33 | 63.21 | 62.11 |
+| Peru           | 59.01 | 58.45 | 57.79 |
+| Portugal       | 36.52 | 35.89 | 35.25 |
+| Senegal        | 45.05 | 44.01 | 42.97 |
+| South Korea    | 64.42 | 64.08 | 63.69 |
+| Thailand       | 31.51 | 31.81 | 32.10 |
+| United States  | 33.26 | 33.70 | 33.85 |","[""A) Greece"", ""B) Armenia"", ""C) Panama"", ""D) Kazakhstan""]",A,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q008,English,Which country had no overall change between 2005 and 2015?,"The spreadsheet below shows the amount of forested area as a percentage of the total land area in each of the 15 countries in this data set. Data are shown for the years 2005, 2010, and 2015.
+| Country        | 2005  | 2010  | 2015  |
+|------------|-------|-------|-------|
+| Algeria        | 0.64  | 0.81  | 0.82  |
+| Armenia        | 11.77 | 11.74 | 11.77 |
+| Colombia       | 54.26 | 52.85 | 52.73 |
+| Germany        | 32.66 | 32.73 | 32.76 |
+| Greece         | 29.11 | 30.28 | 31.45 |
+| India          | 22.77 | 23.47 | 23.77 |
+| Kazakhstan     | 1.24  | 1.23  | 1.23  |
+| Lebanon        | 13.34 | 13.38 | 13.42 |
+| Panama         | 64.33 | 63.21 | 62.11 |
+| Peru           | 59.01 | 58.45 | 57.79 |
+| Portugal       | 36.52 | 35.89 | 35.25 |
+| Senegal        | 45.05 | 44.01 | 42.97 |
+| South Korea    | 64.42 | 64.08 | 63.69 |
+| Thailand       | 31.51 | 31.81 | 32.10 |
+| United States  | 33.26 | 33.70 | 33.85 |","[""A) Greece"", ""B) Armenia"", ""C) Panama"", ""D) Kazakhstan""]",B,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q009,English,"In terms of percentage points, which country had the greatest loss between 2005 and 2015?","The spreadsheet below shows the amount of forested area as a percentage of the total land area in each of the 15 countries in this data set. Data are shown for the years 2005, 2010, and 2015.
+| Country        | 2005  | 2010  | 2015  |
+|------------|-------|-------|-------|
+| Algeria        | 0.64  | 0.81  | 0.82  |
+| Armenia        | 11.77 | 11.74 | 11.77 |
+| Colombia       | 54.26 | 52.85 | 52.73 |
+| Germany        | 32.66 | 32.73 | 32.76 |
+| Greece         | 29.11 | 30.28 | 31.45 |
+| India          | 22.77 | 23.47 | 23.77 |
+| Kazakhstan     | 1.24  | 1.23  | 1.23  |
+| Lebanon        | 13.34 | 13.38 | 13.42 |
+| Panama         | 64.33 | 63.21 | 62.11 |
+| Peru           | 59.01 | 58.45 | 57.79 |
+| Portugal       | 36.52 | 35.89 | 35.25 |
+| Senegal        | 45.05 | 44.01 | 42.97 |
+| South Korea    | 64.42 | 64.08 | 63.69 |
+| Thailand       | 31.51 | 31.81 | 32.10 |
+| United States  | 33.26 | 33.70 | 33.85 |","[""A) Greece"", ""B) Armenia"", ""C) Panama"", ""D) Kazakhstan""]",C,mc,Math,level 4,,"PISA 2022, math, Forested Areas"
+q010,English,"Consider the two time periods: 2005 to 2010 and 2010 to 2015.
+In terms of percentage points, which two countries had the biggest change in the percent of forested area from one time period to the other time period?","The spreadsheet below shows the amount of forested area as a percentage of the total land area in each of the 15 countries in this data set. Data are shown for the years 2005, 2010, and 2015.
+| Country        | 2005  | 2010  | 2015  |
+|------------|-------|-------|-------|
+| Algeria        | 0.64  | 0.81  | 0.82  |
+| Armenia        | 11.77 | 11.74 | 11.77 |
+| Colombia       | 54.26 | 52.85 | 52.73 |
+| Germany        | 32.66 | 32.73 | 32.76 |
+| Greece         | 29.11 | 30.28 | 31.45 |
+| India          | 22.77 | 23.47 | 23.77 |
+| Kazakhstan     | 1.24  | 1.23  | 1.23  |
+| Lebanon        | 13.34 | 13.38 | 13.42 |
+| Panama         | 64.33 | 63.21 | 62.11 |
+| Peru           | 59.01 | 58.45 | 57.79 |
+| Portugal       | 36.52 | 35.89 | 35.25 |
+| Senegal        | 45.05 | 44.01 | 42.97 |
+| South Korea    | 64.42 | 64.08 | 63.69 |
+| Thailand       | 31.51 | 31.81 | 32.10 |
+| United States  | 33.26 | 33.70 | 33.85 |","[""A) India and Colombia"", ""B) India and Armenia"", ""C) Panama and Colombia"", ""D) Kazakhstan and Colombia""]",A,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q011,English,"Helena claims that South Korea has more forested area than any other country in this list for the years shown.
+Is her claim supported by the data in the spreadsheet?","The spreadsheet below shows the amount of forested area as a percentage of the total land area in each of the 15 countries in this data set. Data are shown for the years 2005, 2010, and 2015.
+| Country        | 2005  | 2010  | 2015  |
+|------------|-------|-------|-------|
+| Algeria        | 0.64  | 0.81  | 0.82  |
+| Armenia        | 11.77 | 11.74 | 11.77 |
+| Colombia       | 54.26 | 52.85 | 52.73 |
+| Germany        | 32.66 | 32.73 | 32.76 |
+| Greece         | 29.11 | 30.28 | 31.45 |
+| India          | 22.77 | 23.47 | 23.77 |
+| Kazakhstan     | 1.24  | 1.23  | 1.23  |
+| Lebanon        | 13.34 | 13.38 | 13.42 |
+| Panama         | 64.33 | 63.21 | 62.11 |
+| Peru           | 59.01 | 58.45 | 57.79 |
+| Portugal       | 36.52 | 35.89 | 35.25 |
+| Senegal        | 45.05 | 44.01 | 42.97 |
+| South Korea    | 64.42 | 64.08 | 63.69 |
+| Thailand       | 31.51 | 31.81 | 32.10 |
+| United States  | 33.26 | 33.70 | 33.85 |","[""A) Yes"", ""B) No""]",B,mc,Math,level 6,,"PISA 2022, math, Forested Areas"
+q012,English,What do the scientists mentioned in the article and Jared Diamond agree on?,"Did Polynesian Rats Destroy Rapa Nui’s Trees?
+By Michael Kimball, Science Reporter
+In 2005, Jared Diamond published Collapse. In the book, he described the human settlement of Rapa Nui (also called Easter Island).
+The book caused a huge controversy soon after its publication. Many scientists questioned Diamond’s theory of what happened on Rapa Nui. They agreed that the huge trees had disappeared by the time Europeans first arrived on the island in the 18th century, but they did not agree with Jared Diamond’s theory about the cause of the disappearance.
+Now, two scientists, Carl Lipo and Terry Hunt, have published a new theory. They believe that the Polynesian rat ate the seeds of the trees, preventing new ones from growing. The rat, they believe, was brought over either accidentally or purposefully on the canoes that the first human settlers used to land on Rapa Nui.
+Studies have shown that a population of rats can double every 47 days. That’s a lot of rats to feed. To support their theory, Lipo and Hunt point to the remains of palm nuts that show the gnaw marks made by rats. Of course, they acknowledge that humans did play a role in the destruction of the forests of Rapa Nui. But they believe that the Polynesian rat was an even greater culprit among a series of factors.","[""A) Humans settled Rapa Nui hundreds of years ago."", ""B) Large trees have disappeared from Rapa Nui."", ""C) Polynesian rats ate the seeds of large trees on Rapa Nui."", ""D) Europeans arrived on Rapa Nui in the 18th century.""]",B,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q013,English,What evidence do Carl Lipo and Terry Hunt present to support their theory of why the large trees of Rapa Nui disappeared?,"Did Polynesian Rats Destroy Rapa Nui’s Trees?
+By Michael Kimball, Science Reporter
+In 2005, Jared Diamond published Collapse. In the book, he described the human settlement of Rapa Nui (also called Easter Island).
+The book caused a huge controversy soon after its publication. Many scientists questioned Diamond’s theory of what happened on Rapa Nui. They agreed that the huge trees had disappeared by the time Europeans first arrived on the island in the 18th century, but they did not agree with Jared Diamond’s theory about the cause of the disappearance.
+Now, two scientists, Carl Lipo and Terry Hunt, have published a new theory. They believe that the Polynesian rat ate the seeds of the trees, preventing new ones from growing. The rat, they believe, was brought over either accidentally or purposefully on the canoes that the first human settlers used to land on Rapa Nui.
+Studies have shown that a population of rats can double every 47 days. That’s a lot of rats to feed. To support their theory, Lipo and Hunt point to the remains of palm nuts that show the gnaw marks made by rats. Of course, they acknowledge that humans did play a role in the destruction of the forests of Rapa Nui. But they believe that the Polynesian rat was an even greater culprit among a series of factors.","[""A) The rats arrived on the island on settlers’ canoes."", ""B) The rats may have been brought by the settlers purposefully."", ""C) Rat populations can double every 47 days."", ""D) The remains of palm nuts show gnaw marks made by rats.""]",D,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q014,English,"According to the blog, when did the professor start her field work?","The Professor’s Blog
+Posted May 23, 11:22 a.m.
+As I look out of my window this morning, I see the landscape I have learned to love here on Rapa Nui, which is known in some places by the name Easter Island. The grasses and shrubs are green, the sky is blue, and the old, now extinct volcanoes rise up in the background.
+I am a bit sad knowing that this is my last week on the island. I have finished my field work and will be returning home. Later today, I will take a walk through the hills and say good-bye to the moai that I have been studying for the past nine months. 
+If you have been following my blog this year, then you know that the people of Rapa Nui carved these moai hundreds of years ago. These impressive moai had been carved in a single quarry on the eastern part of the island. Some of them weighed thousands of kilos, yet the people of Rapa Nui were able to move them to locations far away from the quarry without cranes or any heavy equipment.
+For years, archeologists did not know how these massive statues were moved. It remained a mystery until the 1990s, when a team of archeologists and residents of Rapa Nui demonstrated that the moai could have been transported and raised using ropes made from plants and wooden rollers and tracks made from large trees that had once thrived on the island. The mystery of the moai was solved.
+Another mystery remained, however. What happened to these plants and large trees that had been used to move the moai? As I said, when I look out of my window, I see grasses and shrubs and a small tree or two, but nothing that could have been used to move these huge statues. It is a fascinating puzzle, one that I will explore in future posts and lectures. Until then, you may wish to investigate the mystery yourself. I suggest you begin with a book called Collapse by Jared Diamond. This review of Collapse is a good place to start.","[""A) During the 1990s."", ""B) Nine months ago."", ""C) One year ago."", ""D) At the beginning of May.""]",B,mc,Reading,level 4,,"PISA 2018, reading, Rapa Nui"
+q015,English,"Is the statement a fact or an opinion?
+In the book, the author describes several civilizations that collapsed because of the choices they made and their impact on the environment.
+One of the most disturbing examples in the book is Rapa Nui.
+They carved the moai, the famous statues, and used the natural resources available to them to move these huge moai to different locations around the island.
+When the first Europeans landed on Easter Island in 1722, the moai were still there, but the trees were gone.
+The book is written well and deserves to be read by anyone who is concerned about the environment.","Review of Collapse
+Jared Diamond’s new book, Collapse, is a clear warning about the consequences of damaging our environment. In the book, the author describes several civilizations that collapsed because of the choices they made and their impact on the environment. One of the most disturbing examples in the book is Rapa Nui.
+According to the author, Rapa Nui was settled by Polynesians sometime after 700 CE. They developed a thriving society of, perhaps, 15 000 people. They carved the moai, the famous statues, and used the natural resources available to them to move these huge moai to different locations around the island. When the first Europeans landed on Rapa Nui in 1722, the moai were still there, but the trees were gone. The population was down to a few thousand people who were struggling to survive. Mr. Diamond writes that the people of Rapa Nui cleared the land for farming and other purposes and that they over-hunted the numerous species of sea and land birds that had lived on the island. He speculates that the dwindling natural resources led to civil wars and the collapse of Rapa Nui’s society.
+The lesson of this wonderful but frightening book is that in the past, humans made the choice to destroy their environment by cutting down all the trees and hunting animal species to extinction. Optimistically, the author points out, we can choose not to make the same mistakes today. The book is written well and deserves to be read by anyone who is concerned about the environment.","[""A) Fact, Opinion, Fact, Fact, Opinion."", ""B) Opinion, Opinion, Fact, Fact, Opinion."", ""C) Fact, Opinion, Fact, Opinion, Opinion."", ""D) Fact, Opinion, Opinion, Fact, Opinion..""]",A,mc,Reading,level 5,,"PISA 2018, reading, Rapa Nui"
+q016,English,"According to the IDFA, with which statement do leading health professionals and organizations agree?","The Nutritional Value of Milk: Countless Benefits!
+Farm to Market Dairy milk products contain key nutrients: calcium, protein, vitamin D, vitamin B12, riboflavin, and potassium. These vitamins and minerals make Farm to Market Dairy milk products an important part of a healthful diet. Consuming Farm to Market Dairy milk products every day is a great way to ensure that you get the vitamins and minerals your body needs.
+Consuming Farm to Market Dairy milk products increases weight loss and helps maintain a healthy weight. Milk increases bone strength and density. It even improves cardiovascular health and helps prevent cancer. One glass of milk is packed with vitamins, minerals, and a wealth of health benefits.
+According to Bill Sears, MD, Associate Clinical Professor of Pediatrics at the University of California at Irvine, milk contains many important nutrients in one convenient place. The International Dairy Foods Association (IDFA) supports this idea. In fact, the IDFA suggests that many health professionals and groups would also agree.
+Milk contains a complete nutrient package of nine essential nutrients. In addition to being an excellent source of calcium and vitamin D, it is a good source of vitamin A, protein and potassium. Dairy is recommended by doctors. Dairy’s role in a healthy diet has long been established by the nutrition and science community. This includes the National Osteoporosis Foundation, the Surgeon General, the National Institutes of Health, the American Medical Association’s Council of Scientific Affairs and many other leading health organizations.
+International Dairy Foods Association, September 27, 2007","[""A) Consuming milk and milk products leads to obesity."", ""B) Milk is a good source of essential vitamins and minerals."", ""C) Milk contains more vitamins than minerals."", ""D) Drinking milk is a leading cause of osteoporosis.""]",B,mc,Reading,level 1b,,"PISA 2018, reading, Cow's Milk"
+q017,English,What is the main purpose of this text?,"The Nutritional Value of Milk: Countless Benefits!
+Farm to Market Dairy milk products contain key nutrients: calcium, protein, vitamin D, vitamin B12, riboflavin, and potassium. These vitamins and minerals make Farm to Market Dairy milk products an important part of a healthful diet. Consuming Farm to Market Dairy milk products every day is a great way to ensure that you get the vitamins and minerals your body needs.
+Consuming Farm to Market Dairy milk products increases weight loss and helps maintain a healthy weight. Milk increases bone strength and density. It even improves cardiovascular health and helps prevent cancer. One glass of milk is packed with vitamins, minerals, and a wealth of health benefits.
+According to Bill Sears, MD, Associate Clinical Professor of Pediatrics at the University of California at Irvine, milk contains many important nutrients in one convenient place. The International Dairy Foods Association (IDFA) supports this idea. In fact, the IDFA suggests that many health professionals and groups would also agree.
+Milk contains a complete nutrient package of nine essential nutrients. In addition to being an excellent source of calcium and vitamin D, it is a good source of vitamin A, protein and potassium. Dairy is recommended by doctors. Dairy’s role in a healthy diet has long been established by the nutrition and science community. This includes the National Osteoporosis Foundation, the Surgeon General, the National Institutes of Health, the American Medical Association’s Council of Scientific Affairs and many other leading health organizations.
+International Dairy Foods Association, September 27, 2007","[""A) To argue that milk products increase weight loss."", ""B) To compare Farm to Market Dairy milk products to other dairy products."", ""C) To inform the public of the risks associated with heart disease."", ""D) To support the use of Farm to Market Dairy products.""]",D,mc,Reading,level 2,,"PISA 2018, reading, Cow's Milk"
+q018,English,"Is the statement a fact or an opinion?
+Recent studies on the health benefits of milk are surprising.
+Studies have shown that drinking milk has detrimental health effects.
+Several studies have questioned the bone strengthening power of milk.
+Drinking milk and other dairy products is the best way to lose weight.","The Nutritional Value of Milk: Countless Benefits!
+Farm to Market Dairy milk products contain key nutrients: calcium, protein, vitamin D, vitamin B12, riboflavin, and potassium. These vitamins and minerals make Farm to Market Dairy milk products an important part of a healthful diet. Consuming Farm to Market Dairy milk products every day is a great way to ensure that you get the vitamins and minerals your body needs.
+Consuming Farm to Market Dairy milk products increases weight loss and helps maintain a healthy weight. Milk increases bone strength and density. It even improves cardiovascular health and helps prevent cancer. One glass of milk is packed with vitamins, minerals, and a wealth of health benefits.
+According to Bill Sears, MD, Associate Clinical Professor of Pediatrics at the University of California at Irvine, milk contains many important nutrients in one convenient place. The International Dairy Foods Association (IDFA) supports this idea. In fact, the IDFA suggests that many health professionals and groups would also agree.
+Milk contains a complete nutrient package of nine essential nutrients. In addition to being an excellent source of calcium and vitamin D, it is a good source of vitamin A, protein and potassium. Dairy is recommended by doctors. Dairy’s role in a healthy diet has long been established by the nutrition and science community. This includes the National Osteoporosis Foundation, the Surgeon General, the National Institutes of Health, the American Medical Association’s Council of Scientific Affairs and many other leading health organizations.
+International Dairy Foods Association, September 27, 2007
+
+JUST SAY 'NO' TO COW’S MILK!
+By Health Reporter, Dr. R. Garza
+Cow’s milk is a big part of many people’s lives in the United States. Babies drink cow’s milk in bottles. Children eat cereal drenched in cow’s milk. Even adults enjoy a cold glass of milk from time to time. Yes, cow’s milk is a huge part of the human diet in many places around the world. However, more and more research is suggesting that milk may not “do a body good” as the popular American advertising slogan claims.
+The United States Department of Agriculture, the American Dairy Council, Dairy Management, Inc., and other organizations have worked hard to advocate for milk for many years. They encourage adults to drink at least three glasses of milk a day. However, several studies in the last decade have questioned the bone-strengthening power of milk as well as other claims about the health benefits of milk. The results may surprise you.
+One of the most recent and most important studies on the effects of drinking milk was published in the October 2014 issue of the British Medical Journal. The findings in this study led to some powerful assertions about the consumption of milk. In this study over 100 000 people in Sweden were followed over periods of 20-30 years. Researchers found that the female milk drinkers suffered more bone fractures. Additionally, both male and female milk drinkers were more likely to suffer from heart disease and cancer. These staggering results are similar to findings from other studies.
+The Physicians Committee for Responsible Medicine (PCRM) commented on some of the health problems related to the consumption of milk. It claims that milk and dairy products “have little or no benefit for bones.” The PCRM goes further to describe some specific problems associated with milk:
+“Milk proteins, milk sugar, fat, and saturated fat in dairy products pose health risks for children and encourage the development of obesity, diabetes, and heart disease.”
+These are serious claims and more studies are needed in order to confirm the findings. However, there is mounting proof that drinking cow’s milk could be less beneficial to our health than originally thought. If these claims become indisputable facts, it may be time to just say ‘no’ to cow’s milk.","[""A) Opinion, Fact, Fact, Opinion."", ""B) Fact, Fact, Opinion, Opinion."", ""C) Fact, Opinion, Fact, Opinion."", ""D) Opinion, Opinion, Fact, Fact.""]",A,mc,Reading,level 5,,"PISA 2018, reading, Cow's Milk"
+q019,English,"Could this statement represent the purpose of the article?
+To question the benefit of dairy products on general health.
+To discuss various research findings about cow’s milk.
+To point out that milk and other dairy products have not been studied.","JUST SAY 'NO' TO COW’S MILK!
+By Health Reporter, Dr. R. Garza
+Cow’s milk is a big part of many people’s lives in the United States. Babies drink cow’s milk in bottles. Children eat cereal drenched in cow’s milk. Even adults enjoy a cold glass of milk from time to time. Yes, cow’s milk is a huge part of the human diet in many places around the world. However, more and more research is suggesting that milk may not “do a body good” as the popular American advertising slogan claims.
+The United States Department of Agriculture, the American Dairy Council, Dairy Management, Inc., and other organizations have worked hard to advocate for milk for many years. They encourage adults to drink at least three glasses of milk a day. However, several studies in the last decade have questioned the bone-strengthening power of milk as well as other claims about the health benefits of milk. The results may surprise you.
+One of the most recent and most important studies on the effects of drinking milk was published in the October 2014 issue of the British Medical Journal. The findings in this study led to some powerful assertions about the consumption of milk. In this study over 100 000 people in Sweden were followed over periods of 20-30 years. Researchers found that the female milk drinkers suffered more bone fractures. Additionally, both male and female milk drinkers were more likely to suffer from heart disease and cancer. These staggering results are similar to findings from other studies.
+The Physicians Committee for Responsible Medicine (PCRM) commented on some of the health problems related to the consumption of milk. It claims that milk and dairy products “have little or no benefit for bones.” The PCRM goes further to describe some specific problems associated with milk:
+“Milk proteins, milk sugar, fat, and saturated fat in dairy products pose health risks for children and encourage the development of obesity, diabetes, and heart disease.”
+These are serious claims and more studies are needed in order to confirm the findings. However, there is mounting proof that drinking cow’s milk could be less beneficial to our health than originally thought. If these claims become indisputable facts, it may be time to just say ‘no’ to cow’s milk.","[""A) Yes, Yes, No"", ""B) Yes, No, No"", ""C) No, Yes, No"", ""D) No, Yes, Yes""]",A,mc,Reading,level 3,,"PISA 2018, reading, Cow's Milk"
+q020,English,"The authors of the two texts disagree on the role of milk in a regular diet.
+What is the main point the authors disagree on?","The Nutritional Value of Milk: Countless Benefits!
+Farm to Market Dairy milk products contain key nutrients: calcium, protein, vitamin D, vitamin B12, riboflavin, and potassium. These vitamins and minerals make Farm to Market Dairy milk products an important part of a healthful diet. Consuming Farm to Market Dairy milk products every day is a great way to ensure that you get the vitamins and minerals your body needs.
+Consuming Farm to Market Dairy milk products increases weight loss and helps maintain a healthy weight. Milk increases bone strength and density. It even improves cardiovascular health and helps prevent cancer. One glass of milk is packed with vitamins, minerals, and a wealth of health benefits.
+According to Bill Sears, MD, Associate Clinical Professor of Pediatrics at the University of California at Irvine, milk contains many important nutrients in one convenient place. The International Dairy Foods Association (IDFA) supports this idea. In fact, the IDFA suggests that many health professionals and groups would also agree.
+Milk contains a complete nutrient package of nine essential nutrients. In addition to being an excellent source of calcium and vitamin D, it is a good source of vitamin A, protein and potassium. Dairy is recommended by doctors. Dairy’s role in a healthy diet has long been established by the nutrition and science community. This includes the National Osteoporosis Foundation, the Surgeon General, the National Institutes of Health, the American Medical Association’s Council of Scientific Affairs and many other leading health organizations.
+International Dairy Foods Association, September 27, 2007
+
+JUST SAY 'NO' TO COW’S MILK!
+By Health Reporter, Dr. R. Garza
+Cow’s milk is a big part of many people’s lives in the United States. Babies drink cow’s milk in bottles. Children eat cereal drenched in cow’s milk. Even adults enjoy a cold glass of milk from time to time. Yes, cow’s milk is a huge part of the human diet in many places around the world. However, more and more research is suggesting that milk may not “do a body good” as the popular American advertising slogan claims.
+The United States Department of Agriculture, the American Dairy Council, Dairy Management, Inc., and other organizations have worked hard to advocate for milk for many years. They encourage adults to drink at least three glasses of milk a day. However, several studies in the last decade have questioned the bone-strengthening power of milk as well as other claims about the health benefits of milk. The results may surprise you.
+One of the most recent and most important studies on the effects of drinking milk was published in the October 2014 issue of the British Medical Journal. The findings in this study led to some powerful assertions about the consumption of milk. In this study over 100 000 people in Sweden were followed over periods of 20-30 years. Researchers found that the female milk drinkers suffered more bone fractures. Additionally, both male and female milk drinkers were more likely to suffer from heart disease and cancer. These staggering results are similar to findings from other studies.
+The Physicians Committee for Responsible Medicine (PCRM) commented on some of the health problems related to the consumption of milk. It claims that milk and dairy products “have little or no benefit for bones.” The PCRM goes further to describe some specific problems associated with milk:
+“Milk proteins, milk sugar, fat, and saturated fat in dairy products pose health risks for children and encourage the development of obesity, diabetes, and heart disease.”
+These are serious claims and more studies are needed in order to confirm the findings. However, there is mounting proof that drinking cow’s milk could be less beneficial to our health than originally thought. If these claims become indisputable facts, it may be time to just say ‘no’ to cow’s milk.","[""A) Milk’s effects on health and milk’s role in human diets."", ""B) The number of vitamins and minerals found in milk."", ""C) The best form of dairy to regularly consume."", ""D) Which organization is the leading authority on milk.""]",A,mc,Reading,level 1a,,"PISA 2018, reading, Cow's Milk"
+q021,English,What does Ivana_88 want to know?,"Forum
+Giving Aspirin to Chickens
+Ivana_88 Thread Starter Posted 28 October 18:12
+Hello everyone!
+Is it okay to give aspirin to my hen? She is 2 years old and I think she hurt her leg. I can’t get to the veterinarian until Monday, and the vet isn’t answering the phone. My hen seems to be in a lot of pain. I’d like to give her something to make her feel better until I can go to the vet. Thank you for your help.
+NellieB79 Posted 28 October 18:36
+I don’t know if aspirin is safe for hens or not. I always check with my vet before giving my birds medicine. I know that some drugs that are safe for humans can be very dangerous for birds.
+Monie Posted 28 October 18:52
+I gave an aspirin to one of my hens when she was hurt. There was no problem. The next day I went to the vet but she was already better. I think it might be dangerous if you give too much, so don’t exceed the dose limits! I hope she feels better!
+Avian_Deals Posted 28 October 19:07
+Hi! Don’t forget to check out my super low deals on all bird supplies. I’m having a great sale right now!
+Bob Posted 28 October 19:15
+Can someone please tell me how to know if a chicken is sick? Thanks.
+Frank Posted 28 October 19:21
+Hello Ivana,
+I am a veterinarian, specializing in birds. It is okay to give injured chickens aspirin if they are showing signs that they are in pain. When prescribing aspirin to birds, I follow the guidelines published in Clinical Avian Medicine. Chickens should receive 5mg of aspirin per kg of body weight. You can give this 3-4 times per day until you can see your veterinarian. It is very important to follow up with your vet. Good luck!","[""A) If she can give aspirin to an injured hen."", ""B) How often she can give aspirin to an injured hen."", ""C) How to contact a veterinarian about an injured hen."", ""D) If she can determine the pain level of an injured hen.""]",A,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q022,English,Why does Ivana_88 decide to post her question on an Internet forum?,"Forum
+Giving Aspirin to Chickens
+Ivana_88 Thread Starter Posted 28 October 18:12
+Hello everyone!
+Is it okay to give aspirin to my hen? She is 2 years old and I think she hurt her leg. I can’t get to the veterinarian until Monday, and the vet isn’t answering the phone. My hen seems to be in a lot of pain. I’d like to give her something to make her feel better until I can go to the vet. Thank you for your help.
+NellieB79 Posted 28 October 18:36
+I don’t know if aspirin is safe for hens or not. I always check with my vet before giving my birds medicine. I know that some drugs that are safe for humans can be very dangerous for birds.
+Monie Posted 28 October 18:52
+I gave an aspirin to one of my hens when she was hurt. There was no problem. The next day I went to the vet but she was already better. I think it might be dangerous if you give too much, so don’t exceed the dose limits! I hope she feels better!
+Avian_Deals Posted 28 October 19:07
+Hi! Don’t forget to check out my super low deals on all bird supplies. I’m having a great sale right now!
+Bob Posted 28 October 19:15
+Can someone please tell me how to know if a chicken is sick? Thanks.
+Frank Posted 28 October 19:21
+Hello Ivana,
+I am a veterinarian, specializing in birds. It is okay to give injured chickens aspirin if they are showing signs that they are in pain. When prescribing aspirin to birds, I follow the guidelines published in Clinical Avian Medicine. Chickens should receive 5mg of aspirin per kg of body weight. You can give this 3-4 times per day until you can see your veterinarian. It is very important to follow up with your vet. Good luck!","[""A) Because she doesn’t know how to find a veterinarian."", ""B) Because she thinks the hen’s problem isn’t serious."", ""C) Because she wants to help her hen as soon as possible."", ""D) Because she cannot afford to go to the veterinarian.""]",C,mc,Reading,level 1,,"PISA 2018, reading, Chicken forum"
+q023,English,"Is the post relevant to Ivana_88’s problem?
+NellieB79’s post
+Monie’s post
+Avian_Deals’ post
+Bob’s post
+Frank’s post","Forum
+Giving Aspirin to Chickens
+Ivana_88 Thread Starter Posted 28 October 18:12
+Hello everyone!
+Is it okay to give aspirin to my hen? She is 2 years old and I think she hurt her leg. I can’t get to the veterinarian until Monday, and the vet isn’t answering the phone. My hen seems to be in a lot of pain. I’d like to give her something to make her feel better until I can go to the vet. Thank you for your help.
+NellieB79 Posted 28 October 18:36
+I don’t know if aspirin is safe for hens or not. I always check with my vet before giving my birds medicine. I know that some drugs that are safe for humans can be very dangerous for birds.
+Monie Posted 28 October 18:52
+I gave an aspirin to one of my hens when she was hurt. There was no problem. The next day I went to the vet but she was already better. I think it might be dangerous if you give too much, so don’t exceed the dose limits! I hope she feels better!
+Avian_Deals Posted 28 October 19:07
+Hi! Don’t forget to check out my super low deals on all bird supplies. I’m having a great sale right now!
+Bob Posted 28 October 19:15
+Can someone please tell me how to know if a chicken is sick? Thanks.
+Frank Posted 28 October 19:21
+Hello Ivana,
+I am a veterinarian, specializing in birds. It is okay to give injured chickens aspirin if they are showing signs that they are in pain. When prescribing aspirin to birds, I follow the guidelines published in Clinical Avian Medicine. Chickens should receive 5mg of aspirin per kg of body weight. You can give this 3-4 times per day until you can see your veterinarian. It is very important to follow up with your vet. Good luck!","[""A) Yes, Yes, No, No, Yes"", ""B) Yes, No, No, No, Yes"", ""C) No, Yes, No, No, Yes"", ""D) Yes, Yes, No, No, No""]",A,mc,Reading,level 2,,"PISA 2018, reading, Chicken forum"
+q024,English,Who has had positive experiences giving aspirin to an injured hen?,"Forum
+Giving Aspirin to Chickens
+Ivana_88 Thread Starter Posted 28 October 18:12
+Hello everyone!
+Is it okay to give aspirin to my hen? She is 2 years old and I think she hurt her leg. I can’t get to the veterinarian until Monday, and the vet isn’t answering the phone. My hen seems to be in a lot of pain. I’d like to give her something to make her feel better until I can go to the vet. Thank you for your help.
+NellieB79 Posted 28 October 18:36
+I don’t know if aspirin is safe for hens or not. I always check with my vet before giving my birds medicine. I know that some drugs that are safe for humans can be very dangerous for birds.
+Monie Posted 28 October 18:52
+I gave an aspirin to one of my hens when she was hurt. There was no problem. The next day I went to the vet but she was already better. I think it might be dangerous if you give too much, so don’t exceed the dose limits! I hope she feels better!
+Avian_Deals Posted 28 October 19:07
+Hi! Don’t forget to check out my super low deals on all bird supplies. I’m having a great sale right now!
+Bob Posted 28 October 19:15
+Can someone please tell me how to know if a chicken is sick? Thanks.
+Frank Posted 28 October 19:21
+Hello Ivana,
+I am a veterinarian, specializing in birds. It is okay to give injured chickens aspirin if they are showing signs that they are in pain. When prescribing aspirin to birds, I follow the guidelines published in Clinical Avian Medicine. Chickens should receive 5mg of aspirin per kg of body weight. You can give this 3-4 times per day until you can see your veterinarian. It is very important to follow up with your vet. Good luck!","[""A) Ivana_88"", ""B) NellieB79"", ""C) Monie"", ""D) Bob""]",C,mc,Reading,level 1b,,"PISA 2018, reading, Chicken forum"
+q025,English,Why does Avian_Deals respond to Ivana_88’s post?,"Forum
+Giving Aspirin to Chickens
+Ivana_88 Thread Starter Posted 28 October 18:12
+Hello everyone!
+Is it okay to give aspirin to my hen? She is 2 years old and I think she hurt her leg. I can’t get to the veterinarian until Monday, and the vet isn’t answering the phone. My hen seems to be in a lot of pain. I’d like to give her something to make her feel better until I can go to the vet. Thank you for your help.
+NellieB79 Posted 28 October 18:36
+I don’t know if aspirin is safe for hens or not. I always check with my vet before giving my birds medicine. I know that some drugs that are safe for humans can be very dangerous for birds.
+Monie Posted 28 October 18:52
+I gave an aspirin to one of my hens when she was hurt. There was no problem. The next day I went to the vet but she was already better. I think it might be dangerous if you give too much, so don’t exceed the dose limits! I hope she feels better!
+Avian_Deals Posted 28 October 19:07
+Hi! Don’t forget to check out my super low deals on all bird supplies. I’m having a great sale right now!
+Bob Posted 28 October 19:15
+Can someone please tell me how to know if a chicken is sick? Thanks.
+Frank Posted 28 October 19:21
+Hello Ivana,
+I am a veterinarian, specializing in birds. It is okay to give injured chickens aspirin if they are showing signs that they are in pain. When prescribing aspirin to birds, I follow the guidelines published in Clinical Avian Medicine. Chickens should receive 5mg of aspirin per kg of body weight. You can give this 3-4 times per day until you can see your veterinarian. It is very important to follow up with your vet. Good luck!","[""A) To promote a business."", ""B) To answer Ivana_88’s question."", ""C) To add to Monie’s advice."", ""D) To demonstrate expertise with birds.""]",A,mc,Reading,level 1a,,"PISA 2018, reading, Chicken forum"
