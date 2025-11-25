@@ -83,6 +83,6 @@ for _, row in df_eng.iterrows():
 
 df_all = pd.DataFrame(rows)
 
-out_path = "questions_all_Languages_template.csv"
+out_path = "questions_all_languages_template.csv"
 df_all.to_csv(out_path, index=False, encoding="utf-8-sig")
 print("Saved:", out_path)
