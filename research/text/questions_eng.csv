@@ -1,7 +1,10 @@
 qid,language,question,context,options,gold,answer_type,category,difficulty,rationale,source
 q001,English,"If Tania decides to buy car D and resell it after three years in excellent condition, what will be the approximate resale price of the car in zeds?","A car’s resale price is the estimated price for which it can be resold at a later time.
 For a car that stays in excellent condition, its resale price will decrease by 5% each year.
-Car price includes all taxes and registration fees. Car D: Price (zeds): 10500. ","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
+Car price includes all taxes and registration fees. 
+Car D: 
+Price (zeds): 
+10500. ","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
 q002,English,"If this sales trend continues, what will be the first year the number of DVDs sold is less than 1 million according to the model?","The equation of the line is d = 254 – 22n, where d is the number of DVDs sold (in millions) and n is the number of years after 2008.","[""A) 2018"", ""B) 2019"", ""C) 2020"", ""D) 2021""]",C,mc,Math,level 6,254 – 22n < 1,"PISA 2022, math, DVD sales"
 q003,English,What is the greatest number of medium boxes that could fit into truck A?,"Mara’s family decides to rent truck A.
 **Interior Storage-Compartment Dimensions**
