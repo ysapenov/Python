@@ -1,14 +1,98 @@
 {
-  "q000": {
-    "context": [
+  "q000opinion": {
+    "context": [],
+    "question": [
       {
-        "unit": "MAT/MA104-CarPurchase",
-        "page": 1,
+        "unit": "R557-CowsMilk",
+        "page": 7,
         "part": 3,
-        "line_idx": 7,
-        "ctx_idx": 0
+        "line_idx": 5,
+        "q_idx": 0
       }
     ],
+    "options": [
+      {
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
+        "part": 4,
+        "line_idx": 5,
+        "opt_idx": 0,
+        "letter": "A"
+      },
+      {
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
+        "part": 4,
+        "line_idx": 6,
+        "opt_idx": 1,
+        "letter": "B"
+      },
+      {
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
+        "part": 4,
+        "line_idx": 7,
+        "opt_idx": 2,
+        "letter": "C"
+      },
+      {
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
+        "part": 4,
+        "line_idx": 8,
+        "opt_idx": 3,
+        "letter": "D"
+      }
+    ]
+  },
+  "q000fact": {
+    "context": [],
+    "question": [
+      {
+        "unit": "R557-CowsMilk",
+        "page": 7,
+        "part": 3,
+        "line_idx": 4,
+        "q_idx": 0
+      }
+    ],
+    "options": [
+      {
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
+        "part": 4,
+        "line_idx": 5,
+        "opt_idx": 0,
+        "letter": "A"
+      },
+      {
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
+        "part": 4,
+        "line_idx": 6,
+        "opt_idx": 1,
+        "letter": "B"
+      },
+      {
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
+        "part": 4,
+        "line_idx": 7,
+        "opt_idx": 2,
+        "letter": "C"
+      },
+      {
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
+        "part": 4,
+        "line_idx": 8,
+        "opt_idx": 3,
+        "letter": "D"
+      }
+    ]
+  },
+  "q000yes": {
+    "context": [],
     "question": [
       {
         "unit": "MAT/MA156-Points",
@@ -16,62 +100,52 @@
         "part": 4,
         "line_idx": 3,
         "q_idx": 0
-      },
+      }
+    ],
+    "options": [
       {
-        "unit": "MAT/MA118-MovingTruck",
-        "page": 1,
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
         "part": 4,
-        "line_idx": 1,
-        "q_idx": 1
+        "line_idx": 5,
+        "opt_idx": 0,
+        "letter": "A"
       },
       {
-        "unit": "R557-CowsMilk",
-        "page": 7,
-        "part": 3,
-        "line_idx": 2,
-        "q_idx": 2
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
+        "part": 4,
+        "line_idx": 6,
+        "opt_idx": 1,
+        "letter": "B"
       },
       {
-        "unit": "R557-CowsMilk",
-        "page": 2,
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
+        "part": 4,
+        "line_idx": 7,
+        "opt_idx": 2,
+        "letter": "C"
+      },
+      {
+        "unit": "MAT/MA104-CarPurchase",
+        "page": 3,
         "part": 4,
         "line_idx": 8,
-        "q_idx": 3
-      },
+        "opt_idx": 3,
+        "letter": "D"
+      }
+    ]
+  },
+  "q000no": {
+    "context": [],
+    "question": [
       {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "q_idx": 4
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "q_idx": 5
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "q_idx": 6
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "q_idx": 7
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "q_idx": 8
+        "unit": "MAT/MA156-Points",
+        "page": 1,
+        "part": 4,
+        "line_idx": 4,
+        "q_idx": 0
       }
     ],
     "options": [
@@ -222,7 +296,7 @@
         "unit": "MAT/MA161-ForestedAreas",
         "page": 2,
         "part": 3,
-        "line_idx": 1,
+        "line_idx": 12,
         "opt_idx": 0,
         "letter": "A"
       }
@@ -239,9 +313,9 @@
       },
       {
         "unit": "MAT/MA118-MovingTruck",
-        "page": 1,
-        "part": 5,
-        "line_idx": 4,
+        "page": 2,
+        "part": 3,
+        "line_idx": 1,
         "ctx_idx": 1
       },
       {
@@ -275,8 +349,8 @@
       {
         "unit": "MAT/MA118-MovingTruck",
         "page": 1,
-        "part": 1,
-        "line_idx": 0,
+        "part": 5,
+        "line_idx": 9,
         "ctx_idx": 6
       },
       {
@@ -318,14 +392,14 @@
         "unit": "MAT/MA118-MovingTruck",
         "page": 1,
         "part": 5,
-        "line_idx": 6,
+        "line_idx": 19,
         "ctx_idx": 15
       },
       {
         "unit": "MAT/MA118-MovingTruck",
         "page": 1,
         "part": 5,
-        "line_idx": 7,
+        "line_idx": 20,
         "ctx_idx": 16
       },
       {
@@ -412,9 +486,9 @@
     "context": [
       {
         "unit": "MAT/MA118-MovingTruck",
-        "page": 1,
-        "part": 5,
-        "line_idx": 4,
+        "page": 2,
+        "part": 3,
+        "line_idx": 1,
         "ctx_idx": 0
       },
       {
@@ -448,8 +522,8 @@
       {
         "unit": "MAT/MA118-MovingTruck",
         "page": 1,
-        "part": 1,
-        "line_idx": 0,
+        "part": 5,
+        "line_idx": 9,
         "ctx_idx": 5
       },
       {
@@ -491,14 +565,14 @@
         "unit": "MAT/MA118-MovingTruck",
         "page": 1,
         "part": 5,
-        "line_idx": 6,
+        "line_idx": 19,
         "ctx_idx": 14
       },
       {
         "unit": "MAT/MA118-MovingTruck",
         "page": 1,
         "part": 5,
-        "line_idx": 7,
+        "line_idx": 20,
         "ctx_idx": 15
       },
       {
@@ -643,7 +717,7 @@
         "unit": "MAT/MA123-SolarSystem",
         "page": 1,
         "part": 3,
-        "line_idx": 1,
+        "line_idx": 3,
         "ctx_idx": 2
       },
       {
@@ -811,10 +885,10 @@
         "letter": "A"
       },
       {
-        "unit": "MAT/MA118-MovingTruck",
+        "unit": "MAT/MA156-Points",
         "page": 1,
         "part": 4,
-        "line_idx": 1,
+        "line_idx": 4,
         "opt_idx": 1,
         "letter": "B"
       }
@@ -831,30 +905,30 @@
       },
       {
         "unit": "MAT/MA161-ForestedAreas",
-        "page": 1,
+        "page": 2,
         "part": 3,
-        "line_idx": 5,
+        "line_idx": 9,
         "ctx_idx": 1
       },
       {
         "unit": "MAT/MA161-ForestedAreas",
         "page": 2,
         "part": 3,
-        "line_idx": 1,
+        "line_idx": 10,
         "ctx_idx": 2
       },
       {
         "unit": "MAT/MA161-ForestedAreas",
         "page": 2,
         "part": 3,
-        "line_idx": 1,
+        "line_idx": 11,
         "ctx_idx": 3
       },
       {
         "unit": "MAT/MA161-ForestedAreas",
         "page": 2,
         "part": 3,
-        "line_idx": 1,
+        "line_idx": 12,
         "ctx_idx": 4
       },
       {
@@ -874,40 +948,7 @@
         "q_idx": 0
       }
     ],
-    "options": [
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 0,
-        "letter": "A"
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 1,
-        "letter": "B"
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 2,
-        "letter": "C"
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 3,
-        "letter": "D"
-      }
-    ]
+    "options": []
   },
   "q008": {
     "context": [
@@ -928,40 +969,7 @@
         "q_idx": 0
       }
     ],
-    "options": [
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 0,
-        "letter": "A"
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 1,
-        "letter": "B"
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 2,
-        "letter": "C"
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 3,
-        "letter": "D"
-      }
-    ]
+    "options": []
   },
   "q009": {
     "context": [
@@ -982,40 +990,7 @@
         "q_idx": 0
       }
     ],
-    "options": [
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 0,
-        "letter": "A"
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 1,
-        "letter": "B"
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 2,
-        "letter": "C"
-      },
-      {
-        "unit": "MAT/MA161-ForestedAreas",
-        "page": 2,
-        "part": 3,
-        "line_idx": 13,
-        "opt_idx": 3,
-        "letter": "D"
-      }
-    ]
+    "options": []
   },
   "q010": {
     "context": [
@@ -1081,10 +1056,10 @@
         "letter": "A"
       },
       {
-        "unit": "MAT/MA118-MovingTruck",
+        "unit": "MAT/MA156-Points",
         "page": 1,
         "part": 4,
-        "line_idx": 1,
+        "line_idx": 4,
         "opt_idx": 1,
         "letter": "B"
       }
@@ -1095,8 +1070,8 @@
       {
         "unit": "R551-RapaNui",
         "page": 5,
-        "part": 3,
-        "line_idx": 1,
+        "part": 6,
+        "line_idx": 2,
         "ctx_idx": 0
       },
       {
@@ -1184,8 +1159,8 @@
       {
         "unit": "R551-RapaNui",
         "page": 5,
-        "part": 3,
-        "line_idx": 1,
+        "part": 6,
+        "line_idx": 2,
         "ctx_idx": 0
       },
       {
@@ -1273,7 +1248,7 @@
       {
         "unit": "R551-RapaNui",
         "page": 2,
-        "part": 3,
+        "part": 4,
         "line_idx": 1,
         "ctx_idx": 0
       },
@@ -1368,9 +1343,9 @@
     "context": [
       {
         "unit": "R551-RapaNui",
-        "page": 2,
-        "part": 4,
-        "line_idx": 7,
+        "page": 4,
+        "part": 5,
+        "line_idx": 1,
         "ctx_idx": 0
       },
       {
@@ -2006,9 +1981,9 @@
     "context": [
       {
         "unit": "R548-ChickenForum",
-        "page": 1,
+        "page": 2,
         "part": 2,
-        "line_idx": 0,
+        "line_idx": 4,
         "ctx_idx": 0
       },
       {
@@ -2151,9 +2126,9 @@
     "context": [
       {
         "unit": "R548-ChickenForum",
-        "page": 1,
+        "page": 2,
         "part": 2,
-        "line_idx": 0,
+        "line_idx": 4,
         "ctx_idx": 0
       },
       {
@@ -2296,9 +2271,9 @@
     "context": [
       {
         "unit": "R548-ChickenForum",
-        "page": 1,
+        "page": 2,
         "part": 2,
-        "line_idx": 0,
+        "line_idx": 4,
         "ctx_idx": 0
       },
       {
@@ -2443,9 +2418,9 @@
     "context": [
       {
         "unit": "R548-ChickenForum",
-        "page": 1,
+        "page": 2,
         "part": 2,
-        "line_idx": 0,
+        "line_idx": 4,
         "ctx_idx": 0
       },
       {
@@ -2552,33 +2527,33 @@
     "options": [
       {
         "unit": "R548-ChickenForum",
-        "page": 2,
-        "part": 2,
-        "line_idx": 7,
+        "page": 5,
+        "part": 3,
+        "line_idx": 3,
         "opt_idx": 0,
         "letter": "A"
       },
       {
         "unit": "R548-ChickenForum",
-        "page": 2,
-        "part": 2,
-        "line_idx": 9,
+        "page": 5,
+        "part": 3,
+        "line_idx": 4,
         "opt_idx": 1,
         "letter": "B"
       },
       {
         "unit": "R548-ChickenForum",
-        "page": 2,
-        "part": 2,
-        "line_idx": 11,
+        "page": 5,
+        "part": 3,
+        "line_idx": 5,
         "opt_idx": 2,
         "letter": "C"
       },
       {
         "unit": "R548-ChickenForum",
-        "page": 2,
-        "part": 2,
-        "line_idx": 15,
+        "page": 5,
+        "part": 3,
+        "line_idx": 6,
         "opt_idx": 3,
         "letter": "D"
       }
@@ -2588,9 +2563,9 @@
     "context": [
       {
         "unit": "R548-ChickenForum",
-        "page": 1,
+        "page": 2,
         "part": 2,
-        "line_idx": 0,
+        "line_idx": 4,
         "ctx_idx": 0
       },
       {

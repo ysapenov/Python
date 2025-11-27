@@ -1,56 +1,188 @@
 ﻿qid,language,lang_code,question,context,options,gold,answer_type,category,difficulty,rationale,source
-q000,Albanian,sqi-ALB,,,,,,,,,
-q000,Arabic,ara-ARE,,,,,,,,,
-q000,Azerbaijani / Azeri,aze-QAZ,,,,,,,,,
-q000,Basque,eus-ESP,,,,,,,,,
-q000,Bokmål,nob-NOR,,,,,,,,,
-q000,Bosnian,bos-BIH,,,,,,,,,
-q000,Bulgarian,bul-BGR,,,,,,,,,
-q000,Catalan,cat-ESP,,,,,,,,,
-q000,Chinese,zho-CHN,,,,,,,,,
-q000,Croatian,hrv-HRV,,,,,,,,,
-q000,Czech,ces-CZE,,,,,,,,,
-q000,Danish,dan-DNK,,,,,,,,,
-q000,Dutch,nld-NLD,,,,,,,,,
-q000,English,eng-CAN,"Yes
-No
+q000opinion,Albanian,sqi-ALB,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Arabic,ara-ARE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Azerbaijani / Azeri,aze-QAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Basque,eus-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Bokmål,nob-NOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Bosnian,bos-BIH,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Bulgarian,bul-BGR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Catalan,cat-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Chinese,zho-CHN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Croatian,hrv-HRV,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Czech,ces-CZE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Danish,dan-DNK,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Dutch,nld-NLD,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,English,eng-CAN,"
 Opinion
+","
+","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Estonian,est-EST,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Finnish,fin-FIN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,French,fra-FRA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Galician,glg-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Georgian,geo-GEO,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,German,deu-DEU,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Greek,ell-GRC,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Hebrew,heb-ISR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Hungarian,hun-HUN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Icelandic,isl-ISL,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Indonesian,ind-IDN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Italian,ita-ITA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Japanese,jpn-JPN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Kazakh,kaz-KAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Korean,kor-KOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Latvian,lav-LVA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Lithuanian,lit-LTU,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Malay,msa-MYS,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Nynorsk,nno-NOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Polish,pol-POL,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Portuguese,por-PRT,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Russian,rus-KAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Serbian / Serb,srp-SRB,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Slovak,slo-SVK,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Slovenian,slv-SVN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Spanish,esp-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Swedish,swe-SWE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Thai,tha-THA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000opinion,Turkish,tur-TUR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Albanian,sqi-ALB,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Arabic,ara-ARE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Azerbaijani / Azeri,aze-QAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Basque,eus-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Bokmål,nob-NOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Bosnian,bos-BIH,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Bulgarian,bul-BGR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Catalan,cat-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Chinese,zho-CHN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Croatian,hrv-HRV,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Czech,ces-CZE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Danish,dan-DNK,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Dutch,nld-NLD,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,English,eng-CAN,"
 Fact
-Kazakhstan
-Panama
-Colombia
-India
-Armenia
-",,"[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",,,,,,
-q000,Estonian,est-EST,,,,,,,,,
-q000,Finnish,fin-FIN,,,,,,,,,
-q000,French,fra-FRA,,,,,,,,,
-q000,Galician,glg-ESP,,,,,,,,,
-q000,Georgian,geo-GEO,,,,,,,,,
-q000,German,deu-DEU,,,,,,,,,
-q000,Greek,ell-GRC,,,,,,,,,
-q000,Hebrew,heb-ISR,,,,,,,,,
-q000,Hungarian,hun-HUN,,,,,,,,,
-q000,Icelandic,isl-ISL,,,,,,,,,
-q000,Indonesian,ind-IDN,,,,,,,,,
-q000,Italian,ita-ITA,,,,,,,,,
-q000,Japanese,jpn-JPN,,,,,,,,,
-q000,Kazakh,kaz-KAZ,,,,,,,,,
-q000,Korean,kor-KOR,,,,,,,,,
-q000,Latvian,lav-LVA,,,,,,,,,
-q000,Lithuanian,lit-LTU,,,,,,,,,
-q000,Malay,msa-MYS,,,,,,,,,
-q000,Nynorsk,nno-NOR,,,,,,,,,
-q000,Polish,pol-POL,,,,,,,,,
-q000,Portuguese,por-PRT,,,,,,,,,
-q000,Russian,rus-KAZ,,,,,,,,,
-q000,Serbian / Serb,srp-SRB,,,,,,,,,
-q000,Slovak,slo-SVK,,,,,,,,,
-q000,Slovenian,slv-SVN,,,,,,,,,
-q000,Spanish,esp-ESP,,,,,,,,,
-q000,Swedish,swe-SWE,,,,,,,,,
-q000,Thai,tha-THA,,,,,,,,,
-q000,Turkish,tur-TUR,,,,,,,,,
+","
+","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Estonian,est-EST,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Finnish,fin-FIN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,French,fra-FRA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Galician,glg-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Georgian,geo-GEO,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,German,deu-DEU,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Greek,ell-GRC,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Hebrew,heb-ISR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Hungarian,hun-HUN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Icelandic,isl-ISL,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Indonesian,ind-IDN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Italian,ita-ITA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Japanese,jpn-JPN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Kazakh,kaz-KAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Korean,kor-KOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Latvian,lav-LVA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Lithuanian,lit-LTU,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Malay,msa-MYS,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Nynorsk,nno-NOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Polish,pol-POL,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Portuguese,por-PRT,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Russian,rus-KAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Serbian / Serb,srp-SRB,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Slovak,slo-SVK,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Slovenian,slv-SVN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Spanish,esp-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Swedish,swe-SWE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Thai,tha-THA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000fact,Turkish,tur-TUR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Albanian,sqi-ALB,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Arabic,ara-ARE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Azerbaijani / Azeri,aze-QAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Basque,eus-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Bokmål,nob-NOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Bosnian,bos-BIH,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Bulgarian,bul-BGR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Catalan,cat-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Chinese,zho-CHN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Croatian,hrv-HRV,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Czech,ces-CZE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Danish,dan-DNK,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Dutch,nld-NLD,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,English,eng-CAN,"
+Yes
+","
+","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Estonian,est-EST,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Finnish,fin-FIN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,French,fra-FRA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Galician,glg-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Georgian,geo-GEO,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,German,deu-DEU,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Greek,ell-GRC,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Hebrew,heb-ISR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Hungarian,hun-HUN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Icelandic,isl-ISL,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Indonesian,ind-IDN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Italian,ita-ITA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Japanese,jpn-JPN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Kazakh,kaz-KAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Korean,kor-KOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Latvian,lav-LVA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Lithuanian,lit-LTU,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Malay,msa-MYS,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Nynorsk,nno-NOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Polish,pol-POL,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Portuguese,por-PRT,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Russian,rus-KAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Serbian / Serb,srp-SRB,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Slovak,slo-SVK,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Slovenian,slv-SVN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Spanish,esp-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Swedish,swe-SWE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Thai,tha-THA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000yes,Turkish,tur-TUR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Albanian,sqi-ALB,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Arabic,ara-ARE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Azerbaijani / Azeri,aze-QAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Basque,eus-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Bokmål,nob-NOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Bosnian,bos-BIH,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Bulgarian,bul-BGR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Catalan,cat-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Chinese,zho-CHN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Croatian,hrv-HRV,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Czech,ces-CZE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Danish,dan-DNK,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Dutch,nld-NLD,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,English,eng-CAN,"
+No
+","
+","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Estonian,est-EST,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Finnish,fin-FIN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,French,fra-FRA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Galician,glg-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Georgian,geo-GEO,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,German,deu-DEU,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Greek,ell-GRC,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Hebrew,heb-ISR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Hungarian,hun-HUN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Icelandic,isl-ISL,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Indonesian,ind-IDN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Italian,ita-ITA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Japanese,jpn-JPN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Kazakh,kaz-KAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Korean,kor-KOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Latvian,lav-LVA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Lithuanian,lit-LTU,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Malay,msa-MYS,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Nynorsk,nno-NOR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Polish,pol-POL,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Portuguese,por-PRT,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Russian,rus-KAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Serbian / Serb,srp-SRB,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Slovak,slo-SVK,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Slovenian,slv-SVN,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Spanish,esp-ESP,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Swedish,swe-SWE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Thai,tha-THA,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
+q000no,Turkish,tur-TUR,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,PISA
 q001,Albanian,sqi-ALB,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
 q001,Arabic,ara-ARE,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"
 q001,Azerbaijani / Azeri,aze-QAZ,,,,C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA 2022, math, car purchase"

@@ -1,14 +1,20 @@
 qid,language,question,context,options,gold,answer_type,category,difficulty,rationale,source
-q000,English,"Yes
-No
+q000opinion,English,"
 Opinion
+","
+","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA"
+q000fact,English,"
 Fact
-Kazakhstan
-Panama
-Colombia
-India
-Armenia
-","","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]","","","","","",""
+","
+","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA"
+q000yes,English,"
+Yes
+","
+","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA"
+q000no,English,"
+No
+","
+","[""A) 1575"", ""B) 8925"", ""C) 9000"", ""D) 9975""]",C,mc,Math,level 6,v = 10 500*(1-0.05)^3,"PISA"
 q001,English,"If Tania decides to buy car D and resell it after three years in excellent condition, what will be the approximate resale price of the car in zeds?","A car’s resale price is the estimated price for which it can be resold at a later time.
 For a car that stays in excellent condition, its value will decrease by 5% each year.
 Car price includes all taxes and registration fees.
