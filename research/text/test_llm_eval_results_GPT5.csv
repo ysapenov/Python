@@ -1,0 +1,34 @@
+qid,language,pred,gold,is_correct,error,raw,question,options_json,model_tag,model_name,cycle
+q001,Albanian,B,C,False,,B,"Nëse Tania vendos të blejë makinën D dhe ta shesë pas tre vitesh në gjendje të shkëlqyer, cila do të jetë afërsisht vlera në zed e makinës?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5.1-2025-11-13,1
+q001,Arabic,B,C,False,,B,إذا قررت تهاني شراء السيارة D  وإعادة بيعها بعد ثلاث سنوات وهي في حالة ممتازة، فما السعر التقريبي لإعادة بيع السيارة بالزد؟,"{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5.1-2025-11-13,1
+q001,Azerbaijani / Azeri,B,C,False,,B,"Əgər Turan maşın D-ni almağa və üç il sonra əla vəziyyətdə yenidən satmağa qərar verərsə, maşının zedlə təqribi yenidən satış qiyməti nə qədər olacaq?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5.1-2025-11-13,1
+q001,Basque,B,C,False,,B,"Taniak erabakitzen badu D autoa erostea eta hortik hiru urtera saltzea, egoera bikainean, zein izango da autoaren birsalmenta-prezio hurbildua zedetan?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5.1-2025-11-13,1
+q001,Bokmål,B,C,False,,B,"Omtrent hvor mye vil bruktprisen av bilen være i zed, hvis Trine bestemmer seg for å kjøpe bil D og selge den i meget god stand etter tre år?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",GPT,gpt-5.1-2025-11-13,1
+q002,Albanian,C,C,True,,"C
+
+d < 1  
+254 − 22n < 1  
+254 − 1 < 22n  
+253 < 22n  
+n > 253 / 22 ≈ 11.5  
+
+Viti = 2008 + n ≈ 2008 + 11.5 = 2019.5  
+
+Pra, më pak se 1 milion do të jenë pas mesit të vitit 2019; nga alternativat, viti i parë i plotë pas kësaj është 2020.","Nëse trendi i shitjeve vazhdon, në cilin vit numri i DVDve të shitura do të jetë më pak se 1 milion në bazë të modelit.","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",GPT,gpt-5.1-2025-11-13,1
+q003,Albanian,B,B,True,,B,Cili është numri më i madh i kutive mesatare që mund të vendosen brenda kamionit A?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",GPT,gpt-5.1-2025-11-13,1
+q004,Albanian,D,C,False,,D,"Kompania e cila jep kamionë me qera konfirmoi se kamioni A mund të mbushet vetëm duke përdorur kuti mesatare në mënyrë që e gjithë hapësira në depot e magazinimit të përdoret.
+Mara mendon se një kuti mesatare zë 2/3 e hapsirës së një kutie të madhe, kështu që ajo arrin në përfundimin se numri i kutive të mëdha që do të futen në kamionin A është sa 2/3 e kutive të mesme.
+Cila nga fjalitë e mëposhtme mbi përfundimin e Marës është e vërtetë?","{""A"": ""Ajo ka të drejtë, sepse lartësia e një kutie mesatare është sa 2/3 e lartësisë së një kutie të madhe."", ""B"": ""Ajo ka të drejtë, sepse 3 kuti mesatare mund të vendosen gjithmonë në të njejtën hapësirë si 2 kuti të mëdha."", ""C"": ""Ajo nuk ka të drejtë, sepse asnjëra nga përmasat e hapësirës së brendshme të kamionit A nuk është shumëfish i 0,75, që është lartësia e një kutie të madhe."", ""D"": ""Ajo nuk ka të drejtë, sepse lartësia e një kutie të madhe është 1,5 herë më e madhe se sa ajo e një kutie mesatare.""}",GPT,gpt-5.1-2025-11-13,1
+q005,Albanian,D,D,True,,D,"Mesatarisht, afërisisht sa milionë kilometra gjenden mes Diellit dhe planetit Neptun?","{""A"": ""5 milionë km"", ""B"": ""30 milionë km"", ""C"": ""180 milionë km"", ""D"": ""4500 milionë km""}",GPT,gpt-5.1-2025-11-13,1
+q002,Arabic,B,C,False,,B,في حالة استمرار المبيعات في هذا الاتجاه، في أي عام سيكون عدد أقراص الفيديو الرقمية المُباعة أقل من  1  مليون حسب النموذج؟,"{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",GPT,gpt-5.1-2025-11-13,1
+q003,Arabic,B,B,True,,B,ما أكبر عدد من الصناديق متوسطة الحجم يمكن أن تستوعبها الشاحنة A ؟,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",GPT,gpt-5.1-2025-11-13,1
+q004,Arabic,D,C,False,,D,"أكدت الشركة التي تؤجّر الشاحنات أنه يمكن ملء الشاحنة A باستخدام الصناديق المتوسطة فقط؛ بحيث يتم استخدام مساحة مقصورة التخزين بالكامل.
+تدّعي مريم أن الصندوق المتوسط يشغل 2/3 مساحة الصندوق الكبير، لذلك تستنتج أن عدد الصناديق الكبيرة التي ستملأ الشاحنة A هو 2/3 عدد الصناديق المتوسطة.
+أي عبارة من العبارات التالية تعدّ صحيحة حول استنتاج مريم؟","{""A"": ""هي مُحقة، لأن ارتفاع الصندوق المتوسط هو 2/3 ارتفاع الصندوق الكبير."", ""B"": ""هي مُحقة، لأن 3 صناديق متوسطة يمكن وضعها دائمًا في المساحة نفسها لصندوقين كبيرين."", ""C"": ""هي غير مُحقة، لأن جميع أبعاد التخزين الداخلية للشاحنة A  ليست من مضاعفات 0.75  وهو ارتفاع الصندوق الكبير."", ""D"": ""هي غير مُحقة، لأن ارتفاع الصندوق الكبير يبلغ 1.5 ضعف ارتفاع الصندوق المتوسط.""}",GPT,gpt-5.1-2025-11-13,1
+q005,Arabic,D,D,True,,D,في المتوسط، كم مليون كيلومتر تقريبًا يَبْعُد كوكب نبتون عن الشمس؟,"{""A"": ""5 مليون (‎(km‬"", ""B"": ""‪‎ (km)   ‏30 مليون ‬"", ""C"": ""‪‎(km)   ‏180 مليون"", ""D"": ""‪ ‎‪(km)   ‏4500 مليون‎‎""}",GPT,gpt-5.1-2025-11-13,1
+q002,Azerbaijani / Azeri,B,C,False,,B,"Əgər bu satış tendensiyası davam edərsə, yuxarıdakı bərabərliyə əsasən hansı ildə satılan DVD-lərin sayı 1 milyondan az olacaq?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",GPT,gpt-5.1-2025-11-13,1
+q003,Azerbaijani / Azeri,B,B,True,,B,Yük maşını A-ya yerləşə biləcək orta ölçülü qutuların maksimum sayı nə qədərdir?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",GPT,gpt-5.1-2025-11-13,1
+q004,Azerbaijani / Azeri,C,C,True,,C,"Yük maşınlarını icarəyə verən şirkət yük maşını A-nın yükləmə bölməsindəki bütün boş yerlərin yalnız orta ölçülü qutular istifadə edilərək doldurula bilinəcəyini təsdiqlədi.
+Məryəm iddia edir ki, orta ölçülü qutular böyük qutuların sahəsinin 2/3-ni tutur, beləliklə o belə nəticəyə gəlir ki, yük maşını A-ya yerləşəcək böyük qutuların sayı orta ölçülü qutuların sayının 2/3-si qədər olacaqdır.
+Məryəmin gəldiyi nəticə haqqındakı aşağıdakı ifadələrdən hansı biri doğrudur?","{""A"": ""O, haqlıdır, çünki orta qutunun hündürlüyü böyük qutunun hündürlüyünün 2/3-si qədərdir."", ""B"": ""O, haqlıdır, çünki 3 orta ölçülü qutu 2 böyük qutunun yerləşdiyi yerə sığışa bilər."", ""C"": ""O, haqlı deyil, çünki yük maşınının daxili yükləmə bölməsinin ölçülərinin heç biri böyük qutunun hündürlüyü olan 0,75-ə vurulmur."", ""D"": ""O, haqlı deyil, çünki böyük qutunun hündürlüyü orta qutunun hündürlüyündən 1,5 dəfə böyükdür.""}",GPT,gpt-5.1-2025-11-13,1
+q005,Azerbaijani / Azeri,D,D,True,,D,Orta hesabla Günəş ilə Neptun arasındakı məsafə neçə milyon kilometrdir?,"{""A"": ""5 milyon km"", ""B"": ""30 milyon km"", ""C"": ""180 milyon km"", ""D"": ""4500 milyon km""}",GPT,gpt-5.1-2025-11-13,1
