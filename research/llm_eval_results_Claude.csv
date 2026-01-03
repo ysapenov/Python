@@ -1,0 +1,74 @@
+qid,language,pred,gold,is_correct,error,raw,difficulty,question,options_json,model_tag,model_name,cycle,input_tokens,output_tokens,reasoning_tokens,effort,summary
+q001,Albanian,C,C,True,,C. 9000,level 6,"Nëse Tania vendos të blejë makinën D dhe ta shesë pas tre vitesh në gjendje të shkëlqyer, cila do të jetë afërsisht vlera në zed e makinës?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-haiku-4-5-20251001,1,447,307,,default,"Ky problem kërkon të llogarisim vlerën e makinës pas 3 vitesh, kur vlera zbret me 5% çdo vit.
+
+Çmimi fillestar: 10,500 zed
+
+Kur vlera zbret me 5% çdo vit, vlera e mbetur është 95% e vlerës së mëparshme.
+Koeficienti i rënies: 0.95
+
+Pas 1 viti: 10,500 × 0.95 = 9,975 zed
+Pas 2 vitesh: 9,975 × 0.95 = 9,476.25 zed
+Pas 3 vitesh: 9,476.25 × 0.95 = 9,002.4375 zed
+
+Ose në mënyrë më të drejtpërdrejtë:
+Vlera pas 3 vitesh = 10,500 × (0.95)³
+= 10,500 × 0.857375
+= 9,002.4375 zed
+
+Rrumbullakosur afërsisht: ~9,000 zed"
+q002,Albanian,C,C,True,,C. 2020,level 6,"Nëse trendi i shitjeve vazhdon, në cilin vit numri i DVDve të shitura do të jetë më pak se 1 milion në bazë të modelit.","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-haiku-4-5-20251001,1,273,441,,default,"Duhet të gjej në cilin vit numri i DVDve të shitura do të jetë më pak se 1 milion.
+
+Ekuacioni: d = 254 – 22n
+
+Ku:
+- d = numri i DVDve (në milionë)
+- n = numri i viteve pas 2008
+
+Duhet të gjej kur d < 1:
+
+254 – 22n < 1
+
+254 – 1 < 22n
+
+253 < 22n
+
+n > 253/22
+
+n > 11.5
+
+Kjo do të thotë se pas më shumë se 11.5 viteve nga 2008, numri i DVDve do të jetë më pak se 1 milion.
+
+Pra n duhet të jetë mënjanë 12 vite (që është viti i parë kur d < 1).
+
+Viti = 2008 + 12 = 2020
+
+Le të verifikoj:
+- Për n = 11: d = 254 – 22(11) = 254 – 242 = 12 milionë (më shumë se 1)
+- Për n = 12: d = 254 – 22(12) = 254 – 264 = -10 milionë (më pak se 1)
+
+Në fakt, në n = 12 (viti 2020), numri i DVDve sipas modelit do të bëhet negativ, që nuk ka sens praktik. Por matematikisht, për n > 11.5, vlera d < 1.
+
+Viti i parë kur d < 1 është viti 2020 (kur n = 12)."
+q003,Albanian,B,B,True,,B,level 2,Cili është numri më i madh i kutive mesatare që mund të vendosen brenda kamionit A?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-haiku-4-5-20251001,1,527,456,,default,"Për të gjetur numrin më të madh të kutive mesatare që mund të vendosen brenda kamionit A, duhet të llogaris vëllimin e kamionit dhe vëllimin e një kutie, pastaj të ndaj vëllimin e kamionit me vëllimin e kutisë.
+
+**Vëllimi i Kamionit A:**
+- Gjatësia = 4 metra
+- Gjerësia = 2 metra
+- Lartësia = 2 metra
+- Vëllimi = 4 × 2 × 2 = 16 metra kub
+
+**Vëllimi i një kutie mesatare:**
+- Gjatësia = 0,5 metra
+- Gjerësia = 0,5 metra
+- Lartësia = 0,5 metra
+- Vëllimi = 0,5 × 0,5 × 0,5 = 0,125 metra kub
+
+**Numri i kutive që mund të vendosen:**
+Numri = Vëllimi i kamionit ÷ Vëllimi i kutisë
+Numri = 16 ÷ 0,125 = 128 kutis
+
+Mund ta verifikojmë edhe duke numëruar sa kutis përshtaten në çdo dimension:
+- Gjatësia: 4 ÷ 0,5 = 8 kutis
+- Gjerësia: 2 ÷ 0,5 = 4 kutis
+- Lartësia: 2 ÷ 0,5 = 4 kutis
+- Total: 8 × 4 × 4 = 128 kutis"
