@@ -30043,72 +30043,6 @@ n > 11.5
 
 ดังนั้น n = 12 (ปีแรกที่ d < 1)
 ปี = 2008 + 12 = 2020"
-q003,Thai,,B,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbK6asTuwyNxPJoifhwc'}",,level 2,รถ A สามารถบรรจุกล่องขนาดกลางจนเต็มพอดีได้มากที่สุดเป็นจำนวนเท่าใด,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q004,Thai,,C,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbK7yF9FBrSsy9DQbhqW'}",,level 6,"บริษัทให้เช่ารถยืนยันว่า ต้องใช้กล่องขนาดกลางเท่านั้นจึงสามารถใช้เนื้อที่ห้องเก็บของภายในรถ A ได้เต็มพิกัด
-มะลิกล่าวว่า กล่องขนาดกลางหนึ่งใบใช้เนื้อที่เป็น 2/3 ของเนื้อที่กล่องขนาดใหญ่  ดังนั้นเธอจึงสรุปว่าจำนวนของกล่องขนาดใหญ่ที่ใส่ในรถ A ได้จะเป็น 2/3 ของจำนวนกล่องขนาดกลาง
-ข้อความเกี่ยวกับข้อสรุปของมะลิต่อไปนี้ ข้อความใดถูกต้อง","{""A"": ""เธอพูดถูกต้อง เพราะความสูงของกล่องขนาดกลางเป็น 2/3 ของความสูงของกล่องขนาดใหญ่"", ""B"": ""เธอพูดถูกต้อง เพราะกล่องขนาดกลาง 3 ใบ จะใช้เนื้อที่เท่ากับกล่องขนาดใหญ่ 2 ใบ เสมอ"", ""C"": ""เธอพูดไม่ถูกต้อง เพราะขนาดของห้องเก็บของภายในรถ A ไม่มีด้านใดเลยที่เป็นพหุคูณของ 0.75 ซึ่งเป็นความสูงของกล่องขนาดใหญ่"", ""D"": ""เธอพูดไม่ถูกต้อง เพราะความสูงของกล่องขนาดใหญ่เป็น 1.5 เท่าของความสูงของกล่องขนาดกลาง""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q005,Thai,,D,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbK9MBn7qXPyxBQekB3R'}",,level 2,โดยเฉลี่ย ดวงอาทิตย์อยู่ห่างจากดาวเนปจูนประมาณกี่ล้านกิโลเมตร,"{""A"": ""5 ล้านกิโลเมตร"", ""B"": ""30 ล้านกิโลเมตร"", ""C"": ""180 ล้านกิโลเมตร"", ""D"": ""4,500 ล้านกิโลเมตร""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q006,Thai,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKAko7soppYSJiVwrBy'}",,level 5,จากค่าเฉลี่ยของแต้มต่างของการชนะในฤดูกาลนี้ เป็นไปได้ใช่หรือไม่ที่ทีมจะไม่เคยชนะด้วยแต้มที่ต่างกัน 19 คะแนน เลยสักครั้ง,"{""A"": ""ใช่"", ""B"": ""ไม่ใช่""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q007,Thai,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKC9C3c95paedKmLk1G'}",,level 4,เมื่อพิจารณาจากร้อยละของปี 2005 กับปี 2015 ประเทศใดมีการเพิ่มขึ้นมากที่สุด,"{""A"": ""กรีซ"", ""B"": ""อาร์เมเนีย"", ""C"": ""ปานามา"", ""D"": ""คาซัคสถาน""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q008,Thai,,B,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKDZiTLPo9DyPkQK39Y'}",,level 4,เมื่อเทียบปี 2005 กับปี 2015 ประเทศใดไม่มีการเปลี่ยนแปลงในภาพรวม,"{""A"": ""กรีซ"", ""B"": ""อาร์เมเนีย"", ""C"": ""ปานามา"", ""D"": ""คาซัคสถาน""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q009,Thai,,C,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKExGJaj9Hx8D6d5XaB'}",,level 4,เมื่อพิจารณาจากร้อยละของปี 2005 กับปี 2015 ประเทศใดมีการลดลงมากที่สุด,"{""A"": ""กรีซ"", ""B"": ""อาร์เมเนีย"", ""C"": ""ปานามา"", ""D"": ""คาซัคสถาน""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q010,Thai,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKGKw4ZNESkFkZR53bk'}",,level 6,"ให้พิจารณาในสองช่วงเวลา: ปี 2005 ถึง ปี 2010 และ ปี 2010 ถึง ปี 2015
-เมื่อพิจารณาจากร้อยละ  สองประเทศใดมีการเปลี่ยนแปลงร้อยละของพื้นที่ป่าจากช่วงเวลาหนึ่งไปสู่อีกช่วงเวลาหนึ่งมากที่สุด","{""A"": [""อินเดีย"", ""โคลอมเบีย""], ""B"": [""อินเดีย"", ""อาร์เมเนีย""], ""C"": [""ปานามา"", ""โคลอมเบีย""], ""D"": [""คาซัคสถาน"", ""โคลอมเบีย""]}",Claude,claude-opus-4-5-20251101,5,,,,,
-q011,Thai,,B,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKHigpVhx7ZNYjXQFTx'}",,level 6,"หฤทัยกล่าวว่าประเทศเกาหลีใต้มีพื้นที่ป่ามากกว่าประเทศอื่นๆ ในปีที่มีข้อมูลแสดงอยู่
-ข้อมูลในโปรแกรมสเปรดชีต สนับสนุนคำกล่าวอ้างของเธอใช่หรือไม่","{""A"": ""ใช่"", ""B"": ""ไม่ใช่""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q012,Thai,,B,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKK7Z1u1gcQriTjSXtB'}",,level 5,นักวิทยาศาสตร์ที่กล่าวถึงในบทความนี้ และ จาเร็ด  ไดมอนด์ มีความเห็นตรงกันในเรื่องใด,"{""A"": ""มนุษย์ไปตั้งถิ่นฐานบนราปานุยเมื่อหลายร้อยปีก่อน"", ""B"": ""ต้นไม้ขนาดใหญ่ได้หายไปจากราปานุย"", ""C"": ""หนูจี๊ดกินเมล็ดของต้นไม้ขนาดใหญ่บนราปานุย"", ""D"": ""ชาวยุโรปได้เดินทางมาถึงราปานุยในคริสต์ศตวรรษที่ 18""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q013,Thai,,D,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKLXZRLWsTrfUdAUVA1'}",,level 4,หลักฐานใดที่ คาร์ล  ลิโป และ เทอร์รี่  ฮันท์ ใช้เพื่อสนับสนุนทฤษฎีของพวกเขาเกี่ยวกับสาเหตุที่ต้นไม้ขนาดใหญ่ของราปานุยหายไป,"{""A"": ""หนูเข้ามาอยู่บนเกาะด้วยเรือแคนูของผู้ตั้งถิ่นฐาน"", ""B"": ""หนูอาจจะถูกนำมาด้วยความจงใจของผู้ตั้งถิ่นฐาน"", ""C"": ""ประชากรหนูสามารถเพิ่มขึ้นเป็นสองเท่าในทุกๆ 47 วัน"", ""D"": ""ซากของเมล็ดต้นปาล์มซึ่งมีรอยกัดแทะที่เกิดจากหนู""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q014,Thai,,B,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKMu4m9PLi8vCX18mBh'}",,level 4,จากข้อมูลในบล็อก อาจารย์ท่านนี้เริ่มงานภาคสนามของเธอเมื่อใด,"{""A"": ""ในช่วงคริสต์ทศวรรษ 1990"", ""B"": ""เก้าเดือนที่แล้ว"", ""C"": ""หนึ่งปีที่แล้ว"", ""D"": ""ในช่วงต้นเดือนพฤษภาคม""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q015,Thai,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKPG3MSstmKuW4EGsUw'}",,level 5,"ข้อความนี้เป็นข้อเท็จจริงหรือความคิดเห็น
-ในหนังสือเล่มนี้ ผู้แต่งได้บรรยายถึงหลายอารยธรรมที่ล่มสลายลงเนื่องจากสิ่งที่พวกเขาได้เลือกทำ และผลกระทบของการกระทำเหล่านั้นที่มีต่อสิ่งแวดล้อม
-ตัวอย่างที่น่าสะเทือนใจที่สุดเรื่องหนึ่งในหนังสือเล่มนี้ คือ ราปานุย
-พวกเขาแกะสลักโมอายซึ่งเป็นรูปแกะสลักที่มีชื่อเสียง และใช้ทรัพยากรธรรมชาติที่พวกเขามีเพื่อเคลื่อนย้ายโมอายขนาดมหึมาเหล่านี้ไปยังสถานที่ต่างๆ รอบเกาะ
-เมื่อชาวยุโรปกลุ่มแรกเดินทางเข้ามาที่ราปานุยในปี 1722  โมอายยังคงอยู่บนเกาะ แต่ต้นไม้กลับหายไปหมดแล้ว
-หนังสือเล่มนี้เขียนได้ดีมากและควรค่าแก่การอ่านสำหรับทุกคนที่ห่วงใยสิ่งแวดล้อม","{""A"": [""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ข้อเท็จจริง"", ""ความคิดเห็น""], ""B"": [""ความคิดเห็น"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ข้อเท็จจริง"", ""ความคิดเห็น""], ""C"": [""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ความคิดเห็น""], ""D"": [""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ความคิดเห็น""]}",Claude,claude-opus-4-5-20251101,5,,,,,
-q016,Thai,,B,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKQhttaQ23MNsWxtef2'}",,level 1b,จากความเห็นของ IDFA    ข้อความใดที่ผู้เชี่ยวชาญและองค์กรชั้นนำทางด้านสุขภาพมีความเห็นตรงกัน,"{""A"": ""การบริโภคนมและผลิตภัณฑ์จากนมเป็นเหตุให้เกิดโรคอ้วน"", ""B"": ""นมเป็นแหล่งอาหารที่มีวิตามินและเกลือแร่ที่จำเป็นอยู่มาก"", ""C"": ""นมมีวิตามินมากกว่าเกลือแร่"", ""D"": ""การดื่มนมเป็นสาเหตุหลักของโรคกระดูกพรุน""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q017,Thai,,D,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKS4dbF6GWwx4C5fkjn'}",,level 2,จุดประสงค์หลักของเนื้อเรื่องนี้คืออะไร,"{""A"": ""เพื่อโต้แย้งว่าผลิตภัณฑ์นมช่วยในการลดน้ำหนักตัวได้มากขึ้น"", ""B"": ""เพื่อเปรียบเทียบผลิตภัณฑ์นมจาก  อิ่มอุ่นฟาร์มนม  กับผลิตภัณฑ์นมอื่นๆ"", ""C"": ""เพื่อแจ้งให้สาธารณะทราบถึงความเสี่ยงที่เกี่ยวโยงกับโรคหัวใจ"", ""D"": ""เพื่อสนับสนุนการใช้ผลิตภัณฑ์จาก  อิ่มอุ่นฟาร์มนม""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q018,Thai,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKTWhXNFaLFEnHNXNFL'}",,level 5,"ข้อความนี้เป็นข้อเท็จจริงหรือความคิดเห็น
-การศึกษาล่าสุดเกี่ยวกับประโยชน์ต่อสุขภาพของนมให้ผลที่น่าประหลาดใจ
-การศึกษาต่างๆ ได้แสดงให้เห็นว่าการดื่มนมมีผลกระทบที่เป็นอันตรายต่อสุขภาพ
-หลายการศึกษาได้ตั้งข้อสงสัยเกี่ยวกับความสามารถของนมในการเสริมสร้างความแข็งแรงของกระดูก
-การดื่มนมและผลิตภัณฑ์อื่นๆ จากนมเป็นวิธีการลดน้ำหนักที่ดีที่สุด","{""A"": [""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ข้อเท็จจริง"", ""ความคิดเห็น""], ""B"": [""ข้อเท็จจริง"", ""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ความคิดเห็น""], ""C"": [""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ความคิดเห็น""], ""D"": [""ความคิดเห็น"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ข้อเท็จจริง""]}",Claude,claude-opus-4-5-20251101,5,,,,,
-q019,Thai,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKUsv1CGAX68DnQu1xr'}",,level 3,"ข้อความนี้แสดงถึงจุดประสงค์ของบทความใช่หรือไม่
-เพื่อตั้งข้อสงสัยถึงประโยชน์ของผลิตภัณฑ์จากนมที่มีต่อสุขภาพโดยทั่วไป
-เพื่ออภิปรายผลการวิจัยต่างๆ เกี่ยวกับนมวัว
-เพื่อชี้ให้เห็นว่ายังไม่มีการศึกษาเกี่ยวกับนมและผลิตภัณฑ์อื่นๆ จากนม","{""A"": [""ใช่"", ""ใช่"", ""ไม่ใช่""], ""B"": [""ใช่"", ""ไม่ใช่"", ""ไม่ใช่""], ""C"": [""ไม่ใช่"", ""ใช่"", ""ไม่ใช่""], ""D"": [""ไม่ใช่"", ""ใช่"", ""ใช่""]}",Claude,claude-opus-4-5-20251101,5,,,,,
-q020,Thai,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKWJe4iyDrdDJkEXZhh'}",,level 1a,"ผู้เขียนของทั้งสองเนื้อเรื่องมีความคิดเห็นที่ไม่ตรงกันเกี่ยวกับบทบาทของนมในมื้ออาหารโดยทั่วไป
-ประเด็นหลักที่ผู้เขียนทั้งสองมีความคิดเห็นไม่ตรงกันคือเรื่องใด","{""A"": ""ผลกระทบของนมต่อสุขภาพและบทบาทของนมในมื้ออาหารของมนุษย์"", ""B"": ""จำนวนของวิตามินและเกลือแร่ที่พบในนม"", ""C"": ""รูปแบบที่ดีที่สุดของผลิตภัณฑ์จากนมในการบริโภคเป็นประจำ"", ""D"": ""องค์กรที่มีบทบาทหน้าที่หลักเกี่ยวกับนม""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q021,Thai,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKXgYyA9GnWfPkq6hsh'}",,level 1,อุษา_88 ต้องการรู้ในเรื่องใด,"{""A"": ""เธอสามารถให้แอสไพรินกับแม่ไก่ที่บาดเจ็บได้หรือไม่"", ""B"": ""เธอสามารถให้แอสไพรินกับแม่ไก่ที่บาดเจ็บได้บ่อยเพียงใด"", ""C"": ""เธอจะติดต่อสัตวแพทย์เกี่ยวกับเรื่องแม่ไก่ที่บาดเจ็บได้อย่างไร"", ""D"": ""เธอสามารถวินิจฉัยระดับความเจ็บปวดของแม่ไก่ที่บาดเจ็บได้หรือไม่""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q022,Thai,,C,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKZ7ujUcFcxG8qAR7yb'}",,level 1,เพราะเหตุใด อุษา_88 จึงตัดสินใจโพสต์คำถามของเธอลงบนกระดานสนทนาในอินเทอร์เน็ต,"{""A"": ""เพราะเธอไม่รู้ว่าจะค้นหาสัตวแพทย์ได้อย่างไร"", ""B"": ""เพราะเธอคิดว่าปัญหาของแม่ไก่ไม่ได้รุนแรง"", ""C"": ""เพราะเธอต้องการช่วยแม่ไก่ให้เร็วที่สุดเท่าที่จะทำได้"", ""D"": ""เพราะเธอมีเงินไม่มากพอที่จะไปหาสัตวแพทย์""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q023,Thai,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKaX9WHAzV2VR6DVKni'}",,level 2,"โพสต์นี้เกี่ยวกับปัญหาของอุษา_88 ใช่หรือไม่
-โพสต์ของนิวB79
-โพสต์ของมล
-โพสต์ของสินค้า_สัตว์ปีก
-โพสต์ของบอย
-โพสต์ของภาณุ","{""A"": [""ใช่"", ""ใช่"", ""ไม่ใช่"", ""ไม่ใช่"", ""ใช่""], ""B"": [""ใช่"", ""ไม่ใช่"", ""ไม่ใช่"", ""ไม่ใช่"", ""ใช่""], ""C"": [""ไม่ใช่"", ""ใช่"", ""ไม่ใช่"", ""ไม่ใช่"", ""ใช่""], ""D"": [""ใช่"", ""ใช่"", ""ไม่ใช่"", ""ไม่ใช่"", ""ไม่ใช่""]}",Claude,claude-opus-4-5-20251101,5,,,,,
-q024,Thai,,C,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKbu4A3rZw8XHp9fmaW'}",,level 1b,ผู้ที่เคยมีประสบการณ์ด้านบวกในการใช้แอสไพรินกับแม่ไก่ที่บาดเจ็บคือใคร,"{""A"": ""อุษา_88"", ""B"": ""นิวB79"", ""C"": ""มล"", ""D"": ""บอย""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q025,Thai,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKdHfyPKRBUYvxAruMR'}",,level 1a,เพราะเหตุใด สินค้า_สัตว์ปีก จึงตอบโพสต์ของอุษา_88,"{""A"": ""เพื่อเป็นการโฆษณาธุรกิจ"", ""B"": ""เพื่อตอบคำถามของอุษา_88"", ""C"": ""เพื่อเสริมคำแนะนำของมล"", ""D"": ""เพื่อแสดงถึงความเชี่ยวชาญในเรื่องนก""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q001,Turkish,,C,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKeg3esDJtpfdrsEar4'}",,level 6,"Tuğçe, Araba D'yi almaya ve üç yıl sonra satmaya karar verirse, bu arabanın ikinci el satış değeri zed cinsinden yaklaşık ne olur?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q002,Turkish,,C,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKg3E9bCahCa3czs3PM'}",,level 6,"Bu satış trendi böyle devam ederse, bu modele göre hangi yılda satılan DVD sayısı 1 milyondan az olacaktır?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q003,Turkish,,B,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKhQP9jnL8LfumhN3q2'}",,level 2,A kamyonuna orta büyüklükte en fazla kaç kutu sığabilir?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q004,Turkish,,C,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKimMk7hsqhUsMoikdk'}",,level 6,"Nakliye şirketi, kiraya verdiği A kamyonunun kasasının sadece orta büyüklükteki kutular kullanılarak hiç boşluk kalmayacak şekilde doldurulabileceğini belirtiyor.
-Ceren orta büyüklükteki kutunun hacminin, büyük kutunun hacminin 2/3'ü olduğunu iddia ediyor. Bu nedenle de A kamyonunu dolduracak büyük kutu sayısının, orta büyüklükteki kutu sayısının 2/3'ü kadar olacağı sonucuna ulaşıyor.
-Ceren'in ulaştığı bu sonuçla ilgili aşağıdaki ifadelerden hangisi doğrudur?","{""A"": ""Ceren'in ulaştığı bu sonuç doğrudur çünkü orta büyüklükteki kutunun yüksekliği büyük kutunun yüksekliğinin 2/3'ü kadardır."", ""B"": ""Ceren'in ulaştığı bu sonuç doğrudur çünkü orta büyüklükteki 3 kutu her zaman 2 büyük kutunun sığdığı yere sığabilir."", ""C"": ""Ceren'in ulaştığı bu sonuç yanlıştır çünkü A kamyonunun kasasının iç boyutlarından hiçbiri, büyük kutunun yüksekliği olan 0,75'in katı değildir."", ""D"": ""Ceren'in ulaştığı bu sonuç yanlıştır çünkü büyük kutunun yüksekliği, orta büyüklükteki kutunun yüksekliğinin 1,5 katıdır.""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q005,Turkish,,D,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKkCfnUyX8Utv599L1f'}",,level 2,Neptün gezegenin Güneş'e ortalama uzaklığı yaklaşık kaç milyon kilometredir?,"{""A"": ""5 milyon km"", ""B"": ""30 milyon km"", ""C"": ""180 milyon km"", ""D"": ""4500 milyon km""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q006,Turkish,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKmaeQSZstwH7ziee2L'}",,level 5,Bu sezon için ortalama başarı marjına bakıldığında bu takımın herhangi bir maçı 19 sayı fark olmadan kazanmamış olması mümkün müdür?,"{""A"": ""Evet"", ""B"": ""Hayır""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q007,Turkish,,A,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKnxgFTEKrrLRme9LeR'}",,level 4,2005-2015 yılları arasında yüzdesinde en fazla artış olan ülke hangisidir?,"{""A"": ""Yunanistan"", ""B"": ""Ermenistan"", ""C"": ""Panama"", ""D"": ""Kazakistan""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q008,Turkish,,B,False,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKpLBb7eVBgR2JR2krA'}",,level 4,2005-2015 yılları arasında hangi ülkede geniş kapsamlı bir değişiklik olmamıştır?,"{""A"": ""Yunanistan"", ""B"": ""Ermenistan"", ""C"": ""Panama"", ""D"": ""Kazakistan""}",Claude,claude-opus-4-5-20251101,5,,,,,
-q009,Turkish,C,C,True,"BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CWbKq9HXShJm3LUhJGbcP'}",C,level 4,2005-2015 yılları arasında yüzdesinde en fazla düşüş olan ülke hangisidir?,"{""A"": ""Yunanistan"", ""B"": ""Ermenistan"", ""C"": ""Panama"", ""D"": ""Kazakistan""}",Claude,claude-opus-4-5-20251101,5,715,237,,medium,"2005-2015 arasındaki düşüşleri hesaplayayım:
-- Panama: 64,33 - 62,11 = 2,22 düşüş
-- Güney Kore: 64,42 - 63,69 = 0,73 düşüş
-- Senegal: 45,05 - 42,97 = 2,08 düşüş
-- Kolombiya: 54,26 - 52,73 = 1,53 düşüş
-
-Seçeneklerdeki ülkeler:
-- Yunanistan: artış var
-- Ermenistan: 11,77 - 11,77 = 0 (değişim yok)
-- Panama: 2,22 düşüş
-- Kazakistan: 1,24 - 1,23 = 0,01 düşüş"
 q010,Turkish,A,A,True,,A,level 6,"Şu iki zaman aralığını dikkate alınız: 2005-2010 ve 2010-2015.
 Yüzdeler dikkate alındığında, bir zaman aralığından diğer zaman aralığına kadar ormanlık alan yüzdesinde en büyük değişimi geçiren iki ülke hangileridir?","{""A"": [""Hindistan"", ""Kolombiya""], ""B"": [""Hindistan"", ""Ermenistan""], ""C"": [""Panama"", ""Kolombiya""], ""D"": [""Kazakistan"", ""Kolombiya""]}",Claude,claude-opus-4-5-20251101,5,812,260,,medium,"Her ülke için iki dönemdeki değişimleri hesaplayıp, dönemler arası farkı bulmalıyım.
 
@@ -30180,3 +30114,212 @@ Merve'nin mesajına bakıyorum: ""Tavuğum yaralandığında ona aspirin vermiş
 
 Bu olumlu bir tecrübe."
 q025,Turkish,A,A,True,,A,level 1a,İlkay_88’in gönderisine Kuş_Ticaret niçin cevap veriyor?,"{""A"": ""Firmasının tanıtımını yapmak için"", ""B"": ""İlkay_88’in sorusunu cevaplamak için"", ""C"": ""Merve’nin tavsiyesine ekleme yapmak için"", ""D"": ""Kuşlar hakkında uzmanlığını göstermek için""}",Claude,claude-opus-4-5-20251101,5,984,109,,medium,"Kuş_Ticaret'in mesajı: ""Merhaba! Tüm kuş malzemelerinde süper ucuz tekliflerimizi inceleyin. Şu an büyük bir indirim var."" Bu mesaj açıkça bir reklam/tanıtım mesajıdır ve İlkay_88'in sorusuyla ilgili değil."
+q003,Thai,B,B,True,,B,level 2,รถ A สามารถบรรจุกล่องขนาดกลางจนเต็มพอดีได้มากที่สุดเป็นจำนวนเท่าใด,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,5,482,240,,medium,"รถ A: 4 × 2 × 2 = 16 ลูกบาศก์เมตร
+กล่องกลาง: 0.5 × 0.5 × 0.5 = 0.125 ลูกบาศก์เมตร
+
+จำนวนกล่อง = 16 / 0.125 = 128 กล่อง
+
+หรือคิดตามแนว:
+- ความยาว: 4 / 0.5 = 8 กล่อง
+- ความกว้าง: 2 / 0.5 = 4 กล่อง
+- ความสูง: 2 / 0.5 = 4 กล่อง
+รวม = 8 × 4 × 4 = 128 กล่อง"
+q004,Thai,C,C,True,,C,level 6,"บริษัทให้เช่ารถยืนยันว่า ต้องใช้กล่องขนาดกลางเท่านั้นจึงสามารถใช้เนื้อที่ห้องเก็บของภายในรถ A ได้เต็มพิกัด
+มะลิกล่าวว่า กล่องขนาดกลางหนึ่งใบใช้เนื้อที่เป็น 2/3 ของเนื้อที่กล่องขนาดใหญ่  ดังนั้นเธอจึงสรุปว่าจำนวนของกล่องขนาดใหญ่ที่ใส่ในรถ A ได้จะเป็น 2/3 ของจำนวนกล่องขนาดกลาง
+ข้อความเกี่ยวกับข้อสรุปของมะลิต่อไปนี้ ข้อความใดถูกต้อง","{""A"": ""เธอพูดถูกต้อง เพราะความสูงของกล่องขนาดกลางเป็น 2/3 ของความสูงของกล่องขนาดใหญ่"", ""B"": ""เธอพูดถูกต้อง เพราะกล่องขนาดกลาง 3 ใบ จะใช้เนื้อที่เท่ากับกล่องขนาดใหญ่ 2 ใบ เสมอ"", ""C"": ""เธอพูดไม่ถูกต้อง เพราะขนาดของห้องเก็บของภายในรถ A ไม่มีด้านใดเลยที่เป็นพหุคูณของ 0.75 ซึ่งเป็นความสูงของกล่องขนาดใหญ่"", ""D"": ""เธอพูดไม่ถูกต้อง เพราะความสูงของกล่องขนาดใหญ่เป็น 1.5 เท่าของความสูงของกล่องขนาดกลาง""}",Claude,claude-opus-4-5-20251101,5,1030,278,,medium,"กล่องกลาง: 0.5 × 0.5 × 0.5 = 0.125 ลบ.ม.
+กล่องใหญ่: 0.5 × 0.5 × 0.75 = 0.1875 ลบ.ม.
+0.125/0.1875 = 2/3 ถูกต้อง
+
+แต่ปัญหาคือห้องเก็บของสูง 2 เมตร
+- 2 ÷ 0.5 = 4 (ลงตัว) สำหรับกล่องกลาง
+- 2 ÷ 0.75 = 2.67 (ไม่ลงตัว) สำหรับกล่องใหญ่
+
+ดังนั้นกล่องใหญ่ไม่สามารถใช้พื้นที่ได้เต็มที่"
+q005,Thai,D,D,True,,D,level 2,โดยเฉลี่ย ดวงอาทิตย์อยู่ห่างจากดาวเนปจูนประมาณกี่ล้านกิโลเมตร,"{""A"": ""5 ล้านกิโลเมตร"", ""B"": ""30 ล้านกิโลเมตร"", ""C"": ""180 ล้านกิโลเมตร"", ""D"": ""4,500 ล้านกิโลเมตร""}",Claude,claude-opus-4-5-20251101,5,497,131,,medium,"ดาวเนปจูนอยู่ห่างจากดวงอาทิตย์ 30.05 au
+1 au = 150 ล้านกิโลเมตร
+ดังนั้น 30.05 × 150 ≈ 4,507.5 ล้านกิโลเมตร ≈ 4,500 ล้านกิโลเมตร"
+q006,Thai,A,A,True,,A,level 5,จากค่าเฉลี่ยของแต้มต่างของการชนะในฤดูกาลนี้ เป็นไปได้ใช่หรือไม่ที่ทีมจะไม่เคยชนะด้วยแต้มที่ต่างกัน 19 คะแนน เลยสักครั้ง,"{""A"": ""ใช่"", ""B"": ""ไม่ใช่""}",Claude,claude-opus-4-5-20251101,5,533,261,,medium,"คำถามถามว่าค่าเฉลี่ยแต้มต่างเท่ากับ 19 หมายความว่าต้องมีเกมที่ชนะด้วยแต้มต่าง 19 อย่างน้อยหนึ่งครั้งหรือไม่
+
+ค่าเฉลี่ยเท่ากับ 19 ไม่ได้หมายความว่าต้องมีค่า 19 ในข้อมูล เช่น ถ้ามี 2 เกม ชนะด้วยแต้มต่าง 18 และ 20 ค่าเฉลี่ยก็เป็น 19 โดยไม่มีเกมไหนที่แต้มต่างเป็น 19 เลย"
+q007,Thai,A,A,True,,A,level 4,เมื่อพิจารณาจากร้อยละของปี 2005 กับปี 2015 ประเทศใดมีการเพิ่มขึ้นมากที่สุด,"{""A"": ""กรีซ"", ""B"": ""อาร์เมเนีย"", ""C"": ""ปานามา"", ""D"": ""คาซัคสถาน""}",Claude,claude-opus-4-5-20251101,5,852,177,,medium,"ต้องหาการเปลี่ยนแปลงจากปี 2005 ถึง 2015:
+- กรีซ: 31.45 - 29.11 = +2.34
+- อาร์เมเนีย: 11.77 - 11.77 = 0
+- ปานามา: 62.11 - 64.33 = -2.22
+- คาซัคสถาน: 1.23 - 1.24 = -0.01
+
+กรีซมีการเพิ่มขึ้นมากที่สุด"
+q008,Thai,B,B,True,,B. อาร์เมเนีย,level 4,เมื่อเทียบปี 2005 กับปี 2015 ประเทศใดไม่มีการเปลี่ยนแปลงในภาพรวม,"{""A"": ""กรีซ"", ""B"": ""อาร์เมเนีย"", ""C"": ""ปานามา"", ""D"": ""คาซัคสถาน""}",Claude,claude-opus-4-5-20251101,5,846,177,,medium,"เปรียบเทียบปี 2005 กับปี 2015:
+- กรีซ: 29.11 → 31.45 (เพิ่มขึ้น)
+- อาร์เมเนีย: 11.77 → 11.77 (เท่าเดิม)
+- ปานามา: 64.33 → 62.11 (ลดลง)
+- คาซัคสถาน: 1.24 → 1.23 (ลดลงเล็กน้อย)"
+q009,Thai,C,C,True,,C,level 4,เมื่อพิจารณาจากร้อยละของปี 2005 กับปี 2015 ประเทศใดมีการลดลงมากที่สุด,"{""A"": ""กรีซ"", ""B"": ""อาร์เมเนีย"", ""C"": ""ปานามา"", ""D"": ""คาซัคสถาน""}",Claude,claude-opus-4-5-20251101,5,845,209,,medium,"ต้องหาการลดลงจากปี 2005 ถึง 2015:
+- กรีซ: 31.45 - 29.11 = +2.34 (เพิ่มขึ้น)
+- อาร์เมเนีย: 11.77 - 11.77 = 0 (เท่าเดิม)
+- ปานามา: 62.11 - 64.33 = -2.22 (ลดลง 2.22)
+- คาซัคสถาน: 1.23 - 1.24 = -0.01 (ลดลง 0.01)
+
+ปานามาลดลงมากที่สุด"
+q010,Thai,C,A,False,,C,level 6,"ให้พิจารณาในสองช่วงเวลา: ปี 2005 ถึง ปี 2010 และ ปี 2010 ถึง ปี 2015
+เมื่อพิจารณาจากร้อยละ  สองประเทศใดมีการเปลี่ยนแปลงร้อยละของพื้นที่ป่าจากช่วงเวลาหนึ่งไปสู่อีกช่วงเวลาหนึ่งมากที่สุด","{""A"": [""อินเดีย"", ""โคลอมเบีย""], ""B"": [""อินเดีย"", ""อาร์เมเนีย""], ""C"": [""ปานามา"", ""โคลอมเบีย""], ""D"": [""คาซัคสถาน"", ""โคลอมเบีย""]}",Claude,claude-opus-4-5-20251101,5,1008,683,,medium,"ต้องหาการเปลี่ยนแปลงในแต่ละช่วงเวลา:
+
+ช่วง 2005-2010:
+- กรีซ: 30.28-29.11 = 1.17
+- เกาหลีใต้: 64.08-64.42 = -0.34
+- คาซัคสถาน: 1.23-1.24 = -0.01
+- โคลอมเบีย: 52.85-54.26 = -1.41
+- เซเนกัล: 44.01-45.05 = -1.04
+- ไทย: 31.81-31.51 = 0.30
+- ปานามา: 63.21-64.33 = -1.12
+- เปรู: 58.45-59.01 = -0.56
+- โปรตุเกส: 35.89-36.52 = -0.63
+- เยอรมนี: 32.73-32.66 = 0.07
+- เลบานอน: 13.38-13.34 = 0.04
+- สหรัฐอเมริกา: 33.73-33.26 = 0.47
+- อาร์เมเนีย: 11.74-11.77 = -0.03
+- อินเดีย: 23.47-22.77 = 0.70
+- แอลจีเรีย: 0.81-0.64 = 0.17
+
+ช่วง 2010-2015:
+- โคลอมเบีย: 52.73-52.85 = -0.12
+- ปานามา: 62.11-63.21 = -1.10
+
+โคลอมเบีย เปลี่ยนแปลงจาก -1.41 เป็น -0.12 = ความแตกต่าง |(-0.12)-(-1.41)| = 1.29
+ปานามา เปลี่ยนแปลงจาก -1.12 เป็น -1.10 = ความแตกต่าง 0.02
+อินเดีย: 0.70 เป็น 0.30 = ความแตกต่าง 0.40
+
+โคลอมเบียมีการเปลี่ยนแปลงมากที่สุดระหว่างสองช่วงเวลา"
+q011,Thai,A,B,False,,A,level 6,"หฤทัยกล่าวว่าประเทศเกาหลีใต้มีพื้นที่ป่ามากกว่าประเทศอื่นๆ ในปีที่มีข้อมูลแสดงอยู่
+ข้อมูลในโปรแกรมสเปรดชีต สนับสนุนคำกล่าวอ้างของเธอใช่หรือไม่","{""A"": ""ใช่"", ""B"": ""ไม่ใช่""}",Claude,claude-opus-4-5-20251101,5,901,222,,medium,"ดูข้อมูลปี 2005, 2010, 2015:
+- เกาหลีใต้: 64.42, 64.08, 63.69
+- ปานามา: 64.33, 63.21, 62.11
+
+ปี 2005: เกาหลีใต้ 64.42 > ปานามา 64.33 ✓
+ปี 2010: เกาหลีใต้ 64.08 > ปานามา 63.21 ✓
+ปี 2015: เกาหลีใต้ 63.69 > ปานามา 62.11 ✓
+
+เกาหลีใต้มีค่าสูงสุดในทุกปี"
+q012,Thai,B,B,True,,B,level 5,นักวิทยาศาสตร์ที่กล่าวถึงในบทความนี้ และ จาเร็ด  ไดมอนด์ มีความเห็นตรงกันในเรื่องใด,"{""A"": ""มนุษย์ไปตั้งถิ่นฐานบนราปานุยเมื่อหลายร้อยปีก่อน"", ""B"": ""ต้นไม้ขนาดใหญ่ได้หายไปจากราปานุย"", ""C"": ""หนูจี๊ดกินเมล็ดของต้นไม้ขนาดใหญ่บนราปานุย"", ""D"": ""ชาวยุโรปได้เดินทางมาถึงราปานุยในคริสต์ศตวรรษที่ 18""}",Claude,claude-opus-4-5-20251101,5,1575,168,,medium,"บทความระบุว่านักวิทยาศาสตร์ ""เห็นด้วยว่าเมื่อชาวยุโรปกลุ่มแรกได้เดินทางมาถึงเกาะในคริสต์ศตวรรษที่ 18 ต้นไม้ขนาดมหึมาได้หายไปแล้ว"" นี่คือสิ่งที่ทั้งสองฝ่ายเห็นตรงกัน"
+q013,Thai,D,D,True,,D,level 4,หลักฐานใดที่ คาร์ล  ลิโป และ เทอร์รี่  ฮันท์ ใช้เพื่อสนับสนุนทฤษฎีของพวกเขาเกี่ยวกับสาเหตุที่ต้นไม้ขนาดใหญ่ของราปานุยหายไป,"{""A"": ""หนูเข้ามาอยู่บนเกาะด้วยเรือแคนูของผู้ตั้งถิ่นฐาน"", ""B"": ""หนูอาจจะถูกนำมาด้วยความจงใจของผู้ตั้งถิ่นฐาน"", ""C"": ""ประชากรหนูสามารถเพิ่มขึ้นเป็นสองเท่าในทุกๆ 47 วัน"", ""D"": ""ซากของเมล็ดต้นปาล์มซึ่งมีรอยกัดแทะที่เกิดจากหนู""}",Claude,claude-opus-4-5-20251101,5,1639,161,,medium,"คำถามถามถึงหลักฐานที่ใช้สนับสนุนทฤษฎี ในบทความระบุว่า ""เพื่อเป็นการสนับสนุนทฤษฎีของพวกเขา ลิโปและฮันท์ชี้ให้เห็นถึงซากของเมล็ดต้นปาล์มซึ่งมีรอยกัดแทะที่เกิดจากหนู"""
+q014,Thai,B,B,True,,B,level 4,จากข้อมูลในบล็อก อาจารย์ท่านนี้เริ่มงานภาคสนามของเธอเมื่อใด,"{""A"": ""ในช่วงคริสต์ทศวรรษ 1990"", ""B"": ""เก้าเดือนที่แล้ว"", ""C"": ""หนึ่งปีที่แล้ว"", ""D"": ""ในช่วงต้นเดือนพฤษภาคม""}",Claude,claude-opus-4-5-20251101,5,1491,122,,medium,"บล็อกโพสต์เมื่อ 23 พฤษภาคม และระบุว่าเธอทำงานภาคสนามมา ""ตลอดเก้าเดือนที่ผ่านมา"" ดังนั้นเธอเริ่มงานเก้าเดือนก่อนหน้านั้น"
+q015,Thai,A,A,True,,A,level 5,"ข้อความนี้เป็นข้อเท็จจริงหรือความคิดเห็น
+ในหนังสือเล่มนี้ ผู้แต่งได้บรรยายถึงหลายอารยธรรมที่ล่มสลายลงเนื่องจากสิ่งที่พวกเขาได้เลือกทำ และผลกระทบของการกระทำเหล่านั้นที่มีต่อสิ่งแวดล้อม
+ตัวอย่างที่น่าสะเทือนใจที่สุดเรื่องหนึ่งในหนังสือเล่มนี้ คือ ราปานุย
+พวกเขาแกะสลักโมอายซึ่งเป็นรูปแกะสลักที่มีชื่อเสียง และใช้ทรัพยากรธรรมชาติที่พวกเขามีเพื่อเคลื่อนย้ายโมอายขนาดมหึมาเหล่านี้ไปยังสถานที่ต่างๆ รอบเกาะ
+เมื่อชาวยุโรปกลุ่มแรกเดินทางเข้ามาที่ราปานุยในปี 1722  โมอายยังคงอยู่บนเกาะ แต่ต้นไม้กลับหายไปหมดแล้ว
+หนังสือเล่มนี้เขียนได้ดีมากและควรค่าแก่การอ่านสำหรับทุกคนที่ห่วงใยสิ่งแวดล้อม","{""A"": [""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ข้อเท็จจริง"", ""ความคิดเห็น""], ""B"": [""ความคิดเห็น"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ข้อเท็จจริง"", ""ความคิดเห็น""], ""C"": [""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ความคิดเห็น""], ""D"": [""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ความคิดเห็น""]}",Claude,claude-opus-4-5-20251101,5,2193,489,,medium,"ให้วิเคราะห์แต่ละข้อความ:
+
+1. ""ในหนังสือเล่มนี้ ผู้แต่งได้บรรยายถึงหลายอารยธรรม..."" - ข้อเท็จจริง (บอกว่าหนังสือมีเนื้อหาอะไร)
+
+2. ""ตัวอย่างที่น่าสะเทือนใจที่สุด..."" - ความคิดเห็น (คำว่า ""น่าสะเทือนใจที่สุด"" เป็นการตัดสินใจส่วนตัว)
+
+3. ""พวกเขาแกะสลักโมอาย..."" - ข้อเท็จจริง (บอกเหตุการณ์ที่เกิดขึ้น)
+
+4. ""เมื่อชาวยุโรปกลุ่มแรกเดินทางเข้ามาที่ราปานุยในปี 1722..."" - ข้อเท็จจริง (บอกเหตุการณ์ทางประวัติศาสตร์)
+
+5. ""หนังสือเล่มนี้เขียนได้ดีมากและควรค่าแก่การอ่าน..."" - ความคิดเห็น (เป็นการประเมินคุณค่า)
+
+ดังนั้น: ข้อเท็จจริง, ความคิดเห็น, ข้อเท็จจริง, ข้อเท็จจริง, ความคิดเห็น"
+q016,Thai,B,B,True,,B,level 1b,จากความเห็นของ IDFA    ข้อความใดที่ผู้เชี่ยวชาญและองค์กรชั้นนำทางด้านสุขภาพมีความเห็นตรงกัน,"{""A"": ""การบริโภคนมและผลิตภัณฑ์จากนมเป็นเหตุให้เกิดโรคอ้วน"", ""B"": ""นมเป็นแหล่งอาหารที่มีวิตามินและเกลือแร่ที่จำเป็นอยู่มาก"", ""C"": ""นมมีวิตามินมากกว่าเกลือแร่"", ""D"": ""การดื่มนมเป็นสาเหตุหลักของโรคกระดูกพรุน""}",Claude,claude-opus-4-5-20251101,5,1762,181,,medium,"จากบทความ IDFA กล่าวว่าผู้เชี่ยวชาญและกลุ่มคนทำงานด้านสุขภาพเห็นด้วยว่า ""นมมีสารอาหารครบถ้วนและเป็นสารอาหารที่จำเป็นถึง 9 ชนิด"" และ ""นมยังเป็นแหล่งของวิตามินเอ โปรตีน และโพแทสเซียม อยู่ในปริมาณมาก"""
+q017,Thai,D,D,True,,D,level 2,จุดประสงค์หลักของเนื้อเรื่องนี้คืออะไร,"{""A"": ""เพื่อโต้แย้งว่าผลิตภัณฑ์นมช่วยในการลดน้ำหนักตัวได้มากขึ้น"", ""B"": ""เพื่อเปรียบเทียบผลิตภัณฑ์นมจาก  อิ่มอุ่นฟาร์มนม  กับผลิตภัณฑ์นมอื่นๆ"", ""C"": ""เพื่อแจ้งให้สาธารณะทราบถึงความเสี่ยงที่เกี่ยวโยงกับโรคหัวใจ"", ""D"": ""เพื่อสนับสนุนการใช้ผลิตภัณฑ์จาก  อิ่มอุ่นฟาร์มนม""}",Claude,claude-opus-4-5-20251101,5,1804,150,,medium,"บทความนี้เป็นการโฆษณาผลิตภัณฑ์นมจาก ""อิ่มอุ่นฟาร์มนม"" โดยกล่าวถึงคุณค่าทางโภชนาการและประโยชน์ต่อสุขภาพ เพื่อส่งเสริมให้ผู้บริโภคใช้ผลิตภัณฑ์นี้"
+q018,Thai,A,A,True,,A,level 5,"ข้อความนี้เป็นข้อเท็จจริงหรือความคิดเห็น
+การศึกษาล่าสุดเกี่ยวกับประโยชน์ต่อสุขภาพของนมให้ผลที่น่าประหลาดใจ
+การศึกษาต่างๆ ได้แสดงให้เห็นว่าการดื่มนมมีผลกระทบที่เป็นอันตรายต่อสุขภาพ
+หลายการศึกษาได้ตั้งข้อสงสัยเกี่ยวกับความสามารถของนมในการเสริมสร้างความแข็งแรงของกระดูก
+การดื่มนมและผลิตภัณฑ์อื่นๆ จากนมเป็นวิธีการลดน้ำหนักที่ดีที่สุด","{""A"": [""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ข้อเท็จจริง"", ""ความคิดเห็น""], ""B"": [""ข้อเท็จจริง"", ""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ความคิดเห็น""], ""C"": [""ข้อเท็จจริง"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ความคิดเห็น""], ""D"": [""ความคิดเห็น"", ""ความคิดเห็น"", ""ข้อเท็จจริง"", ""ข้อเท็จจริง""]}",Claude,claude-opus-4-5-20251101,5,3658,471,,medium,"ให้วิเคราะห์แต่ละข้อความ:
+
+1. ""การศึกษาล่าสุดเกี่ยวกับประโยชน์ต่อสุขภาพของนมให้ผลที่น่าประหลาดใจ"" - ""น่าประหลาดใจ"" เป็นความคิดเห็น/การตีความ
+
+2. ""การศึกษาต่างๆ ได้แสดงให้เห็นว่าการดื่มนมมีผลกระทบที่เป็นอันตรายต่อสุขภาพ"" - นี่คือข้อเท็จจริงที่อ้างอิงจากการศึกษา
+
+3. ""หลายการศึกษาได้ตั้งข้อสงสัยเกี่ยวกับความสามารถของนมในการเสริมสร้างความแข็งแรงของกระดูก"" - นี่คือข้อเท็จจริงที่สามารถตรวจสอบได้
+
+4. ""การดื่มนมและผลิตภัณฑ์อื่นๆ จากนมเป็นวิธีการลดน้ำหนักที่ดีที่สุด"" - ""ดีที่สุด"" เป็นความคิดเห็น
+
+ดังนั้น: ความคิดเห็น, ข้อเท็จจริง, ข้อเท็จจริง, ความคิดเห็น"
+q019,Thai,A,A,True,,A,level 3,"ข้อความนี้แสดงถึงจุดประสงค์ของบทความใช่หรือไม่
+เพื่อตั้งข้อสงสัยถึงประโยชน์ของผลิตภัณฑ์จากนมที่มีต่อสุขภาพโดยทั่วไป
+เพื่ออภิปรายผลการวิจัยต่างๆ เกี่ยวกับนมวัว
+เพื่อชี้ให้เห็นว่ายังไม่มีการศึกษาเกี่ยวกับนมและผลิตภัณฑ์อื่นๆ จากนม","{""A"": [""ใช่"", ""ใช่"", ""ไม่ใช่""], ""B"": [""ใช่"", ""ไม่ใช่"", ""ไม่ใช่""], ""C"": [""ไม่ใช่"", ""ใช่"", ""ไม่ใช่""], ""D"": [""ไม่ใช่"", ""ใช่"", ""ใช่""]}",Claude,claude-opus-4-5-20251101,5,2084,273,,medium,"บทความนี้มีจุดประสงค์หลักคือ:
+1. ตั้งข้อสงสัยถึงประโยชน์ของนม - ใช่ (บทความกล่าวถึงงานวิจัยที่ชี้ว่านมอาจไม่ดีต่อสุขภาพ)
+2. อภิปรายผลการวิจัยต่างๆ - ใช่ (มีการอ้างอิงงานวิจัยจาก BMJ และ PCRM)
+3. ชี้ว่ายังไม่มีการศึกษา - ไม่ใช่ (บทความอ้างอิงการศึกษาหลายชิ้น)
+
+คำตอบคือ ['ใช่', 'ใช่', 'ไม่ใช่']"
+q020,Thai,A,A,True,,A,level 1a,"ผู้เขียนของทั้งสองเนื้อเรื่องมีความคิดเห็นที่ไม่ตรงกันเกี่ยวกับบทบาทของนมในมื้ออาหารโดยทั่วไป
+ประเด็นหลักที่ผู้เขียนทั้งสองมีความคิดเห็นไม่ตรงกันคือเรื่องใด","{""A"": ""ผลกระทบของนมต่อสุขภาพและบทบาทของนมในมื้ออาหารของมนุษย์"", ""B"": ""จำนวนของวิตามินและเกลือแร่ที่พบในนม"", ""C"": ""รูปแบบที่ดีที่สุดของผลิตภัณฑ์จากนมในการบริโภคเป็นประจำ"", ""D"": ""องค์กรที่มีบทบาทหน้าที่หลักเกี่ยวกับนม""}",Claude,claude-opus-4-5-20251101,5,3460,183,,medium,บทความแรกสนับสนุนว่านมมีประโยชน์ต่อสุขภาพ ช่วยลดน้ำหนัก เสริมกระดูก ป้องกันโรคหัวใจและมะเร็ง ส่วนบทความที่สองโต้แย้งว่านมอาจไม่ดีต่อสุขภาพ ทำให้กระดูกหักมากขึ้น และเสี่ยงต่อโรคหัวใจและมะเร็ง
+q021,Thai,A,A,True,,A,level 1,อุษา_88 ต้องการรู้ในเรื่องใด,"{""A"": ""เธอสามารถให้แอสไพรินกับแม่ไก่ที่บาดเจ็บได้หรือไม่"", ""B"": ""เธอสามารถให้แอสไพรินกับแม่ไก่ที่บาดเจ็บได้บ่อยเพียงใด"", ""C"": ""เธอจะติดต่อสัตวแพทย์เกี่ยวกับเรื่องแม่ไก่ที่บาดเจ็บได้อย่างไร"", ""D"": ""เธอสามารถวินิจฉัยระดับความเจ็บปวดของแม่ไก่ที่บาดเจ็บได้หรือไม่""}",Claude,claude-opus-4-5-20251101,5,1882,112,,medium,"อุษา_88 ถามว่า ""จะเป็นอะไรไหมถ้าฉันให้แอสไพรินกับแม่ไก่ของฉัน"" - นี่คือคำถามว่าสามารถให้แอสไพรินกับไก่ได้หรือไม่"
+q022,Thai,C,C,True,,C,level 1,เพราะเหตุใด อุษา_88 จึงตัดสินใจโพสต์คำถามของเธอลงบนกระดานสนทนาในอินเทอร์เน็ต,"{""A"": ""เพราะเธอไม่รู้ว่าจะค้นหาสัตวแพทย์ได้อย่างไร"", ""B"": ""เพราะเธอคิดว่าปัญหาของแม่ไก่ไม่ได้รุนแรง"", ""C"": ""เพราะเธอต้องการช่วยแม่ไก่ให้เร็วที่สุดเท่าที่จะทำได้"", ""D"": ""เพราะเธอมีเงินไม่มากพอที่จะไปหาสัตวแพทย์""}",Claude,claude-opus-4-5-20251101,5,1881,195,,medium,อุษา_88 ระบุว่าเธอพาไก่ไปหาสัตวแพทย์ไม่ได้จนกว่าจะถึงวันจันทร์ และหมอไม่รับโทรศัพท์ แม่ไก่ดูเจ็บปวดมาก เธอจึงอยากให้อะไรบางอย่างเพื่อทำให้มันรู้สึกดีขึ้น นี่แสดงว่าเธอต้องการช่วยแม่ไก่โดยเร็ว
+q023,Thai,A,A,True,,A,level 2,"โพสต์นี้เกี่ยวกับปัญหาของอุษา_88 ใช่หรือไม่
+โพสต์ของนิวB79
+โพสต์ของมล
+โพสต์ของสินค้า_สัตว์ปีก
+โพสต์ของบอย
+โพสต์ของภาณุ","{""A"": [""ใช่"", ""ใช่"", ""ไม่ใช่"", ""ไม่ใช่"", ""ใช่""], ""B"": [""ใช่"", ""ไม่ใช่"", ""ไม่ใช่"", ""ไม่ใช่"", ""ใช่""], ""C"": [""ไม่ใช่"", ""ใช่"", ""ไม่ใช่"", ""ไม่ใช่"", ""ใช่""], ""D"": [""ใช่"", ""ใช่"", ""ไม่ใช่"", ""ไม่ใช่"", ""ไม่ใช่""]}",Claude,claude-opus-4-5-20251101,5,1942,249,,medium,"วิเคราะห์แต่ละโพสต์:
+- นิวB79: ตอบเรื่องแอสไพรินกับไก่ → ใช่
+- มล: แชร์ประสบการณ์ให้แอสไพรินกับไก่ → ใช่
+- สินค้า_สัตว์ปีก: โฆษณาสินค้า ไม่เกี่ยว → ไม่ใช่
+- บอย: ถามเรื่องอื่น (วิธีรู้ว่าไก่ป่วย) → ไม่ใช่
+- ภาณุ: ตอบคำถามอุษาโดยตรงในฐานะสัตวแพทย์ → ใช่"
+q024,Thai,C,C,True,,C,level 1b,ผู้ที่เคยมีประสบการณ์ด้านบวกในการใช้แอสไพรินกับแม่ไก่ที่บาดเจ็บคือใคร,"{""A"": ""อุษา_88"", ""B"": ""นิวB79"", ""C"": ""มล"", ""D"": ""บอย""}",Claude,claude-opus-4-5-20251101,5,1731,127,,medium,มลบอกว่าเคยให้แอสไพรินกับแม่ไก่ของตัวเองตอนที่มันบาดเจ็บ และไม่มีปัญหาอะไรเลย วันต่อมาไก่อาการดีขึ้นแล้ว นี่คือประสบการณ์ด้านบวก
+q025,Thai,A,A,True,,A,level 1a,เพราะเหตุใด สินค้า_สัตว์ปีก จึงตอบโพสต์ของอุษา_88,"{""A"": ""เพื่อเป็นการโฆษณาธุรกิจ"", ""B"": ""เพื่อตอบคำถามของอุษา_88"", ""C"": ""เพื่อเสริมคำแนะนำของมล"", ""D"": ""เพื่อแสดงถึงความเชี่ยวชาญในเรื่องนก""}",Claude,claude-opus-4-5-20251101,5,1788,137,,medium,สินค้า_สัตว์ปีก โพสต์เกี่ยวกับข้อเสนอพิเศษและการลดราคาสินค้าเกี่ยวกับนก ซึ่งไม่เกี่ยวข้องกับคำถามของอุษา_88 เลย เป็นการโฆษณาธุรกิจของตัวเอง
+q001,Turkish,C,C,True,,C,level 6,"Tuğçe, Araba D'yi almaya ve üç yıl sonra satmaya karar verirse, bu arabanın ikinci el satış değeri zed cinsinden yaklaşık ne olur?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,5,314,101,,medium,"Arabanın ikinci el satış değeri her yıl %5 azalıyor.
+Başlangıç fiyatı: 10,500 zed
+3 yıl sonra: 10,500 × (0.95)³ = 10,500 × 0.857375 ≈ 9,002 zed"
+q002,Turkish,C,C,True,,C,level 6,"Bu satış trendi böyle devam ederse, bu modele göre hangi yılda satılan DVD sayısı 1 milyondan az olacaktır?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,5,254,69,,medium,"d < 1 olması için:
+254 - 22n < 1
+253 < 22n
+n > 11.5
+
+n = 12 olduğunda (2008 + 12 = 2020)"
+q003,Turkish,B,B,True,,B,level 2,A kamyonuna orta büyüklükte en fazla kaç kutu sığabilir?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,5,386,157,,medium,"Kamyon A kasası: 4m × 2m × 2m = 16 m³
+Orta kutu: 0,5m × 0,5m × 0,5m = 0,125 m³
+
+Uzunluk: 4 / 0,5 = 8 kutu
+Genişlik: 2 / 0,5 = 4 kutu
+Yükseklik: 2 / 0,5 = 4 kutu
+
+Toplam: 8 × 4 × 4 = 128 kutu"
+q004,Turkish,C,C,True,,C,level 6,"Nakliye şirketi, kiraya verdiği A kamyonunun kasasının sadece orta büyüklükteki kutular kullanılarak hiç boşluk kalmayacak şekilde doldurulabileceğini belirtiyor.
+Ceren orta büyüklükteki kutunun hacminin, büyük kutunun hacminin 2/3'ü olduğunu iddia ediyor. Bu nedenle de A kamyonunu dolduracak büyük kutu sayısının, orta büyüklükteki kutu sayısının 2/3'ü kadar olacağı sonucuna ulaşıyor.
+Ceren'in ulaştığı bu sonuçla ilgili aşağıdaki ifadelerden hangisi doğrudur?","{""A"": ""Ceren'in ulaştığı bu sonuç doğrudur çünkü orta büyüklükteki kutunun yüksekliği büyük kutunun yüksekliğinin 2/3'ü kadardır."", ""B"": ""Ceren'in ulaştığı bu sonuç doğrudur çünkü orta büyüklükteki 3 kutu her zaman 2 büyük kutunun sığdığı yere sığabilir."", ""C"": ""Ceren'in ulaştığı bu sonuç yanlıştır çünkü A kamyonunun kasasının iç boyutlarından hiçbiri, büyük kutunun yüksekliği olan 0,75'in katı değildir."", ""D"": ""Ceren'in ulaştığı bu sonuç yanlıştır çünkü büyük kutunun yüksekliği, orta büyüklükteki kutunun yüksekliğinin 1,5 katıdır.""}",Claude,claude-opus-4-5-20251101,5,818,332,,medium,"Kamyon A: 4m × 2m × 2m = 16 m³
+Orta kutu: 0.5 × 0.5 × 0.5 = 0.125 m³
+Büyük kutu: 0.5 × 0.5 × 0.75 = 0.1875 m³
+
+Orta kutu hacmi / Büyük kutu hacmi = 0.125 / 0.1875 = 2/3 ✓ (Ceren'in hacim hesabı doğru)
+
+Ancak sorun şu: Büyük kutular kamyona boşluksuz sığar mı?
+- Kamyon boyutları: 4m, 2m, 2m
+- Büyük kutu: 0.5m, 0.5m, 0.75m
+
+4 ÷ 0.75 = 5.33... (tam bölünmüyor)
+2 ÷ 0.75 = 2.67... (tam bölünmüyor)
+
+Kamyonun hiçbir boyutu 0.75'in tam katı değil, bu yüzden büyük kutularla boşluksuz doldurulamaz."
+q005,Turkish,D,D,True,,D,level 2,Neptün gezegenin Güneş'e ortalama uzaklığı yaklaşık kaç milyon kilometredir?,"{""A"": ""5 milyon km"", ""B"": ""30 milyon km"", ""C"": ""180 milyon km"", ""D"": ""4500 milyon km""}",Claude,claude-opus-4-5-20251101,5,348,59,,medium,"Neptün'ün uzaklığı = 30,05 AB × 150 milyon km = 4507,5 milyon km ≈ 4500 milyon km"
+q006,Turkish,A,A,True,,A,level 5,Bu sezon için ortalama başarı marjına bakıldığında bu takımın herhangi bir maçı 19 sayı fark olmadan kazanmamış olması mümkün müdür?,"{""A"": ""Evet"", ""B"": ""Hayır""}",Claude,claude-opus-4-5-20251101,5,329,91,,medium,"Ortalama 19 demek, bazı maçlar 19'dan az, bazıları 19'dan fazla farkla kazanılmış olabilir. Örneğin bir maç 10, diğeri 28 farkla kazanılırsa ortalama yine 19 olur."
+q007,Turkish,A,A,True,,A,level 4,2005-2015 yılları arasında yüzdesinde en fazla artış olan ülke hangisidir?,"{""A"": ""Yunanistan"", ""B"": ""Ermenistan"", ""C"": ""Panama"", ""D"": ""Kazakistan""}",Claude,claude-opus-4-5-20251101,5,713,112,,medium,"2005-2015 arası değişim:
+- Yunanistan: 31,45 - 29,11 = +2,34
+- Ermenistan: 11,77 - 11,77 = 0
+- Panama: 62,11 - 64,33 = -2,22
+- Kazakistan: 1,23 - 1,24 = -0,01"
+q008,Turkish,B,B,True,,B,level 4,2005-2015 yılları arasında hangi ülkede geniş kapsamlı bir değişiklik olmamıştır?,"{""A"": ""Yunanistan"", ""B"": ""Ermenistan"", ""C"": ""Panama"", ""D"": ""Kazakistan""}",Claude,claude-opus-4-5-20251101,5,719,138,,medium,"2005-2015 arasındaki değişimlere bakayım:
+- Yunanistan: 29,11 → 31,45 = +2,34
+- Ermenistan: 11,77 → 11,77 = 0
+- Panama: 64,33 → 62,11 = -2,22
+- Kazakistan: 1,24 → 1,23 = -0,01
+
+Ermenistan'da neredeyse hiç değişim yok."
+q009,Turkish,C,C,True,,C,level 4,2005-2015 yılları arasında yüzdesinde en fazla düşüş olan ülke hangisidir?,"{""A"": ""Yunanistan"", ""B"": ""Ermenistan"", ""C"": ""Panama"", ""D"": ""Kazakistan""}",Claude,claude-opus-4-5-20251101,5,715,298,,medium,"2005-2015 arasındaki düşüşleri hesaplayayım:
+- Panama: 64,33 - 62,11 = 2,22 düşüş
+- Güney Kore: 64,42 - 63,69 = 0,73 düşüş
+- Senegal: 45,05 - 42,97 = 2,08 düşüş
+- Kolombiya: 54,26 - 52,73 = 1,53 düşüş
+- Peru: 59,01 - 57,79 = 1,22 düşüş
+- Portekiz: 36,52 - 35,25 = 1,27 düşüş
+
+Seçeneklerdeki ülkeler:
+- Yunanistan: artış var (düşüş yok)
+- Ermenistan: 11,77 - 11,77 = 0 (değişim yok)
+- Panama: 2,22 düşüş
+- Kazakistan: 1,24 - 1,23 = 0,01 düşüş"
