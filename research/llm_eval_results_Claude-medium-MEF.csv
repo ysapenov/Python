@@ -1,0 +1,1435 @@
+qid,language,pred,gold,is_correct,error,raw,difficulty,question,options_json,model_tag,model_name,cycle,input_tokens,output_tokens,reasoning_tokens,effort,summary
+q001,English Machine,C,C,True,,C,level 6,"If Tania decides to buy car D and resell it in excellent condition three years later, what will be the approximate resale price of the car in zeds?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,1,256,81,,medium,"Initial price: 10,500 zeds
+Decreases by 5% each year for 3 years
+Resale price = 10,500 × (0.95)³ = 10,500 × 0.857375 ≈ 9,002 zeds"
+q002,English Machine,C,C,True,,C,level 6,"If this sales trend continues, in what year will the number of DVDs sold fall below 1 million according to the model?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,1,221,75,,medium,"I need to find when d < 1 million.
+
+254 - 22n < 1
+253 < 22n
+n > 253/22 ≈ 11.5
+
+So n = 12 years after 2008 = 2020"
+q003,English Machine,B,B,True,,B,level 2,What is the largest number of medium-sized boxes that can fit in truck A?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,1,281,146,,medium,"Truck A: 4m × 2m × 2m = 16 cubic meters
+Medium carton: 0.5m × 0.5m × 0.5m = 0.125 cubic meters
+
+Number of boxes along each dimension:
+- Length: 4 ÷ 0.5 = 8
+- Width: 2 ÷ 0.5 = 4
+- Height: 2 ÷ 0.5 = 4
+
+Total: 8 × 4 × 4 = 128"
+q004,English Machine,C,C,True,,C,level 6,"The truck rental company confirms that truck A can be filled with only medium-sized boxes so that the entire storage compartment space is used.
+Malika states that a medium-sized box occupies 2/3 the space of a large box, and therefore concludes that the number of large boxes needed to fill truck A is equal to 2/3 the number of medium-sized boxes. Which of the following statements about Malika's conclusion is correct?","{""A"": ""She is right, because the height of a medium-sized box is equal to 2/3 that of a large box."", ""B"": ""She is right, because 3 medium-sized boxes can always fit in the same space as 2 large boxes."", ""C"": ""She is wrong, because none of the internal dimensions of the storage compartment of truck A is a multiple of 0.75, which is the height of a large box."", ""D"": ""She is wrong, because the height of a large box is equal to 1.5 times that of a medium-sized box.""}",Claude,claude-opus-4-5-20251101,1,496,346,,medium,"Let me work through this problem.
+
+Medium box: 0.5 × 0.5 × 0.5 = 0.125 m³
+Large box: 0.5 × 0.5 × 0.75 = 0.1875 m³
+
+Ratio: 0.125/0.1875 = 2/3, so Malika is correct that a medium box is 2/3 the volume of a large box.
+
+Truck A: 4 × 2 × 2 = 16 m³
+
+Number of medium boxes: 16/0.125 = 128 boxes
+
+If Malika's logic were correct, large boxes needed = 128 × (2/3) = 85.33 boxes
+
+But can we actually fill the truck with large boxes? The dimensions are 4m × 2m × 2m.
+Large box height is 0.75m. Check if 0.75 divides evenly into any truck dimension:
+- 4/0.75 = 5.33 (not integer)
+- 2/0.75 = 2.67 (not integer)
+
+None of the truck dimensions are multiples of 0.75, so large boxes cannot perfectly fill the truck.
+
+Malika's error is assuming that because volumes have a 2/3 ratio, the boxes can be proportionally substituted. But the physical dimensions matter for packing."
+q005,English Machine,D,D,True,,D,level 2,"On average, how many millions of kilometers are there between the Sun and the planet Neptune?","{""A"": ""5 million km"", ""B"": ""30 million km"", ""C"": ""180 million km"", ""D"": ""4,500 million km""}",Claude,claude-opus-4-5-20251101,1,264,66,,medium,"Neptune is 30.05 AU from the Sun. 1 AU = 150 million km.
+30.05 × 150 = 4,507.5 million km ≈ 4,500 million km"
+q006,English Machine,A,A,True,,A,level 5,"Given the average point spreads this season, is it possible that the team has never actually won a game while leading by 19 points?","{""A"": ""Yes"", ""B"": ""No""}",Claude,claude-opus-4-5-20251101,1,241,95,,medium,"The question asks if a team with an average margin of 19 points could have never won by exactly 19 points.
+
+Yes, this is easily possible. For example, they could have won some games by 18 points and others by 20 points, averaging 19. Or various other combinations that average to 19 without any individual game having a margin of exactly 19."
+q007,English Machine,A,A,True,,A,level 4,Which country experienced the largest increase in percentage points between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,1,570,128,,medium,"Looking for largest increase from 2005 to 2015:
+- Greece: 31.45 - 29.11 = 2.34
+- Armenia: 11.77 - 11.77 = 0
+- Panama: 62.11 - 64.33 = -2.22 (decrease)
+- Kazakhstan: 1.23 - 1.24 = -0.01 (decrease)
+
+Greece has the largest increase at 2.34 percentage points."
+q008,English Machine,B,B,True,,B,level 4,Which country experienced no overall change between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,1,567,59,,medium,"Looking for a country with the same value in 2005 and 2015:
+- Armenia: 11.77 in 2005 and 11.77 in 2015 - no change"
+q009,English Machine,C,C,True,,C,level 4,Which country experienced the largest decline in percentage points between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,1,570,158,,medium,"Looking for largest decline (decrease) from 2005 to 2015:
+- Panama: 64.33 - 62.11 = 2.22 decline
+- Colombia: 54.26 - 52.73 = 1.53 decline
+- South Korea: 64.42 - 63.69 = 0.73 decline
+- Peru: 59.01 - 57.79 = 1.22 decline
+- Senegal: 45.05 - 42.97 = 2.08 decline
+
+Panama has the largest decline at 2.22 percentage points."
+q010,English Machine,A,A,True,,A,level 6,"Examine the following two periods: 2005 to 2010, and 2010 to 2015. Which two countries experienced the greatest change in the percentage of their forest area, expressed as a percentage point, from one period to the other?","{""A"": [""India"", ""Colombia""], ""B"": [""India"", ""Armenia""], ""C"": [""Panama"", ""Colombia""], ""D"": [""Kazakhstan"", ""Colombia""]}",Claude,claude-opus-4-5-20251101,1,629,426,,medium,"I need to find countries with the greatest change in the rate of forest cover change between the two periods.
+
+For each country, calculate:
+- Change 2005-2010
+- Change 2010-2015
+- Difference between these two changes
+
+Let me calculate for key countries:
+
+Algeria: 0.81-0.64=0.17, 0.82-0.81=0.01, diff=|0.01-0.17|=0.16
+Germany: 0.07, 0.03, diff=0.04
+Armenia: -0.03, 0.03, diff=0.06
+Colombia: -1.41, -0.12, diff=|−0.12−(−1.41)|=1.29
+South Korea: -0.34, -0.39, diff=0.05
+India: 0.70, 0.30, diff=0.40
+Greece: 1.17, 1.17, diff=0
+Panama: -1.12, -1.10, diff=0.02
+Peru: -0.56, -0.66, diff=0.10
+
+Colombia has a large change (1.29), India has 0.40.
+
+Let me verify Colombia: 2005-2010: 52.85-54.26=-1.41, 2010-2015: 52.73-52.85=-0.12
+Change in rate: |-0.12-(-1.41)|=1.29
+
+India: 2005-2010: 23.47-22.77=0.70, 2010-2015: 23.77-23.47=0.30
+Change in rate: |0.30-0.70|=0.40
+
+These are the two largest changes."
+q011,English Machine,B,B,True,,B,level 6,"Helena claims that South Korea has a larger forest area than all other countries on this list for the years indicated.
+Does her claim match the data provided in the spreadsheet?","{""A"": ""Yes"", ""B"": ""No""}",Claude,claude-opus-4-5-20251101,1,578,111,,medium,"Helena claims South Korea has a larger forest area than all other countries. But the data shows forest cover as percentage of land area, not actual forest area. South Korea has high percentages (63-64%), but Panama (62-64%) and Peru (57-59%) and Colombia (52-54%) also have high percentages. More importantly, percentage doesn't tell us actual area - a small country with high percentage could have less forest than a large country with lower percentage."
+q012,English Machine,B,B,True,,B,level 5,What do the scientists cited in the article and Jared Diamond agree on?,"{""A"": ""Humans colonized Easter Island hundreds of years ago."", ""B"": ""The large trees disappeared from Easter Island."", ""C"": ""Polynesian rats ate the seeds of the large trees on Easter Island."", ""D"": ""Europeans arrived on Easter Island in the 18th century.""}",Claude,claude-opus-4-5-20251101,1,485,70,,medium,"The question asks what both the scientists (Lipo and Hunt) and Jared Diamond agree on. The article states that scientists ""acknowledged that the island's immense trees had disappeared by the time Europeans arrived"" - this is presented as common ground between Diamond and his critics."
+q013,English Machine,D,D,True,,D,level 4,What evidence do Carl Lipo and Terry Hunt provide to support their theory about the cause of the disappearance of the large trees on Easter Island?,"{""A"": ""The rats arrived on the island in the settlers' canoes."", ""B"": ""The rats may have been intentionally brought by the settlers."", ""C"": ""A rat population can double every 47 days."", ""D"": ""Remains of palm nuts bear rat bite marks.""}",Claude,claude-opus-4-5-20251101,1,500,65,,medium,"The question asks what evidence Lipo and Hunt provide. The passage mentions they ""present remains of palm nuts bearing rat bite marks"" as evidence. The other options are context or supporting information, but the actual evidence presented is the physical remains with bite marks."
+q014,English Machine,B,B,True,,B,level 4,"According to the blog, when did the professor begin her fieldwork?","{""A"": ""In the 1990s."", ""B"": ""Nine months ago."", ""C"": ""One year ago."", ""D"": ""At the beginning of May.""}",Claude,claude-opus-4-5-20251101,1,611,47,,medium,"The professor mentions ""I've been studying for the past nine months"" and this is her last week on the island. So she began her fieldwork nine months ago."
+q015,English Machine,A,A,True,,A,level 5,"Is the statement a fact or an opinion?
+
+In this book, the author recounts how several civilizations collapsed due to choices they made that impacted the environment.
+One of the most disturbing examples in the book is that of Easter Island.
+They carved the famous moai statues and used the natural resources at their disposal to move these immense moai to different locations on the island.
+When the first Europeans landed on Easter Island in 1722, the moai were still there, but the trees were gone.
+This well-written book deserves to be read by anyone concerned about the environment.","{""A"": [""Fact"", ""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""B"": [""Opinion"", ""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""C"": [""Fact"", ""Opinion"", ""Fact"", ""Opinion"", ""Opinion""], ""D"": [""Fact"", ""Opinion"", ""Opinion"", ""Fact"", ""Opinion""]}",Claude,claude-opus-4-5-20251101,1,656,163,,medium,"1. ""In this book, the author recounts how several civilizations collapsed..."" - This is a verifiable fact about what's in the book.
+2. ""One of the most disturbing examples..."" - ""Most disturbing"" is subjective - Opinion.
+3. ""They carved the famous moai statues and used natural resources..."" - Factual statement about what they did.
+4. ""When the first Europeans landed on Easter Island in 1722..."" - Historical fact.
+5. ""This well-written book deserves to be read..."" - ""Well-written"" and ""deserves"" are subjective - Opinion.
+
+So: Fact, Opinion, Fact, Fact, Opinion"
+q016,English Machine,B,B,True,,B,level 1b,"According to the IDFA, with which statement do leading health professionals and organizations agree?","{""A"": ""Consuming milk and milk products leads to obesity."", ""B"": ""Milk is a good source of essential vitamins and minerals."", ""C"": ""Milk contains more vitamins than minerals."", ""D"": ""Drinking milk is a leading cause of osteoporosis.""}",Claude,claude-opus-4-5-20251101,1,538,69,,medium,"The passage states that the AIPL/IDFA suggests that ""many professionals and major groups in the health sector would agree"" with the position that milk combines many essential nutrients. The passage emphasizes milk as a source of calcium, protein, vitamins, and minerals."
+q017,English Machine,D,D,True,,D,level 2,What is the main purpose of this text?,"{""A"": ""To argue that milk products increase weight loss."", ""B"": ""To compare Farm to Market Dairy milk products to other dairy products."", ""C"": ""To inform the public of the risks associated with heart disease."", ""D"": ""To support the use of Farm to Market Dairy products.""}",Claude,claude-opus-4-5-20251101,1,531,66,,medium,"This text is promotional content from the International Dairy Association about ""Dairy Farm"" products. It repeatedly emphasizes the benefits of these specific products and encourages consumption. The main purpose is clearly promotional - to support/encourage the use of Dairy Farm products."
+q018,English Machine,A,A,True,,A,level 5,"Is the statement a fact or an opinion?
+Recent studies on the health benefits of milk are surprising.
+Studies have shown that drinking milk has detrimental health effects.
+Several studies have questioned the bone-strengthening power of milk.
+Drinking milk and other dairy products is the best way to lose weight.","{""A"": [""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""B"": [""Fact"", ""Fact"", ""Opinion"", ""Opinion""], ""C"": [""Fact"", ""Opinion"", ""Fact"", ""Opinion""], ""D"": [""Opinion"", ""Opinion"", ""Fact"", ""Fact""]}",Claude,claude-opus-4-5-20251101,1,1102,155,,medium,"Let me analyze each statement:
+
+1. ""Recent studies on the health benefits of milk are surprising."" - ""Surprising"" is subjective - Opinion
+
+2. ""Studies have shown that drinking milk has detrimental health effects."" - This is verifiable; the text references the Swedish study showing negative effects - Fact
+
+3. ""Several studies have questioned the bone-strengthening power of milk."" - This is verifiable; the text mentions studies challenging this notion - Fact
+
+4. ""Drinking milk and other dairy products is the best way to lose weight."" - ""Best"" is subjective/evaluative - Opinion
+
+So: Opinion, Fact, Fact, Opinion"
+q019,English Machine,A,A,True,,A,level 3,"Could this statement represent the purpose of the article?
+To question the benefit of dairy products on general health.
+To discuss various research findings about cow’s milk.
+To point out that milk and other dairy products have not been studied.","{""A"": [""Yes"", ""Yes"", ""No""], ""B"": [""Yes"", ""No"", ""No""], ""C"": [""No"", ""Yes"", ""No""], ""D"": [""No"", ""Yes"", ""Yes""]}",Claude,claude-opus-4-5-20251101,1,725,51,,medium,"The article questions whether milk is beneficial (Yes to first), discusses research findings about milk (Yes to second), and clearly mentions multiple studies so the third statement is wrong (No to third)."
+q020,English Machine,A,A,True,,A,level 1a,"The authors of the two texts disagree on the role of milk in a regular diet.
+What is the main point the authors disagree on?","{""A"": ""Milk’s effects on health and milk’s role in human diets."", ""B"": ""The number of vitamins and minerals found in milk."", ""C"": ""The best form of dairy to regularly consume."", ""D"": ""Which organization is the leading authority on milk.""}",Claude,claude-opus-4-5-20251101,1,1043,80,,medium,"The first text promotes milk as beneficial for health (strengthens bones, prevents cancer, cardiovascular benefits, weight loss). The second text argues milk may actually cause harm (more bone fractures, heart disease, cancer risk). Both discuss milk's role in diet, but the core disagreement is about whether milk is healthy or harmful."
+q021,English Machine,A,A,True,,A,level 1,What does Isabelle_88 want to know?,"{""A"": ""Can she give aspirin to an injured hen?"", ""B"": ""How often can she give aspirin to an injured hen?"", ""C"": ""How to contact a veterinarian about an injured hen."", ""D"": ""Can she determine the pain level of an injured hen?""}",Claude,claude-opus-4-5-20251101,1,672,59,,medium,"Isabelle_88's question is clearly stated: ""Can I give aspirin to my hen?"" She wants to know if it's safe/possible to give aspirin to her injured chicken while waiting for the vet."
+q022,English Machine,C,C,True,,C,level 1,Why did Isabelle_88 decide to ask her question on an internet forum?,"{""A"": ""Because she doesn't know how to find a veterinarian."", ""B"": ""Because she thinks the hen's problem isn't serious."", ""C"": ""Because she wants to help her hen as quickly as possible."", ""D"": ""Because she can't afford to go to the veterinarian.""}",Claude,claude-opus-4-5-20251101,1,682,63,,medium,Isabelle_88 states she can't go to the vet until Monday and can't reach them by phone. She wants to relieve her hen's pain while waiting. This indicates she wants to help quickly while waiting for professional care.
+q023,English Machine,A,A,True,,A,level 2,"Is this message related to Isabelle_88's problem?
+NoemieB79's message
+Monique's message
+Promos_Aviaires' message
+Boris's message
+Frank's message","{""A"": [""Yes"", ""Yes"", ""No"", ""No"", ""Yes""], ""B"": [""Yes"", ""No"", ""No"", ""No"", ""Yes""], ""C"": [""No"", ""Yes"", ""No"", ""No"", ""Yes""], ""D"": [""Yes"", ""Yes"", ""No"", ""No"", ""No""]}",Claude,claude-opus-4-5-20251101,1,736,110,,medium,"Let me check each message:
+- NoemieB79: Discusses giving medication to birds, relevant to Isabelle's question - Yes
+- Monique: Shares experience giving aspirin to a hen - Yes
+- Promos_Aviaires: Spam about promotions - No
+- Boris: Asks unrelated question about sick hens - No
+- Frank: Directly answers with veterinary advice about aspirin dosage - Yes"
+q024,English Machine,C,C,True,,C,level 1b,Who has ever observed a positive result after giving aspirin to an injured chicken?,"{""A"": ""Isabelle_88"", ""B"": ""NoemieB79"", ""C"": ""Monique"", ""D"": ""Boris""}",Claude,claude-opus-4-5-20251101,1,645,60,,medium,"Looking for who observed a positive result after giving aspirin to an injured chicken. Monique said she gave aspirin to her injured hen and ""The next day, I went to the vet, but she was already better."""
+q025,English Machine,A,A,True,,A,level 1a,Why is Promos_Aviaires replying to Isabelle_88's message?,"{""A"": ""To promote a business."", ""B"": ""To answer Isabelle_88's question."", ""C"": ""To complement Monique's advice."", ""D"": ""To demonstrate her knowledge of birds.""}",Claude,claude-opus-4-5-20251101,1,665,53,,medium,"Promos_Aviaires's message is clearly promotional - advertising ""exceptional offers on all bird supplies"" and ""amazing promotions."" It doesn't address Isabelle's question at all."
+q001,French Machine,C,C,True,,C,level 6,"Si Tania décide d'acheter la voiture D et de la revendre après trois ans en excellent état, quel sera le prix de revente approximatif de la voiture en zeds ?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,1,292,83,,medium,"Prix initial: 10 500 zeds
+Diminution de 5% par an pendant 3 ans
+Prix après 3 ans = 10 500 × (0,95)³ = 10 500 × 0,857375 ≈ 9 002 zeds"
+q002,French Machine,C,C,True,,C,level 6,"Si cette tendance des ventes se maintient, en quelle année le nombre de DVD vendus sera-t-il inférieur à 1 million selon le modèle ?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,1,238,91,,medium,"Je dois trouver quand d < 1 million.
+254 - 22n < 1
+253 < 22n
+n > 253/22 ≈ 11.5
+
+Donc n = 12 (première année entière où d < 1)
+2008 + 12 = 2020"
+q003,French Machine,B,B,True,,B,level 2,Quel est le nombre maximal de boîtes moyennes pouvant tenir dans le camion A ?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,1,335,144,,medium,"Camion A: 4m × 2m × 2m
+Boîte moyenne: 0,5m × 0,5m × 0,5m
+
+Nombre de boîtes par dimension:
+- Longueur: 4 ÷ 0,5 = 8
+- Largeur: 2 ÷ 0,5 = 4
+- Hauteur: 2 ÷ 0,5 = 4
+
+Total: 8 × 4 × 4 = 128"
+q004,French Machine,C,C,True,,C,level 6,"La société de location des camions a confirmé que le camion A peut être rempli uniquement de cartons moyens, optimisant ainsi l'espace de chargement.
+Mara affirme qu'un carton moyen occupe les 2/3 de l'espace d'un grand carton. Elle en conclut que le nombre de grands cartons nécessaires pour remplir le camion A est égal aux 2/3 du nombre de cartons moyens.
+Laquelle des affirmations suivantes concernant la conclusion de Mara est vraie ?","{""A"": ""Elle a raison, car la hauteur d'une boîte moyenne est égale aux 2/3 de la hauteur d'une grande boîte."", ""B"": ""Elle a raison, car on peut toujours ranger 3 boîtes moyennes dans le même espace que 2 grandes boîtes."", ""C"": ""Elle a tort, car aucune des dimensions de rangement intérieur du camion A n'est un multiple de 0,75, qui est la hauteur d'une grande boîte."", ""D"": ""Elle a tort, car la hauteur d'une grande boîte est 1,5 fois supérieure à la hauteur d'une boîte moyenne.""}",Claude,claude-opus-4-5-20251101,1,622,285,,medium,"Volume camion A: 4 × 2 × 2 = 16 m³
+Volume carton moyen: 0,5 × 0,5 × 0,5 = 0,125 m³
+Volume carton grand: 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+Rapport: 0,125/0,1875 = 2/3 ✓ (Mara a raison sur ce point)
+
+Cartons moyens: 16/0,125 = 128 (et ils s'empilent parfaitement)
+
+Pour les grands cartons: hauteur 0,75 m, hauteur camion 2 m.
+2 ÷ 0,75 = 2,666... Donc on ne peut empiler que 2 grands cartons (1,5 m), perdant 0,5 m.
+
+La conclusion de Mara (128 × 2/3 ≈ 85 grands cartons) est fausse car on ne peut pas optimiser l'espace avec les grands cartons."
+q005,French Machine,D,D,True,,D,level 2,"En moyenne, à combien de millions de kilomètres environ se trouve la planète Neptune du Soleil ?","{""A"": ""5 millions de km"", ""B"": ""30 millions de km"", ""C"": ""180 millions de km"", ""D"": ""4500 millions de km""}",Claude,claude-opus-4-5-20251101,1,297,61,,medium,"Neptune est à 30,05 ua du Soleil. 1 ua = 150 millions de km.
+30,05 × 150 ≈ 4507,5 millions de km"
+q006,French Machine,A,A,True,,A,level 5,"Compte tenu de la marge de victoire moyenne de la saison, est-il possible que l'équipe n'ait jamais gagné un match par 19 points d'écart ?","{""A"": ""Oui"", ""B"": ""Non""}",Claude,claude-opus-4-5-20251101,1,306,103,,medium,"La marge de victoire moyenne est de 19 points. Cela ne signifie pas que chaque match a été gagné par exactement 19 points. Par exemple, l'équipe pourrait avoir gagné un match par 18 points et un autre par 20 points, ce qui donnerait une moyenne de 19 sans jamais gagner exactement par 19 points."
+q007,French Machine,A,A,True,,A,level 4,"En termes de points de pourcentage, quel pays a enregistré la plus forte progression entre 2005 et 2015 ?","{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,1,629,125,,medium,"Je dois calculer la différence entre 2015 et 2005 pour chaque pays mentionné dans les options:
+- Grèce: 31,45 - 29,11 = +2,34
+- Arménie: 11,77 - 11,77 = 0
+- Panama: 62,11 - 64,33 = -2,22
+- Kazakhstan: 1,23 - 1,24 = -0,01"
+q008,French Machine,B,B,True,,B. Arménie,level 4,Quel pays n'a connu aucun changement global entre 2005 et 2015 ?,"{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,1,623,106,,medium,"Je dois trouver le pays où la valeur de 2005 est égale à celle de 2015.
+
+- Arménie: 2005 = 11,77, 2015 = 11,77 → Aucun changement
+- Kazakhstan: 2005 = 1,24, 2015 = 1,23 → Changement"
+q009,French Machine,C,C,True,,C,level 4,"En termes de points de pourcentage, quel pays a subi la plus forte perte entre 2005 et 2015 ?","{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,1,629,198,,medium,"Je dois calculer la perte (différence négative) entre 2015 et 2005 pour chaque pays.
+
+Panama: 62,11 - 64,33 = -2,22 points
+Colombie: 52,73 - 54,26 = -1,53 points
+Sénégal: 42,97 - 45,05 = -2,08 points
+Pérou: 57,79 - 59,01 = -1,22 points
+
+Parmi les options données:
+- Grèce: +2,34 (gain)
+- Arménie: 0 (stable)
+- Panama: -2,22 points
+- Kazakhstan: -0,01 point
+
+Panama a la plus forte perte."
+q010,French Machine,A,A,True,,A,level 6,"Considérons les deux périodes suivantes : 2005-2010 et 2010-2015.
+En points de pourcentage, quels sont les deux pays qui ont connu la plus forte variation de leur superficie forestière entre ces deux périodes ?","{""A"": [""Inde"", ""Colombie""], ""B"": [""Inde"", ""Arménie""], ""C"": [""Panama"", ""Colombie""], ""D"": [""Kazakhstan"", ""Colombie""]}",Claude,claude-opus-4-5-20251101,1,687,418,,medium,"Je dois calculer la variation entre les deux périodes pour chaque pays.
+
+Période 1 (2005-2010): variation1 = 2010 - 2005
+Période 2 (2010-2015): variation2 = 2015 - 2010
+Différence entre périodes = |variation2 - variation1|
+
+Calculons pour quelques pays clés:
+
+- Algérie: (0.81-0.64)=0.17, (0.82-0.81)=0.01 → |0.01-0.17|=0.16
+- Arménie: (11.74-11.77)=-0.03, (11.77-11.74)=0.03 → |0.03-(-0.03)|=0.06
+- Colombie: (52.85-54.26)=-1.41, (52.73-52.85)=-0.12 → |-0.12-(-1.41)|=1.29
+- Inde: (23.47-22.77)=0.70, (23.77-23.47)=0.30 → |0.30-0.70|=0.40
+- Kazakhstan: (1.23-1.24)=-0.01, (1.23-1.23)=0 → |0-(-0.01)|=0.01
+- Panama: (63.21-64.33)=-1.12, (62.11-63.21)=-1.10 → |-1.10-(-1.12)|=0.02
+
+Les plus fortes variations: Colombie (1.29) et Inde (0.40)"
+q011,French Machine,A,B,False,,A,level 6,"Helena affirme que la Corée du Sud possède une superficie forestière plus importante que tout autre pays de cette liste pour les années indiquées.
+Ses affirmations sont-elles étayées par les données du tableau ?","{""A"": ""Oui"", ""B"": ""Non""}",Claude,claude-opus-4-5-20251101,1,636,136,,medium,"Helena affirme que la Corée du Sud a la superficie forestière la plus importante. Regardons les valeurs les plus élevées : Panama (64,33 en 2005) et Corée du Sud (64,42 en 2005). En 2005, la Corée du Sud est légèrement supérieure. En 2010 et 2015, la Corée du Sud reste la plus élevée (64,08 et 63,69 vs Panama 63,21 et 62,11)."
+q012,French Machine,B,B,True,,B,level 5,Sur quoi s'accordent les scientifiques mentionnés dans l'article et Jared Diamond ?,"{""A"": ""Les humains se sont installés à Rapa Nui il y a des centaines d'années."", ""B"": ""Les grands arbres ont disparu de Rapa Nui."", ""C"": ""Les rats polynésiens mangeaient les graines des grands arbres de Rapa Nui."", ""D"": ""Les Européens sont arrivés à Rapa Nui au XVIIIe siècle.""}",Claude,claude-opus-4-5-20251101,1,695,65,,medium,"L'article dit que les scientifiques ""s'accordaient sur le fait que les immenses arbres avaient disparu avant l'arrivée des Européens"". C'est le point d'accord mentionné explicitement."
+q013,French Machine,D,D,True,,D,level 4,Quelles preuves Carl Lipo et Terry Hunt présentent-ils pour étayer leur théorie sur la disparition des grands arbres de Rapa Nui ?,"{""A"": ""Les rats sont arrivés sur l'île à bord des canoës des colons."", ""B"": ""Les rats ont peut-être été amenés intentionnellement par les colons."", ""C"": ""Les populations de rats peuvent doubler tous les 47 jours."", ""D"": ""Les restes de noix de palme présentent des marques de rongement faites par les rats.""}",Claude,claude-opus-4-5-20251101,1,701,84,,medium,"La question demande quelles preuves Lipo et Hunt présentent pour étayer leur théorie. Le texte dit : ""Pour étayer leur théorie, Lipo et Hunt mettent en avant des restes de noix de palme portant des traces de rongement laissées par des rats."""
+q014,French Machine,B,B,True,,B,level 4,"D'après le blog, quand la professeure a-t-elle commencé son travail de terrain ?","{""A"": ""Au cours des années 1990."", ""B"": ""Il y a neuf mois."", ""C"": ""Il y a un an."", ""D"": ""Au début du mois de mai.""}",Claude,claude-opus-4-5-20251101,1,871,58,,medium,"Le blog dit ""j'ai étudiés ces neuf derniers mois"" et est publié le 23 mai. Donc elle a commencé il y a 9 mois."
+q015,French Machine,A,A,True,,A,level 5,"Cette affirmation est-elle un fait ou une opinion ?
+Dans son livre, l’auteur décrit plusieurs civilisations qui se sont effondrées en raison de leurs choix et de leur impact sur l’environnement.
+L’un des exemples les plus troublants est celui de Rapa Nui.
+Les habitants ont sculpté les moaï, ces célèbres statues, et utilisé les ressources naturelles à leur disposition pour déplacer ces immenses statues à différents endroits de l’île.
+Lorsque les premiers Européens ont débarqué à Rapa Nui en 1722, les moaï étaient toujours là, mais les arbres avaient disparu.
+Ce livre est bien écrit et mérite d’être lu par tous ceux qui se soucient de l’environnement.","{""A"": [""Fait"", ""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""B"": [""Opinion"", ""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""C"": [""Fait"", ""Opinion"", ""Fait"", ""Opinion"", ""Opinion""], ""D"": [""Fait"", ""Opinion"", ""Opinion"", ""Fait"", ""Opinion""]}",Claude,claude-opus-4-5-20251101,1,950,158,,medium,"Let me analyze each statement:
+1. ""Dans son livre, l'auteur décrit plusieurs civilisations..."" - This is a fact about what's in the book
+2. ""L'un des exemples les plus troublants..."" - ""troublants"" is subjective = Opinion
+3. ""Les habitants ont sculpté les moaï..."" - Historical fact
+4. ""Lorsque les premiers Européens ont débarqué..."" - Historical fact
+5. ""Ce livre est bien écrit et mérite..."" - ""bien écrit"" and ""mérite"" are subjective = Opinion
+
+So: Fait, Opinion, Fait, Fait, Opinion"
+q016,French Machine,B,B,True,,B,level 1b,"Selon l'IDFA, avec quelle affirmation les principaux professionnels et organisations de santé sont-ils d'accord ?","{""A"": ""La consommation de lait et de produits laitiers entraîne l'obésité."", ""B"": ""Le lait est une bonne source de vitamines et de minéraux essentiels."", ""C"": ""Le lait contient plus de vitamines que de minéraux."", ""D"": ""La consommation de lait est une cause majeure d'ostéoporose.""}",Claude,claude-opus-4-5-20251101,1,785,70,,medium,"Le texte dit que l'IDFA ""suggère que de nombreux professionnels et organismes de santé partagent cet avis"" - l'avis étant que ""le lait contient de nombreux nutriments essentiels."""
+q017,French Machine,D,D,True,,D,level 2,Quel est l'objectif principal de ce texte ?,"{""A"": ""Affirmer que les produits laitiers favorisent la perte de poids."", ""B"": ""Comparer les produits laitiers Farm to Market Dairy à d'autres produits laitiers."", ""C"": ""Informer le public des risques associés aux maladies cardiaques."", ""D"": ""Soutenir la consommation des produits laitiers Farm to Market Dairy.""}",Claude,claude-opus-4-5-20251101,1,770,69,,medium,"Ce texte vante les mérites des produits laitiers ""Farm to Market Dairy"" en énumérant leurs bienfaits nutritionnels et en citant des autorités médicales. L'objectif est clairement promotionnel."
+q018,French Machine,A,A,True,,A,level 5,"Cette affirmation est-elle un fait ou une opinion ?
+Des études récentes sur les bienfaits du lait pour la santé sont surprenantes.
+Des études ont montré que la consommation de lait a des effets néfastes sur la santé.
+Plusieurs études ont remis en question les bienfaits du lait sur les os.
+Boire du lait et d'autres produits laitiers est le meilleur moyen de perdre du poids.","{""A"": [""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""B"": [""Fait"", ""Fait"", ""Opinion"", ""Opinion""], ""C"": [""Fait"", ""Opinion"", ""Fait"", ""Opinion""], ""D"": [""Opinion"", ""Opinion"", ""Fait"", ""Fait""]}",Claude,claude-opus-4-5-20251101,1,1660,194,,medium,"Let me analyze each statement:
+
+1. ""Des études récentes sur les bienfaits du lait pour la santé sont surprenantes."" - ""Surprenantes"" is subjective = Opinion
+
+2. ""Des études ont montré que la consommation de lait a des effets néfastes sur la santé."" - This is verifiable, studies did show this = Fait
+
+3. ""Plusieurs études ont remis en question les bienfaits du lait sur les os."" - This is verifiable from the text = Fait
+
+4. ""Boire du lait et d'autres produits laitiers est le meilleur moyen de perdre du poids."" - ""Le meilleur"" is subjective = Opinion
+
+So: Opinion, Fait, Fait, Opinion = A"
+q019,French Machine,A,A,True,,A,level 3,"Cette affirmation pourrait-elle refléter l'objectif de l'article ?
+Remettre en question les bienfaits des produits laitiers sur la santé en général.
+Discuter de diverses études sur le lait de vache.
+Souligner que le lait et les autres produits laitiers n'ont pas fait l'objet d'études approfondies.","{""A"": [""Oui"", ""Oui"", ""Non""], ""B"": [""Oui"", ""Non"", ""Non""], ""C"": [""Non"", ""Oui"", ""Non""], ""D"": [""Non"", ""Oui"", ""Oui""]}",Claude,claude-opus-4-5-20251101,1,1082,97,,medium,"L'article remet en question les bienfaits du lait de vache sur la santé - OUI
+L'article discute de diverses études (étude suédoise du BMJ, PCRM) - OUI
+L'article ne dit PAS que le lait n'a pas été étudié - au contraire, il cite des études - NON"
+q020,French Machine,A,A,True,,A,level 1a,"Les auteurs des deux textes divergent quant au rôle du lait dans une alimentation équilibrée.
+Quel est le principal point de désaccord entre les auteurs ?","{""A"": ""Les effets du lait sur la santé et son rôle dans l'alimentation humaine."", ""B"": ""Le nombre de vitamines et de minéraux présents dans le lait."", ""C"": ""La meilleure forme de produits laitiers à consommer régulièrement."", ""D"": ""Quelle organisation fait autorité en matière de lait.""}",Claude,claude-opus-4-5-20251101,1,1595,109,,medium,"Le premier texte vante les bienfaits du lait (calcium, vitamines, santé des os, perte de poids, prévention du cancer). Le second texte remet en question ces bienfaits, citant des études montrant des effets négatifs (fractures, maladies cardiaques, cancers). Le désaccord principal porte sur les effets du lait sur la santé."
+q021,French Machine,A,A,True,,A,level 1,Que veut savoir Ivana_88 ?,"{""A"": ""Si elle peut donner de l'aspirine à une poule blessée."", ""B"": ""À quelle fréquence peut-elle donner de l'aspirine à une poule blessée."", ""C"": ""Comment contacter un vétérinaire au sujet d'une poule blessée."", ""D"": ""Si elle peut déterminer le niveau de douleur d'une poule blessée.""}",Claude,claude-opus-4-5-20251101,1,923,57,,medium,Ivana_88 demande clairement si elle peut donner de l'aspirine à sa poule blessée en attendant son rendez-vous chez le vétérinaire.
+q022,French Machine,C,C,True,,C,level 1,Pourquoi Ivana_88 a-t-elle décidé de poser sa question sur un forum Internet ?,"{""A"": ""Parce qu'elle ne sait pas comment trouver un vétérinaire."", ""B"": ""Parce qu'elle pense que le problème de la poule n'est pas grave."", ""C"": ""Parce qu'elle veut aider sa poule au plus vite."", ""D"": ""Parce qu'elle n'a pas les moyens d'aller chez le vétérinaire.""}",Claude,claude-opus-4-5-20251101,1,940,91,,medium,Ivana_88 explique qu'elle ne peut pas aller chez le vétérinaire avant lundi et qu'il ne répond pas au téléphone. Sa poule semble souffrir beaucoup et elle veut la soulager en attendant. Elle cherche donc une solution rapide pour aider sa poule.
+q023,French Machine,A,A,True,,A,level 2,"Ce message est-il pertinent pour le problème d'Ivana_88 ?
+Message de NellieB79
+Message de Monie
+Message d'Avian_Deals
+Message de Bob
+Message de Frank","{""A"": [""Oui"", ""Oui"", ""Non"", ""Non"", ""Oui""], ""B"": [""Oui"", ""Non"", ""Non"", ""Non"", ""Oui""], ""C"": [""Non"", ""Oui"", ""Non"", ""Non"", ""Oui""], ""D"": [""Oui"", ""Oui"", ""Non"", ""Non"", ""Non""]}",Claude,claude-opus-4-5-20251101,1,971,147,,medium,"Ivana demande si elle peut donner de l'aspirine à sa poule blessée.
+
+- NellieB79: Conseille la prudence, pertinent (Oui)
+- Monie: Partage son expérience avec l'aspirine pour poule, pertinent (Oui)
+- Avian_Deals: Publicité, non pertinent (Non)
+- Bob: Question sans rapport, non pertinent (Non)
+- Frank: Vétérinaire qui répond directement avec dosage, très pertinent (Oui)"
+q024,French Machine,C,C,True,,C,level 1b,Qui a déjà eu une expérience positive en administrant de l'aspirine à une poule blessée ?,"{""A"": ""Ivana_88"", ""B"": ""NellieB79"", ""C"": ""Monie"", ""D"": ""Bob""}",Claude,claude-opus-4-5-20251101,1,867,70,,medium,La question demande qui a eu une expérience positive en donnant de l'aspirine à une poule blessée. Monie dit avoir donné de l'aspirine à sa poule blessée et que tout s'est bien passé.
+q025,French Machine,A,A,True,,A,level 1a,Pourquoi Avian_Deals répond-il au message d'Ivana_88 ?,"{""A"": ""Pour promouvoir une entreprise."", ""B"": ""Pour répondre à la question d'Ivana_88."", ""C"": ""Pour compléter les conseils de Monie."", ""D"": ""Pour démontrer une expertise en matière d'oiseaux.""}",Claude,claude-opus-4-5-20251101,1,900,78,,medium,"Avian_Deals publie un message qui parle de ""mes offres exceptionnelles sur tous les articles pour oiseaux"" et une ""super promotion"" - c'est clairement de la publicité/promotion commerciale, sans lien avec la question d'Ivana_88."
+q001,English Machine,C,C,True,,C,level 6,"If Tania decides to buy car D and resell it in excellent condition three years later, what will be the approximate resale price of the car in zeds?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,2,256,83,,medium,"Car D price: 10,500 zeds
+Decreases by 5% each year for 3 years
+After 3 years: 10,500 × (0.95)³ = 10,500 × 0.857375 ≈ 9,002 zeds"
+q002,English Machine,C,C,True,,C,level 6,"If this sales trend continues, in what year will the number of DVDs sold fall below 1 million according to the model?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,2,221,73,,medium,"I need to find when d < 1 million.
+
+254 - 22n < 1
+253 < 22n
+n > 253/22
+n > 11.5
+
+So n = 12 years after 2008 = 2020"
+q003,English Machine,B,B,True,,B,level 2,What is the largest number of medium-sized boxes that can fit in truck A?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,2,281,146,,medium,"Truck A: 4m × 2m × 2m = 16 cubic meters
+Medium carton: 0.5m × 0.5m × 0.5m = 0.125 cubic meters
+
+Along length: 4 ÷ 0.5 = 8 boxes
+Along width: 2 ÷ 0.5 = 4 boxes
+Along height: 2 ÷ 0.5 = 4 boxes
+
+Total: 8 × 4 × 4 = 128 boxes"
+q004,English Machine,C,C,True,,C,level 6,"The truck rental company confirms that truck A can be filled with only medium-sized boxes so that the entire storage compartment space is used.
+Malika states that a medium-sized box occupies 2/3 the space of a large box, and therefore concludes that the number of large boxes needed to fill truck A is equal to 2/3 the number of medium-sized boxes. Which of the following statements about Malika's conclusion is correct?","{""A"": ""She is right, because the height of a medium-sized box is equal to 2/3 that of a large box."", ""B"": ""She is right, because 3 medium-sized boxes can always fit in the same space as 2 large boxes."", ""C"": ""She is wrong, because none of the internal dimensions of the storage compartment of truck A is a multiple of 0.75, which is the height of a large box."", ""D"": ""She is wrong, because the height of a large box is equal to 1.5 times that of a medium-sized box.""}",Claude,claude-opus-4-5-20251101,2,496,270,,medium,"Truck A: 4m × 2m × 2m = 16 cubic meters
+Medium box: 0.5 × 0.5 × 0.5 = 0.125 cubic meters
+Large box: 0.5 × 0.5 × 0.75 = 0.1875 cubic meters
+
+Medium boxes to fill truck: 16/0.125 = 128 boxes (and they fit perfectly since 4/0.5=8, 2/0.5=4, 2/0.5=4)
+
+Large boxes: The height is 0.75m. None of the truck dimensions (4, 2, 2) are multiples of 0.75.
+- 4/0.75 = 5.33...
+- 2/0.75 = 2.67...
+
+So large boxes cannot fill the truck completely with no wasted space.
+
+Malika's conclusion that large boxes needed = (2/3) × 128 ≈ 85.3 is wrong because you can't even fill the truck completely with large boxes."
+q005,English Machine,D,D,True,,D,level 2,"On average, how many millions of kilometers are there between the Sun and the planet Neptune?","{""A"": ""5 million km"", ""B"": ""30 million km"", ""C"": ""180 million km"", ""D"": ""4,500 million km""}",Claude,claude-opus-4-5-20251101,2,264,66,,medium,"Neptune is 30.05 AU from the Sun. 1 AU = 150 million km.
+30.05 × 150 = 4,507.5 million km ≈ 4,500 million km"
+q006,English Machine,A,A,True,,A,level 5,"Given the average point spreads this season, is it possible that the team has never actually won a game while leading by 19 points?","{""A"": ""Yes"", ""B"": ""No""}",Claude,claude-opus-4-5-20251101,2,241,94,,medium,"The team won every game with an average margin of 19 points. The question asks if it's possible they never won by exactly 19 points.
+
+Yes, this is possible. For example, if they played 2 games and won one by 18 points and one by 20 points, the average would be 19, but they never won by exactly 19."
+q007,English Machine,A,A,True,,A,level 4,Which country experienced the largest increase in percentage points between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,2,570,129,,medium,"Looking for the largest increase from 2005 to 2015:
+- Greece: 31.45 - 29.11 = 2.34
+- Armenia: 11.77 - 11.77 = 0
+- Panama: 62.11 - 64.33 = -2.22 (decrease)
+- Kazakhstan: 1.23 - 1.24 = -0.01 (decrease)
+
+Greece has the largest increase at 2.34 percentage points."
+q008,English Machine,B,B,True,,B,level 4,Which country experienced no overall change between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,2,567,59,,medium,"Looking for a country with the same value in 2005 and 2015:
+- Armenia: 11.77 in 2005 and 11.77 in 2015 - no change"
+q009,English Machine,C,C,True,,C,level 4,Which country experienced the largest decline in percentage points between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,2,570,178,,medium,"I need to find the country with the largest decline from 2005 to 2015.
+
+Looking at countries that declined:
+- Colombia: 54.26 - 52.73 = 1.53
+- South Korea: 64.42 - 63.69 = 0.73
+- Panama: 64.33 - 62.11 = 2.22
+- Peru: 59.01 - 57.79 = 1.22
+- Portugal: 36.52 - 35.25 = 1.27
+- Senegal: 45.05 - 42.97 = 2.08
+
+Panama has the largest decline at 2.22 percentage points."
+q010,English Machine,A,A,True,,A,level 6,"Examine the following two periods: 2005 to 2010, and 2010 to 2015. Which two countries experienced the greatest change in the percentage of their forest area, expressed as a percentage point, from one period to the other?","{""A"": [""India"", ""Colombia""], ""B"": [""India"", ""Armenia""], ""C"": [""Panama"", ""Colombia""], ""D"": [""Kazakhstan"", ""Colombia""]}",Claude,claude-opus-4-5-20251101,2,629,315,,medium,"I need to find countries where the change in forest percentage differed most between the two periods.
+
+For each country, calculate:
+- Change 2005-2010
+- Change 2010-2015
+- Difference between these changes
+
+Let me check key countries:
+
+Algeria: 0.81-0.64=0.17, 0.82-0.81=0.01, diff=0.16
+Colombia: 52.85-54.26=-1.41, 52.73-52.85=-0.12, diff=1.29
+India: 23.47-22.77=0.70, 23.77-23.47=0.30, diff=0.40
+Armenia: 11.74-11.77=-0.03, 11.77-11.74=0.03, diff=0.06
+Panama: 63.21-64.33=-1.12, 62.11-63.21=-1.10, diff=0.02
+Kazakhstan: 1.23-1.24=-0.01, 1.23-1.23=0, diff=0.01
+
+Colombia has a large difference (1.29). India has 0.40.
+
+Looking at options, A is ['India', 'Colombia'] which includes the two I identified with significant changes."
+q011,English Machine,B,B,True,,B,level 6,"Helena claims that South Korea has a larger forest area than all other countries on this list for the years indicated.
+Does her claim match the data provided in the spreadsheet?","{""A"": ""Yes"", ""B"": ""No""}",Claude,claude-opus-4-5-20251101,2,578,92,,medium,"The data shows forest cover as a percentage of total land area, not actual forest area. South Korea has a high percentage (63-64%), but percentage doesn't tell us about actual area since countries have vastly different total land areas. For example, the United States is much larger than South Korea, so even with ~34% forest cover, it would have far more total forest area."
+q012,English Machine,B,B,True,,B,level 5,What do the scientists cited in the article and Jared Diamond agree on?,"{""A"": ""Humans colonized Easter Island hundreds of years ago."", ""B"": ""The large trees disappeared from Easter Island."", ""C"": ""Polynesian rats ate the seeds of the large trees on Easter Island."", ""D"": ""Europeans arrived on Easter Island in the 18th century.""}",Claude,claude-opus-4-5-20251101,2,485,73,,medium,"The question asks what both the scientists (Lipo and Hunt) and Jared Diamond agree on. The article states they ""acknowledged that the island's immense trees had disappeared by the time Europeans arrived"" - this is what they agree on, even though they disagree about the cause."
+q013,English Machine,D,D,True,,D,level 4,What evidence do Carl Lipo and Terry Hunt provide to support their theory about the cause of the disappearance of the large trees on Easter Island?,"{""A"": ""The rats arrived on the island in the settlers' canoes."", ""B"": ""The rats may have been intentionally brought by the settlers."", ""C"": ""A rat population can double every 47 days."", ""D"": ""Remains of palm nuts bear rat bite marks.""}",Claude,claude-opus-4-5-20251101,2,500,68,,medium,"The question asks what evidence Lipo and Hunt provide. The passage mentions they ""present remains of palm nuts bearing rat bite marks"" as evidence. The other options describe how rats arrived or population growth rates, but the actual evidence presented is the physical remains showing rat damage."
+q014,English Machine,B,B,True,,B,level 4,"According to the blog, when did the professor begin her fieldwork?","{""A"": ""In the 1990s."", ""B"": ""Nine months ago."", ""C"": ""One year ago."", ""D"": ""At the beginning of May.""}",Claude,claude-opus-4-5-20251101,2,611,47,,medium,"The professor mentions ""I've been studying for the past nine months"" and this is her last week on the island. So she began her fieldwork nine months ago."
+q015,English Machine,A,A,True,,A,level 5,"Is the statement a fact or an opinion?
+
+In this book, the author recounts how several civilizations collapsed due to choices they made that impacted the environment.
+One of the most disturbing examples in the book is that of Easter Island.
+They carved the famous moai statues and used the natural resources at their disposal to move these immense moai to different locations on the island.
+When the first Europeans landed on Easter Island in 1722, the moai were still there, but the trees were gone.
+This well-written book deserves to be read by anyone concerned about the environment.","{""A"": [""Fact"", ""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""B"": [""Opinion"", ""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""C"": [""Fact"", ""Opinion"", ""Fact"", ""Opinion"", ""Opinion""], ""D"": [""Fact"", ""Opinion"", ""Opinion"", ""Fact"", ""Opinion""]}",Claude,claude-opus-4-5-20251101,2,656,230,,medium,"Let me analyze each statement:
+
+1. ""In this book, the author recounts how several civilizations collapsed due to choices they made that impacted the environment."" - This is a fact about what the book contains.
+
+2. ""One of the most disturbing examples in the book is that of Easter Island."" - ""Most disturbing"" is subjective - Opinion.
+
+3. ""They carved the famous moai statues and used the natural resources at their disposal to move these immense moai to different locations on the island."" - This is a factual claim about what happened - Fact.
+
+4. ""When the first Europeans landed on Easter Island in 1722, the moai were still there, but the trees were gone."" - This is a historical fact - Fact.
+
+5. ""This well-written book deserves to be read by anyone concerned about the environment."" - ""Well-written"" and ""deserves"" are opinions - Opinion.
+
+So: Fact, Opinion, Fact, Fact, Opinion"
+q016,English Machine,B,B,True,,B,level 1b,"According to the IDFA, with which statement do leading health professionals and organizations agree?","{""A"": ""Consuming milk and milk products leads to obesity."", ""B"": ""Milk is a good source of essential vitamins and minerals."", ""C"": ""Milk contains more vitamins than minerals."", ""D"": ""Drinking milk is a leading cause of osteoporosis.""}",Claude,claude-opus-4-5-20251101,2,538,52,,medium,The passage states that the AIPL/International Dairy Association suggests that health professionals would agree with the position that milk combines many essential nutrients and is an important source of vitamins and minerals.
+q017,English Machine,D,D,True,,D,level 2,What is the main purpose of this text?,"{""A"": ""To argue that milk products increase weight loss."", ""B"": ""To compare Farm to Market Dairy milk products to other dairy products."", ""C"": ""To inform the public of the risks associated with heart disease."", ""D"": ""To support the use of Farm to Market Dairy products.""}",Claude,claude-opus-4-5-20251101,2,531,50,,medium,"This is a promotional text from the International Dairy Association specifically promoting ""Dairy Farm"" products. It emphasizes the benefits of these products and uses health claims to support their use."
+q018,English Machine,A,A,True,,A,level 5,"Is the statement a fact or an opinion?
+Recent studies on the health benefits of milk are surprising.
+Studies have shown that drinking milk has detrimental health effects.
+Several studies have questioned the bone-strengthening power of milk.
+Drinking milk and other dairy products is the best way to lose weight.","{""A"": [""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""B"": [""Fact"", ""Fact"", ""Opinion"", ""Opinion""], ""C"": [""Fact"", ""Opinion"", ""Fact"", ""Opinion""], ""D"": [""Opinion"", ""Opinion"", ""Fact"", ""Fact""]}",Claude,claude-opus-4-5-20251101,2,1102,173,,medium,"Let me analyze each statement:
+
+1. ""Recent studies on the health benefits of milk are surprising."" - ""Surprising"" is subjective - Opinion
+
+2. ""Studies have shown that drinking milk has detrimental health effects."" - This is verifiable, the text cites specific studies (British Medical Journal, Swedish study) showing negative effects - Fact
+
+3. ""Several studies have questioned the bone-strengthening power of milk."" - This is verifiable, the text mentions studies challenging this notion - Fact
+
+4. ""Drinking milk and other dairy products is the best way to lose weight."" - ""Best"" is subjective and the text only says it ""promotes"" weight loss - Opinion
+
+So: Opinion, Fact, Fact, Opinion = A"
+q019,English Machine,A,A,True,,A,level 3,"Could this statement represent the purpose of the article?
+To question the benefit of dairy products on general health.
+To discuss various research findings about cow’s milk.
+To point out that milk and other dairy products have not been studied.","{""A"": [""Yes"", ""Yes"", ""No""], ""B"": [""Yes"", ""No"", ""No""], ""C"": [""No"", ""Yes"", ""No""], ""D"": [""No"", ""Yes"", ""Yes""]}",Claude,claude-opus-4-5-20251101,2,725,67,,medium,"The article questions whether milk is beneficial (purpose 1 - Yes), discusses various research studies about cow's milk (purpose 2 - Yes), and clearly states there have been studies, not that dairy hasn't been studied (purpose 3 - No)."
+q020,English Machine,A,A,True,,A,level 1a,"The authors of the two texts disagree on the role of milk in a regular diet.
+What is the main point the authors disagree on?","{""A"": ""Milk’s effects on health and milk’s role in human diets."", ""B"": ""The number of vitamins and minerals found in milk."", ""C"": ""The best form of dairy to regularly consume."", ""D"": ""Which organization is the leading authority on milk.""}",Claude,claude-opus-4-5-20251101,2,1043,70,,medium,"The first text promotes milk as beneficial for health (strengthens bones, prevents cancer, promotes weight loss, etc.). The second text argues milk may actually cause more bone fractures, heart disease, and cancer. The core disagreement is about whether milk is healthy/beneficial or harmful."
+q021,English Machine,A,A,True,,A,level 1,What does Isabelle_88 want to know?,"{""A"": ""Can she give aspirin to an injured hen?"", ""B"": ""How often can she give aspirin to an injured hen?"", ""C"": ""How to contact a veterinarian about an injured hen."", ""D"": ""Can she determine the pain level of an injured hen?""}",Claude,claude-opus-4-5-20251101,2,672,55,,medium,"Isabelle_88's question is clearly stated in her post: ""Can I give aspirin to my hen?"" She wants to know if it's safe/possible to give aspirin to her chicken."
+q022,English Machine,C,C,True,,C,level 1,Why did Isabelle_88 decide to ask her question on an internet forum?,"{""A"": ""Because she doesn't know how to find a veterinarian."", ""B"": ""Because she thinks the hen's problem isn't serious."", ""C"": ""Because she wants to help her hen as quickly as possible."", ""D"": ""Because she can't afford to go to the veterinarian.""}",Claude,claude-opus-4-5-20251101,2,682,63,,medium,Isabelle_88 explains she can't go to the vet until Monday and can't reach them by phone. She wants to give her hen something for pain relief while waiting. This indicates she wants a quick solution to help her hen.
+q023,English Machine,A,A,True,,A,level 2,"Is this message related to Isabelle_88's problem?
+NoemieB79's message
+Monique's message
+Promos_Aviaires' message
+Boris's message
+Frank's message","{""A"": [""Yes"", ""Yes"", ""No"", ""No"", ""Yes""], ""B"": [""Yes"", ""No"", ""No"", ""No"", ""Yes""], ""C"": [""No"", ""Yes"", ""No"", ""No"", ""Yes""], ""D"": [""Yes"", ""Yes"", ""No"", ""No"", ""No""]}",Claude,claude-opus-4-5-20251101,2,736,145,,medium,"Let me check each message's relevance to Isabelle_88's problem (giving aspirin to an injured hen):
+
+- NoemieB79: Discusses medication safety for chickens - Yes, related
+- Monique: Shares experience giving aspirin to a hen - Yes, related
+- Promos_Aviaires: Advertising bird supplies - No, not related
+- Boris: Asks about sick hens (different topic) - No, not related
+- Frank: Directly answers about aspirin dosage for hens - Yes, related
+
+So: Yes, Yes, No, No, Yes"
+q024,English Machine,C,C,True,,C,level 1b,Who has ever observed a positive result after giving aspirin to an injured chicken?,"{""A"": ""Isabelle_88"", ""B"": ""NoemieB79"", ""C"": ""Monique"", ""D"": ""Boris""}",Claude,claude-opus-4-5-20251101,2,645,67,,medium,"Looking through the posts, Monique states ""I already gave one of my injured hens an aspirin tablet. There was no problem. The next day, I went to the vet, but she was already better."" This indicates she observed a positive result."
+q025,English Machine,A,A,True,,A,level 1a,Why is Promos_Aviaires replying to Isabelle_88's message?,"{""A"": ""To promote a business."", ""B"": ""To answer Isabelle_88's question."", ""C"": ""To complement Monique's advice."", ""D"": ""To demonstrate her knowledge of birds.""}",Claude,claude-opus-4-5-20251101,2,665,56,,medium,"Promos_Aviaires' post is clearly promotional - talking about ""exceptional offers"" and ""amazing promotions"" on bird supplies, which is unrelated to the question about aspirin for chickens."
+q001,French Machine,C,C,True,,C,level 6,"Si Tania décide d'acheter la voiture D et de la revendre après trois ans en excellent état, quel sera le prix de revente approximatif de la voiture en zeds ?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,2,292,83,,medium,"Prix initial: 10 500 zeds
+Diminution de 5% par an pendant 3 ans
+Prix après 3 ans = 10 500 × (0,95)³ = 10 500 × 0,857375 ≈ 9 002 zeds"
+q002,French Machine,C,C,True,,C,level 6,"Si cette tendance des ventes se maintient, en quelle année le nombre de DVD vendus sera-t-il inférieur à 1 million selon le modèle ?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,2,238,95,,medium,"Je dois trouver quand d < 1 million.
+
+254 - 22n < 1
+253 < 22n
+n > 253/22 ≈ 11.5
+
+Donc n = 12 (première année entière où d < 1)
+
+Année = 2008 + 12 = 2020"
+q003,French Machine,B,B,True,,B,level 2,Quel est le nombre maximal de boîtes moyennes pouvant tenir dans le camion A ?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,2,335,144,,medium,"Camion A: 4m × 2m × 2m
+Boîte moyenne: 0,5m × 0,5m × 0,5m
+
+Nombre de boîtes par dimension:
+- Longueur: 4 ÷ 0,5 = 8
+- Largeur: 2 ÷ 0,5 = 4
+- Hauteur: 2 ÷ 0,5 = 4
+
+Total: 8 × 4 × 4 = 128"
+q004,French Machine,C,C,True,,C,level 6,"La société de location des camions a confirmé que le camion A peut être rempli uniquement de cartons moyens, optimisant ainsi l'espace de chargement.
+Mara affirme qu'un carton moyen occupe les 2/3 de l'espace d'un grand carton. Elle en conclut que le nombre de grands cartons nécessaires pour remplir le camion A est égal aux 2/3 du nombre de cartons moyens.
+Laquelle des affirmations suivantes concernant la conclusion de Mara est vraie ?","{""A"": ""Elle a raison, car la hauteur d'une boîte moyenne est égale aux 2/3 de la hauteur d'une grande boîte."", ""B"": ""Elle a raison, car on peut toujours ranger 3 boîtes moyennes dans le même espace que 2 grandes boîtes."", ""C"": ""Elle a tort, car aucune des dimensions de rangement intérieur du camion A n'est un multiple de 0,75, qui est la hauteur d'une grande boîte."", ""D"": ""Elle a tort, car la hauteur d'une grande boîte est 1,5 fois supérieure à la hauteur d'une boîte moyenne.""}",Claude,claude-opus-4-5-20251101,2,622,230,,medium,"Volume carton moyen: 0,5 × 0,5 × 0,5 = 0,125 m³
+Volume grand carton: 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+Le ratio est bien 0,125/0,1875 = 2/3, donc Mara a raison sur ce point.
+
+Mais pour remplir le camion (4m × 2m × 2m):
+- Hauteur 2m : 2/0,75 = 2,67 → on ne peut mettre que 2 grands cartons en hauteur (1,5m), laissant 0,5m inutilisé.
+
+La hauteur du camion (2m) n'est pas un multiple de 0,75m, donc l'espace ne peut pas être optimisé avec les grands cartons."
+q005,French Machine,D,D,True,,D,level 2,"En moyenne, à combien de millions de kilomètres environ se trouve la planète Neptune du Soleil ?","{""A"": ""5 millions de km"", ""B"": ""30 millions de km"", ""C"": ""180 millions de km"", ""D"": ""4500 millions de km""}",Claude,claude-opus-4-5-20251101,2,297,61,,medium,"Neptune est à 30,05 ua du Soleil. 1 ua = 150 millions de km.
+30,05 × 150 ≈ 4507,5 millions de km"
+q006,French Machine,A,A,True,,A,level 5,"Compte tenu de la marge de victoire moyenne de la saison, est-il possible que l'équipe n'ait jamais gagné un match par 19 points d'écart ?","{""A"": ""Oui"", ""B"": ""Non""}",Claude,claude-opus-4-5-20251101,2,306,127,,medium,"La question demande si une équipe avec une marge de victoire moyenne de 19 points pourrait n'avoir jamais gagné exactement par 19 points.
+
+Oui, c'est possible. Par exemple, si l'équipe a joué 2 matchs et gagné l'un par 18 points et l'autre par 20 points, la moyenne serait (18+20)/2 = 19, sans jamais avoir gagné par exactement 19 points."
+q007,French Machine,A,A,True,,A,level 4,"En termes de points de pourcentage, quel pays a enregistré la plus forte progression entre 2005 et 2015 ?","{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,2,629,147,,medium,"Je dois calculer la progression entre 2005 et 2015 pour chaque pays mentionné dans les options.
+
+- Grèce: 31,45 - 29,11 = +2,34
+- Arménie: 11,77 - 11,77 = 0
+- Panama: 62,11 - 64,33 = -2,22
+- Kazakhstan: 1,23 - 1,24 = -0,01
+
+La Grèce a la plus forte progression avec +2,34 points de pourcentage."
+q008,French Machine,B,B,True,,B,level 4,Quel pays n'a connu aucun changement global entre 2005 et 2015 ?,"{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,2,623,63,,medium,"Je cherche le pays où la valeur 2015 = valeur 2005.
+- Arménie: 2005 = 11,77, 2015 = 11,77 ✓"
+q009,French Machine,C,C,True,,C,level 4,"En termes de points de pourcentage, quel pays a subi la plus forte perte entre 2005 et 2015 ?","{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,2,629,216,,medium,"Je dois trouver le pays avec la plus forte perte (diminution) entre 2005 et 2015.
+
+Calculons les différences (2015 - 2005) pour les pays qui ont perdu :
+- Colombie: 52,73 - 54,26 = -1,53
+- Panama: 62,11 - 64,33 = -2,22
+- Pérou: 57,79 - 59,01 = -1,22
+- Portugal: 35,25 - 36,52 = -1,27
+- Sénégal: 42,97 - 45,05 = -2,08
+- Corée du Sud: 63,69 - 64,42 = -0,73
+
+Panama a la plus forte perte avec -2,22 points de pourcentage."
+q010,French Machine,A,A,True,,A,level 6,"Considérons les deux périodes suivantes : 2005-2010 et 2010-2015.
+En points de pourcentage, quels sont les deux pays qui ont connu la plus forte variation de leur superficie forestière entre ces deux périodes ?","{""A"": [""Inde"", ""Colombie""], ""B"": [""Inde"", ""Arménie""], ""C"": [""Panama"", ""Colombie""], ""D"": [""Kazakhstan"", ""Colombie""]}",Claude,claude-opus-4-5-20251101,2,687,330,,medium,"Je dois calculer la variation de la superficie forestière entre les deux périodes pour chaque pays.
+
+Période 1 (2005-2010): variation1 = 2010 - 2005
+Période 2 (2010-2015): variation2 = 2015 - 2010
+Différence entre périodes = |variation2 - variation1|
+
+Calculons pour quelques pays clés:
+
+- Algérie: v1=0.17, v2=0.01, diff=0.16
+- Arménie: v1=-0.03, v2=0.03, diff=0.06
+- Colombie: v1=-1.41, v2=-0.12, diff=1.29
+- Inde: v1=0.70, v2=0.30, diff=0.40
+- Kazakhstan: v1=-0.01, v2=0, diff=0.01
+- Panama: v1=-1.12, v2=-1.10, diff=0.02
+
+La Colombie a une forte variation (1.29).
+L'Inde a 0.40.
+
+Vérifions Panama: v1=-1.12, v2=-1.10, diff=0.02
+
+La Colombie et l'Inde semblent avoir les plus fortes variations."
+q011,French Machine,B,B,True,,B,level 6,"Helena affirme que la Corée du Sud possède une superficie forestière plus importante que tout autre pays de cette liste pour les années indiquées.
+Ses affirmations sont-elles étayées par les données du tableau ?","{""A"": ""Oui"", ""B"": ""Non""}",Claude,claude-opus-4-5-20251101,2,636,231,,medium,"Helena affirme que la Corée du Sud a la plus grande superficie forestière. Regardons les pourcentages les plus élevés pour chaque année:
+- 2005: Panama (64,33) > Corée du Sud (64,42) - en fait Corée du Sud est légèrement plus élevé
+- 2010: Corée du Sud (64,08) vs Panama (63,21) - Corée du Sud plus élevé
+- 2015: Corée du Sud (63,69) vs Panama (62,11) - Corée du Sud plus élevé
+
+Mais attention, le tableau montre des pourcentages, pas des superficies absolues. La Corée du Sud a le pourcentage le plus élevé, mais pas nécessairement la superficie forestière la plus grande en valeur absolue (les États-Unis ou le Pérou ont des superficies totales bien plus grandes)."
+q012,French Machine,B,B,True,,B,level 5,Sur quoi s'accordent les scientifiques mentionnés dans l'article et Jared Diamond ?,"{""A"": ""Les humains se sont installés à Rapa Nui il y a des centaines d'années."", ""B"": ""Les grands arbres ont disparu de Rapa Nui."", ""C"": ""Les rats polynésiens mangeaient les graines des grands arbres de Rapa Nui."", ""D"": ""Les Européens sont arrivés à Rapa Nui au XVIIIe siècle.""}",Claude,claude-opus-4-5-20251101,2,695,105,,medium,"L'article dit que les scientifiques ""s'accordaient sur le fait que les immenses arbres avaient disparu avant l'arrivée des Européens sur l'île au XVIIIe siècle, mais ils contestaient l'explication de Jared Diamond quant à la cause de cette disparition.""
+
+Donc le point d'accord est la disparition des grands arbres."
+q013,French Machine,D,D,True,,D,level 4,Quelles preuves Carl Lipo et Terry Hunt présentent-ils pour étayer leur théorie sur la disparition des grands arbres de Rapa Nui ?,"{""A"": ""Les rats sont arrivés sur l'île à bord des canoës des colons."", ""B"": ""Les rats ont peut-être été amenés intentionnellement par les colons."", ""C"": ""Les populations de rats peuvent doubler tous les 47 jours."", ""D"": ""Les restes de noix de palme présentent des marques de rongement faites par les rats.""}",Claude,claude-opus-4-5-20251101,2,701,78,,medium,"La question demande quelles preuves Lipo et Hunt présentent. Le texte dit : ""Pour étayer leur théorie, Lipo et Hunt mettent en avant des restes de noix de palme portant des traces de rongement laissées par des rats."""
+q014,French Machine,B,B,True,,B,level 4,"D'après le blog, quand la professeure a-t-elle commencé son travail de terrain ?","{""A"": ""Au cours des années 1990."", ""B"": ""Il y a neuf mois."", ""C"": ""Il y a un an."", ""D"": ""Au début du mois de mai.""}",Claude,claude-opus-4-5-20251101,2,871,64,,medium,"The blog post mentions ""ces neuf derniers mois"" (these last nine months) of studying the moai. The post is dated May 23rd, so nine months ago would be around late August/early September of the previous year."
+q015,French Machine,A,A,True,,A,level 5,"Cette affirmation est-elle un fait ou une opinion ?
+Dans son livre, l’auteur décrit plusieurs civilisations qui se sont effondrées en raison de leurs choix et de leur impact sur l’environnement.
+L’un des exemples les plus troublants est celui de Rapa Nui.
+Les habitants ont sculpté les moaï, ces célèbres statues, et utilisé les ressources naturelles à leur disposition pour déplacer ces immenses statues à différents endroits de l’île.
+Lorsque les premiers Européens ont débarqué à Rapa Nui en 1722, les moaï étaient toujours là, mais les arbres avaient disparu.
+Ce livre est bien écrit et mérite d’être lu par tous ceux qui se soucient de l’environnement.","{""A"": [""Fait"", ""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""B"": [""Opinion"", ""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""C"": [""Fait"", ""Opinion"", ""Fait"", ""Opinion"", ""Opinion""], ""D"": [""Fait"", ""Opinion"", ""Opinion"", ""Fait"", ""Opinion""]}",Claude,claude-opus-4-5-20251101,2,950,217,,medium,"Let me analyze each statement:
+
+1. ""Dans son livre, l'auteur décrit plusieurs civilisations qui se sont effondrées..."" - This is a fact about what the book contains.
+
+2. ""L'un des exemples les plus troublants est celui de Rapa Nui"" - ""les plus troublants"" is a subjective judgment - Opinion.
+
+3. ""Les habitants ont sculpté les moaï... pour déplacer ces immenses statues"" - This is a factual description of what happened - Fait.
+
+4. ""Lorsque les premiers Européens ont débarqué à Rapa Nui en 1722..."" - This is a historical fact - Fait.
+
+5. ""Ce livre est bien écrit et mérite d'être lu..."" - This is clearly the reviewer's opinion - Opinion.
+
+So: Fait, Opinion, Fait, Fait, Opinion"
+q016,French Machine,B,B,True,,B,level 1b,"Selon l'IDFA, avec quelle affirmation les principaux professionnels et organisations de santé sont-ils d'accord ?","{""A"": ""La consommation de lait et de produits laitiers entraîne l'obésité."", ""B"": ""Le lait est une bonne source de vitamines et de minéraux essentiels."", ""C"": ""Le lait contient plus de vitamines que de minéraux."", ""D"": ""La consommation de lait est une cause majeure d'ostéoporose.""}",Claude,claude-opus-4-5-20251101,2,785,110,,medium,"Le texte indique que selon l'IDFA, ""de nombreux professionnels et organismes de santé"" sont d'accord avec l'idée que ""le lait contient de nombreux nutriments essentiels"" et que les produits laitiers sont ""une excellente source de calcium et de vitamine D"" ainsi qu'une ""bonne source de vitamine A, de protéines et de potassium."""
+q017,French Machine,D,D,True,,D,level 2,Quel est l'objectif principal de ce texte ?,"{""A"": ""Affirmer que les produits laitiers favorisent la perte de poids."", ""B"": ""Comparer les produits laitiers Farm to Market Dairy à d'autres produits laitiers."", ""C"": ""Informer le public des risques associés aux maladies cardiaques."", ""D"": ""Soutenir la consommation des produits laitiers Farm to Market Dairy.""}",Claude,claude-opus-4-5-20251101,2,770,76,,medium,"Ce texte est clairement promotionnel pour les produits laitiers ""Farm to Market Dairy"". Il vante leurs bienfaits nutritionnels, cite des experts et organisations pour appuyer ces affirmations, et encourage la consommation quotidienne de ces produits."
+q018,French Machine,A,A,True,,A,level 5,"Cette affirmation est-elle un fait ou une opinion ?
+Des études récentes sur les bienfaits du lait pour la santé sont surprenantes.
+Des études ont montré que la consommation de lait a des effets néfastes sur la santé.
+Plusieurs études ont remis en question les bienfaits du lait sur les os.
+Boire du lait et d'autres produits laitiers est le meilleur moyen de perdre du poids.","{""A"": [""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""B"": [""Fait"", ""Fait"", ""Opinion"", ""Opinion""], ""C"": [""Fait"", ""Opinion"", ""Fait"", ""Opinion""], ""D"": [""Opinion"", ""Opinion"", ""Fait"", ""Fait""]}",Claude,claude-opus-4-5-20251101,2,1660,192,,medium,"Let me analyze each statement:
+
+1. ""Des études récentes sur les bienfaits du lait pour la santé sont surprenantes"" - ""Surprising"" is subjective = Opinion
+
+2. ""Des études ont montré que la consommation de lait a des effets néfastes sur la santé"" - This is verifiable, studies did show this = Fait
+
+3. ""Plusieurs études ont remis en question les bienfaits du lait sur les os"" - This is verifiable, mentioned in the text = Fait
+
+4. ""Boire du lait et d'autres produits laitiers est le meilleur moyen de perdre du poids"" - ""Best way"" is subjective = Opinion
+
+So: Opinion, Fait, Fait, Opinion = A"
+q019,French Machine,A,A,True,,A,level 3,"Cette affirmation pourrait-elle refléter l'objectif de l'article ?
+Remettre en question les bienfaits des produits laitiers sur la santé en général.
+Discuter de diverses études sur le lait de vache.
+Souligner que le lait et les autres produits laitiers n'ont pas fait l'objet d'études approfondies.","{""A"": [""Oui"", ""Oui"", ""Non""], ""B"": [""Oui"", ""Non"", ""Non""], ""C"": [""Non"", ""Oui"", ""Non""], ""D"": [""Non"", ""Oui"", ""Oui""]}",Claude,claude-opus-4-5-20251101,2,1082,147,,medium,"L'article vise à remettre en question les bienfaits du lait de vache sur la santé, en citant plusieurs études. Il discute effectivement de diverses études (étude suédoise, PCRM). Il ne suggère PAS que le lait n'a pas fait l'objet d'études - au contraire, il cite plusieurs études.
+
+1. Remettre en question les bienfaits - OUI
+2. Discuter de diverses études - OUI
+3. Souligner que pas d'études approfondies - NON"
+q020,French Machine,A,A,True,,A,level 1a,"Les auteurs des deux textes divergent quant au rôle du lait dans une alimentation équilibrée.
+Quel est le principal point de désaccord entre les auteurs ?","{""A"": ""Les effets du lait sur la santé et son rôle dans l'alimentation humaine."", ""B"": ""Le nombre de vitamines et de minéraux présents dans le lait."", ""C"": ""La meilleure forme de produits laitiers à consommer régulièrement."", ""D"": ""Quelle organisation fait autorité en matière de lait.""}",Claude,claude-opus-4-5-20251101,2,1595,103,,medium,"Le premier texte vante les bienfaits du lait (calcium, vitamines, santé osseuse, prévention du cancer, etc.). Le second texte remet en question ces bienfaits, citant des études montrant des risques (fractures, maladies cardiaques, cancer). Le désaccord principal porte donc sur les effets du lait sur la santé."
+q021,French Machine,A,A,True,,A,level 1,Que veut savoir Ivana_88 ?,"{""A"": ""Si elle peut donner de l'aspirine à une poule blessée."", ""B"": ""À quelle fréquence peut-elle donner de l'aspirine à une poule blessée."", ""C"": ""Comment contacter un vétérinaire au sujet d'une poule blessée."", ""D"": ""Si elle peut déterminer le niveau de douleur d'une poule blessée.""}",Claude,claude-opus-4-5-20251101,2,923,54,,medium,Ivana_88 demande si elle peut donner de l'aspirine à sa poule blessée en attendant d'aller chez le vétérinaire.
+q022,French Machine,C,C,True,,C,level 1,Pourquoi Ivana_88 a-t-elle décidé de poser sa question sur un forum Internet ?,"{""A"": ""Parce qu'elle ne sait pas comment trouver un vétérinaire."", ""B"": ""Parce qu'elle pense que le problème de la poule n'est pas grave."", ""C"": ""Parce qu'elle veut aider sa poule au plus vite."", ""D"": ""Parce qu'elle n'a pas les moyens d'aller chez le vétérinaire.""}",Claude,claude-opus-4-5-20251101,2,940,98,,medium,"Ivana_88 explique qu'elle ne peut pas aller chez le vétérinaire avant lundi et qu'il ne répond pas au téléphone. Sa poule semble souffrir beaucoup et elle veut la soulager ""en attendant"" son rendez-vous. Elle cherche donc une solution rapide pour aider sa poule."
+q023,French Machine,A,A,True,,A,level 2,"Ce message est-il pertinent pour le problème d'Ivana_88 ?
+Message de NellieB79
+Message de Monie
+Message d'Avian_Deals
+Message de Bob
+Message de Frank","{""A"": [""Oui"", ""Oui"", ""Non"", ""Non"", ""Oui""], ""B"": [""Oui"", ""Non"", ""Non"", ""Non"", ""Oui""], ""C"": [""Non"", ""Oui"", ""Non"", ""Non"", ""Oui""], ""D"": [""Oui"", ""Oui"", ""Non"", ""Non"", ""Non""]}",Claude,claude-opus-4-5-20251101,2,971,168,,medium,"Ivana demande si elle peut donner de l'aspirine à sa poule blessée.
+
+- NellieB79: Pertinent - parle de demander au vétérinaire avant de donner des médicaments aux volailles
+- Monie: Pertinent - partage son expérience d'avoir donné de l'aspirine à sa poule
+- Avian_Deals: Non pertinent - publicité pour des produits
+- Bob: Non pertinent - pose sa propre question sans rapport
+- Frank: Pertinent - vétérinaire qui donne des conseils spécifiques sur le dosage d'aspirine pour poules"
+q024,French Machine,C,C,True,,C,level 1b,Qui a déjà eu une expérience positive en administrant de l'aspirine à une poule blessée ?,"{""A"": ""Ivana_88"", ""B"": ""NellieB79"", ""C"": ""Monie"", ""D"": ""Bob""}",Claude,claude-opus-4-5-20251101,2,867,89,,medium,"La question demande qui a eu une expérience positive en donnant de l'aspirine à une poule blessée. En lisant les messages, Monie dit : ""J'ai donné de l'aspirine à une de mes poules qui s'était blessée. Il n'y a eu aucun problème."""
+q025,French Machine,A,A,True,,A,level 1a,Pourquoi Avian_Deals répond-il au message d'Ivana_88 ?,"{""A"": ""Pour promouvoir une entreprise."", ""B"": ""Pour répondre à la question d'Ivana_88."", ""C"": ""Pour compléter les conseils de Monie."", ""D"": ""Pour démontrer une expertise en matière d'oiseaux.""}",Claude,claude-opus-4-5-20251101,2,900,59,,medium,"Avian_Deals répond pour promouvoir ses offres sur les articles pour oiseaux, sans rapport avec la question d'Ivana_88 sur l'aspirine pour sa poule."
+q001,English Machine,C,C,True,,C,level 6,"If Tania decides to buy car D and resell it in excellent condition three years later, what will be the approximate resale price of the car in zeds?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,3,256,79,,medium,"The car loses 5% of its value each year, meaning it retains 95% of its value each year.
+
+After 3 years: 10,500 × (0.95)³ = 10,500 × 0.857375 ≈ 9,002"
+q002,English Machine,C,C,True,,C,level 6,"If this sales trend continues, in what year will the number of DVDs sold fall below 1 million according to the model?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,3,221,75,,medium,"Need to find when d < 1.
+254 - 22n < 1
+253 < 22n
+n > 11.5
+
+So n = 12 (first whole year where d < 1)
+2008 + 12 = 2020"
+q003,English Machine,B,B,True,,B,level 2,What is the largest number of medium-sized boxes that can fit in truck A?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,3,281,133,,medium,"Truck A dimensions: 4m × 2m × 2m
+Medium carton: 0.5m × 0.5m × 0.5m
+
+Number of boxes along each dimension:
+- Length: 4 ÷ 0.5 = 8
+- Width: 2 ÷ 0.5 = 4
+- Height: 2 ÷ 0.5 = 4
+
+Total: 8 × 4 × 4 = 128"
+q004,English Machine,C,C,True,,C,level 6,"The truck rental company confirms that truck A can be filled with only medium-sized boxes so that the entire storage compartment space is used.
+Malika states that a medium-sized box occupies 2/3 the space of a large box, and therefore concludes that the number of large boxes needed to fill truck A is equal to 2/3 the number of medium-sized boxes. Which of the following statements about Malika's conclusion is correct?","{""A"": ""She is right, because the height of a medium-sized box is equal to 2/3 that of a large box."", ""B"": ""She is right, because 3 medium-sized boxes can always fit in the same space as 2 large boxes."", ""C"": ""She is wrong, because none of the internal dimensions of the storage compartment of truck A is a multiple of 0.75, which is the height of a large box."", ""D"": ""She is wrong, because the height of a large box is equal to 1.5 times that of a medium-sized box.""}",Claude,claude-opus-4-5-20251101,3,496,258,,medium,"Truck A: 4m × 2m × 2m = 16 cubic meters
+Medium box: 0.5 × 0.5 × 0.5 = 0.125 cubic meters
+Large box: 0.5 × 0.5 × 0.75 = 0.1875 cubic meters
+
+Medium boxes to fill truck: 16/0.125 = 128 boxes
+
+Malika says medium is 2/3 of large: 0.125/0.1875 = 2/3 ✓ (this ratio is correct)
+
+But can large boxes actually fill the truck? The height of large boxes is 0.75m. The truck dimensions are 4m, 2m, 2m. 
+- 4/0.75 = 5.33... (not a whole number)
+- 2/0.75 = 2.67... (not a whole number)
+
+So large boxes cannot perfectly fill the truck because 0.75 doesn't divide evenly into any dimension."
+q005,English Machine,D,D,True,,D,level 2,"On average, how many millions of kilometers are there between the Sun and the planet Neptune?","{""A"": ""5 million km"", ""B"": ""30 million km"", ""C"": ""180 million km"", ""D"": ""4,500 million km""}",Claude,claude-opus-4-5-20251101,3,264,66,,medium,"Neptune is 30.05 AU from the Sun. 1 AU = 150 million km.
+30.05 × 150 = 4,507.5 million km ≈ 4,500 million km"
+q006,English Machine,A,A,True,,A,level 5,"Given the average point spreads this season, is it possible that the team has never actually won a game while leading by 19 points?","{""A"": ""Yes"", ""B"": ""No""}",Claude,claude-opus-4-5-20251101,3,241,101,,medium,"The team won every game with an average margin of 19 points. The question is whether they could have never won by exactly 19 points.
+
+Yes, this is possible. For example, they could have won some games by 18 points and others by 20 points, averaging to 19. Or various other combinations that average to 19 without any single game having exactly a 19-point margin."
+q007,English Machine,A,A,True,,A,level 4,Which country experienced the largest increase in percentage points between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,3,570,129,,medium,"Looking for the largest increase from 2005 to 2015:
+- Greece: 31.45 - 29.11 = 2.34
+- Armenia: 11.77 - 11.77 = 0
+- Panama: 62.11 - 64.33 = -2.22 (decrease)
+- Kazakhstan: 1.23 - 1.24 = -0.01 (decrease)
+
+Greece has the largest increase at 2.34 percentage points."
+q008,English Machine,B,B,True,,B,level 4,Which country experienced no overall change between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,3,567,58,,medium,"Looking for a country with the same value in 2005 and 2015:
+- Armenia: 2005 = 11.77, 2015 = 11.77 ✓"
+q009,English Machine,C,C,True,,C,level 4,Which country experienced the largest decline in percentage points between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,3,570,148,,medium,"Looking for the largest decline (decrease) from 2005 to 2015:
+- Panama: 64.33 - 62.11 = -2.22
+- Senegal: 45.05 - 42.97 = -2.08
+- Colombia: 54.26 - 52.73 = -1.53
+- Peru: 59.01 - 57.79 = -1.22
+- Portugal: 36.52 - 35.25 = -1.27
+
+Panama has the largest decline at 2.22 percentage points."
+q010,English Machine,A,A,True,,A,level 6,"Examine the following two periods: 2005 to 2010, and 2010 to 2015. Which two countries experienced the greatest change in the percentage of their forest area, expressed as a percentage point, from one period to the other?","{""A"": [""India"", ""Colombia""], ""B"": [""India"", ""Armenia""], ""C"": [""Panama"", ""Colombia""], ""D"": [""Kazakhstan"", ""Colombia""]}",Claude,claude-opus-4-5-20251101,3,629,266,,medium,"I need to find countries with the greatest change in rate between the two periods.
+
+For each country, calculate:
+- Change 2005-2010
+- Change 2010-2015
+- Difference between these changes
+
+Key ones:
+- India: 2005-2010: +0.70, 2010-2015: +0.30, diff = 0.40
+- Colombia: 2005-2010: -1.41, 2010-2015: -0.12, diff = 1.29
+- Armenia: 2005-2010: -0.03, 2010-2015: +0.03, diff = 0.06
+- Panama: 2005-2010: -1.12, 2010-2015: -1.10, diff = 0.02
+- Kazakhstan: 2005-2010: -0.01, 2010-2015: 0, diff = 0.01
+
+Colombia has a large change (1.29). India has 0.40.
+
+Looking at the options, India and Colombia appear together in option A."
+q011,English Machine,B,B,True,,B,level 6,"Helena claims that South Korea has a larger forest area than all other countries on this list for the years indicated.
+Does her claim match the data provided in the spreadsheet?","{""A"": ""Yes"", ""B"": ""No""}",Claude,claude-opus-4-5-20251101,3,578,175,,medium,"Helena claims South Korea has a larger forest area than all other countries. But the data shows forest cover as a percentage of land area, not total forest area. Panama (62-64%) and Peru (57-59%) have similar or comparable percentages to South Korea (63-64%), and Colombia (52-54%) is also high. However, percentage doesn't equal area - we'd need to know the total land area of each country to determine actual forest area.
+
+But even just looking at percentages, South Korea doesn't have the highest - Panama has similar percentages around 62-64% range, comparable to South Korea's 63-64%.
+
+The claim is about ""forest area"" but we only have percentage data, not actual area. This is a key distinction."
+q012,English Machine,B,B,True,,B,level 5,What do the scientists cited in the article and Jared Diamond agree on?,"{""A"": ""Humans colonized Easter Island hundreds of years ago."", ""B"": ""The large trees disappeared from Easter Island."", ""C"": ""Polynesian rats ate the seeds of the large trees on Easter Island."", ""D"": ""Europeans arrived on Easter Island in the 18th century.""}",Claude,claude-opus-4-5-20251101,3,485,79,,medium,"The question asks what both the scientists (Lipo and Hunt) and Jared Diamond agree on. The article states that the scientists ""acknowledged that the island's immense trees had disappeared by the time Europeans arrived"" - this is presented as common ground between them and Diamond, even though they disagree about the cause."
+q013,English Machine,D,D,True,,D,level 4,What evidence do Carl Lipo and Terry Hunt provide to support their theory about the cause of the disappearance of the large trees on Easter Island?,"{""A"": ""The rats arrived on the island in the settlers' canoes."", ""B"": ""The rats may have been intentionally brought by the settlers."", ""C"": ""A rat population can double every 47 days."", ""D"": ""Remains of palm nuts bear rat bite marks.""}",Claude,claude-opus-4-5-20251101,3,500,47,,medium,"The question asks what evidence Lipo and Hunt provide. The passage mentions they ""present remains of palm nuts bearing rat bite marks"" as evidence to support their theory."
+q014,English Machine,B,B,True,,B,level 4,"According to the blog, when did the professor begin her fieldwork?","{""A"": ""In the 1990s."", ""B"": ""Nine months ago."", ""C"": ""One year ago."", ""D"": ""At the beginning of May.""}",Claude,claude-opus-4-5-20251101,3,611,68,,medium,"The professor states ""I'll go for a walk in the hills to say goodbye to the moai I've been studying for the past nine months."" The blog was published May 23, so nine months ago from then would be around August/September of the previous year."
+q015,English Machine,A,A,True,,A,level 5,"Is the statement a fact or an opinion?
+
+In this book, the author recounts how several civilizations collapsed due to choices they made that impacted the environment.
+One of the most disturbing examples in the book is that of Easter Island.
+They carved the famous moai statues and used the natural resources at their disposal to move these immense moai to different locations on the island.
+When the first Europeans landed on Easter Island in 1722, the moai were still there, but the trees were gone.
+This well-written book deserves to be read by anyone concerned about the environment.","{""A"": [""Fact"", ""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""B"": [""Opinion"", ""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""C"": [""Fact"", ""Opinion"", ""Fact"", ""Opinion"", ""Opinion""], ""D"": [""Fact"", ""Opinion"", ""Opinion"", ""Fact"", ""Opinion""]}",Claude,claude-opus-4-5-20251101,3,656,189,,medium,"1. ""In this book, the author recounts how several civilizations collapsed..."" - This is a fact about what the book contains.
+2. ""One of the most disturbing examples..."" - ""most disturbing"" is subjective, so this is an opinion.
+3. ""They carved the famous moai statues and used natural resources..."" - This is a factual statement about what happened.
+4. ""When the first Europeans landed on Easter Island in 1722, the moai were still there, but the trees were gone."" - This is a factual historical statement.
+5. ""This well-written book deserves to be read..."" - ""well-written"" and ""deserves"" are subjective judgments, so this is an opinion.
+
+So: Fact, Opinion, Fact, Fact, Opinion"
+q016,English Machine,B,B,True,,B,level 1b,"According to the IDFA, with which statement do leading health professionals and organizations agree?","{""A"": ""Consuming milk and milk products leads to obesity."", ""B"": ""Milk is a good source of essential vitamins and minerals."", ""C"": ""Milk contains more vitamins than minerals."", ""D"": ""Drinking milk is a leading cause of osteoporosis.""}",Claude,claude-opus-4-5-20251101,3,538,65,,medium,The passage states that AIPL (International Dairy Association) suggests that many professionals and major groups in the health sector would agree with the position that milk contains essential nutrients and is beneficial. The passage emphasizes milk as a source of vitamins and minerals.
+q017,English Machine,D,D,True,,D,level 2,What is the main purpose of this text?,"{""A"": ""To argue that milk products increase weight loss."", ""B"": ""To compare Farm to Market Dairy milk products to other dairy products."", ""C"": ""To inform the public of the risks associated with heart disease."", ""D"": ""To support the use of Farm to Market Dairy products.""}",Claude,claude-opus-4-5-20251101,3,531,65,,medium,"This text is promotional content from the ""International Dairy Association"" specifically about ""Dairy Farm"" products. It repeatedly mentions ""Dairy Farm products"" and emphasizes their benefits. The purpose is to promote/support the use of these specific dairy products."
+q018,English Machine,A,A,True,,A,level 5,"Is the statement a fact or an opinion?
+Recent studies on the health benefits of milk are surprising.
+Studies have shown that drinking milk has detrimental health effects.
+Several studies have questioned the bone-strengthening power of milk.
+Drinking milk and other dairy products is the best way to lose weight.","{""A"": [""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""B"": [""Fact"", ""Fact"", ""Opinion"", ""Opinion""], ""C"": [""Fact"", ""Opinion"", ""Fact"", ""Opinion""], ""D"": [""Opinion"", ""Opinion"", ""Fact"", ""Fact""]}",Claude,claude-opus-4-5-20251101,3,1102,162,,medium,"Let me analyze each statement:
+
+1. ""Recent studies on the health benefits of milk are surprising."" - ""Surprising"" is subjective/opinion word.
+
+2. ""Studies have shown that drinking milk has detrimental health effects."" - This is stated as a fact in the passage (the Swedish study showed negative effects).
+
+3. ""Several studies have questioned the bone-strengthening power of milk."" - This is verifiable - studies either did or didn't question this. The passage states this happened.
+
+4. ""Drinking milk and other dairy products is the best way to lose weight."" - ""Best way"" is opinion/subjective claim.
+
+So: Opinion, Fact, Fact, Opinion"
+q019,English Machine,A,A,True,,A,level 3,"Could this statement represent the purpose of the article?
+To question the benefit of dairy products on general health.
+To discuss various research findings about cow’s milk.
+To point out that milk and other dairy products have not been studied.","{""A"": [""Yes"", ""Yes"", ""No""], ""B"": [""Yes"", ""No"", ""No""], ""C"": [""No"", ""Yes"", ""No""], ""D"": [""No"", ""Yes"", ""Yes""]}",Claude,claude-opus-4-5-20251101,3,725,77,,medium,"The article questions milk's health benefits and discusses research findings. It does NOT claim dairy products haven't been studied - it cites multiple studies.
+
+1. To question the benefit of dairy products - Yes
+2. To discuss various research findings - Yes
+3. To point out milk hasn't been studied - No"
+q020,English Machine,A,A,True,,A,level 1a,"The authors of the two texts disagree on the role of milk in a regular diet.
+What is the main point the authors disagree on?","{""A"": ""Milk’s effects on health and milk’s role in human diets."", ""B"": ""The number of vitamins and minerals found in milk."", ""C"": ""The best form of dairy to regularly consume."", ""D"": ""Which organization is the leading authority on milk.""}",Claude,claude-opus-4-5-20251101,3,1043,71,,medium,"The first text promotes dairy as beneficial for health - bone strength, weight loss, cardiovascular health, cancer prevention. The second text challenges these claims, citing studies showing milk may cause more bone fractures, heart disease, and cancer. The main disagreement is about milk's health effects."
+q021,English Machine,A,A,True,,A,level 1,What does Isabelle_88 want to know?,"{""A"": ""Can she give aspirin to an injured hen?"", ""B"": ""How often can she give aspirin to an injured hen?"", ""C"": ""How to contact a veterinarian about an injured hen."", ""D"": ""Can she determine the pain level of an injured hen?""}",Claude,claude-opus-4-5-20251101,3,672,52,,medium,"Isabelle_88's question is clear: ""Can I give aspirin to my hen?"" She wants to know if it's safe/possible to give aspirin to her injured chicken."
+q022,English Machine,C,C,True,,C,level 1,Why did Isabelle_88 decide to ask her question on an internet forum?,"{""A"": ""Because she doesn't know how to find a veterinarian."", ""B"": ""Because she thinks the hen's problem isn't serious."", ""C"": ""Because she wants to help her hen as quickly as possible."", ""D"": ""Because she can't afford to go to the veterinarian.""}",Claude,claude-opus-4-5-20251101,3,682,65,,medium,Isabelle_88 explains she can't go to the vet until Monday and can't reach them by phone. She wants to relieve her hen's pain while waiting. This indicates she wants to help quickly while she waits for professional care.
+q023,English Machine,A,A,True,,A,level 2,"Is this message related to Isabelle_88's problem?
+NoemieB79's message
+Monique's message
+Promos_Aviaires' message
+Boris's message
+Frank's message","{""A"": [""Yes"", ""Yes"", ""No"", ""No"", ""Yes""], ""B"": [""Yes"", ""No"", ""No"", ""No"", ""Yes""], ""C"": [""No"", ""Yes"", ""No"", ""No"", ""Yes""], ""D"": [""Yes"", ""Yes"", ""No"", ""No"", ""No""]}",Claude,claude-opus-4-5-20251101,3,736,150,,medium,"Let me check each message's relevance to Isabelle_88's problem (giving aspirin to her injured hen):
+
+- NoemieB79: Discusses medication safety for chickens - Yes, related
+- Monique: Shares experience giving aspirin to an injured hen - Yes, related
+- Promos_Aviaires: Spam about bird supplies promotions - No, not related
+- Boris: Asks an unrelated question about identifying sick hens - No, not related
+- Frank: Directly answers about aspirin dosage for hens - Yes, related
+
+So: Yes, Yes, No, No, Yes"
+q024,English Machine,C,C,True,,C,level 1b,Who has ever observed a positive result after giving aspirin to an injured chicken?,"{""A"": ""Isabelle_88"", ""B"": ""NoemieB79"", ""C"": ""Monique"", ""D"": ""Boris""}",Claude,claude-opus-4-5-20251101,3,645,70,,medium,"Looking for who observed a positive result after giving aspirin to an injured chicken. Monique said ""I already gave one of my injured hens an aspirin tablet. There was no problem. The next day, I went to the vet, but she was already better."""
+q025,English Machine,A,A,True,,A,level 1a,Why is Promos_Aviaires replying to Isabelle_88's message?,"{""A"": ""To promote a business."", ""B"": ""To answer Isabelle_88's question."", ""C"": ""To complement Monique's advice."", ""D"": ""To demonstrate her knowledge of birds.""}",Claude,claude-opus-4-5-20251101,3,665,59,,medium,"Promos_Aviaires's post is clearly promotional - they're advertising ""exceptional offers"" and ""amazing promotions"" on bird supplies, completely unrelated to Isabelle's question about aspirin for chickens."
+q001,French Machine,C,C,True,,C,level 6,"Si Tania décide d'acheter la voiture D et de la revendre après trois ans en excellent état, quel sera le prix de revente approximatif de la voiture en zeds ?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,3,292,83,,medium,"Prix initial: 10 500 zeds
+Diminution de 5% par an pendant 3 ans
+Prix après 3 ans = 10 500 × (0,95)³ = 10 500 × 0,857375 ≈ 9 002 zeds"
+q002,French Machine,C,C,True,,C,level 6,"Si cette tendance des ventes se maintient, en quelle année le nombre de DVD vendus sera-t-il inférieur à 1 million selon le modèle ?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,3,238,89,,medium,"Je dois trouver quand d < 1.
+254 - 22n < 1
+253 < 22n
+n > 253/22 ≈ 11.5
+
+Donc n = 12 (première année entière où d < 1)
+2008 + 12 = 2020"
+q003,French Machine,B,B,True,,B,level 2,Quel est le nombre maximal de boîtes moyennes pouvant tenir dans le camion A ?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,3,335,144,,medium,"Camion A: 4m × 2m × 2m
+Boîte moyenne: 0,5m × 0,5m × 0,5m
+
+Nombre de boîtes par dimension:
+- Longueur: 4 ÷ 0,5 = 8
+- Largeur: 2 ÷ 0,5 = 4
+- Hauteur: 2 ÷ 0,5 = 4
+
+Total: 8 × 4 × 4 = 128"
+q004,French Machine,C,C,True,,C,level 6,"La société de location des camions a confirmé que le camion A peut être rempli uniquement de cartons moyens, optimisant ainsi l'espace de chargement.
+Mara affirme qu'un carton moyen occupe les 2/3 de l'espace d'un grand carton. Elle en conclut que le nombre de grands cartons nécessaires pour remplir le camion A est égal aux 2/3 du nombre de cartons moyens.
+Laquelle des affirmations suivantes concernant la conclusion de Mara est vraie ?","{""A"": ""Elle a raison, car la hauteur d'une boîte moyenne est égale aux 2/3 de la hauteur d'une grande boîte."", ""B"": ""Elle a raison, car on peut toujours ranger 3 boîtes moyennes dans le même espace que 2 grandes boîtes."", ""C"": ""Elle a tort, car aucune des dimensions de rangement intérieur du camion A n'est un multiple de 0,75, qui est la hauteur d'une grande boîte."", ""D"": ""Elle a tort, car la hauteur d'une grande boîte est 1,5 fois supérieure à la hauteur d'une boîte moyenne.""}",Claude,claude-opus-4-5-20251101,3,622,273,,medium,"Volume camion A: 4 × 2 × 2 = 16 m³
+Volume carton moyen: 0,5 × 0,5 × 0,5 = 0,125 m³
+Volume carton grand: 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+Ratio volumes: 0,125/0,1875 = 2/3 ✓ (Mara a raison sur ce point)
+
+Mais la conclusion de Mara suppose qu'on peut remplir optimalement le camion avec des grands cartons.
+
+Hauteur camion = 2m. Hauteur grand carton = 0,75m.
+2 ÷ 0,75 = 2,666... → on ne peut empiler que 2 grands cartons (1,5m) avec 0,5m d'espace perdu.
+
+La hauteur 2m n'est pas un multiple de 0,75m, donc l'optimisation n'est pas possible avec les grands cartons."
+q005,French Machine,D,D,True,,D,level 2,"En moyenne, à combien de millions de kilomètres environ se trouve la planète Neptune du Soleil ?","{""A"": ""5 millions de km"", ""B"": ""30 millions de km"", ""C"": ""180 millions de km"", ""D"": ""4500 millions de km""}",Claude,claude-opus-4-5-20251101,3,297,61,,medium,"Neptune est à 30,05 ua du Soleil. 1 ua = 150 millions de km.
+30,05 × 150 ≈ 4507,5 millions de km"
+q006,French Machine,A,A,True,,A,level 5,"Compte tenu de la marge de victoire moyenne de la saison, est-il possible que l'équipe n'ait jamais gagné un match par 19 points d'écart ?","{""A"": ""Oui"", ""B"": ""Non""}",Claude,claude-opus-4-5-20251101,3,306,90,,medium,"La marge de victoire moyenne est de 19 points. Cela ne signifie pas que chaque match a été gagné par exactement 19 points. Par exemple, l'équipe pourrait avoir gagné certains matchs par 10 points et d'autres par 28 points, donnant une moyenne de 19."
+q007,French Machine,A,A,True,,A,level 4,"En termes de points de pourcentage, quel pays a enregistré la plus forte progression entre 2005 et 2015 ?","{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,3,629,146,,medium,"Je dois calculer la différence entre 2015 et 2005 pour chaque pays et trouver la plus forte progression.
+
+Grèce: 31,45 - 29,11 = +2,34
+Arménie: 11,77 - 11,77 = 0
+Panama: 62,11 - 64,33 = -2,22
+Kazakhstan: 1,23 - 1,24 = -0,01
+
+La Grèce a la plus forte progression avec +2,34 points de pourcentage."
+q008,French Machine,B,B,True,,B,level 4,Quel pays n'a connu aucun changement global entre 2005 et 2015 ?,"{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,3,623,76,,medium,"Je dois trouver le pays où la valeur en 2005 est égale à la valeur en 2015.
+- Arménie : 2005 = 11,77 et 2015 = 11,77 → Aucun changement"
+q009,French Machine,C,C,True,,C,level 4,"En termes de points de pourcentage, quel pays a subi la plus forte perte entre 2005 et 2015 ?","{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,3,629,140,,medium,"Je dois calculer la différence entre 2015 et 2005 pour trouver la plus forte perte.
+
+Panama: 62,11 - 64,33 = -2,22
+Colombie: 52,73 - 54,26 = -1,53
+Sénégal: 42,97 - 45,05 = -2,08
+Pérou: 57,79 - 59,01 = -1,22
+
+Panama a la plus forte perte avec -2,22 points."
+q010,French Machine,A,A,True,,A,level 6,"Considérons les deux périodes suivantes : 2005-2010 et 2010-2015.
+En points de pourcentage, quels sont les deux pays qui ont connu la plus forte variation de leur superficie forestière entre ces deux périodes ?","{""A"": [""Inde"", ""Colombie""], ""B"": [""Inde"", ""Arménie""], ""C"": [""Panama"", ""Colombie""], ""D"": [""Kazakhstan"", ""Colombie""]}",Claude,claude-opus-4-5-20251101,3,687,436,,medium,"Je dois calculer la variation entre les deux périodes pour chaque pays.
+
+Période 1 (2005-2010): changement = 2010 - 2005
+Période 2 (2010-2015): changement = 2015 - 2010
+Variation entre périodes = |changement période 2 - changement période 1|
+
+Calculons pour quelques pays clés:
+
+Inde: P1 = 23.47-22.77 = 0.70, P2 = 23.77-23.47 = 0.30, Variation = |0.30-0.70| = 0.40
+
+Colombie: P1 = 52.85-54.26 = -1.41, P2 = 52.73-52.85 = -0.12, Variation = |-0.12-(-1.41)| = 1.29
+
+Arménie: P1 = 11.74-11.77 = -0.03, P2 = 11.77-11.74 = 0.03, Variation = |0.03-(-0.03)| = 0.06
+
+Panama: P1 = 63.21-64.33 = -1.12, P2 = 62.11-63.21 = -1.10, Variation = |-1.10-(-1.12)| = 0.02
+
+Kazakhstan: P1 = 1.23-1.24 = -0.01, P2 = 1.23-1.23 = 0, Variation = |0-(-0.01)| = 0.01
+
+Les plus fortes variations sont Colombie (1.29) et Inde (0.40)."
+q011,French Machine,B,B,True,,B,level 6,"Helena affirme que la Corée du Sud possède une superficie forestière plus importante que tout autre pays de cette liste pour les années indiquées.
+Ses affirmations sont-elles étayées par les données du tableau ?","{""A"": ""Oui"", ""B"": ""Non""}",Claude,claude-opus-4-5-20251101,3,636,247,,medium,"Helena dit que la Corée du Sud a une superficie forestière plus importante que tout autre pays. Regardons les données :
+
+- Corée du Sud : 64,42% (2005), 64,08% (2010), 63,69% (2015)
+- Panama : 64,33% (2005), 63,21% (2010), 62,11% (2015)
+
+En 2005 : Corée du Sud (64,42%) > Panama (64,33%) ✓
+En 2010 : Corée du Sud (64,08%) > Panama (63,21%) ✓
+En 2015 : Corée du Sud (63,69%) > Panama (62,11%) ✓
+
+Mais attention : le tableau montre le **pourcentage** de superficie forestière, pas la superficie forestière réelle. La Corée du Sud a un pourcentage plus élevé, mais pas nécessairement une superficie plus grande en termes absolus."
+q012,French Machine,B,B,True,,B,level 5,Sur quoi s'accordent les scientifiques mentionnés dans l'article et Jared Diamond ?,"{""A"": ""Les humains se sont installés à Rapa Nui il y a des centaines d'années."", ""B"": ""Les grands arbres ont disparu de Rapa Nui."", ""C"": ""Les rats polynésiens mangeaient les graines des grands arbres de Rapa Nui."", ""D"": ""Les Européens sont arrivés à Rapa Nui au XVIIIe siècle.""}",Claude,claude-opus-4-5-20251101,3,695,65,,medium,"L'article dit que les scientifiques ""s'accordaient sur le fait que les immenses arbres avaient disparu avant l'arrivée des Européens sur l'île au XVIIIe siècle""."
+q013,French Machine,D,D,True,,D,level 4,Quelles preuves Carl Lipo et Terry Hunt présentent-ils pour étayer leur théorie sur la disparition des grands arbres de Rapa Nui ?,"{""A"": ""Les rats sont arrivés sur l'île à bord des canoës des colons."", ""B"": ""Les rats ont peut-être été amenés intentionnellement par les colons."", ""C"": ""Les populations de rats peuvent doubler tous les 47 jours."", ""D"": ""Les restes de noix de palme présentent des marques de rongement faites par les rats.""}",Claude,claude-opus-4-5-20251101,3,701,86,,medium,"La question demande quelles preuves Lipo et Hunt présentent pour étayer leur théorie. Le texte mentionne : ""Pour étayer leur théorie, Lipo et Hunt mettent en avant des restes de noix de palme portant des traces de rongement laissées par des rats."""
+q014,French Machine,B,B,True,,B,level 4,"D'après le blog, quand la professeure a-t-elle commencé son travail de terrain ?","{""A"": ""Au cours des années 1990."", ""B"": ""Il y a neuf mois."", ""C"": ""Il y a un an."", ""D"": ""Au début du mois de mai.""}",Claude,claude-opus-4-5-20251101,3,871,50,,medium,"Le blog dit ""ces neuf derniers mois"" et est publié le 23 mai. Donc elle a commencé il y a neuf mois."
+q015,French Machine,A,A,True,,A,level 5,"Cette affirmation est-elle un fait ou une opinion ?
+Dans son livre, l’auteur décrit plusieurs civilisations qui se sont effondrées en raison de leurs choix et de leur impact sur l’environnement.
+L’un des exemples les plus troublants est celui de Rapa Nui.
+Les habitants ont sculpté les moaï, ces célèbres statues, et utilisé les ressources naturelles à leur disposition pour déplacer ces immenses statues à différents endroits de l’île.
+Lorsque les premiers Européens ont débarqué à Rapa Nui en 1722, les moaï étaient toujours là, mais les arbres avaient disparu.
+Ce livre est bien écrit et mérite d’être lu par tous ceux qui se soucient de l’environnement.","{""A"": [""Fait"", ""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""B"": [""Opinion"", ""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""C"": [""Fait"", ""Opinion"", ""Fait"", ""Opinion"", ""Opinion""], ""D"": [""Fait"", ""Opinion"", ""Opinion"", ""Fait"", ""Opinion""]}",Claude,claude-opus-4-5-20251101,3,950,153,,medium,"Let me analyze each statement:
+1. ""Dans son livre, l'auteur décrit plusieurs civilisations..."" - This is a fact (verifiable content of the book)
+2. ""L'un des exemples les plus troublants..."" - ""troublants"" is subjective = Opinion
+3. ""Les habitants ont sculpté les moaï..."" - Factual description
+4. ""Lorsque les premiers Européens ont débarqué..."" - Historical fact
+5. ""Ce livre est bien écrit et mérite..."" - Subjective judgment = Opinion
+
+So: Fait, Opinion, Fait, Fait, Opinion"
+q016,French Machine,B,B,True,,B,level 1b,"Selon l'IDFA, avec quelle affirmation les principaux professionnels et organisations de santé sont-ils d'accord ?","{""A"": ""La consommation de lait et de produits laitiers entraîne l'obésité."", ""B"": ""Le lait est une bonne source de vitamines et de minéraux essentiels."", ""C"": ""Le lait contient plus de vitamines que de minéraux."", ""D"": ""La consommation de lait est une cause majeure d'ostéoporose.""}",Claude,claude-opus-4-5-20251101,3,785,74,,medium,Le texte indique que l'IDFA suggère que de nombreux professionnels et organismes de santé partagent l'avis que le lait contient de nombreux nutriments essentiels et est une bonne source de vitamines et minéraux.
+q017,French Machine,D,D,True,,D,level 2,Quel est l'objectif principal de ce texte ?,"{""A"": ""Affirmer que les produits laitiers favorisent la perte de poids."", ""B"": ""Comparer les produits laitiers Farm to Market Dairy à d'autres produits laitiers."", ""C"": ""Informer le public des risques associés aux maladies cardiaques."", ""D"": ""Soutenir la consommation des produits laitiers Farm to Market Dairy.""}",Claude,claude-opus-4-5-20251101,3,770,68,,medium,"Ce texte vante les mérites des produits laitiers ""Farm to Market Dairy"" en listant leurs nutriments et bienfaits pour la santé, avec des citations d'experts. L'objectif est clairement promotionnel."
+q018,French Machine,A,A,True,,A,level 5,"Cette affirmation est-elle un fait ou une opinion ?
+Des études récentes sur les bienfaits du lait pour la santé sont surprenantes.
+Des études ont montré que la consommation de lait a des effets néfastes sur la santé.
+Plusieurs études ont remis en question les bienfaits du lait sur les os.
+Boire du lait et d'autres produits laitiers est le meilleur moyen de perdre du poids.","{""A"": [""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""B"": [""Fait"", ""Fait"", ""Opinion"", ""Opinion""], ""C"": [""Fait"", ""Opinion"", ""Fait"", ""Opinion""], ""D"": [""Opinion"", ""Opinion"", ""Fait"", ""Fait""]}",Claude,claude-opus-4-5-20251101,3,1660,192,,medium,"Let me analyze each statement:
+
+1. ""Des études récentes sur les bienfaits du lait pour la santé sont surprenantes."" - ""Surprenantes"" is subjective = Opinion
+
+2. ""Des études ont montré que la consommation de lait a des effets néfastes sur la santé."" - This is verifiable, studies did show this = Fait
+
+3. ""Plusieurs études ont remis en question les bienfaits du lait sur les os."" - This is verifiable from the text = Fait
+
+4. ""Boire du lait et d'autres produits laitiers est le meilleur moyen de perdre du poids."" - ""Le meilleur"" is subjective = Opinion
+
+So: Opinion, Fait, Fait, Opinion"
+q019,French Machine,A,A,True,,A,level 3,"Cette affirmation pourrait-elle refléter l'objectif de l'article ?
+Remettre en question les bienfaits des produits laitiers sur la santé en général.
+Discuter de diverses études sur le lait de vache.
+Souligner que le lait et les autres produits laitiers n'ont pas fait l'objet d'études approfondies.","{""A"": [""Oui"", ""Oui"", ""Non""], ""B"": [""Oui"", ""Non"", ""Non""], ""C"": [""Non"", ""Oui"", ""Non""], ""D"": [""Non"", ""Oui"", ""Oui""]}",Claude,claude-opus-4-5-20251101,3,1082,186,,medium,"L'article vise à remettre en question les bienfaits du lait de vache sur la santé, en citant diverses études. Il ne dit pas que le lait n'a pas été étudié - au contraire, il cite plusieurs études.
+
+1. Remettre en question les bienfaits des produits laitiers - OUI (c'est le thème principal)
+2. Discuter de diverses études sur le lait de vache - OUI (l'article cite plusieurs études)
+3. Souligner que le lait n'a pas fait l'objet d'études approfondies - NON (l'article cite de nombreuses études)
+
+Donc: Oui, Oui, Non = A"
+q020,French Machine,A,A,True,,A,level 1a,"Les auteurs des deux textes divergent quant au rôle du lait dans une alimentation équilibrée.
+Quel est le principal point de désaccord entre les auteurs ?","{""A"": ""Les effets du lait sur la santé et son rôle dans l'alimentation humaine."", ""B"": ""Le nombre de vitamines et de minéraux présents dans le lait."", ""C"": ""La meilleure forme de produits laitiers à consommer régulièrement."", ""D"": ""Quelle organisation fait autorité en matière de lait.""}",Claude,claude-opus-4-5-20251101,3,1595,110,,medium,"Le premier texte vante les bienfaits du lait (calcium, vitamines, santé osseuse, perte de poids, prévention du cancer). Le second texte remet en question ces bienfaits, citant des études montrant des effets négatifs (fractures, maladies cardiaques, cancers). Le désaccord principal porte sur les effets du lait sur la santé."
+q021,French Machine,A,A,True,,A,level 1,Que veut savoir Ivana_88 ?,"{""A"": ""Si elle peut donner de l'aspirine à une poule blessée."", ""B"": ""À quelle fréquence peut-elle donner de l'aspirine à une poule blessée."", ""C"": ""Comment contacter un vétérinaire au sujet d'une poule blessée."", ""D"": ""Si elle peut déterminer le niveau de douleur d'une poule blessée.""}",Claude,claude-opus-4-5-20251101,3,923,55,,medium,Ivana_88 demande si elle peut donner de l'aspirine à sa poule blessée en attendant son rendez-vous chez le vétérinaire.
+q022,French Machine,C,C,True,,C,level 1,Pourquoi Ivana_88 a-t-elle décidé de poser sa question sur un forum Internet ?,"{""A"": ""Parce qu'elle ne sait pas comment trouver un vétérinaire."", ""B"": ""Parce qu'elle pense que le problème de la poule n'est pas grave."", ""C"": ""Parce qu'elle veut aider sa poule au plus vite."", ""D"": ""Parce qu'elle n'a pas les moyens d'aller chez le vétérinaire.""}",Claude,claude-opus-4-5-20251101,3,940,91,,medium,Ivana_88 explique qu'elle ne peut pas aller chez le vétérinaire avant lundi et qu'il ne répond pas au téléphone. Sa poule semble souffrir beaucoup et elle veut la soulager en attendant. Elle cherche donc une solution rapide pour aider sa poule.
+q023,French Machine,A,A,True,,A,level 2,"Ce message est-il pertinent pour le problème d'Ivana_88 ?
+Message de NellieB79
+Message de Monie
+Message d'Avian_Deals
+Message de Bob
+Message de Frank","{""A"": [""Oui"", ""Oui"", ""Non"", ""Non"", ""Oui""], ""B"": [""Oui"", ""Non"", ""Non"", ""Non"", ""Oui""], ""C"": [""Non"", ""Oui"", ""Non"", ""Non"", ""Oui""], ""D"": [""Oui"", ""Oui"", ""Non"", ""Non"", ""Non""]}",Claude,claude-opus-4-5-20251101,3,971,164,,medium,"Ivana demande si elle peut donner de l'aspirine à sa poule blessée.
+
+- NellieB79: Donne un conseil prudent sur les médicaments pour oiseaux - pertinent (Oui)
+- Monie: Partage son expérience avec l'aspirine pour poule - pertinent (Oui)
+- Avian_Deals: Pub pour des produits - non pertinent (Non)
+- Bob: Pose sa propre question sans rapport - non pertinent (Non)
+- Frank: Vétérinaire qui répond directement avec dosage - pertinent (Oui)"
+q024,French Machine,C,C,True,,C,level 1b,Qui a déjà eu une expérience positive en administrant de l'aspirine à une poule blessée ?,"{""A"": ""Ivana_88"", ""B"": ""NellieB79"", ""C"": ""Monie"", ""D"": ""Bob""}",Claude,claude-opus-4-5-20251101,3,867,64,,medium,La question demande qui a eu une expérience positive en donnant de l'aspirine à une poule blessée. Monie dit avoir donné de l'aspirine à sa poule blessée sans problème.
+q025,French Machine,A,A,True,,A,level 1a,Pourquoi Avian_Deals répond-il au message d'Ivana_88 ?,"{""A"": ""Pour promouvoir une entreprise."", ""B"": ""Pour répondre à la question d'Ivana_88."", ""C"": ""Pour compléter les conseils de Monie."", ""D"": ""Pour démontrer une expertise en matière d'oiseaux.""}",Claude,claude-opus-4-5-20251101,3,900,68,,medium,"Avian_Deals publie un message pour promouvoir ses offres sur des articles pour oiseaux, ce qui n'a rien à voir avec la question d'Ivana_88 sur l'aspirine pour sa poule."
+q001,English Machine,C,C,True,,C,level 6,"If Tania decides to buy car D and resell it in excellent condition three years later, what will be the approximate resale price of the car in zeds?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,4,256,82,,medium,"Car D price: 10,500 zeds
+Decreases 5% per year for 3 years
+After 3 years: 10,500 × (0.95)³ = 10,500 × 0.857375 ≈ 9,002 zeds"
+q002,English Machine,C,C,True,,C,level 6,"If this sales trend continues, in what year will the number of DVDs sold fall below 1 million according to the model?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,4,221,91,,medium,"I need to find when d < 1 million.
+
+254 - 22n < 1
+253 < 22n
+n > 253/22
+n > 11.5
+
+So n = 12 (first whole year where it falls below 1 million)
+
+Year = 2008 + 12 = 2020"
+q003,English Machine,B,B,True,,B,level 2,What is the largest number of medium-sized boxes that can fit in truck A?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,4,281,133,,medium,"Truck A dimensions: 4m × 2m × 2m
+Medium carton: 0.5m × 0.5m × 0.5m
+
+Number of boxes along each dimension:
+- Length: 4 ÷ 0.5 = 8
+- Width: 2 ÷ 0.5 = 4
+- Height: 2 ÷ 0.5 = 4
+
+Total: 8 × 4 × 4 = 128"
+q004,English Machine,C,C,True,,C,level 6,"The truck rental company confirms that truck A can be filled with only medium-sized boxes so that the entire storage compartment space is used.
+Malika states that a medium-sized box occupies 2/3 the space of a large box, and therefore concludes that the number of large boxes needed to fill truck A is equal to 2/3 the number of medium-sized boxes. Which of the following statements about Malika's conclusion is correct?","{""A"": ""She is right, because the height of a medium-sized box is equal to 2/3 that of a large box."", ""B"": ""She is right, because 3 medium-sized boxes can always fit in the same space as 2 large boxes."", ""C"": ""She is wrong, because none of the internal dimensions of the storage compartment of truck A is a multiple of 0.75, which is the height of a large box."", ""D"": ""She is wrong, because the height of a large box is equal to 1.5 times that of a medium-sized box.""}",Claude,claude-opus-4-5-20251101,4,496,263,,medium,"Medium box: 0.5 × 0.5 × 0.5 = 0.125 m³
+Large box: 0.5 × 0.5 × 0.75 = 0.1875 m³
+
+Medium is 0.125/0.1875 = 2/3 of large - this part is correct.
+
+Truck A: 4 × 2 × 2 = 16 m³
+
+Medium boxes that fit: 16/0.125 = 128 boxes (and dimensions work: 8×4×4)
+
+For large boxes: height is 0.75m. Truck height is 2m. 2/0.75 = 2.67 - not a whole number.
+Similarly, 4/0.75 = 5.33, 2/0.75 = 2.67 - none of the truck dimensions are multiples of 0.75.
+
+So large boxes cannot fill the truck completely, making Malika's conclusion wrong because you can't actually fill the truck with large boxes."
+q005,English Machine,D,D,True,,D,level 2,"On average, how many millions of kilometers are there between the Sun and the planet Neptune?","{""A"": ""5 million km"", ""B"": ""30 million km"", ""C"": ""180 million km"", ""D"": ""4,500 million km""}",Claude,claude-opus-4-5-20251101,4,264,66,,medium,"Neptune is 30.05 AU from the Sun. 1 AU = 150 million km.
+30.05 × 150 = 4,507.5 million km ≈ 4,500 million km"
+q006,English Machine,A,A,True,,A,level 5,"Given the average point spreads this season, is it possible that the team has never actually won a game while leading by 19 points?","{""A"": ""Yes"", ""B"": ""No""}",Claude,claude-opus-4-5-20251101,4,241,102,,medium,"The team won every game with an average margin of 19 points. The question asks if it's possible they never won by exactly 19 points.
+
+Yes, this is possible. For example, they could have won some games by 18 points and others by 20 points, averaging to 19. Or various other combinations that average to 19 without any single game having exactly a 19-point margin."
+q007,English Machine,A,A,True,,A,level 4,Which country experienced the largest increase in percentage points between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,4,570,128,,medium,"Looking for largest increase from 2005 to 2015:
+- Greece: 31.45 - 29.11 = 2.34
+- Armenia: 11.77 - 11.77 = 0
+- Panama: 62.11 - 64.33 = -2.22 (decrease)
+- Kazakhstan: 1.23 - 1.24 = -0.01 (decrease)
+
+Greece has the largest increase at 2.34 percentage points."
+q008,English Machine,B,B,True,,B,level 4,Which country experienced no overall change between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,4,567,59,,medium,"Looking for a country with the same value in 2005 and 2015:
+- Armenia: 11.77 in 2005 and 11.77 in 2015 - no change"
+q009,English Machine,C,C,True,,C,level 4,Which country experienced the largest decline in percentage points between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,4,570,159,,medium,"Looking for the largest decline (decrease) from 2005 to 2015:
+- Panama: 64.33 - 62.11 = 2.22 decline
+- Senegal: 45.05 - 42.97 = 2.08 decline
+- South Korea: 64.42 - 63.69 = 0.73 decline
+- Colombia: 54.26 - 52.73 = 1.53 decline
+- Peru: 59.01 - 57.79 = 1.22 decline
+
+Panama has the largest decline at 2.22 percentage points."
+q010,English Machine,A,A,True,,A,level 6,"Examine the following two periods: 2005 to 2010, and 2010 to 2015. Which two countries experienced the greatest change in the percentage of their forest area, expressed as a percentage point, from one period to the other?","{""A"": [""India"", ""Colombia""], ""B"": [""India"", ""Armenia""], ""C"": [""Panama"", ""Colombia""], ""D"": [""Kazakhstan"", ""Colombia""]}",Claude,claude-opus-4-5-20251101,4,629,416,,medium,"I need to find the change in forest percentage for each period, then find the change between those changes.
+
+For each country:
+- Change 2005-2010
+- Change 2010-2015
+- Difference between these changes
+
+Let me calculate:
+
+Algeria: 0.81-0.64=0.17, 0.82-0.81=0.01, |0.01-0.17|=0.16
+Germany: 0.07, 0.03, |diff|=0.04
+Armenia: -0.03, 0.03, |diff|=0.06
+Colombia: -1.41, -0.12, |diff|=1.29
+South Korea: -0.34, -0.39, |diff|=0.05
+United States: 0.47, 0.12, |diff|=0.35
+Greece: 1.17, 1.17, |diff|=0
+India: 0.70, 0.30, |diff|=0.40
+Kazakhstan: -0.01, 0, |diff|=0.01
+Lebanon: 0.04, 0.04, |diff|=0
+Panama: -1.12, -1.10, |diff|=0.02
+Peru: -0.56, -0.66, |diff|=0.10
+Portugal: -0.63, -0.64, |diff|=0.01
+Senegal: -1.04, -1.04, |diff|=0
+Thailand: 0.30, 0.29, |diff|=0.01
+
+The greatest changes from one period to the other:
+1. Colombia: 1.29
+2. India: 0.40"
+q011,English Machine,B,B,True,,B,level 6,"Helena claims that South Korea has a larger forest area than all other countries on this list for the years indicated.
+Does her claim match the data provided in the spreadsheet?","{""A"": ""Yes"", ""B"": ""No""}",Claude,claude-opus-4-5-20251101,4,578,102,,medium,"Helena claims South Korea has a larger forest area than all other countries. But the data shows forest cover as a percentage of land area, not actual forest area. South Korea has a high percentage (63-64%), but Panama has similar percentages (62-64%), and Colombia and Peru also have higher percentages in some years. More importantly, percentage of land area ≠ total forest area (which would depend on country size)."
+q012,English Machine,B,B,True,,B,level 5,What do the scientists cited in the article and Jared Diamond agree on?,"{""A"": ""Humans colonized Easter Island hundreds of years ago."", ""B"": ""The large trees disappeared from Easter Island."", ""C"": ""Polynesian rats ate the seeds of the large trees on Easter Island."", ""D"": ""Europeans arrived on Easter Island in the 18th century.""}",Claude,claude-opus-4-5-20251101,4,485,78,,medium,"The question asks what both the scientists (Lipo and Hunt) and Jared Diamond agree on. The article states that scientists ""acknowledged that the island's immense trees had disappeared by the time Europeans arrived"" - this is common ground between Diamond and the other scientists, even though they disagree about the cause."
+q013,English Machine,D,D,True,,D,level 4,What evidence do Carl Lipo and Terry Hunt provide to support their theory about the cause of the disappearance of the large trees on Easter Island?,"{""A"": ""The rats arrived on the island in the settlers' canoes."", ""B"": ""The rats may have been intentionally brought by the settlers."", ""C"": ""A rat population can double every 47 days."", ""D"": ""Remains of palm nuts bear rat bite marks.""}",Claude,claude-opus-4-5-20251101,4,500,61,,medium,"The question asks what evidence Lipo and Hunt provide. The passage mentions they ""present remains of palm nuts bearing rat bite marks"" as evidence. The other options are contextual information or claims, not evidence presented to support the theory."
+q014,English Machine,B,B,True,,B,level 4,"According to the blog, when did the professor begin her fieldwork?","{""A"": ""In the 1990s."", ""B"": ""Nine months ago."", ""C"": ""One year ago."", ""D"": ""At the beginning of May.""}",Claude,claude-opus-4-5-20251101,4,611,70,,medium,"The professor says ""I'll go for a walk in the hills to say goodbye to the moai I've been studying for the past nine months."" The blog is published May 23, and she's been there for nine months, so she began her fieldwork nine months ago."
+q015,English Machine,A,A,True,,A,level 5,"Is the statement a fact or an opinion?
+
+In this book, the author recounts how several civilizations collapsed due to choices they made that impacted the environment.
+One of the most disturbing examples in the book is that of Easter Island.
+They carved the famous moai statues and used the natural resources at their disposal to move these immense moai to different locations on the island.
+When the first Europeans landed on Easter Island in 1722, the moai were still there, but the trees were gone.
+This well-written book deserves to be read by anyone concerned about the environment.","{""A"": [""Fact"", ""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""B"": [""Opinion"", ""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""C"": [""Fact"", ""Opinion"", ""Fact"", ""Opinion"", ""Opinion""], ""D"": [""Fact"", ""Opinion"", ""Opinion"", ""Fact"", ""Opinion""]}",Claude,claude-opus-4-5-20251101,4,656,143,,medium,"1. ""In this book, the author recounts how several civilizations collapsed..."" - This is a fact about what the book contains.
+2. ""One of the most disturbing examples..."" - ""Most disturbing"" is subjective - Opinion.
+3. ""They carved the famous moai statues..."" - Factual statement about what happened.
+4. ""When the first Europeans landed on Easter Island in 1722..."" - Factual historical statement.
+5. ""This well-written book deserves to be read..."" - ""Well-written"" and ""deserves"" are subjective - Opinion."
+q016,English Machine,B,B,True,,B,level 1b,"According to the IDFA, with which statement do leading health professionals and organizations agree?","{""A"": ""Consuming milk and milk products leads to obesity."", ""B"": ""Milk is a good source of essential vitamins and minerals."", ""C"": ""Milk contains more vitamins than minerals."", ""D"": ""Drinking milk is a leading cause of osteoporosis.""}",Claude,claude-opus-4-5-20251101,4,538,64,,medium,"The passage states that the AIPL/IDFA suggests that ""many professionals and major groups in the health sector would agree"" with the position that milk combines many essential nutrients. The passage emphasizes milk as a source of vitamins and minerals."
+q017,English Machine,D,D,True,,D,level 2,What is the main purpose of this text?,"{""A"": ""To argue that milk products increase weight loss."", ""B"": ""To compare Farm to Market Dairy milk products to other dairy products."", ""C"": ""To inform the public of the risks associated with heart disease."", ""D"": ""To support the use of Farm to Market Dairy products.""}",Claude,claude-opus-4-5-20251101,4,531,67,,medium,"This text is promotional content from ""Dairy Farm"" that repeatedly emphasizes the benefits of their products and encourages consumption. While it mentions various health benefits (weight loss, bone strength, cardiovascular health), the overall purpose is to promote Dairy Farm products specifically."
+q018,English Machine,A,A,True,,A,level 5,"Is the statement a fact or an opinion?
+Recent studies on the health benefits of milk are surprising.
+Studies have shown that drinking milk has detrimental health effects.
+Several studies have questioned the bone-strengthening power of milk.
+Drinking milk and other dairy products is the best way to lose weight.","{""A"": [""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""B"": [""Fact"", ""Fact"", ""Opinion"", ""Opinion""], ""C"": [""Fact"", ""Opinion"", ""Fact"", ""Opinion""], ""D"": [""Opinion"", ""Opinion"", ""Fact"", ""Fact""]}",Claude,claude-opus-4-5-20251101,4,1102,145,,medium,"Let me analyze each statement:
+
+1. ""Recent studies on the health benefits of milk are surprising"" - ""Surprising"" is subjective - Opinion
+2. ""Studies have shown that drinking milk has detrimental health effects"" - This is verifiable, studies did show this - Fact
+3. ""Several studies have questioned the bone-strengthening power of milk"" - This is verifiable, mentioned in the text - Fact
+4. ""Drinking milk and other dairy products is the best way to lose weight"" - ""Best way"" is subjective - Opinion
+
+So: Opinion, Fact, Fact, Opinion"
+q019,English Machine,A,A,True,,A,level 3,"Could this statement represent the purpose of the article?
+To question the benefit of dairy products on general health.
+To discuss various research findings about cow’s milk.
+To point out that milk and other dairy products have not been studied.","{""A"": [""Yes"", ""Yes"", ""No""], ""B"": [""Yes"", ""No"", ""No""], ""C"": [""No"", ""Yes"", ""No""], ""D"": [""No"", ""Yes"", ""Yes""]}",Claude,claude-opus-4-5-20251101,4,725,60,,medium,"The article questions milk's health benefits (Yes to first), discusses research findings about cow's milk (Yes to second), and actually presents multiple studies about milk - so it doesn't claim dairy hasn't been studied (No to third)."
+q020,English Machine,A,A,True,,A,level 1a,"The authors of the two texts disagree on the role of milk in a regular diet.
+What is the main point the authors disagree on?","{""A"": ""Milk’s effects on health and milk’s role in human diets."", ""B"": ""The number of vitamins and minerals found in milk."", ""C"": ""The best form of dairy to regularly consume."", ""D"": ""Which organization is the leading authority on milk.""}",Claude,claude-opus-4-5-20251101,4,1043,70,,medium,"The first text promotes milk as beneficial for health (strengthens bones, prevents cancer, promotes weight loss, cardiovascular health). The second text argues milk may cause bone fractures, heart disease, and cancer. They fundamentally disagree on whether milk is healthy and beneficial to consume."
+q021,English Machine,A,A,True,,A,level 1,What does Isabelle_88 want to know?,"{""A"": ""Can she give aspirin to an injured hen?"", ""B"": ""How often can she give aspirin to an injured hen?"", ""C"": ""How to contact a veterinarian about an injured hen."", ""D"": ""Can she determine the pain level of an injured hen?""}",Claude,claude-opus-4-5-20251101,4,672,52,,medium,"Isabelle_88's question is clear: ""Can I give aspirin to my hen?"" She wants to know if it's safe/possible to give aspirin to her injured chicken."
+q022,English Machine,C,C,True,,C,level 1,Why did Isabelle_88 decide to ask her question on an internet forum?,"{""A"": ""Because she doesn't know how to find a veterinarian."", ""B"": ""Because she thinks the hen's problem isn't serious."", ""C"": ""Because she wants to help her hen as quickly as possible."", ""D"": ""Because she can't afford to go to the veterinarian.""}",Claude,claude-opus-4-5-20251101,4,682,60,,medium,Isabelle explains she can't go to the vet until Monday and can't reach them by phone. She wants to relieve her hen's pain while waiting. This indicates she wants to help quickly while waiting for professional care.
+q023,English Machine,A,A,True,,A,level 2,"Is this message related to Isabelle_88's problem?
+NoemieB79's message
+Monique's message
+Promos_Aviaires' message
+Boris's message
+Frank's message","{""A"": [""Yes"", ""Yes"", ""No"", ""No"", ""Yes""], ""B"": [""Yes"", ""No"", ""No"", ""No"", ""Yes""], ""C"": [""No"", ""Yes"", ""No"", ""No"", ""Yes""], ""D"": [""Yes"", ""Yes"", ""No"", ""No"", ""No""]}",Claude,claude-opus-4-5-20251101,4,736,127,,medium,"Let me check each message:
+- NoemieB79: Responds about aspirin safety for chickens - Yes, related
+- Monique: Shares experience giving aspirin to hen - Yes, related
+- Promos_Aviaires: Spam about bird supplies - No, not related
+- Boris: Asks unrelated question about sick hens - No, not related
+- Frank: Directly answers about aspirin dosage for hens - Yes, related
+
+So: Yes, Yes, No, No, Yes"
+q024,English Machine,C,C,True,,C,level 1b,Who has ever observed a positive result after giving aspirin to an injured chicken?,"{""A"": ""Isabelle_88"", ""B"": ""NoemieB79"", ""C"": ""Monique"", ""D"": ""Boris""}",Claude,claude-opus-4-5-20251101,4,645,70,,medium,"Looking for who observed a positive result after giving aspirin to an injured chicken. Monique says ""I already gave one of my injured hens an aspirin tablet. There was no problem. The next day, I went to the vet, but she was already better."""
+q025,English Machine,A,A,True,,A,level 1a,Why is Promos_Aviaires replying to Isabelle_88's message?,"{""A"": ""To promote a business."", ""B"": ""To answer Isabelle_88's question."", ""C"": ""To complement Monique's advice."", ""D"": ""To demonstrate her knowledge of birds.""}",Claude,claude-opus-4-5-20251101,4,665,55,,medium,"Promos_Aviaires' message is clearly promotional - talking about ""exceptional offers"" and ""amazing promotions"" on bird supplies, completely unrelated to the question about aspirin for chickens."
+q001,French Machine,C,C,True,,C,level 6,"Si Tania décide d'acheter la voiture D et de la revendre après trois ans en excellent état, quel sera le prix de revente approximatif de la voiture en zeds ?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,4,292,83,,medium,"Prix initial: 10 500 zeds
+Diminution de 5% par an pendant 3 ans
+Prix après 3 ans = 10 500 × (0,95)³ = 10 500 × 0,857375 ≈ 9 002 zeds"
+q002,French Machine,C,C,True,,C,level 6,"Si cette tendance des ventes se maintient, en quelle année le nombre de DVD vendus sera-t-il inférieur à 1 million selon le modèle ?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,4,238,95,,medium,"Je dois trouver quand d < 1 million.
+254 - 22n < 1
+253 < 22n
+n > 253/22 ≈ 11.5
+
+Donc n = 12 (première année entière où d < 1)
+Année = 2008 + 12 = 2020"
+q003,French Machine,B,B,True,,B,level 2,Quel est le nombre maximal de boîtes moyennes pouvant tenir dans le camion A ?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,4,335,143,,medium,"Camion A: 4m × 2m × 2m
+Carton moyen: 0,5m × 0,5m × 0,5m
+
+Nombre de cartons par dimension:
+- Longueur: 4 ÷ 0,5 = 8
+- Largeur: 2 ÷ 0,5 = 4
+- Hauteur: 2 ÷ 0,5 = 4
+
+Total: 8 × 4 × 4 = 128"
+q004,French Machine,C,C,True,,C,level 6,"La société de location des camions a confirmé que le camion A peut être rempli uniquement de cartons moyens, optimisant ainsi l'espace de chargement.
+Mara affirme qu'un carton moyen occupe les 2/3 de l'espace d'un grand carton. Elle en conclut que le nombre de grands cartons nécessaires pour remplir le camion A est égal aux 2/3 du nombre de cartons moyens.
+Laquelle des affirmations suivantes concernant la conclusion de Mara est vraie ?","{""A"": ""Elle a raison, car la hauteur d'une boîte moyenne est égale aux 2/3 de la hauteur d'une grande boîte."", ""B"": ""Elle a raison, car on peut toujours ranger 3 boîtes moyennes dans le même espace que 2 grandes boîtes."", ""C"": ""Elle a tort, car aucune des dimensions de rangement intérieur du camion A n'est un multiple de 0,75, qui est la hauteur d'une grande boîte."", ""D"": ""Elle a tort, car la hauteur d'une grande boîte est 1,5 fois supérieure à la hauteur d'une boîte moyenne.""}",Claude,claude-opus-4-5-20251101,4,622,286,,medium,"Carton moyen: 0.5 × 0.5 × 0.5 = 0.125 m³
+Carton grand: 0.5 × 0.5 × 0.75 = 0.1875 m³
+
+Rapport: 0.125/0.1875 = 2/3 ✓ (Mara a raison sur ce point)
+
+Camion A: 4m × 2m × 2m
+
+Pour les cartons moyens: 8 × 4 × 4 = 128 cartons (parfait)
+
+Pour les grands cartons: hauteur 0.75m ne divise pas 2m (2/0.75 = 2.67)
+On ne peut empiler que 2 grands cartons en hauteur (1.5m), perdant 0.5m.
+
+Donc le nombre de grands cartons ≠ 2/3 × 128, car l'espace n'est pas optimisé de la même façon.
+
+La réponse C est correcte: 2m n'est pas un multiple de 0.75."
+q005,French Machine,D,D,True,,D,level 2,"En moyenne, à combien de millions de kilomètres environ se trouve la planète Neptune du Soleil ?","{""A"": ""5 millions de km"", ""B"": ""30 millions de km"", ""C"": ""180 millions de km"", ""D"": ""4500 millions de km""}",Claude,claude-opus-4-5-20251101,4,297,61,,medium,"Neptune est à 30,05 ua du Soleil. 1 ua = 150 millions de km.
+30,05 × 150 ≈ 4507,5 millions de km"
+q006,French Machine,A,A,True,,A,level 5,"Compte tenu de la marge de victoire moyenne de la saison, est-il possible que l'équipe n'ait jamais gagné un match par 19 points d'écart ?","{""A"": ""Oui"", ""B"": ""Non""}",Claude,claude-opus-4-5-20251101,4,306,126,,medium,"La question demande si une équipe avec une marge de victoire moyenne de 19 points peut n'avoir jamais gagné exactement par 19 points.
+
+Oui, c'est possible. Par exemple, si l'équipe a joué 2 matchs et gagné l'un par 18 points et l'autre par 20 points, la moyenne serait (18+20)/2 = 19, sans jamais avoir gagné par exactement 19 points."
+q007,French Machine,A,A,True,,A,level 4,"En termes de points de pourcentage, quel pays a enregistré la plus forte progression entre 2005 et 2015 ?","{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,4,629,118,,medium,"Calculons la progression entre 2005 et 2015 pour les pays listés:
+- Grèce: 31,45 - 29,11 = +2,34
+- Arménie: 11,77 - 11,77 = 0
+- Panama: 62,11 - 64,33 = -2,22
+- Kazakhstan: 1,23 - 1,24 = -0,01"
+q008,French Machine,B,B,True,,B,level 4,Quel pays n'a connu aucun changement global entre 2005 et 2015 ?,"{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,4,623,68,,medium,"Je cherche le pays dont la valeur en 2005 est égale à celle de 2015.
+- Arménie : 2005 = 11,77 et 2015 = 11,77 → identiques"
+q009,French Machine,C,C,True,,C,level 4,"En termes de points de pourcentage, quel pays a subi la plus forte perte entre 2005 et 2015 ?","{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,4,629,193,,medium,"Je dois trouver le pays avec la plus forte perte (diminution) entre 2005 et 2015.
+
+- Panama: 64,33 - 62,11 = 2,22 points de perte
+- Colombie: 54,26 - 52,73 = 1,53
+- Sénégal: 45,05 - 42,97 = 2,08
+- Corée du Sud: 64,42 - 63,69 = 0,73
+- Pérou: 59,01 - 57,79 = 1,22
+- Portugal: 36,52 - 35,25 = 1,27
+
+Panama a la plus forte perte avec 2,22 points."
+q010,French Machine,A,A,True,,A,level 6,"Considérons les deux périodes suivantes : 2005-2010 et 2010-2015.
+En points de pourcentage, quels sont les deux pays qui ont connu la plus forte variation de leur superficie forestière entre ces deux périodes ?","{""A"": [""Inde"", ""Colombie""], ""B"": [""Inde"", ""Arménie""], ""C"": [""Panama"", ""Colombie""], ""D"": [""Kazakhstan"", ""Colombie""]}",Claude,claude-opus-4-5-20251101,4,687,483,,medium,"Je dois calculer la variation entre les deux périodes pour chaque pays.
+
+Période 1 (2005-2010) = 2010 - 2005
+Période 2 (2010-2015) = 2015 - 2010
+Variation = |Période 2 - Période 1|
+
+Algérie: P1=0.17, P2=0.01, Var=0.16
+Arménie: P1=-0.03, P2=0.03, Var=0.06
+Colombie: P1=-1.41, P2=-0.12, Var=1.29
+Allemagne: P1=0.07, P2=0.03, Var=0.04
+Grèce: P1=1.17, P2=1.17, Var=0
+Inde: P1=0.70, P2=0.30, Var=0.40
+Kazakhstan: P1=-0.01, P2=0, Var=0.01
+Liban: P1=0.04, P2=0.04, Var=0
+Panama: P1=-1.12, P2=-1.10, Var=0.02
+Pérou: P1=-0.56, P2=-0.66, Var=0.10
+Portugal: P1=-0.63, P2=-0.64, Var=0.01
+Sénégal: P1=-1.04, P2=-1.04, Var=0
+Corée du Sud: P1=-0.34, P2=-0.39, Var=0.05
+Thaïlande: P1=0.30, P2=0.29, Var=0.01
+États-Unis: P1=0.44, P2=0.15, Var=0.29
+
+Les plus fortes variations: Colombie (1.29), Inde (0.40)"
+q011,French Machine,B,B,True,,B,level 6,"Helena affirme que la Corée du Sud possède une superficie forestière plus importante que tout autre pays de cette liste pour les années indiquées.
+Ses affirmations sont-elles étayées par les données du tableau ?","{""A"": ""Oui"", ""B"": ""Non""}",Claude,claude-opus-4-5-20251101,4,636,252,,medium,"Helena affirme que la Corée du Sud a la plus grande superficie forestière. Regardons les données :
+- Corée du Sud : 64,42 (2005), 64,08 (2010), 63,69 (2015)
+- Panama : 64,33 (2005), 63,21 (2010), 62,11 (2015)
+
+En 2005, Corée du Sud (64,42) > Panama (64,33) ✓
+En 2010, Corée du Sud (64,08) > Panama (63,21) ✓
+En 2015, Corée du Sud (63,69) > Panama (62,11) ✓
+
+Mais attention : le tableau montre le pourcentage de superficie forestière, pas la superficie forestière réelle. La Corée du Sud a le plus haut pourcentage, mais pas nécessairement la plus grande superficie absolue (les États-Unis, par exemple, ont une superficie totale bien plus grande)."
+q012,French Machine,B,B,True,,B,level 5,Sur quoi s'accordent les scientifiques mentionnés dans l'article et Jared Diamond ?,"{""A"": ""Les humains se sont installés à Rapa Nui il y a des centaines d'années."", ""B"": ""Les grands arbres ont disparu de Rapa Nui."", ""C"": ""Les rats polynésiens mangeaient les graines des grands arbres de Rapa Nui."", ""D"": ""Les Européens sont arrivés à Rapa Nui au XVIIIe siècle.""}",Claude,claude-opus-4-5-20251101,4,695,89,,medium,"L'article indique que les scientifiques ""s'accordaient sur le fait que les immenses arbres avaient disparu avant l'arrivée des Européens sur l'île au XVIIIe siècle, mais ils contestaient l'explication de Jared Diamond quant à la cause de cette disparition."""
+q013,French Machine,D,D,True,,D,level 4,Quelles preuves Carl Lipo et Terry Hunt présentent-ils pour étayer leur théorie sur la disparition des grands arbres de Rapa Nui ?,"{""A"": ""Les rats sont arrivés sur l'île à bord des canoës des colons."", ""B"": ""Les rats ont peut-être été amenés intentionnellement par les colons."", ""C"": ""Les populations de rats peuvent doubler tous les 47 jours."", ""D"": ""Les restes de noix de palme présentent des marques de rongement faites par les rats.""}",Claude,claude-opus-4-5-20251101,4,701,78,,medium,"La question demande quelles preuves Lipo et Hunt présentent. Le texte dit : ""Pour étayer leur théorie, Lipo et Hunt mettent en avant des restes de noix de palme portant des traces de rongement laissées par des rats."""
+q014,French Machine,B,B,True,,B,level 4,"D'après le blog, quand la professeure a-t-elle commencé son travail de terrain ?","{""A"": ""Au cours des années 1990."", ""B"": ""Il y a neuf mois."", ""C"": ""Il y a un an."", ""D"": ""Au début du mois de mai.""}",Claude,claude-opus-4-5-20251101,4,871,67,,medium,"The blog post mentions ""j'ai étudiés ces neuf derniers mois"" (I have studied these last nine months). The post is dated May 23, so nine months ago would be around late August/early September of the previous year."
+q015,French Machine,A,A,True,,A,level 5,"Cette affirmation est-elle un fait ou une opinion ?
+Dans son livre, l’auteur décrit plusieurs civilisations qui se sont effondrées en raison de leurs choix et de leur impact sur l’environnement.
+L’un des exemples les plus troublants est celui de Rapa Nui.
+Les habitants ont sculpté les moaï, ces célèbres statues, et utilisé les ressources naturelles à leur disposition pour déplacer ces immenses statues à différents endroits de l’île.
+Lorsque les premiers Européens ont débarqué à Rapa Nui en 1722, les moaï étaient toujours là, mais les arbres avaient disparu.
+Ce livre est bien écrit et mérite d’être lu par tous ceux qui se soucient de l’environnement.","{""A"": [""Fait"", ""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""B"": [""Opinion"", ""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""C"": [""Fait"", ""Opinion"", ""Fait"", ""Opinion"", ""Opinion""], ""D"": [""Fait"", ""Opinion"", ""Opinion"", ""Fait"", ""Opinion""]}",Claude,claude-opus-4-5-20251101,4,950,165,,medium,"Let me analyze each statement:
+1. ""Dans son livre, l'auteur décrit plusieurs civilisations..."" - This is a fact (verifiable content of the book)
+2. ""L'un des exemples les plus troublants..."" - Opinion (""troublants"" is subjective)
+3. ""Les habitants ont sculpté les moaï..."" - Fact (historical/verifiable)
+4. ""Lorsque les premiers Européens ont débarqué..."" - Fact (historical event)
+5. ""Ce livre est bien écrit et mérite d'être lu..."" - Opinion (subjective judgment)
+
+Answer: Fait, Opinion, Fait, Fait, Opinion"
+q016,French Machine,B,B,True,,B,level 1b,"Selon l'IDFA, avec quelle affirmation les principaux professionnels et organisations de santé sont-ils d'accord ?","{""A"": ""La consommation de lait et de produits laitiers entraîne l'obésité."", ""B"": ""Le lait est une bonne source de vitamines et de minéraux essentiels."", ""C"": ""Le lait contient plus de vitamines que de minéraux."", ""D"": ""La consommation de lait est une cause majeure d'ostéoporose.""}",Claude,claude-opus-4-5-20251101,4,785,69,,medium,Le texte indique que l'IDFA suggère que les professionnels de santé partagent l'avis que le lait contient de nombreux nutriments essentiels et est une bonne source de vitamines et minéraux.
+q017,French Machine,D,D,True,,D,level 2,Quel est l'objectif principal de ce texte ?,"{""A"": ""Affirmer que les produits laitiers favorisent la perte de poids."", ""B"": ""Comparer les produits laitiers Farm to Market Dairy à d'autres produits laitiers."", ""C"": ""Informer le public des risques associés aux maladies cardiaques."", ""D"": ""Soutenir la consommation des produits laitiers Farm to Market Dairy.""}",Claude,claude-opus-4-5-20251101,4,770,68,,medium,"Ce texte est clairement un texte promotionnel pour les produits laitiers ""Farm to Market Dairy"". Il vante leurs bienfaits nutritionnels et cite des autorités pour soutenir la consommation de ces produits."
+q018,French Machine,A,A,True,,A,level 5,"Cette affirmation est-elle un fait ou une opinion ?
+Des études récentes sur les bienfaits du lait pour la santé sont surprenantes.
+Des études ont montré que la consommation de lait a des effets néfastes sur la santé.
+Plusieurs études ont remis en question les bienfaits du lait sur les os.
+Boire du lait et d'autres produits laitiers est le meilleur moyen de perdre du poids.","{""A"": [""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""B"": [""Fait"", ""Fait"", ""Opinion"", ""Opinion""], ""C"": [""Fait"", ""Opinion"", ""Fait"", ""Opinion""], ""D"": [""Opinion"", ""Opinion"", ""Fait"", ""Fait""]}",Claude,claude-opus-4-5-20251101,4,1660,194,,medium,"Let me analyze each statement:
+
+1. ""Des études récentes sur les bienfaits du lait pour la santé sont surprenantes."" - ""Surprenantes"" is subjective = Opinion
+
+2. ""Des études ont montré que la consommation de lait a des effets néfastes sur la santé."" - This is verifiable, studies did show this = Fait
+
+3. ""Plusieurs études ont remis en question les bienfaits du lait sur les os."" - This is verifiable, mentioned in the text = Fait
+
+4. ""Boire du lait et d'autres produits laitiers est le meilleur moyen de perdre du poids."" - ""Le meilleur"" is subjective = Opinion
+
+So: Opinion, Fait, Fait, Opinion"
+q019,French Machine,A,A,True,,A,level 3,"Cette affirmation pourrait-elle refléter l'objectif de l'article ?
+Remettre en question les bienfaits des produits laitiers sur la santé en général.
+Discuter de diverses études sur le lait de vache.
+Souligner que le lait et les autres produits laitiers n'ont pas fait l'objet d'études approfondies.","{""A"": [""Oui"", ""Oui"", ""Non""], ""B"": [""Oui"", ""Non"", ""Non""], ""C"": [""Non"", ""Oui"", ""Non""], ""D"": [""Non"", ""Oui"", ""Oui""]}",Claude,claude-opus-4-5-20251101,4,1082,111,,medium,"L'article vise à remettre en question les bienfaits du lait de vache sur la santé. Il discute de diverses études (étude suédoise du BMJ, PCRM). Il ne souligne PAS que le lait n'a pas fait l'objet d'études approfondies - au contraire, il cite plusieurs études.
+
+Donc: Oui, Oui, Non"
+q020,French Machine,A,A,True,,A,level 1a,"Les auteurs des deux textes divergent quant au rôle du lait dans une alimentation équilibrée.
+Quel est le principal point de désaccord entre les auteurs ?","{""A"": ""Les effets du lait sur la santé et son rôle dans l'alimentation humaine."", ""B"": ""Le nombre de vitamines et de minéraux présents dans le lait."", ""C"": ""La meilleure forme de produits laitiers à consommer régulièrement."", ""D"": ""Quelle organisation fait autorité en matière de lait.""}",Claude,claude-opus-4-5-20251101,4,1595,101,,medium,"Le premier texte vante les bienfaits du lait (calcium, vitamines, santé des os, prévention du cancer, etc.). Le second texte remet en question ces bienfaits, citant des études montrant des risques (fractures, maladies cardiaques, cancer). Le désaccord principal porte sur les effets du lait sur la santé."
+q021,French Machine,A,A,True,,A,level 1,Que veut savoir Ivana_88 ?,"{""A"": ""Si elle peut donner de l'aspirine à une poule blessée."", ""B"": ""À quelle fréquence peut-elle donner de l'aspirine à une poule blessée."", ""C"": ""Comment contacter un vétérinaire au sujet d'une poule blessée."", ""D"": ""Si elle peut déterminer le niveau de douleur d'une poule blessée.""}",Claude,claude-opus-4-5-20251101,4,923,55,,medium,Ivana_88 demande si elle peut donner de l'aspirine à sa poule blessée en attendant son rendez-vous chez le vétérinaire.
+q022,French Machine,C,C,True,,C,level 1,Pourquoi Ivana_88 a-t-elle décidé de poser sa question sur un forum Internet ?,"{""A"": ""Parce qu'elle ne sait pas comment trouver un vétérinaire."", ""B"": ""Parce qu'elle pense que le problème de la poule n'est pas grave."", ""C"": ""Parce qu'elle veut aider sa poule au plus vite."", ""D"": ""Parce qu'elle n'a pas les moyens d'aller chez le vétérinaire.""}",Claude,claude-opus-4-5-20251101,4,940,91,,medium,Ivana_88 explique qu'elle ne peut pas aller chez le vétérinaire avant lundi et qu'il ne répond pas au téléphone. Sa poule semble souffrir beaucoup et elle veut la soulager en attendant. Elle cherche donc une solution rapide pour aider sa poule.
+q023,French Machine,A,A,True,,A,level 2,"Ce message est-il pertinent pour le problème d'Ivana_88 ?
+Message de NellieB79
+Message de Monie
+Message d'Avian_Deals
+Message de Bob
+Message de Frank","{""A"": [""Oui"", ""Oui"", ""Non"", ""Non"", ""Oui""], ""B"": [""Oui"", ""Non"", ""Non"", ""Non"", ""Oui""], ""C"": [""Non"", ""Oui"", ""Non"", ""Non"", ""Oui""], ""D"": [""Oui"", ""Oui"", ""Non"", ""Non"", ""Non""]}",Claude,claude-opus-4-5-20251101,4,971,195,,medium,"Ivana_88 demande si elle peut donner de l'aspirine à sa poule blessée.
+
+- NellieB79: Parle de demander au vétérinaire avant de donner des médicaments - pertinent (Oui)
+- Monie: Partage son expérience d'avoir donné de l'aspirine à sa poule - pertinent (Oui)
+- Avian_Deals: Publicité pour des articles pour oiseaux - non pertinent (Non)
+- Bob: Demande comment savoir si une poule est malade - hors sujet (Non)
+- Frank: Vétérinaire qui donne des conseils précis sur le dosage d'aspirine - pertinent (Oui)"
+q024,French Machine,C,C,True,,C,level 1b,Qui a déjà eu une expérience positive en administrant de l'aspirine à une poule blessée ?,"{""A"": ""Ivana_88"", ""B"": ""NellieB79"", ""C"": ""Monie"", ""D"": ""Bob""}",Claude,claude-opus-4-5-20251101,4,867,64,,medium,La question demande qui a eu une expérience positive en donnant de l'aspirine à une poule blessée. Monie dit avoir donné de l'aspirine à sa poule blessée sans problème.
+q025,French Machine,A,A,True,,A,level 1a,Pourquoi Avian_Deals répond-il au message d'Ivana_88 ?,"{""A"": ""Pour promouvoir une entreprise."", ""B"": ""Pour répondre à la question d'Ivana_88."", ""C"": ""Pour compléter les conseils de Monie."", ""D"": ""Pour démontrer une expertise en matière d'oiseaux.""}",Claude,claude-opus-4-5-20251101,4,900,62,,medium,"Avian_Deals publie un message qui fait la promotion de ses offres sur des articles pour oiseaux, sans rapport avec la question d'Ivana_88 sur l'aspirine pour sa poule."
+q001,English Machine,C,C,True,,C,level 6,"If Tania decides to buy car D and resell it in excellent condition three years later, what will be the approximate resale price of the car in zeds?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,5,256,80,,medium,"Car D costs 10,500 zeds. It decreases by 5% each year for 3 years.
+After 3 years: 10,500 × (0.95)³ = 10,500 × 0.857375 ≈ 9,002"
+q002,English Machine,C,C,True,,C,level 6,"If this sales trend continues, in what year will the number of DVDs sold fall below 1 million according to the model?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,5,221,75,,medium,"Need to find when d < 1.
+254 - 22n < 1
+253 < 22n
+n > 11.5
+
+So n = 12 (first whole year where d < 1)
+2008 + 12 = 2020"
+q003,English Machine,B,B,True,,B,level 2,What is the largest number of medium-sized boxes that can fit in truck A?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,5,281,147,,medium,"Truck A dimensions: 4m × 2m × 2m = 16 cubic meters
+Medium carton: 0.5m × 0.5m × 0.5m = 0.125 cubic meters
+
+Number of boxes along each dimension:
+- Length: 4 ÷ 0.5 = 8
+- Width: 2 ÷ 0.5 = 4
+- Height: 2 ÷ 0.5 = 4
+
+Total: 8 × 4 × 4 = 128"
+q004,English Machine,C,C,True,,C,level 6,"The truck rental company confirms that truck A can be filled with only medium-sized boxes so that the entire storage compartment space is used.
+Malika states that a medium-sized box occupies 2/3 the space of a large box, and therefore concludes that the number of large boxes needed to fill truck A is equal to 2/3 the number of medium-sized boxes. Which of the following statements about Malika's conclusion is correct?","{""A"": ""She is right, because the height of a medium-sized box is equal to 2/3 that of a large box."", ""B"": ""She is right, because 3 medium-sized boxes can always fit in the same space as 2 large boxes."", ""C"": ""She is wrong, because none of the internal dimensions of the storage compartment of truck A is a multiple of 0.75, which is the height of a large box."", ""D"": ""She is wrong, because the height of a large box is equal to 1.5 times that of a medium-sized box.""}",Claude,claude-opus-4-5-20251101,5,496,358,,medium,"Let me analyze this problem.
+
+Truck A: 4m × 2m × 2m = 16 cubic meters
+
+Medium box: 0.5 × 0.5 × 0.5 = 0.125 cubic meters
+Large box: 0.5 × 0.5 × 0.75 = 0.1875 cubic meters
+
+Medium box volume is 0.125/0.1875 = 2/3 of large box volume. Malika is correct about this ratio.
+
+But can large boxes actually fill the truck completely?
+- Truck dimensions: 4m, 2m, 2m
+- Large box: 0.5m, 0.5m, 0.75m
+
+For large boxes to fill completely, dimensions must be multiples of the box dimensions.
+- 4 ÷ 0.5 = 8 ✓
+- 4 ÷ 0.75 = 5.33... ✗
+- 2 ÷ 0.5 = 4 ✓
+- 2 ÷ 0.75 = 2.67... ✗
+
+None of the truck dimensions (4, 2, 2) is a multiple of 0.75. So large boxes cannot completely fill the truck. This means Malika's conclusion about simply using 2/3 the number of large boxes is wrong because you can't even fill the truck with large boxes."
+q005,English Machine,D,D,True,,D,level 2,"On average, how many millions of kilometers are there between the Sun and the planet Neptune?","{""A"": ""5 million km"", ""B"": ""30 million km"", ""C"": ""180 million km"", ""D"": ""4,500 million km""}",Claude,claude-opus-4-5-20251101,5,264,66,,medium,"Neptune is 30.05 AU from the Sun. 1 AU = 150 million km.
+30.05 × 150 = 4,507.5 million km ≈ 4,500 million km"
+q006,English Machine,A,A,True,,A,level 5,"Given the average point spreads this season, is it possible that the team has never actually won a game while leading by 19 points?","{""A"": ""Yes"", ""B"": ""No""}",Claude,claude-opus-4-5-20251101,5,241,94,,medium,"The question asks if a team with an average margin of 19 points could have never won by exactly 19 points.
+
+Yes, this is possible. For example, they could have won some games by 18 points and others by 20 points, averaging to 19. Or various other combinations like winning by 1 point in some games and 37 in others."
+q007,English Machine,A,A,True,,A,level 4,Which country experienced the largest increase in percentage points between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,5,570,129,,medium,"Looking for the largest increase from 2005 to 2015:
+- Greece: 31.45 - 29.11 = 2.34
+- Armenia: 11.77 - 11.77 = 0
+- Panama: 62.11 - 64.33 = -2.22 (decrease)
+- Kazakhstan: 1.23 - 1.24 = -0.01 (decrease)
+
+Greece has the largest increase at 2.34 percentage points."
+q008,English Machine,B,B,True,,B,level 4,Which country experienced no overall change between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,5,567,59,,medium,"Looking for a country with the same value in 2005 and 2015:
+- Armenia: 11.77 in 2005 and 11.77 in 2015 - no change"
+q009,English Machine,C,C,True,,C,level 4,Which country experienced the largest decline in percentage points between 2005 and 2015?,"{""A"": ""Greece"", ""B"": ""Armenia"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,5,570,178,,medium,"I need to find the country with the largest decline from 2005 to 2015.
+
+Looking at countries that declined:
+- Colombia: 54.26 - 52.73 = 1.53
+- South Korea: 64.42 - 63.69 = 0.73
+- Panama: 64.33 - 62.11 = 2.22
+- Peru: 59.01 - 57.79 = 1.22
+- Portugal: 36.52 - 35.25 = 1.27
+- Senegal: 45.05 - 42.97 = 2.08
+
+Panama has the largest decline at 2.22 percentage points."
+q010,English Machine,A,A,True,,A,level 6,"Examine the following two periods: 2005 to 2010, and 2010 to 2015. Which two countries experienced the greatest change in the percentage of their forest area, expressed as a percentage point, from one period to the other?","{""A"": [""India"", ""Colombia""], ""B"": [""India"", ""Armenia""], ""C"": [""Panama"", ""Colombia""], ""D"": [""Kazakhstan"", ""Colombia""]}",Claude,claude-opus-4-5-20251101,5,629,394,,medium,"I need to find the change in forest percentage for each period, then see which countries had the biggest difference between those two period changes.
+
+For each country, calculate:
+- Change 2005-2010
+- Change 2010-2015
+- Difference between these changes
+
+Let me check a few key ones:
+
+India: 2005-2010: 23.47-22.77=0.70, 2010-2015: 23.77-23.47=0.30, Diff: |0.70-0.30|=0.40
+
+Colombia: 2005-2010: 52.85-54.26=-1.41, 2010-2015: 52.73-52.85=-0.12, Diff: |-1.41-(-0.12)|=1.29
+
+Armenia: 2005-2010: 11.74-11.77=-0.03, 2010-2015: 11.77-11.74=0.03, Diff: |-0.03-0.03|=0.06
+
+Panama: 2005-2010: 63.21-64.33=-1.12, 2010-2015: 62.11-63.21=-1.10, Diff: |-1.12-(-1.10)|=0.02
+
+Kazakhstan: 2005-2010: 1.23-1.24=-0.01, 2010-2015: 1.23-1.23=0, Diff: 0.01
+
+India and Colombia have significant changes. Let me verify Colombia has the largest and India is second largest among the options."
+q011,English Machine,B,B,True,,B,level 6,"Helena claims that South Korea has a larger forest area than all other countries on this list for the years indicated.
+Does her claim match the data provided in the spreadsheet?","{""A"": ""Yes"", ""B"": ""No""}",Claude,claude-opus-4-5-20251101,5,578,128,,medium,"Helena claims South Korea has a larger forest area than all other countries. But the data shows forest cover as percentage of land area, not actual forest area. Looking at percentages, South Korea (63-64%) isn't even the highest - Panama (62-64%) is similar, and Colombia (52-54%) and Peru (57-59%) also have high percentages. But more importantly, percentage doesn't equal total area - countries like the US or India could have much larger total forest areas despite lower percentages due to their much larger total land area."
+q012,English Machine,B,B,True,,B,level 5,What do the scientists cited in the article and Jared Diamond agree on?,"{""A"": ""Humans colonized Easter Island hundreds of years ago."", ""B"": ""The large trees disappeared from Easter Island."", ""C"": ""Polynesian rats ate the seeds of the large trees on Easter Island."", ""D"": ""Europeans arrived on Easter Island in the 18th century.""}",Claude,claude-opus-4-5-20251101,5,485,76,,medium,"The question asks what both the scientists (Lipo and Hunt) and Jared Diamond agree on. The article states that the scientists ""acknowledged that the island's immense trees had disappeared by the time Europeans arrived"" - this is presented as common ground between them, while they disagreed about the cause."
+q013,English Machine,D,D,True,,D,level 4,What evidence do Carl Lipo and Terry Hunt provide to support their theory about the cause of the disappearance of the large trees on Easter Island?,"{""A"": ""The rats arrived on the island in the settlers' canoes."", ""B"": ""The rats may have been intentionally brought by the settlers."", ""C"": ""A rat population can double every 47 days."", ""D"": ""Remains of palm nuts bear rat bite marks.""}",Claude,claude-opus-4-5-20251101,5,500,59,,medium,"The question asks what evidence Lipo and Hunt provide. The passage mentions remains of palm nuts with rat bite marks as evidence they ""present"" to support their theory. The other options are claims or background information, not evidence."
+q014,English Machine,B,B,True,,B,level 4,"According to the blog, when did the professor begin her fieldwork?","{""A"": ""In the 1990s."", ""B"": ""Nine months ago."", ""C"": ""One year ago."", ""D"": ""At the beginning of May.""}",Claude,claude-opus-4-5-20251101,5,611,47,,medium,"The professor mentions ""I've been studying for the past nine months"" and this is her last week on the island. So she began her fieldwork nine months ago."
+q015,English Machine,A,A,True,,A,level 5,"Is the statement a fact or an opinion?
+
+In this book, the author recounts how several civilizations collapsed due to choices they made that impacted the environment.
+One of the most disturbing examples in the book is that of Easter Island.
+They carved the famous moai statues and used the natural resources at their disposal to move these immense moai to different locations on the island.
+When the first Europeans landed on Easter Island in 1722, the moai were still there, but the trees were gone.
+This well-written book deserves to be read by anyone concerned about the environment.","{""A"": [""Fact"", ""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""B"": [""Opinion"", ""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""C"": [""Fact"", ""Opinion"", ""Fact"", ""Opinion"", ""Opinion""], ""D"": [""Fact"", ""Opinion"", ""Opinion"", ""Fact"", ""Opinion""]}",Claude,claude-opus-4-5-20251101,5,656,176,,medium,"Let me analyze each statement:
+1. ""In this book, the author recounts how several civilizations collapsed..."" - This is a fact about what the book contains.
+2. ""One of the most disturbing examples..."" - ""Most disturbing"" is subjective - Opinion.
+3. ""They carved the famous moai statues and used natural resources..."" - This describes what happened - Fact.
+4. ""When the first Europeans landed on Easter Island in 1722, the moai were still there, but the trees were gone."" - Historical fact.
+5. ""This well-written book deserves to be read..."" - ""Well-written"" and ""deserves"" are opinions.
+
+So: Fact, Opinion, Fact, Fact, Opinion"
+q016,English Machine,B,B,True,,B,level 1b,"According to the IDFA, with which statement do leading health professionals and organizations agree?","{""A"": ""Consuming milk and milk products leads to obesity."", ""B"": ""Milk is a good source of essential vitamins and minerals."", ""C"": ""Milk contains more vitamins than minerals."", ""D"": ""Drinking milk is a leading cause of osteoporosis.""}",Claude,claude-opus-4-5-20251101,5,538,68,,medium,"The passage states that the AIPL/IDFA suggests that ""many professionals and major groups in the health sector would agree"" with the position that milk contains essential nutrients and is important for health. The passage emphasizes milk as a source of vitamins and minerals."
+q017,English Machine,D,D,True,,D,level 2,What is the main purpose of this text?,"{""A"": ""To argue that milk products increase weight loss."", ""B"": ""To compare Farm to Market Dairy milk products to other dairy products."", ""C"": ""To inform the public of the risks associated with heart disease."", ""D"": ""To support the use of Farm to Market Dairy products.""}",Claude,claude-opus-4-5-20251101,5,531,89,,medium,"This text is clearly promotional material from a dairy company (Dairy Farm/Farm to Market Dairy) that emphasizes the benefits of their products. It's not focused on weight loss specifically (A), doesn't compare to other dairy products (B), and isn't about heart disease risks (C). The main purpose is to promote/support the use of their dairy products."
+q018,English Machine,A,A,True,,A,level 5,"Is the statement a fact or an opinion?
+Recent studies on the health benefits of milk are surprising.
+Studies have shown that drinking milk has detrimental health effects.
+Several studies have questioned the bone-strengthening power of milk.
+Drinking milk and other dairy products is the best way to lose weight.","{""A"": [""Opinion"", ""Fact"", ""Fact"", ""Opinion""], ""B"": [""Fact"", ""Fact"", ""Opinion"", ""Opinion""], ""C"": [""Fact"", ""Opinion"", ""Fact"", ""Opinion""], ""D"": [""Opinion"", ""Opinion"", ""Fact"", ""Fact""]}",Claude,claude-opus-4-5-20251101,5,1102,322,,medium,"Let me analyze each statement:
+
+1. ""Recent studies on the health benefits of milk are surprising."" - ""Surprising"" is subjective - Opinion
+
+2. ""Studies have shown that drinking milk has detrimental health effects."" - This is a claim about what studies show, but ""detrimental"" involves interpretation. The passage says studies found negative effects, but calling them ""detrimental"" is somewhat evaluative - this could be seen as Fact (studies did show negative effects) or Opinion.
+
+3. ""Several studies have questioned the bone-strengthening power of milk."" - The passage explicitly states ""several studies conducted over the past decade have challenged the notion that milk strengthens bones"" - this is verifiable - Fact
+
+4. ""Drinking milk and other dairy products is the best way to lose weight."" - ""Best way"" is subjective - Opinion
+
+Looking at the options:
+A: Opinion, Fact, Fact, Opinion
+B: Fact, Fact, Opinion, Opinion
+C: Fact, Opinion, Fact, Opinion
+D: Opinion, Opinion, Fact, Fact
+
+Statement 1 (surprising) = Opinion
+Statement 3 (questioned bone-strengthening) = Fact
+Statement 4 (best way) = Opinion
+
+This points to A: Opinion, Fact, Fact, Opinion
+
+For statement 2, if it's considered Fact (studies did show this), then A works."
+q019,English Machine,A,A,True,,A,level 3,"Could this statement represent the purpose of the article?
+To question the benefit of dairy products on general health.
+To discuss various research findings about cow’s milk.
+To point out that milk and other dairy products have not been studied.","{""A"": [""Yes"", ""Yes"", ""No""], ""B"": [""Yes"", ""No"", ""No""], ""C"": [""No"", ""Yes"", ""No""], ""D"": [""No"", ""Yes"", ""Yes""]}",Claude,claude-opus-4-5-20251101,5,725,55,,medium,"The article questions the benefits of dairy products - Yes
+It discusses various research findings about cow's milk - Yes
+It does NOT point out that milk hasn't been studied (it discusses multiple studies) - No"
+q020,English Machine,A,A,True,,A,level 1a,"The authors of the two texts disagree on the role of milk in a regular diet.
+What is the main point the authors disagree on?","{""A"": ""Milk’s effects on health and milk’s role in human diets."", ""B"": ""The number of vitamins and minerals found in milk."", ""C"": ""The best form of dairy to regularly consume."", ""D"": ""Which organization is the leading authority on milk.""}",Claude,claude-opus-4-5-20251101,5,1043,70,,medium,"The first text promotes milk as beneficial for health (bones, weight loss, cardiovascular health, cancer prevention). The second text argues milk may be harmful (more bone fractures, heart disease, cancer risk). They fundamentally disagree on whether milk is good or bad for health."
+q021,English Machine,A,A,True,,A,level 1,What does Isabelle_88 want to know?,"{""A"": ""Can she give aspirin to an injured hen?"", ""B"": ""How often can she give aspirin to an injured hen?"", ""C"": ""How to contact a veterinarian about an injured hen."", ""D"": ""Can she determine the pain level of an injured hen?""}",Claude,claude-opus-4-5-20251101,5,672,59,,medium,"Isabelle_88's question is clearly stated: ""Can I give aspirin to my hen?"" She wants to know if it's safe/possible to give aspirin to her injured chicken while waiting for the vet."
+q022,English Machine,C,C,True,,C,level 1,Why did Isabelle_88 decide to ask her question on an internet forum?,"{""A"": ""Because she doesn't know how to find a veterinarian."", ""B"": ""Because she thinks the hen's problem isn't serious."", ""C"": ""Because she wants to help her hen as quickly as possible."", ""D"": ""Because she can't afford to go to the veterinarian.""}",Claude,claude-opus-4-5-20251101,5,682,67,,medium,Isabelle_88 explains she can't go to the vet until Monday and can't reach them by phone. She wants to relieve her hen's pain while waiting. This indicates she wants to help her hen quickly while waiting for proper veterinary care.
+q023,English Machine,A,A,True,,A,level 2,"Is this message related to Isabelle_88's problem?
+NoemieB79's message
+Monique's message
+Promos_Aviaires' message
+Boris's message
+Frank's message","{""A"": [""Yes"", ""Yes"", ""No"", ""No"", ""Yes""], ""B"": [""Yes"", ""No"", ""No"", ""No"", ""Yes""], ""C"": [""No"", ""Yes"", ""No"", ""No"", ""Yes""], ""D"": [""Yes"", ""Yes"", ""No"", ""No"", ""No""]}",Claude,claude-opus-4-5-20251101,5,736,115,,medium,"Let me check each message:
+- NoemieB79: Discusses aspirin safety for chickens - Yes, related
+- Monique: Shares experience giving aspirin to hen - Yes, related
+- Promos_Aviaires: Spam about bird supplies - No, not related
+- Boris: Asks unrelated question about sick hens - No, not related
+- Frank: Directly answers with veterinary advice on aspirin dosage - Yes, related"
+q024,English Machine,C,C,True,,C,level 1b,Who has ever observed a positive result after giving aspirin to an injured chicken?,"{""A"": ""Isabelle_88"", ""B"": ""NoemieB79"", ""C"": ""Monique"", ""D"": ""Boris""}",Claude,claude-opus-4-5-20251101,5,645,70,,medium,"Looking for who observed a positive result after giving aspirin to an injured chicken. Monique said ""I already gave one of my injured hens an aspirin tablet. There was no problem. The next day, I went to the vet, but she was already better."""
+q025,English Machine,A,A,True,,A,level 1a,Why is Promos_Aviaires replying to Isabelle_88's message?,"{""A"": ""To promote a business."", ""B"": ""To answer Isabelle_88's question."", ""C"": ""To complement Monique's advice."", ""D"": ""To demonstrate her knowledge of birds.""}",Claude,claude-opus-4-5-20251101,5,665,53,,medium,"Promos_Aviaires' post is clearly promotional - advertising ""exceptional offers on all bird supplies"" and ""amazing promotions."" It doesn't address Isabelle's question at all."
+q001,French Machine,C,C,True,,C,level 6,"Si Tania décide d'acheter la voiture D et de la revendre après trois ans en excellent état, quel sera le prix de revente approximatif de la voiture en zeds ?","{""A"": ""1575"", ""B"": ""8925"", ""C"": ""9000"", ""D"": ""9975""}",Claude,claude-opus-4-5-20251101,5,292,83,,medium,"Prix initial: 10 500 zeds
+Diminution de 5% par an pendant 3 ans
+Prix après 3 ans = 10 500 × (0,95)³ = 10 500 × 0,857375 ≈ 9 002 zeds"
+q002,French Machine,C,C,True,,C,level 6,"Si cette tendance des ventes se maintient, en quelle année le nombre de DVD vendus sera-t-il inférieur à 1 million selon le modèle ?","{""A"": ""2015"", ""B"": ""2018"", ""C"": ""2020"", ""D"": ""2022""}",Claude,claude-opus-4-5-20251101,5,238,95,,medium,"Je dois trouver quand d < 1 million.
+254 - 22n < 1
+253 < 22n
+n > 253/22 ≈ 11.5
+
+Donc n = 12 (première année entière où d < 1)
+Année = 2008 + 12 = 2020"
+q003,French Machine,B,B,True,,B,level 2,Quel est le nombre maximal de boîtes moyennes pouvant tenir dans le camion A ?,"{""A"": ""320"", ""B"": ""128"", ""C"": ""26"", ""D"": ""16""}",Claude,claude-opus-4-5-20251101,5,335,144,,medium,"Camion A: 4m × 2m × 2m
+Boîte moyenne: 0,5m × 0,5m × 0,5m
+
+Nombre de boîtes par dimension:
+- Longueur: 4 ÷ 0,5 = 8
+- Largeur: 2 ÷ 0,5 = 4
+- Hauteur: 2 ÷ 0,5 = 4
+
+Total: 8 × 4 × 4 = 128"
+q004,French Machine,C,C,True,,C,level 6,"La société de location des camions a confirmé que le camion A peut être rempli uniquement de cartons moyens, optimisant ainsi l'espace de chargement.
+Mara affirme qu'un carton moyen occupe les 2/3 de l'espace d'un grand carton. Elle en conclut que le nombre de grands cartons nécessaires pour remplir le camion A est égal aux 2/3 du nombre de cartons moyens.
+Laquelle des affirmations suivantes concernant la conclusion de Mara est vraie ?","{""A"": ""Elle a raison, car la hauteur d'une boîte moyenne est égale aux 2/3 de la hauteur d'une grande boîte."", ""B"": ""Elle a raison, car on peut toujours ranger 3 boîtes moyennes dans le même espace que 2 grandes boîtes."", ""C"": ""Elle a tort, car aucune des dimensions de rangement intérieur du camion A n'est un multiple de 0,75, qui est la hauteur d'une grande boîte."", ""D"": ""Elle a tort, car la hauteur d'une grande boîte est 1,5 fois supérieure à la hauteur d'une boîte moyenne.""}",Claude,claude-opus-4-5-20251101,5,622,223,,medium,"Volume carton moyen: 0,5 × 0,5 × 0,5 = 0,125 m³
+Volume carton grand: 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+Ratio: 0,125/0,1875 = 2/3 ✓ (Mara a raison sur ce point)
+
+Mais la conclusion de Mara est fausse. Le camion A a une hauteur de 2m.
+- 2m ÷ 0,5m = 4 cartons moyens en hauteur ✓
+- 2m ÷ 0,75m = 2,67... pas un nombre entier
+
+Aucune dimension du camion (4m, 2m, 2m) n'est divisible par 0,75."
+q005,French Machine,D,D,True,,D,level 2,"En moyenne, à combien de millions de kilomètres environ se trouve la planète Neptune du Soleil ?","{""A"": ""5 millions de km"", ""B"": ""30 millions de km"", ""C"": ""180 millions de km"", ""D"": ""4500 millions de km""}",Claude,claude-opus-4-5-20251101,5,297,61,,medium,"Neptune est à 30,05 ua du Soleil. 1 ua = 150 millions de km.
+30,05 × 150 ≈ 4507,5 millions de km"
+q006,French Machine,A,A,True,,A,level 5,"Compte tenu de la marge de victoire moyenne de la saison, est-il possible que l'équipe n'ait jamais gagné un match par 19 points d'écart ?","{""A"": ""Oui"", ""B"": ""Non""}",Claude,claude-opus-4-5-20251101,5,306,101,,medium,"La marge de victoire moyenne est de 19 points. Cela ne signifie pas que chaque match a été gagné par exactement 19 points. Par exemple, l'équipe pourrait avoir gagné un match par 10 points et un autre par 28 points, donnant une moyenne de 19 sans jamais avoir gagné exactement par 19 points."
+q007,French Machine,A,A,True,,A,level 4,"En termes de points de pourcentage, quel pays a enregistré la plus forte progression entre 2005 et 2015 ?","{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,5,629,118,,medium,"Calculons la progression entre 2005 et 2015 pour les pays listés:
+- Grèce: 31,45 - 29,11 = +2,34
+- Arménie: 11,77 - 11,77 = 0
+- Panama: 62,11 - 64,33 = -2,22
+- Kazakhstan: 1,23 - 1,24 = -0,01"
+q008,French Machine,B,B,True,,B,level 4,Quel pays n'a connu aucun changement global entre 2005 et 2015 ?,"{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,5,623,67,,medium,"Je cherche un pays avec la même valeur en 2005 et 2015.
+- Arménie : 11,77 en 2005 et 11,77 en 2015 → aucun changement"
+q009,French Machine,C,C,True,,C,level 4,"En termes de points de pourcentage, quel pays a subi la plus forte perte entre 2005 et 2015 ?","{""A"": ""Grèce"", ""B"": ""Arménie"", ""C"": ""Panama"", ""D"": ""Kazakhstan""}",Claude,claude-opus-4-5-20251101,5,629,150,,medium,"Je dois calculer la différence entre 2005 et 2015 pour trouver la plus forte perte.
+
+Panama: 62,11 - 64,33 = -2,22 points
+Colombie: 52,73 - 54,26 = -1,53 points
+Sénégal: 42,97 - 45,05 = -2,08 points
+Portugal: 35,25 - 36,52 = -1,27 points
+
+Panama a la plus forte perte avec -2,22 points de pourcentage."
+q010,French Machine,A,A,True,,A,level 6,"Considérons les deux périodes suivantes : 2005-2010 et 2010-2015.
+En points de pourcentage, quels sont les deux pays qui ont connu la plus forte variation de leur superficie forestière entre ces deux périodes ?","{""A"": [""Inde"", ""Colombie""], ""B"": [""Inde"", ""Arménie""], ""C"": [""Panama"", ""Colombie""], ""D"": [""Kazakhstan"", ""Colombie""]}",Claude,claude-opus-4-5-20251101,5,687,402,,medium,"Je dois calculer la variation entre les deux périodes pour chaque pays.
+
+Période 1 (2005-2010) et Période 2 (2010-2015), puis la différence entre ces variations.
+
+Algérie: (0.81-0.64)=0.17, (0.82-0.81)=0.01, différence: |0.01-0.17|=0.16
+Arménie: (11.74-11.77)=-0.03, (11.77-11.74)=0.03, différence: |0.03-(-0.03)|=0.06
+Colombie: (52.85-54.26)=-1.41, (52.73-52.85)=-0.12, différence: |-0.12-(-1.41)|=1.29
+Inde: (23.47-22.77)=0.70, (23.77-23.47)=0.30, différence: |0.30-0.70|=0.40
+Kazakhstan: (1.23-1.24)=-0.01, (1.23-1.23)=0, différence: 0.01
+Panama: (63.21-64.33)=-1.12, (62.11-63.21)=-1.10, différence: 0.02
+Pérou: (58.45-59.01)=-0.56, (57.79-58.45)=-0.66, différence: 0.10
+
+Les plus fortes variations: Colombie (1.29) et Inde (0.40)"
+q011,French Machine,B,B,True,,B,level 6,"Helena affirme que la Corée du Sud possède une superficie forestière plus importante que tout autre pays de cette liste pour les années indiquées.
+Ses affirmations sont-elles étayées par les données du tableau ?","{""A"": ""Oui"", ""B"": ""Non""}",Claude,claude-opus-4-5-20251101,5,636,188,,medium,"Helena affirme que la Corée du Sud a la plus grande superficie forestière. Regardons les pourcentages pour 2005, 2010, 2015:
+- Corée du Sud: 64,42 / 64,08 / 63,69
+- Panama: 64,33 / 63,21 / 62,11
+
+En 2005, Corée du Sud (64,42) > Panama (64,33) - oui
+Mais le tableau montre des pourcentages, pas des superficies absolues. La Corée du Sud a un pourcentage plus élevé, mais pas nécessairement une superficie forestière plus grande en valeur absolue (qui dépend de la taille totale du pays)."
+q012,French Machine,B,B,True,,B,level 5,Sur quoi s'accordent les scientifiques mentionnés dans l'article et Jared Diamond ?,"{""A"": ""Les humains se sont installés à Rapa Nui il y a des centaines d'années."", ""B"": ""Les grands arbres ont disparu de Rapa Nui."", ""C"": ""Les rats polynésiens mangeaient les graines des grands arbres de Rapa Nui."", ""D"": ""Les Européens sont arrivés à Rapa Nui au XVIIIe siècle.""}",Claude,claude-opus-4-5-20251101,5,695,79,,medium,"L'article dit que les scientifiques ""s'accordaient sur le fait que les immenses arbres avaient disparu avant l'arrivée des Européens sur l'île au XVIIIe siècle"". C'est le point d'accord explicitement mentionné."
+q013,French Machine,D,D,True,,D,level 4,Quelles preuves Carl Lipo et Terry Hunt présentent-ils pour étayer leur théorie sur la disparition des grands arbres de Rapa Nui ?,"{""A"": ""Les rats sont arrivés sur l'île à bord des canoës des colons."", ""B"": ""Les rats ont peut-être été amenés intentionnellement par les colons."", ""C"": ""Les populations de rats peuvent doubler tous les 47 jours."", ""D"": ""Les restes de noix de palme présentent des marques de rongement faites par les rats.""}",Claude,claude-opus-4-5-20251101,5,701,84,,medium,"La question demande quelles preuves Lipo et Hunt présentent pour étayer leur théorie. Le texte dit : ""Pour étayer leur théorie, Lipo et Hunt mettent en avant des restes de noix de palme portant des traces de rongement laissées par des rats."""
+q014,French Machine,B,B,True,,B,level 4,"D'après le blog, quand la professeure a-t-elle commencé son travail de terrain ?","{""A"": ""Au cours des années 1990."", ""B"": ""Il y a neuf mois."", ""C"": ""Il y a un an."", ""D"": ""Au début du mois de mai.""}",Claude,claude-opus-4-5-20251101,5,871,53,,medium,"The blog post says ""j'ai étudiés ces neuf derniers mois"" (I have studied for the last nine months). So she started her fieldwork nine months ago."
+q015,French Machine,A,A,True,,A,level 5,"Cette affirmation est-elle un fait ou une opinion ?
+Dans son livre, l’auteur décrit plusieurs civilisations qui se sont effondrées en raison de leurs choix et de leur impact sur l’environnement.
+L’un des exemples les plus troublants est celui de Rapa Nui.
+Les habitants ont sculpté les moaï, ces célèbres statues, et utilisé les ressources naturelles à leur disposition pour déplacer ces immenses statues à différents endroits de l’île.
+Lorsque les premiers Européens ont débarqué à Rapa Nui en 1722, les moaï étaient toujours là, mais les arbres avaient disparu.
+Ce livre est bien écrit et mérite d’être lu par tous ceux qui se soucient de l’environnement.","{""A"": [""Fait"", ""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""B"": [""Opinion"", ""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""C"": [""Fait"", ""Opinion"", ""Fait"", ""Opinion"", ""Opinion""], ""D"": [""Fait"", ""Opinion"", ""Opinion"", ""Fait"", ""Opinion""]}",Claude,claude-opus-4-5-20251101,5,950,153,,medium,"Let me analyze each statement:
+1. ""Dans son livre, l'auteur décrit plusieurs civilisations..."" - This is a fact about what the book contains.
+2. ""L'un des exemples les plus troublants..."" - ""troublants"" (troubling) is subjective = Opinion
+3. ""Les habitants ont sculpté les moaï..."" - Historical fact
+4. ""Lorsque les premiers Européens ont débarqué à Rapa Nui en 1722..."" - Historical fact
+5. ""Ce livre est bien écrit et mérite d'être lu..."" - Subjective judgment = Opinion"
+q016,French Machine,B,B,True,,B,level 1b,"Selon l'IDFA, avec quelle affirmation les principaux professionnels et organisations de santé sont-ils d'accord ?","{""A"": ""La consommation de lait et de produits laitiers entraîne l'obésité."", ""B"": ""Le lait est une bonne source de vitamines et de minéraux essentiels."", ""C"": ""Le lait contient plus de vitamines que de minéraux."", ""D"": ""La consommation de lait est une cause majeure d'ostéoporose.""}",Claude,claude-opus-4-5-20251101,5,785,90,,medium,"Le texte indique que l'IDFA suggère que de nombreux professionnels et organismes de santé partagent l'avis que le lait contient de nombreux nutriments essentiels. Le texte mentionne aussi que le lait est une excellente source de calcium, vitamine D, protéines, etc."
+q017,French Machine,D,D,True,,D,level 2,Quel est l'objectif principal de ce texte ?,"{""A"": ""Affirmer que les produits laitiers favorisent la perte de poids."", ""B"": ""Comparer les produits laitiers Farm to Market Dairy à d'autres produits laitiers."", ""C"": ""Informer le public des risques associés aux maladies cardiaques."", ""D"": ""Soutenir la consommation des produits laitiers Farm to Market Dairy.""}",Claude,claude-opus-4-5-20251101,5,770,94,,medium,"Ce texte vante les bienfaits des produits laitiers ""Farm to Market Dairy"" en particulier, en citant leurs nutriments, leurs avantages pour la santé, et en s'appuyant sur des autorités médicales. L'objectif principal est clairement promotionnel - encourager la consommation de ces produits."
+q018,French Machine,A,A,True,,A,level 5,"Cette affirmation est-elle un fait ou une opinion ?
+Des études récentes sur les bienfaits du lait pour la santé sont surprenantes.
+Des études ont montré que la consommation de lait a des effets néfastes sur la santé.
+Plusieurs études ont remis en question les bienfaits du lait sur les os.
+Boire du lait et d'autres produits laitiers est le meilleur moyen de perdre du poids.","{""A"": [""Opinion"", ""Fait"", ""Fait"", ""Opinion""], ""B"": [""Fait"", ""Fait"", ""Opinion"", ""Opinion""], ""C"": [""Fait"", ""Opinion"", ""Fait"", ""Opinion""], ""D"": [""Opinion"", ""Opinion"", ""Fait"", ""Fait""]}",Claude,claude-opus-4-5-20251101,5,1660,194,,medium,"Let me analyze each statement:
+
+1. ""Des études récentes sur les bienfaits du lait pour la santé sont surprenantes."" - ""Surprenantes"" is subjective = Opinion
+
+2. ""Des études ont montré que la consommation de lait a des effets néfastes sur la santé."" - This is verifiable, studies did show this = Fait
+
+3. ""Plusieurs études ont remis en question les bienfaits du lait sur les os."" - This is verifiable, mentioned in the text = Fait
+
+4. ""Boire du lait et d'autres produits laitiers est le meilleur moyen de perdre du poids."" - ""Le meilleur"" is subjective = Opinion
+
+So: Opinion, Fait, Fait, Opinion"
+q019,French Machine,A,A,True,,A,level 3,"Cette affirmation pourrait-elle refléter l'objectif de l'article ?
+Remettre en question les bienfaits des produits laitiers sur la santé en général.
+Discuter de diverses études sur le lait de vache.
+Souligner que le lait et les autres produits laitiers n'ont pas fait l'objet d'études approfondies.","{""A"": [""Oui"", ""Oui"", ""Non""], ""B"": [""Oui"", ""Non"", ""Non""], ""C"": [""Non"", ""Oui"", ""Non""], ""D"": [""Non"", ""Oui"", ""Oui""]}",Claude,claude-opus-4-5-20251101,5,1082,100,,medium,"L'article remet en question les bienfaits du lait de vache sur la santé - OUI
+L'article discute de diverses études (étude suédoise, PCRM) - OUI
+L'article ne dit pas que le lait n'a pas fait l'objet d'études approfondies, au contraire il cite plusieurs études - NON"
+q020,French Machine,A,A,True,,A,level 1a,"Les auteurs des deux textes divergent quant au rôle du lait dans une alimentation équilibrée.
+Quel est le principal point de désaccord entre les auteurs ?","{""A"": ""Les effets du lait sur la santé et son rôle dans l'alimentation humaine."", ""B"": ""Le nombre de vitamines et de minéraux présents dans le lait."", ""C"": ""La meilleure forme de produits laitiers à consommer régulièrement."", ""D"": ""Quelle organisation fait autorité en matière de lait.""}",Claude,claude-opus-4-5-20251101,5,1595,143,,medium,"Le premier texte (Farm to Market Dairy) présente le lait comme bénéfique pour la santé : renforce les os, aide à la perte de poids, prévient le cancer, améliore la santé cardiovasculaire.
+
+Le second texte (Dr Garza) remet en question ces bienfaits : études montrant plus de fractures, risques de maladies cardiaques et cancers, peu de bienfaits pour les os.
+
+Le désaccord principal porte sur les effets du lait sur la santé."
+q021,French Machine,A,A,True,,A,level 1,Que veut savoir Ivana_88 ?,"{""A"": ""Si elle peut donner de l'aspirine à une poule blessée."", ""B"": ""À quelle fréquence peut-elle donner de l'aspirine à une poule blessée."", ""C"": ""Comment contacter un vétérinaire au sujet d'une poule blessée."", ""D"": ""Si elle peut déterminer le niveau de douleur d'une poule blessée.""}",Claude,claude-opus-4-5-20251101,5,923,54,,medium,Ivana_88 demande si elle peut donner de l'aspirine à sa poule blessée en attendant d'aller chez le vétérinaire.
+q022,French Machine,C,C,True,,C,level 1,Pourquoi Ivana_88 a-t-elle décidé de poser sa question sur un forum Internet ?,"{""A"": ""Parce qu'elle ne sait pas comment trouver un vétérinaire."", ""B"": ""Parce qu'elle pense que le problème de la poule n'est pas grave."", ""C"": ""Parce qu'elle veut aider sa poule au plus vite."", ""D"": ""Parce qu'elle n'a pas les moyens d'aller chez le vétérinaire.""}",Claude,claude-opus-4-5-20251101,5,940,91,,medium,Ivana_88 explique qu'elle ne peut pas aller chez le vétérinaire avant lundi et qu'il ne répond pas au téléphone. Sa poule semble souffrir beaucoup et elle veut la soulager en attendant. Elle cherche donc une solution rapide pour aider sa poule.
+q023,French Machine,A,A,True,,A,level 2,"Ce message est-il pertinent pour le problème d'Ivana_88 ?
+Message de NellieB79
+Message de Monie
+Message d'Avian_Deals
+Message de Bob
+Message de Frank","{""A"": [""Oui"", ""Oui"", ""Non"", ""Non"", ""Oui""], ""B"": [""Oui"", ""Non"", ""Non"", ""Non"", ""Oui""], ""C"": [""Non"", ""Oui"", ""Non"", ""Non"", ""Oui""], ""D"": [""Oui"", ""Oui"", ""Non"", ""Non"", ""Non""]}",Claude,claude-opus-4-5-20251101,5,971,140,,medium,"Ivana demande si elle peut donner de l'aspirine à sa poule blessée.
+
+- NellieB79: Pertinent - conseille la prudence avec les médicaments pour oiseaux
+- Monie: Pertinent - partage son expérience avec l'aspirine pour une poule
+- Avian_Deals: Non pertinent - publicité
+- Bob: Non pertinent - pose une question sans rapport
+- Frank: Pertinent - vétérinaire qui donne des conseils précis sur le dosage"
+q024,French Machine,C,C,True,,C,level 1b,Qui a déjà eu une expérience positive en administrant de l'aspirine à une poule blessée ?,"{""A"": ""Ivana_88"", ""B"": ""NellieB79"", ""C"": ""Monie"", ""D"": ""Bob""}",Claude,claude-opus-4-5-20251101,5,867,64,,medium,La question demande qui a eu une expérience positive en donnant de l'aspirine à une poule blessée. Monie dit avoir donné de l'aspirine à sa poule blessée sans problème.
+q025,French Machine,A,A,True,,A,level 1a,Pourquoi Avian_Deals répond-il au message d'Ivana_88 ?,"{""A"": ""Pour promouvoir une entreprise."", ""B"": ""Pour répondre à la question d'Ivana_88."", ""C"": ""Pour compléter les conseils de Monie."", ""D"": ""Pour démontrer une expertise en matière d'oiseaux.""}",Claude,claude-opus-4-5-20251101,5,900,66,,medium,"Avian_Deals publie un message promotionnel sur ses offres et promotions sur les articles pour oiseaux, sans répondre à la question d'Ivana_88 sur l'aspirine pour les poules."
