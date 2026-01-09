@@ -1,0 +1,161 @@
+qid,language,pred,gold,is_correct,error,raw,difficulty,question,options_json,model_tag,model_name,cycle,input_tokens,output_tokens,reasoning_tokens,effort,summary
+q023,German,A,A,True,,A,level 2,"Ist der Post relevant für das Problem von Inge_88?
+Post von NellieB79
+Post von Moni
+Post von Der_Vogelhandel
+Post von Bernd
+Post von Frank","{""A"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""B"": [""Ja"", ""Nein"", ""Nein"", ""Nein"", ""Ja""], ""C"": [""Nein"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""D"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Nein""]}",GPT,gpt-5.1-2025-11-13,1,1252,11,0,none,
+q004,Indonesian,D,C,False,,D,level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?"", ""B"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""C"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.""}",GPT,gpt-5.1-2025-11-13,1,736,11,0,none,
+q018,Kazakh,B,A,False,,B,level 5,"Пайымдау факті ме немесе пікір ме?
+Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады.
+Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті.
+Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді.
+Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады.","{""A"": [""Пікір"", ""Факт"", ""Факт"", ""Пікір""], ""B"": [""Факт"", ""Факт"", ""Пікір"", ""Пікір""], ""C"": [""Факт"", ""Пікір"", ""Факт"", ""Пікір""], ""D"": [""Пікір"", ""Пікір"", ""Факт"", ""Факт""]}",GPT,gpt-5.1-2025-11-13,1,3110,11,0,none,
+q012,Korean,B,B,True,,B,level 5,이 기사에서 과학자들이 언급한 의견과 제레드 다이아몬드의 의견이 일치하는 부분은 무엇인가?,"{""A"": ""수백 년 전에 사람들이 라파누이에 정착했다."", ""B"": ""라파누이에서 큰 나무들이 멸종됐다."", ""C"": ""폴리네시아 쥐가 라파누이에서 서식하는 큰 나무들의 씨를 먹어치웠다."", ""D"": ""유럽인들은 18세기에 라파누이에 도착하였다.""}",GPT,gpt-5.1-2025-11-13,1,1126,11,0,none,
+q014,Korean,B,B,True,,B,level 4,"블로그에 의하면, 이 교수가 현장 연구를 시작한 것은 언제인가?","{""A"": ""1990년대"", ""B"": ""9개월 전"", ""C"": ""1년 전"", ""D"": ""5월 초""}",GPT,gpt-5.1-2025-11-13,1,1370,11,0,none,
+q018,Korean,A,A,True,,A,level 5,"다음 내용은 사실인가 또는 의견인가?
+우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다.
+연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다.
+몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다.
+우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다.","{""A"": [""의견"", ""사실"", ""사실"", ""의견""], ""B"": [""사실"", ""사실"", ""의견"", ""의견""], ""C"": [""사실"", ""의견"", ""사실"", ""의견""], ""D"": [""의견"", ""의견"", ""사실"", ""사실""]}",GPT,gpt-5.1-2025-11-13,1,2652,11,0,none,
+q018,Latvian,A,A,True,,A,level 5,"Vai apgalvojums ir fakts vai viedoklis?
+Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši.
+Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai.
+Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus.
+Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru.","{""A"": [""Viedoklis"", ""Fakts"", ""Fakts"", ""Viedoklis""], ""B"": [""Fakts"", ""Fakts"", ""Viedoklis"", ""Viedoklis""], ""C"": [""Fakts"", ""Viedoklis"", ""Fakts"", ""Viedoklis""], ""D"": [""Viedoklis"", ""Viedoklis"", ""Fakts"", ""Fakts""]}",GPT,gpt-5.1-2025-11-13,1,3274,11,0,none,
+q023,Russian,A,A,True,,A,level 2,"Относится ли данное сообщение к вопросу Индиры_88?
+Сообщение НургульВ79
+Сообщение Мадины
+Сообщение Птичьи_Предложения
+Сообщение Бораша
+Сообщение Фархада","{""A"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""B"": [""Да"", ""Нет"", ""Нет"", ""Нет"", ""Да""], ""C"": [""Нет"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""D"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Нет""]}",GPT,gpt-5.1-2025-11-13,1,1290,11,0,none,
+q023,German,A,A,True,,A,level 2,"Ist der Post relevant für das Problem von Inge_88?
+Post von NellieB79
+Post von Moni
+Post von Der_Vogelhandel
+Post von Bernd
+Post von Frank","{""A"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""B"": [""Ja"", ""Nein"", ""Nein"", ""Nein"", ""Ja""], ""C"": [""Nein"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""D"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Nein""]}",GPT,gpt-5.1-2025-11-13,2,1252,11,0,none,
+q004,Indonesian,D,C,False,,D,level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?"", ""B"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""C"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.""}",GPT,gpt-5.1-2025-11-13,2,736,11,0,none,
+q018,Kazakh,B,A,False,,B,level 5,"Пайымдау факті ме немесе пікір ме?
+Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады.
+Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті.
+Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді.
+Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады.","{""A"": [""Пікір"", ""Факт"", ""Факт"", ""Пікір""], ""B"": [""Факт"", ""Факт"", ""Пікір"", ""Пікір""], ""C"": [""Факт"", ""Пікір"", ""Факт"", ""Пікір""], ""D"": [""Пікір"", ""Пікір"", ""Факт"", ""Факт""]}",GPT,gpt-5.1-2025-11-13,2,3110,11,0,none,
+q012,Korean,B,B,True,,B,level 5,이 기사에서 과학자들이 언급한 의견과 제레드 다이아몬드의 의견이 일치하는 부분은 무엇인가?,"{""A"": ""수백 년 전에 사람들이 라파누이에 정착했다."", ""B"": ""라파누이에서 큰 나무들이 멸종됐다."", ""C"": ""폴리네시아 쥐가 라파누이에서 서식하는 큰 나무들의 씨를 먹어치웠다."", ""D"": ""유럽인들은 18세기에 라파누이에 도착하였다.""}",GPT,gpt-5.1-2025-11-13,2,1126,11,0,none,
+q014,Korean,B,B,True,,B,level 4,"블로그에 의하면, 이 교수가 현장 연구를 시작한 것은 언제인가?","{""A"": ""1990년대"", ""B"": ""9개월 전"", ""C"": ""1년 전"", ""D"": ""5월 초""}",GPT,gpt-5.1-2025-11-13,2,1370,11,0,none,
+q018,Korean,A,A,True,,A,level 5,"다음 내용은 사실인가 또는 의견인가?
+우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다.
+연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다.
+몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다.
+우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다.","{""A"": [""의견"", ""사실"", ""사실"", ""의견""], ""B"": [""사실"", ""사실"", ""의견"", ""의견""], ""C"": [""사실"", ""의견"", ""사실"", ""의견""], ""D"": [""의견"", ""의견"", ""사실"", ""사실""]}",GPT,gpt-5.1-2025-11-13,2,2652,11,0,none,
+q018,Latvian,A,A,True,,A,level 5,"Vai apgalvojums ir fakts vai viedoklis?
+Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši.
+Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai.
+Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus.
+Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru.","{""A"": [""Viedoklis"", ""Fakts"", ""Fakts"", ""Viedoklis""], ""B"": [""Fakts"", ""Fakts"", ""Viedoklis"", ""Viedoklis""], ""C"": [""Fakts"", ""Viedoklis"", ""Fakts"", ""Viedoklis""], ""D"": [""Viedoklis"", ""Viedoklis"", ""Fakts"", ""Fakts""]}",GPT,gpt-5.1-2025-11-13,2,3274,11,0,none,
+q023,Russian,A,A,True,,A,level 2,"Относится ли данное сообщение к вопросу Индиры_88?
+Сообщение НургульВ79
+Сообщение Мадины
+Сообщение Птичьи_Предложения
+Сообщение Бораша
+Сообщение Фархада","{""A"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""B"": [""Да"", ""Нет"", ""Нет"", ""Нет"", ""Да""], ""C"": [""Нет"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""D"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Нет""]}",GPT,gpt-5.1-2025-11-13,2,1290,11,0,none,
+q023,German,A,A,True,,A,level 2,"Ist der Post relevant für das Problem von Inge_88?
+Post von NellieB79
+Post von Moni
+Post von Der_Vogelhandel
+Post von Bernd
+Post von Frank","{""A"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""B"": [""Ja"", ""Nein"", ""Nein"", ""Nein"", ""Ja""], ""C"": [""Nein"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""D"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Nein""]}",GPT,gpt-5.1-2025-11-13,3,1252,11,0,none,
+q004,Indonesian,D,C,False,,D,level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?"", ""B"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""C"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.""}",GPT,gpt-5.1-2025-11-13,3,736,11,0,none,
+q018,Kazakh,B,A,False,,B,level 5,"Пайымдау факті ме немесе пікір ме?
+Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады.
+Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті.
+Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді.
+Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады.","{""A"": [""Пікір"", ""Факт"", ""Факт"", ""Пікір""], ""B"": [""Факт"", ""Факт"", ""Пікір"", ""Пікір""], ""C"": [""Факт"", ""Пікір"", ""Факт"", ""Пікір""], ""D"": [""Пікір"", ""Пікір"", ""Факт"", ""Факт""]}",GPT,gpt-5.1-2025-11-13,3,3110,11,0,none,
+q012,Korean,B,B,True,,B,level 5,이 기사에서 과학자들이 언급한 의견과 제레드 다이아몬드의 의견이 일치하는 부분은 무엇인가?,"{""A"": ""수백 년 전에 사람들이 라파누이에 정착했다."", ""B"": ""라파누이에서 큰 나무들이 멸종됐다."", ""C"": ""폴리네시아 쥐가 라파누이에서 서식하는 큰 나무들의 씨를 먹어치웠다."", ""D"": ""유럽인들은 18세기에 라파누이에 도착하였다.""}",GPT,gpt-5.1-2025-11-13,3,1126,11,0,none,
+q014,Korean,B,B,True,,B,level 4,"블로그에 의하면, 이 교수가 현장 연구를 시작한 것은 언제인가?","{""A"": ""1990년대"", ""B"": ""9개월 전"", ""C"": ""1년 전"", ""D"": ""5월 초""}",GPT,gpt-5.1-2025-11-13,3,1370,11,0,none,
+q018,Korean,A,A,True,,A,level 5,"다음 내용은 사실인가 또는 의견인가?
+우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다.
+연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다.
+몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다.
+우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다.","{""A"": [""의견"", ""사실"", ""사실"", ""의견""], ""B"": [""사실"", ""사실"", ""의견"", ""의견""], ""C"": [""사실"", ""의견"", ""사실"", ""의견""], ""D"": [""의견"", ""의견"", ""사실"", ""사실""]}",GPT,gpt-5.1-2025-11-13,3,2652,11,0,none,
+q018,Latvian,A,A,True,,A,level 5,"Vai apgalvojums ir fakts vai viedoklis?
+Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši.
+Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai.
+Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus.
+Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru.","{""A"": [""Viedoklis"", ""Fakts"", ""Fakts"", ""Viedoklis""], ""B"": [""Fakts"", ""Fakts"", ""Viedoklis"", ""Viedoklis""], ""C"": [""Fakts"", ""Viedoklis"", ""Fakts"", ""Viedoklis""], ""D"": [""Viedoklis"", ""Viedoklis"", ""Fakts"", ""Fakts""]}",GPT,gpt-5.1-2025-11-13,3,3274,11,0,none,
+q023,Russian,A,A,True,,A,level 2,"Относится ли данное сообщение к вопросу Индиры_88?
+Сообщение НургульВ79
+Сообщение Мадины
+Сообщение Птичьи_Предложения
+Сообщение Бораша
+Сообщение Фархада","{""A"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""B"": [""Да"", ""Нет"", ""Нет"", ""Нет"", ""Да""], ""C"": [""Нет"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""D"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Нет""]}",GPT,gpt-5.1-2025-11-13,3,1290,11,0,none,
+q023,German,A,A,True,,A,level 2,"Ist der Post relevant für das Problem von Inge_88?
+Post von NellieB79
+Post von Moni
+Post von Der_Vogelhandel
+Post von Bernd
+Post von Frank","{""A"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""B"": [""Ja"", ""Nein"", ""Nein"", ""Nein"", ""Ja""], ""C"": [""Nein"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""D"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Nein""]}",GPT,gpt-5.1-2025-11-13,4,1252,11,0,none,
+q004,Indonesian,D,C,False,,D,level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?"", ""B"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""C"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.""}",GPT,gpt-5.1-2025-11-13,4,736,11,0,none,
+q018,Kazakh,B,A,False,,B,level 5,"Пайымдау факті ме немесе пікір ме?
+Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады.
+Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті.
+Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді.
+Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады.","{""A"": [""Пікір"", ""Факт"", ""Факт"", ""Пікір""], ""B"": [""Факт"", ""Факт"", ""Пікір"", ""Пікір""], ""C"": [""Факт"", ""Пікір"", ""Факт"", ""Пікір""], ""D"": [""Пікір"", ""Пікір"", ""Факт"", ""Факт""]}",GPT,gpt-5.1-2025-11-13,4,3110,11,0,none,
+q012,Korean,B,B,True,,B,level 5,이 기사에서 과학자들이 언급한 의견과 제레드 다이아몬드의 의견이 일치하는 부분은 무엇인가?,"{""A"": ""수백 년 전에 사람들이 라파누이에 정착했다."", ""B"": ""라파누이에서 큰 나무들이 멸종됐다."", ""C"": ""폴리네시아 쥐가 라파누이에서 서식하는 큰 나무들의 씨를 먹어치웠다."", ""D"": ""유럽인들은 18세기에 라파누이에 도착하였다.""}",GPT,gpt-5.1-2025-11-13,4,1126,11,0,none,
+q014,Korean,B,B,True,,B,level 4,"블로그에 의하면, 이 교수가 현장 연구를 시작한 것은 언제인가?","{""A"": ""1990년대"", ""B"": ""9개월 전"", ""C"": ""1년 전"", ""D"": ""5월 초""}",GPT,gpt-5.1-2025-11-13,4,1370,11,0,none,
+q018,Korean,A,A,True,,A,level 5,"다음 내용은 사실인가 또는 의견인가?
+우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다.
+연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다.
+몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다.
+우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다.","{""A"": [""의견"", ""사실"", ""사실"", ""의견""], ""B"": [""사실"", ""사실"", ""의견"", ""의견""], ""C"": [""사실"", ""의견"", ""사실"", ""의견""], ""D"": [""의견"", ""의견"", ""사실"", ""사실""]}",GPT,gpt-5.1-2025-11-13,4,2652,11,0,none,
+q018,Latvian,A,A,True,,A,level 5,"Vai apgalvojums ir fakts vai viedoklis?
+Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši.
+Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai.
+Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus.
+Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru.","{""A"": [""Viedoklis"", ""Fakts"", ""Fakts"", ""Viedoklis""], ""B"": [""Fakts"", ""Fakts"", ""Viedoklis"", ""Viedoklis""], ""C"": [""Fakts"", ""Viedoklis"", ""Fakts"", ""Viedoklis""], ""D"": [""Viedoklis"", ""Viedoklis"", ""Fakts"", ""Fakts""]}",GPT,gpt-5.1-2025-11-13,4,3274,11,0,none,
+q023,Russian,A,A,True,,A,level 2,"Относится ли данное сообщение к вопросу Индиры_88?
+Сообщение НургульВ79
+Сообщение Мадины
+Сообщение Птичьи_Предложения
+Сообщение Бораша
+Сообщение Фархада","{""A"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""B"": [""Да"", ""Нет"", ""Нет"", ""Нет"", ""Да""], ""C"": [""Нет"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""D"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Нет""]}",GPT,gpt-5.1-2025-11-13,4,1290,11,0,none,
+q023,German,A,A,True,,A,level 2,"Ist der Post relevant für das Problem von Inge_88?
+Post von NellieB79
+Post von Moni
+Post von Der_Vogelhandel
+Post von Bernd
+Post von Frank","{""A"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""B"": [""Ja"", ""Nein"", ""Nein"", ""Nein"", ""Ja""], ""C"": [""Nein"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""D"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Nein""]}",GPT,gpt-5.1-2025-11-13,5,1252,11,0,none,
+q004,Indonesian,D,C,False,,D,level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?"", ""B"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""C"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.""}",GPT,gpt-5.1-2025-11-13,5,736,11,0,none,
+q018,Kazakh,B,A,False,,B,level 5,"Пайымдау факті ме немесе пікір ме?
+Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады.
+Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті.
+Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді.
+Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады.","{""A"": [""Пікір"", ""Факт"", ""Факт"", ""Пікір""], ""B"": [""Факт"", ""Факт"", ""Пікір"", ""Пікір""], ""C"": [""Факт"", ""Пікір"", ""Факт"", ""Пікір""], ""D"": [""Пікір"", ""Пікір"", ""Факт"", ""Факт""]}",GPT,gpt-5.1-2025-11-13,5,3110,11,0,none,
+q012,Korean,B,B,True,,B,level 5,이 기사에서 과학자들이 언급한 의견과 제레드 다이아몬드의 의견이 일치하는 부분은 무엇인가?,"{""A"": ""수백 년 전에 사람들이 라파누이에 정착했다."", ""B"": ""라파누이에서 큰 나무들이 멸종됐다."", ""C"": ""폴리네시아 쥐가 라파누이에서 서식하는 큰 나무들의 씨를 먹어치웠다."", ""D"": ""유럽인들은 18세기에 라파누이에 도착하였다.""}",GPT,gpt-5.1-2025-11-13,5,1126,11,0,none,
+q014,Korean,B,B,True,,B,level 4,"블로그에 의하면, 이 교수가 현장 연구를 시작한 것은 언제인가?","{""A"": ""1990년대"", ""B"": ""9개월 전"", ""C"": ""1년 전"", ""D"": ""5월 초""}",GPT,gpt-5.1-2025-11-13,5,1370,11,0,none,
+q018,Korean,A,A,True,,A,level 5,"다음 내용은 사실인가 또는 의견인가?
+우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다.
+연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다.
+몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다.
+우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다.","{""A"": [""의견"", ""사실"", ""사실"", ""의견""], ""B"": [""사실"", ""사실"", ""의견"", ""의견""], ""C"": [""사실"", ""의견"", ""사실"", ""의견""], ""D"": [""의견"", ""의견"", ""사실"", ""사실""]}",GPT,gpt-5.1-2025-11-13,5,2652,11,0,none,
+q018,Latvian,A,A,True,,A,level 5,"Vai apgalvojums ir fakts vai viedoklis?
+Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši.
+Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai.
+Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus.
+Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru.","{""A"": [""Viedoklis"", ""Fakts"", ""Fakts"", ""Viedoklis""], ""B"": [""Fakts"", ""Fakts"", ""Viedoklis"", ""Viedoklis""], ""C"": [""Fakts"", ""Viedoklis"", ""Fakts"", ""Viedoklis""], ""D"": [""Viedoklis"", ""Viedoklis"", ""Fakts"", ""Fakts""]}",GPT,gpt-5.1-2025-11-13,5,3274,11,0,none,
+q023,Russian,A,A,True,,A,level 2,"Относится ли данное сообщение к вопросу Индиры_88?
+Сообщение НургульВ79
+Сообщение Мадины
+Сообщение Птичьи_Предложения
+Сообщение Бораша
+Сообщение Фархада","{""A"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""B"": [""Да"", ""Нет"", ""Нет"", ""Нет"", ""Да""], ""C"": [""Нет"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""D"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Нет""]}",GPT,gpt-5.1-2025-11-13,5,1290,11,0,none,
