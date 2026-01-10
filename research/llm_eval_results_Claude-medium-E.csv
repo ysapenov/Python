@@ -1,0 +1,426 @@
+qid,language,pred,gold,is_correct,error,raw,difficulty,question,options_json,model_tag,model_name,cycle,input_tokens,output_tokens,reasoning_tokens,effort,summary
+q023,German,A,A,True,,A,level 2,"Ist der Post relevant für das Problem von Inge_88?
+Post von NellieB79
+Post von Moni
+Post von Der_Vogelhandel
+Post von Bernd
+Post von Frank","{""A"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""B"": [""Ja"", ""Nein"", ""Nein"", ""Nein"", ""Ja""], ""C"": [""Nein"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""D"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Nein""]}",Claude,claude-opus-4-5-20251101,1,1022,191,,medium,"Inge_88 fragt, ob sie ihrer verletzten Henne Aspirin geben kann.
+
+- NellieB79: Gibt keine direkte Antwort, nur allgemeinen Rat - teilweise relevant
+- Moni: Teilt Erfahrung mit Aspirin bei Henne - relevant (Ja)
+- Der_Vogelhandel: Werbung - nicht relevant (Nein)
+- Bernd: Stellt eigene Frage - nicht relevant (Nein)
+- Frank: Tierarzt gibt direkte Antwort mit Dosierung - sehr relevant (Ja)
+
+NellieB79 ist eher vorsichtig-relevant, gibt aber keine konkrete Hilfe."
+q004,Indonesian,D,C,False,,D,level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?"", ""B"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""C"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.""}",Claude,claude-opus-4-5-20251101,1,651,271,,medium,"Truk A: 4m × 2m × 2m = 16 m³
+Kardus sedang: 0,5 × 0,5 × 0,5 = 0,125 m³
+Kardus besar: 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+Untuk kardus besar dengan tinggi 0,75m, perlu dicek apakah bisa mengisi truk dengan sempurna.
+- Tinggi truk = 2m, dan 2/0,75 = 2,67 (bukan bilangan bulat)
+- Panjang = 4m, dan 4/0,75 = 5,33 (bukan bilangan bulat)
+- Lebar = 2m, dan 2/0,75 = 2,67 (bukan bilangan bulat)
+
+Tidak ada dimensi truk yang kelipatan 0,75, sehingga kardus besar tidak bisa memenuhi truk dengan sempurna."
+q018,Kazakh,A,A,True,,A,level 5,"Пайымдау факті ме немесе пікір ме?
+Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады.
+Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті.
+Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді.
+Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады.","{""A"": [""Пікір"", ""Факт"", ""Факт"", ""Пікір""], ""B"": [""Факт"", ""Факт"", ""Пікір"", ""Пікір""], ""C"": [""Факт"", ""Пікір"", ""Факт"", ""Пікір""], ""D"": [""Пікір"", ""Пікір"", ""Факт"", ""Факт""]}",Claude,claude-opus-4-5-20251101,1,2870,361,,medium,"Мәтіндегі пайымдауларды талдайын:
+
+1. ""Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады"" - бұл субъективті баға, ""таңғалдырады"" деген сөз пікір білдіреді.
+
+2. ""Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті"" - бұл зерттеулерге сілтеме жасайды, фактілік мәлімдеме.
+
+3. ""Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді"" - бұл да зерттеулерге сілтеме, факт.
+
+4. ""Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады"" - бұл субъективті пікір, ""таптырмас"" деген бағалау.
+
+Жауап: Пікір, Факт, Факт, Пікір"
+q012,Korean,B,B,True,,B,level 5,이 기사에서 과학자들이 언급한 의견과 제레드 다이아몬드의 의견이 일치하는 부분은 무엇인가?,"{""A"": ""수백 년 전에 사람들이 라파누이에 정착했다."", ""B"": ""라파누이에서 큰 나무들이 멸종됐다."", ""C"": ""폴리네시아 쥐가 라파누이에서 서식하는 큰 나무들의 씨를 먹어치웠다."", ""D"": ""유럽인들은 18세기에 라파누이에 도착하였다.""}",Claude,claude-opus-4-5-20251101,1,1028,239,,medium,"기사에서 과학자들과 제레드 다이아몬드가 동의하는 점을 찾아야 합니다.
+
+기사에 따르면:
+- 과학자들은 ""유럽인들이 18세기에 처음 섬에 도착했을 때 큰 나무들은 이미 사라진 뒤였다는 점은 인정했지만, 나무들의 멸종 이유에 대한 제레드 다이아몬드의 이론에는 동의하지 않았다""
+
+즉, 둘 다 동의하는 것은 ""큰 나무들이 멸종됐다""는 사실입니다. 멸종의 원인에 대해서는 의견이 다릅니다."
+q014,Korean,B,B,True,,B,level 4,"블로그에 의하면, 이 교수가 현장 연구를 시작한 것은 언제인가?","{""A"": ""1990년대"", ""B"": ""9개월 전"", ""C"": ""1년 전"", ""D"": ""5월 초""}",Claude,claude-opus-4-5-20251101,1,1314,96,,medium,"블로그에서 ""지난 9개월 동안 나의 연구 대상이 되어 준 모아이에게 작별 인사를 해야겠다""라고 했으므로, 교수는 9개월 전에 현장 연구를 시작했다."
+q018,Korean,A,A,True,,A,level 5,"다음 내용은 사실인가 또는 의견인가?
+우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다.
+연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다.
+몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다.
+우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다.","{""A"": [""의견"", ""사실"", ""사실"", ""의견""], ""B"": [""사실"", ""사실"", ""의견"", ""의견""], ""C"": [""사실"", ""의견"", ""사실"", ""의견""], ""D"": [""의견"", ""의견"", ""사실"", ""사실""]}",Claude,claude-opus-4-5-20251101,1,2354,174,,medium,"각 문장을 분석:
+1. ""놀라운 내용을 보여준다"" - 주관적 표현, 의견
+2. ""건강에 해로운 것으로 나타났다"" - 연구 결과로 제시되었으므로 사실
+3. ""의문을 제기하고 있다"" - 실제로 연구들이 그렇게 했다는 것은 확인 가능한 사실
+4. ""가장 좋은 체중 감량 방법이다"" - 주관적 평가, 의견"
+q018,Latvian,A,A,True,,A,level 5,"Vai apgalvojums ir fakts vai viedoklis?
+Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši.
+Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai.
+Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus.
+Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru.","{""A"": [""Viedoklis"", ""Fakts"", ""Fakts"", ""Viedoklis""], ""B"": [""Fakts"", ""Fakts"", ""Viedoklis"", ""Viedoklis""], ""C"": [""Fakts"", ""Viedoklis"", ""Fakts"", ""Viedoklis""], ""D"": [""Viedoklis"", ""Viedoklis"", ""Fakts"", ""Fakts""]}",Claude,claude-opus-4-5-20251101,1,2155,272,,medium,"Let me analyze each statement:
+
+1. ""Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši."" - This is an opinion (viedoklis) because ""pārsteidzoši"" (surprising) is a subjective evaluation.
+
+2. ""Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai."" - This is an opinion (viedoklis) - it's a broad generalization/interpretation, not a verified fact.
+
+3. ""Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus."" - This is a fact (fakts) - it can be verified that such studies exist.
+
+4. ""Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru."" - This is an opinion (viedoklis) - ""labākais"" is subjective.
+
+So: Viedoklis, Viedoklis, Fakts, Viedoklis"
+q023,Russian,A,A,True,,A,level 2,"Относится ли данное сообщение к вопросу Индиры_88?
+Сообщение НургульВ79
+Сообщение Мадины
+Сообщение Птичьи_Предложения
+Сообщение Бораша
+Сообщение Фархада","{""A"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""B"": [""Да"", ""Нет"", ""Нет"", ""Нет"", ""Да""], ""C"": [""Нет"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""D"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Нет""]}",Claude,claude-opus-4-5-20251101,1,1109,207,,medium,"Индира спрашивает, можно ли дать курице аспирин от боли.
+
+- НургульВ79: говорит о безопасности лекарств для птиц - относится к вопросу (Да)
+- Мадина: делится опытом дачи аспирина курице - относится к вопросу (Да)
+- Птичьи_Предложения: реклама, не относится (Нет)
+- Бораш: задаёт свой вопрос о болезни кур, не отвечает Индире (Нет)
+- Фархад: ветеринар, даёт конкретные рекомендации по аспирину - относится (Да)"
+q023,German,A,A,True,,A,level 2,"Ist der Post relevant für das Problem von Inge_88?
+Post von NellieB79
+Post von Moni
+Post von Der_Vogelhandel
+Post von Bernd
+Post von Frank","{""A"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""B"": [""Ja"", ""Nein"", ""Nein"", ""Nein"", ""Ja""], ""C"": [""Nein"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""D"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Nein""]}",Claude,claude-opus-4-5-20251101,2,1022,208,,medium,"Inge_88 fragt, ob sie ihrer verletzten Henne Aspirin geben kann.
+
+- NellieB79: Gibt keine direkte Antwort, nur allgemeinen Rat - teilweise relevant
+- Moni: Teilt Erfahrung mit Aspirin bei Hennen - Ja, relevant
+- Der_Vogelhandel: Werbung - Nein
+- Bernd: Eigene Frage, nicht relevant - Nein
+- Frank: Tierarzt, gibt genaue Dosierung - Ja, sehr relevant
+
+Die Antwort sollte sein: NellieB79 ist bedingt relevant (warnt vor Medikamenten), Moni ja, Der_Vogelhandel nein, Bernd nein, Frank ja."
+q004,Indonesian,D,C,False,,D,level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?"", ""B"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""C"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.""}",Claude,claude-opus-4-5-20251101,2,651,291,,medium,"Volume truk A = 4 × 2 × 2 = 16 m³
+Volume kardus sedang = 0,5 × 0,5 × 0,5 = 0,125 m³
+Volume kardus besar = 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+Kardus sedang: 16/0,125 = 128 kardus (bisa mengisi penuh karena semua dimensi truk kelipatan 0,5)
+
+Untuk kardus besar dengan tinggi 0,75 m:
+- Tinggi truk = 2 m, 2/0,75 = 2,67 (tidak habis dibagi)
+- Panjang = 4 m, 4/0,75 = 5,33 (tidak habis dibagi)
+- Lebar = 2 m, 2/0,75 = 2,67 (tidak habis dibagi)
+
+Tidak ada dimensi truk yang kelipatan 0,75, sehingga kardus besar tidak bisa mengisi penuh truk."
+q018,Kazakh,A,A,True,,A,level 5,"Пайымдау факті ме немесе пікір ме?
+Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады.
+Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті.
+Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді.
+Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады.","{""A"": [""Пікір"", ""Факт"", ""Факт"", ""Пікір""], ""B"": [""Факт"", ""Факт"", ""Пікір"", ""Пікір""], ""C"": [""Факт"", ""Пікір"", ""Факт"", ""Пікір""], ""D"": [""Пікір"", ""Пікір"", ""Факт"", ""Факт""]}",Claude,claude-opus-4-5-20251101,2,2870,379,,medium,"Мәтіндегі пайымдауларды талдайын:
+
+1. ""Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңғалдырады"" - бұл субъективті баға (""таңғалдырады""), яғни пікір.
+
+2. ""Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті"" - бұл зерттеулерге сілтеме жасайды, бірақ ""көрсетті"" деп жалпылама айтылған, бұл факт ретінде берілген.
+
+3. ""Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді"" - бұл мәтінде айтылған объективті факт (зерттеулер болғаны рас).
+
+4. ""Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады"" - бұл дәлелденбеген пікір.
+
+Жауап: Пікір, Факт, Факт, Пікір"
+q012,Korean,B,B,True,,B,level 5,이 기사에서 과학자들이 언급한 의견과 제레드 다이아몬드의 의견이 일치하는 부분은 무엇인가?,"{""A"": ""수백 년 전에 사람들이 라파누이에 정착했다."", ""B"": ""라파누이에서 큰 나무들이 멸종됐다."", ""C"": ""폴리네시아 쥐가 라파누이에서 서식하는 큰 나무들의 씨를 먹어치웠다."", ""D"": ""유럽인들은 18세기에 라파누이에 도착하였다.""}",Claude,claude-opus-4-5-20251101,2,1028,203,,medium,"기사에서 과학자들과 다이아몬드가 동의하는 부분을 찾아야 합니다. 기사에 따르면 ""과학자들은 유럽인들이 18세기에 처음 섬에 도착했을 때 큰 나무들은 이미 사라진 뒤였다는 점은 인정했지만, 나무들의 멸종 이유에 대한 제레드 다이아몬드의 이론에는 동의하지 않았다""고 합니다. 즉, 큰 나무들이 멸종했다는 사실에는 동의합니다."
+q014,Korean,B,B,True,,B,level 4,"블로그에 의하면, 이 교수가 현장 연구를 시작한 것은 언제인가?","{""A"": ""1990년대"", ""B"": ""9개월 전"", ""C"": ""1년 전"", ""D"": ""5월 초""}",Claude,claude-opus-4-5-20251101,2,1314,114,,medium,"블로그에서 교수는 ""지난 9개월 동안 나의 연구 대상이 되어 준 모아이에게 작별 인사를 해야겠다""라고 말했습니다. 이는 교수가 9개월 전에 현장 연구를 시작했다는 것을 의미합니다."
+q018,Korean,D,A,False,,D,level 5,"다음 내용은 사실인가 또는 의견인가?
+우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다.
+연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다.
+몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다.
+우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다.","{""A"": [""의견"", ""사실"", ""사실"", ""의견""], ""B"": [""사실"", ""사실"", ""의견"", ""의견""], ""C"": [""사실"", ""의견"", ""사실"", ""의견""], ""D"": [""의견"", ""의견"", ""사실"", ""사실""]}",Claude,claude-opus-4-5-20251101,2,2354,196,,medium,"각 문장을 분석:
+1. ""놀라운 내용을 보여 준다"" - 주관적 판단 = 의견
+2. ""건강에 해로운 것으로 나타났다"" - 연구 결과를 언급하지만, 모든 연구가 그렇게 결론내린 건 아님 = 의견
+3. ""몇몇 연구는 의문을 제기하고 있다"" - 실제로 연구들이 존재함 = 사실
+4. ""가장 좋은 체중 감량 방법이다"" - 주관적 판단 = 의견"
+q018,Latvian,D,A,False,,D,level 5,"Vai apgalvojums ir fakts vai viedoklis?
+Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši.
+Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai.
+Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus.
+Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru.","{""A"": [""Viedoklis"", ""Fakts"", ""Fakts"", ""Viedoklis""], ""B"": [""Fakts"", ""Fakts"", ""Viedoklis"", ""Viedoklis""], ""C"": [""Fakts"", ""Viedoklis"", ""Fakts"", ""Viedoklis""], ""D"": [""Viedoklis"", ""Viedoklis"", ""Fakts"", ""Fakts""]}",Claude,claude-opus-4-5-20251101,2,2155,281,,medium,"Let me analyze each statement:
+
+1. ""Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši"" - This is an opinion (viedoklis) because ""pārsteidzoši"" (surprising) is a subjective evaluation.
+
+2. ""Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai"" - This is an opinion (viedoklis) because it's a definitive claim that's still debated - the text says more research is needed.
+
+3. ""Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus"" - This is a fact (fakts) because it's verifiable that such studies exist.
+
+4. ""Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru"" - This is an opinion (viedoklis) because ""labākais"" is subjective.
+
+So the answer is: Viedoklis, Viedoklis, Fakts, Viedoklis"
+q023,Russian,A,A,True,,A,level 2,"Относится ли данное сообщение к вопросу Индиры_88?
+Сообщение НургульВ79
+Сообщение Мадины
+Сообщение Птичьи_Предложения
+Сообщение Бораша
+Сообщение Фархада","{""A"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""B"": [""Да"", ""Нет"", ""Нет"", ""Нет"", ""Да""], ""C"": [""Нет"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""D"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Нет""]}",Claude,claude-opus-4-5-20251101,2,1109,182,,medium,"Вопрос Индиры: можно ли дать курице аспирин при травме лапки.
+
+- НургульВ79 - отвечает о безопасности аспирина для птиц - ДА
+- Мадина - делится опытом использования аспирина для курицы - ДА
+- Птичьи_Предложения - реклама, не относится - НЕТ
+- Бораш - задаёт свой вопрос о болезни кур - НЕТ
+- Фархад - даёт профессиональный ответ с дозировкой - ДА"
+q023,German,A,A,True,,A,level 2,"Ist der Post relevant für das Problem von Inge_88?
+Post von NellieB79
+Post von Moni
+Post von Der_Vogelhandel
+Post von Bernd
+Post von Frank","{""A"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""B"": [""Ja"", ""Nein"", ""Nein"", ""Nein"", ""Ja""], ""C"": [""Nein"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""D"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Nein""]}",Claude,claude-opus-4-5-20251101,3,1022,197,,medium,"Inge_88 fragt, ob sie ihrer verletzten Henne Aspirin geben kann.
+
+- NellieB79: Gibt keine direkte Antwort, aber warnt vor Medikamenten - etwas relevant
+- Moni: Teilt Erfahrung mit Aspirin für Hennen - relevant (Ja)
+- Der_Vogelhandel: Werbung - nicht relevant (Nein)
+- Bernd: Eigene Frage, nicht relevant (Nein)
+- Frank: Tierarzt gibt direkte Antwort mit Dosierung - sehr relevant (Ja)
+
+NellieB79 gibt keine direkte Hilfe, nur allgemeinen Rat. Das ist grenzwertig relevant."
+q004,Indonesian,D,C,False,,D,level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?"", ""B"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""C"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.""}",Claude,claude-opus-4-5-20251101,3,651,211,,medium,"Volume truk A = 4 × 2 × 2 = 16 m³
+Volume kardus sedang = 0,5 × 0,5 × 0,5 = 0,125 m³
+Volume kardus besar = 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+Kardus sedang: 16/0,125 = 128 kardus (bisa penuh)
+
+Untuk kardus besar, tingginya 0,75 m. Tinggi truk 2 m.
+2 ÷ 0,75 = 2,67 (tidak habis dibagi)
+
+Dimensi truk: 4m, 2m, 2m
+Tidak ada yang kelipatan 0,75m."
+q018,Kazakh,A,A,True,,A,level 5,"Пайымдау факті ме немесе пікір ме?
+Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады.
+Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті.
+Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді.
+Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады.","{""A"": [""Пікір"", ""Факт"", ""Факт"", ""Пікір""], ""B"": [""Факт"", ""Факт"", ""Пікір"", ""Пікір""], ""C"": [""Факт"", ""Пікір"", ""Факт"", ""Пікір""], ""D"": [""Пікір"", ""Пікір"", ""Факт"", ""Факт""]}",Claude,claude-opus-4-5-20251101,3,2870,360,,medium,"Әр пайымдауды талдайық:
+
+1. ""Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады"" - бұл субъективті баға (""таңалдырады""), яғни пікір.
+
+2. ""Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті"" - бұл зерттеулердің нәтижесіне сілтеме жасайды, яғни факт.
+
+3. ""Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді"" - бұл зерттеулер бар екенін айтады, яғни факт.
+
+4. ""Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады"" - бұл субъективті баға (""таптырмас жолы""), яғни пікір.
+
+Жауап: ['Пікір', 'Факт', 'Факт', 'Пікір']"
+q012,Korean,B,B,True,,B,level 5,이 기사에서 과학자들이 언급한 의견과 제레드 다이아몬드의 의견이 일치하는 부분은 무엇인가?,"{""A"": ""수백 년 전에 사람들이 라파누이에 정착했다."", ""B"": ""라파누이에서 큰 나무들이 멸종됐다."", ""C"": ""폴리네시아 쥐가 라파누이에서 서식하는 큰 나무들의 씨를 먹어치웠다."", ""D"": ""유럽인들은 18세기에 라파누이에 도착하였다.""}",Claude,claude-opus-4-5-20251101,3,1028,246,,medium,"기사에서 과학자들과 제레드 다이아몬드가 공통적으로 동의하는 부분을 찾아야 합니다.
+
+기사에 따르면:
+- 과학자들은 ""유럽인들이 18세기에 처음 섬에 도착했을 때 큰 나무들은 이미 사라진 뒤였다는 점은 인정했지만, 나무들의 멸종 이유에 대한 제레드 다이아몬드의 이론에는 동의하지 않았다""
+
+즉, 둘 다 동의하는 것은 ""큰 나무들이 멸종되었다""는 사실입니다. 멸종의 원인에 대해서는 의견이 다릅니다."
+q014,Korean,B,B,True,,B,level 4,"블로그에 의하면, 이 교수가 현장 연구를 시작한 것은 언제인가?","{""A"": ""1990년대"", ""B"": ""9개월 전"", ""C"": ""1년 전"", ""D"": ""5월 초""}",Claude,claude-opus-4-5-20251101,3,1314,100,,medium,"블로그에서 교수가 ""지난 9개월 동안 나의 연구 대상이 되어 준 모아이""라고 언급했습니다. 이는 교수가 9개월 전에 현장 연구를 시작했다는 것을 의미합니다."
+q018,Korean,D,A,False,,"D. ['의견', '의견', '사실', '사실']
+
+아니요, 다시 검토:
+1. 의견 (놀라운 - 주관적)
+2. 의견 (해로운 것으로 나타났다 - 해석)
+3. 사실 (연구들이 의문을 제기한다는 것은 확인 가능한 사실)
+4. 의견 (가장 좋은 - 주관적)
+
+C. ['사실', '의견', '사실', '의견']",level 5,"다음 내용은 사실인가 또는 의견인가?
+우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다.
+연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다.
+몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다.
+우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다.","{""A"": [""의견"", ""사실"", ""사실"", ""의견""], ""B"": [""사실"", ""사실"", ""의견"", ""의견""], ""C"": [""사실"", ""의견"", ""사실"", ""의견""], ""D"": [""의견"", ""의견"", ""사실"", ""사실""]}",Claude,claude-opus-4-5-20251101,3,2354,527,,medium,"각 문장을 분석해보면:
+
+1. ""우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다."" - ""놀라운""은 주관적 판단이므로 의견
+
+2. ""연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다."" - 이것은 연구 결과에 대한 해석/판단이므로 의견 (텍스트에서는 ""우유를 마시는 여성이 골절 빈도가 더 높다""는 사실을 언급하지만, ""건강에 해로운 것으로 나타났다""는 결론적 의견)
+
+3. ""몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다."" - 텍스트에 실제로 그런 연구들이 있다고 언급되어 있으므로 사실
+
+4. ""우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다."" - ""가장 좋은""은 주관적 판단이므로 의견"
+q018,Latvian,A,A,True,,A,level 5,"Vai apgalvojums ir fakts vai viedoklis?
+Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši.
+Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai.
+Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus.
+Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru.","{""A"": [""Viedoklis"", ""Fakts"", ""Fakts"", ""Viedoklis""], ""B"": [""Fakts"", ""Fakts"", ""Viedoklis"", ""Viedoklis""], ""C"": [""Fakts"", ""Viedoklis"", ""Fakts"", ""Viedoklis""], ""D"": [""Viedoklis"", ""Viedoklis"", ""Fakts"", ""Fakts""]}",Claude,claude-opus-4-5-20251101,3,2155,240,,medium,"Let me analyze each statement:
+
+1. ""Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši."" - This is an opinion (subjective - ""surprising"" is subjective)
+
+2. ""Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai."" - This is an opinion/interpretation (oversimplifies and interprets findings)
+
+3. ""Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus."" - This is a fact (can be verified - studies exist that questioned this)
+
+4. ""Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru."" - This is an opinion (subjective claim about ""best way"")
+
+So: Viedoklis, Viedoklis, Fakts, Viedoklis"
+q023,Russian,A,A,True,,A,level 2,"Относится ли данное сообщение к вопросу Индиры_88?
+Сообщение НургульВ79
+Сообщение Мадины
+Сообщение Птичьи_Предложения
+Сообщение Бораша
+Сообщение Фархада","{""A"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""B"": [""Да"", ""Нет"", ""Нет"", ""Нет"", ""Да""], ""C"": [""Нет"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""D"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Нет""]}",Claude,claude-opus-4-5-20251101,3,1109,213,,medium,"Индира_88 спросила, можно ли дать курице аспирин от боли.
+
+- НургульВ79: говорит о безопасности лекарств для птиц - относится к вопросу (Да)
+- Мадина: делится опытом использования аспирина для курицы - относится (Да)
+- Птичьи_Предложения: реклама, не относится (Нет)
+- Бораш: задаёт свой вопрос о болезнях кур, не отвечает на вопрос Индиры (Нет)
+- Фархад: ветеринар, даёт конкретный ответ о дозировке аспирина - относится (Да)"
+q023,German,A,A,True,,A,level 2,"Ist der Post relevant für das Problem von Inge_88?
+Post von NellieB79
+Post von Moni
+Post von Der_Vogelhandel
+Post von Bernd
+Post von Frank","{""A"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""B"": [""Ja"", ""Nein"", ""Nein"", ""Nein"", ""Ja""], ""C"": [""Nein"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""D"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Nein""]}",Claude,claude-opus-4-5-20251101,4,1022,190,,medium,"Inge_88 fragt, ob sie ihrer verletzten Henne Aspirin geben kann.
+
+- NellieB79: Gibt keine direkte Antwort, nur allgemeinen Rat - teilweise relevant
+- Moni: Teilt Erfahrung mit Aspirin für Hennen - Ja, relevant
+- Der_Vogelhandel: Werbung - Nein
+- Bernd: Fragt etwas anderes - Nein
+- Frank: Tierarzt gibt genaue Antwort zur Aspirin-Dosierung - Ja, sehr relevant
+
+NellieB79 ist eher vorsichtig aber nicht wirklich hilfreich für die konkrete Frage."
+q004,Indonesian,D,C,False,,D,level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?"", ""B"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""C"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.""}",Claude,claude-opus-4-5-20251101,4,651,282,,medium,"Volume truk A = 4 × 2 × 2 = 16 m³
+Volume kardus sedang = 0,5 × 0,5 × 0,5 = 0,125 m³
+Volume kardus besar = 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+Kardus sedang: 16/0,125 = 128 kardus (pas karena semua dimensi truk kelipatan 0,5)
+
+Untuk kardus besar dengan tinggi 0,75m:
+- Tinggi truk 2m ÷ 0,75 = 2,67 (tidak habis dibagi)
+- Panjang 4m ÷ 0,75 = 5,33 (tidak habis dibagi)
+- Lebar 2m ÷ 0,75 = 2,67 (tidak habis dibagi)
+
+Tidak ada dimensi truk yang kelipatan 0,75, sehingga kardus besar tidak bisa mengisi penuh truk."
+q018,Kazakh,A,A,True,,A,level 5,"Пайымдау факті ме немесе пікір ме?
+Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады.
+Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті.
+Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді.
+Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады.","{""A"": [""Пікір"", ""Факт"", ""Факт"", ""Пікір""], ""B"": [""Факт"", ""Факт"", ""Пікір"", ""Пікір""], ""C"": [""Факт"", ""Пікір"", ""Факт"", ""Пікір""], ""D"": [""Пікір"", ""Пікір"", ""Факт"", ""Факт""]}",Claude,claude-opus-4-5-20251101,4,2870,363,,medium,"Мәтіндерді талдап, әр пайымдауды қарастырайын:
+
+1. ""Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады"" - бұл субъективті баға, ""таңғалдырады"" деген сөз пікір білдіреді.
+
+2. ""Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті"" - мәтінде зерттеулер туралы айтылған, бұл факт.
+
+3. ""Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді"" - мәтінде бұл турал айтылған, бұл факт.
+
+4. ""Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады"" - бұл бір жақты пікір, дәлелденбеген тұжырым.
+
+Жауап: Пікір, Факт, Факт, Пікір"
+q012,Korean,B,B,True,,B,level 5,이 기사에서 과학자들이 언급한 의견과 제레드 다이아몬드의 의견이 일치하는 부분은 무엇인가?,"{""A"": ""수백 년 전에 사람들이 라파누이에 정착했다."", ""B"": ""라파누이에서 큰 나무들이 멸종됐다."", ""C"": ""폴리네시아 쥐가 라파누이에서 서식하는 큰 나무들의 씨를 먹어치웠다."", ""D"": ""유럽인들은 18세기에 라파누이에 도착하였다.""}",Claude,claude-opus-4-5-20251101,4,1028,221,,medium,"기사에서 과학자들과 다이아몬드가 동의하는 점을 찾아야 합니다. 기사에 따르면 ""과학자들은 유럽인들이 18세기에 처음 섬에 도착했을 때 큰 나무들은 이미 사라진 뒤였다는 점은 인정했지만, 나무들의 멸종 이유에 대한 제레드 다이아몬드의 이론에는 동의하지 않았다""고 합니다. 즉, 나무들이 멸종했다는 사실에는 동의하지만, 그 이유에 대해서는 의견이 다릅니다."
+q014,Korean,B,B,True,,B,level 4,"블로그에 의하면, 이 교수가 현장 연구를 시작한 것은 언제인가?","{""A"": ""1990년대"", ""B"": ""9개월 전"", ""C"": ""1년 전"", ""D"": ""5월 초""}",Claude,claude-opus-4-5-20251101,4,1314,100,,medium,"블로그에서 교수는 ""지난 9개월 동안 나의 연구 대상이 되어 준 모아이""라고 언급했습니다. 이는 교수가 9개월 전에 현장 연구를 시작했다는 것을 의미합니다."
+q018,Korean,A,A,True,,A,level 5,"다음 내용은 사실인가 또는 의견인가?
+우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다.
+연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다.
+몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다.
+우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다.","{""A"": [""의견"", ""사실"", ""사실"", ""의견""], ""B"": [""사실"", ""사실"", ""의견"", ""의견""], ""C"": [""사실"", ""의견"", ""사실"", ""의견""], ""D"": [""의견"", ""의견"", ""사실"", ""사실""]}",Claude,claude-opus-4-5-20251101,4,2354,320,,medium,"각 문장을 분석해보면:
+
+1. ""우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다."" - ""놀라운""은 주관적 평가이므로 의견
+
+2. ""연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다."" - 텍스트에서 연구 결과가 그렇게 나왔다고 하지만, 이는 해석/결론이므로 의견에 가까움
+
+3. ""몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다."" - 실제로 그런 연구들이 있다는 것은 확인 가능한 사실
+
+4. ""우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다."" - ""가장 좋은""은 주관적 평가이므로 의견"
+q018,Latvian,A,A,True,,A,level 5,"Vai apgalvojums ir fakts vai viedoklis?
+Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši.
+Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai.
+Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus.
+Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru.","{""A"": [""Viedoklis"", ""Fakts"", ""Fakts"", ""Viedoklis""], ""B"": [""Fakts"", ""Fakts"", ""Viedoklis"", ""Viedoklis""], ""C"": [""Fakts"", ""Viedoklis"", ""Fakts"", ""Viedoklis""], ""D"": [""Viedoklis"", ""Viedoklis"", ""Fakts"", ""Fakts""]}",Claude,claude-opus-4-5-20251101,4,2155,294,,medium,"Let me analyze each statement:
+
+1. ""Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši."" (Recent studies about milk's beneficial effects on health are surprising) - This is an opinion because ""surprising"" is subjective.
+
+2. ""Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai."" (Studies have shown that drinking milk is harmful to health) - This is an opinion/interpretation, as the studies showed correlations but the text says more research is needed.
+
+3. ""Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus."" (Several studies have questioned milk's ability to strengthen bones) - This is a fact - it's verifiable that such studies exist.
+
+4. ""Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru."" (Drinking milk and other dairy products is the best way to lose weight) - This is an opinion because ""best"" is subjective.
+
+So: Viedoklis, Viedoklis, Fakts, Viedoklis"
+q023,Russian,A,A,True,,A,level 2,"Относится ли данное сообщение к вопросу Индиры_88?
+Сообщение НургульВ79
+Сообщение Мадины
+Сообщение Птичьи_Предложения
+Сообщение Бораша
+Сообщение Фархада","{""A"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""B"": [""Да"", ""Нет"", ""Нет"", ""Нет"", ""Да""], ""C"": [""Нет"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""D"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Нет""]}",Claude,claude-opus-4-5-20251101,4,1109,210,,medium,"Вопрос Индиры: можно ли дать курице аспирин при травме лапки.
+
+- НургульВ79: говорит о безопасности лекарств для птиц - относится к вопросу (Да)
+- Мадина: делится опытом дачи аспирина курице - относится (Да)
+- Птичьи_Предложения: реклама, не относится (Нет)
+- Бораш: спрашивает о болезни курицы - не относится к вопросу об аспирине (Нет)
+- Фархад: ветеринар, даёт конкретные рекомендации по аспирину для кур - относится (Да)"
+q023,German,A,A,True,,A,level 2,"Ist der Post relevant für das Problem von Inge_88?
+Post von NellieB79
+Post von Moni
+Post von Der_Vogelhandel
+Post von Bernd
+Post von Frank","{""A"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""B"": [""Ja"", ""Nein"", ""Nein"", ""Nein"", ""Ja""], ""C"": [""Nein"", ""Ja"", ""Nein"", ""Nein"", ""Ja""], ""D"": [""Ja"", ""Ja"", ""Nein"", ""Nein"", ""Nein""]}",Claude,claude-opus-4-5-20251101,5,1022,201,,medium,"Inge_88 fragt, ob sie ihrer verletzten Henne Aspirin geben kann.
+
+- NellieB79: Gibt keine direkte Antwort, nur allgemeinen Rat - teilweise relevant
+- Moni: Teilt Erfahrung mit Aspirin bei Hühnern - relevant (Ja)
+- Der_Vogelhandel: Werbung - nicht relevant (Nein)
+- Bernd: Stellt eigene Frage - nicht relevant (Nein)
+- Frank: Tierarzt gibt konkrete Antwort zur Aspirin-Dosierung - sehr relevant (Ja)
+
+NellieB79 ist eher vorsichtig-relevant, nicht wirklich hilfreich für das konkrete Problem."
+q004,Indonesian,D,C,False,,D,level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?"", ""B"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""C"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.""}",Claude,claude-opus-4-5-20251101,5,651,211,,medium,"Truk A: 4m × 2m × 2m = 16 m³
+Kardus sedang: 0,5 × 0,5 × 0,5 = 0,125 m³
+Kardus besar: 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+Untuk kardus besar dengan tinggi 0,75m:
+- 4m ÷ 0,75 = 5,33... (tidak habis dibagi)
+- 2m ÷ 0,75 = 2,67... (tidak habis dibagi)
+
+Tidak ada dimensi truk yang merupakan kelipatan 0,75m, sehingga kardus besar tidak bisa mengisi truk secara penuh."
+q018,Kazakh,A,A,True,,A,level 5,"Пайымдау факті ме немесе пікір ме?
+Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады.
+Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті.
+Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді.
+Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады.","{""A"": [""Пікір"", ""Факт"", ""Факт"", ""Пікір""], ""B"": [""Факт"", ""Факт"", ""Пікір"", ""Пікір""], ""C"": [""Факт"", ""Пікір"", ""Факт"", ""Пікір""], ""D"": [""Пікір"", ""Пікір"", ""Факт"", ""Факт""]}",Claude,claude-opus-4-5-20251101,5,2870,351,,medium,"Әр пайымдауды талдайын:
+
+1. ""Сүттің адам денсаулығы үшін пайдасы туралы жақындағы зерттеулер таңалдырады"" - бұл субъективті баға (""таңғалдырады""), демек пікір.
+
+2. ""Зерттеулер сүтті пайдаланудың денсаулыққа кері әсерін тигізетінін көрсетті"" - бұл зерттеу нәтижелеріне сілтеме, тексеруге болатын факт.
+
+3. ""Кейбір зерттеулер сүттің сүйекті қатайта алатын қабілетіне күмән келтіреді"" - бұл да зерттеулерге сілтеме, тексеруге болатын факт.
+
+4. ""Сүт және басқа да сүт өнімдерін пайдалану артық салмақтан арылудың таптырмас жолы болып табылады"" - ""таптырмас жол"" - субъективті баға, пікір.
+
+Жауап: Пікір, Факт, Факт, Пікір"
+q012,Korean,B,B,True,,B,level 5,이 기사에서 과학자들이 언급한 의견과 제레드 다이아몬드의 의견이 일치하는 부분은 무엇인가?,"{""A"": ""수백 년 전에 사람들이 라파누이에 정착했다."", ""B"": ""라파누이에서 큰 나무들이 멸종됐다."", ""C"": ""폴리네시아 쥐가 라파누이에서 서식하는 큰 나무들의 씨를 먹어치웠다."", ""D"": ""유럽인들은 18세기에 라파누이에 도착하였다.""}",Claude,claude-opus-4-5-20251101,5,1028,203,,medium,"기사에서 과학자들과 다이아몬드가 동의하는 부분을 찾아야 합니다. 기사에 따르면 ""과학자들은 유럽인들이 18세기에 처음 섬에 도착했을 때 큰 나무들은 이미 사라진 뒤였다는 점은 인정했지만, 나무들의 멸종 이유에 대한 제레드 다이아몬드의 이론에는 동의하지 않았다""고 합니다. 즉, 큰 나무들이 사라졌다는 사실에는 동의합니다."
+q014,Korean,B,B,True,,B,level 4,"블로그에 의하면, 이 교수가 현장 연구를 시작한 것은 언제인가?","{""A"": ""1990년대"", ""B"": ""9개월 전"", ""C"": ""1년 전"", ""D"": ""5월 초""}",Claude,claude-opus-4-5-20251101,5,1314,99,,medium,"블로그에서 ""지난 9개월 동안 나의 연구 대상이 되어 준 모아이""라고 언급하고 있습니다. 이는 교수가 9개월 전에 현장 연구를 시작했다는 것을 의미합니다."
+q018,Korean,C,A,False,,C,level 5,"다음 내용은 사실인가 또는 의견인가?
+우유가 건강에 이로운가와 관련된 최근 연구들은 놀라운 내용을 보여 준다.
+연구 결과, 우유 섭취는 건강에 해로운 것으로 나타났다.
+몇몇 연구는 뼈를 튼튼하게 만드는 우유의 기능에 대해서 의문을 제기하고 있다.
+우유 및 유제품 섭취는 가장 좋은 체중 감량 방법이다.","{""A"": [""의견"", ""사실"", ""사실"", ""의견""], ""B"": [""사실"", ""사실"", ""의견"", ""의견""], ""C"": [""사실"", ""의견"", ""사실"", ""의견""], ""D"": [""의견"", ""의견"", ""사실"", ""사실""]}",Claude,claude-opus-4-5-20251101,5,2354,208,,medium,"각 문장을 분석:
+1. ""놀라운 내용을 보여 준다"" - 주관적 평가 = 의견
+2. ""건강에 해로운 것으로 나타났다"" - 연구 결과를 사실처럼 단정 = 의견 (실제 연구는 상관관계만 보여줌)
+3. ""몇몇 연구는 의문을 제기하고 있다"" - 실제로 연구들이 의문을 제기한 것은 확인 가능한 사실
+4. ""가장 좋은 체중 감량 방법이다"" - 주관적 주장 = 의견"
+q018,Latvian,A,A,True,,A,level 5,"Vai apgalvojums ir fakts vai viedoklis?
+Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši.
+Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai.
+Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus.
+Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru.","{""A"": [""Viedoklis"", ""Fakts"", ""Fakts"", ""Viedoklis""], ""B"": [""Fakts"", ""Fakts"", ""Viedoklis"", ""Viedoklis""], ""C"": [""Fakts"", ""Viedoklis"", ""Fakts"", ""Viedoklis""], ""D"": [""Viedoklis"", ""Viedoklis"", ""Fakts"", ""Fakts""]}",Claude,claude-opus-4-5-20251101,5,2155,277,,medium,"Let me analyze each statement:
+
+1. ""Jaunākie pētījumi par piena labvēlīgo ietekmi uz veselību ir pārsteidzoši."" - This is an opinion (viedoklis) - ""pārsteidzoši"" is a subjective evaluation.
+
+2. ""Pētījumi parādījuši, ka piena dzeršana ir kaitīga veselībai."" - This is an opinion (viedoklis) - it's a generalization/interpretation of research, not a direct fact.
+
+3. ""Vairāki pētījumi apšaubījuši piena spēju stiprināt kaulus."" - This is a fact (fakts) - it's verifiable that studies have questioned milk's bone-strengthening ability.
+
+4. ""Piena un citu piena produktu lietošana ir labākais veids, kā zaudēt svaru."" - This is an opinion (viedoklis) - ""labākais"" is subjective.
+
+So: Viedoklis, Viedoklis, Fakts, Viedoklis"
+q023,Russian,A,A,True,,A,level 2,"Относится ли данное сообщение к вопросу Индиры_88?
+Сообщение НургульВ79
+Сообщение Мадины
+Сообщение Птичьи_Предложения
+Сообщение Бораша
+Сообщение Фархада","{""A"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""B"": [""Да"", ""Нет"", ""Нет"", ""Нет"", ""Да""], ""C"": [""Нет"", ""Да"", ""Нет"", ""Нет"", ""Да""], ""D"": [""Да"", ""Да"", ""Нет"", ""Нет"", ""Нет""]}",Claude,claude-opus-4-5-20251101,5,1109,216,,medium,"Вопрос Индиры: можно ли дать курице аспирин при травме лапки.
+
+- НургульВ79: говорит о безопасности лекарств для птиц - относится к вопросу (Да)
+- Мадина: делится опытом использования аспирина для курицы - относится (Да)
+- Птичьи_Предложения: реклама продукции - не относится (Нет)
+- Бораш: спрашивает как понять, больна ли курица - не относится к вопросу Индиры (Нет)
+- Фархад: ветеринар, даёт конкретные рекомендации по аспирину для кур - относится (Да)"
