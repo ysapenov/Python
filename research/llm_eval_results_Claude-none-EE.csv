@@ -1,0 +1,302 @@
+qid,language,pred,gold,is_correct,error,raw,difficulty,question,options_json,model_tag,model_name,cycle,input_tokens,output_tokens,reasoning_tokens,effort,summary
+q004,Indonesian,D,C,False,,"**D**
+
+Kesimpulan Maya tidak benar. Pernyataan yang benar adalah opsi D: tinggi kar",level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""B"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""C"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tinggi kardus ukuran besar 1,5 kali tinggi kardus ukuran sedang.""}",Claude,claude-haiku-4-5-20251001,1,556,1024,,default,"Mari kita analisis masalah ini langkah demi langkah.
+
+**Volume Truk A:**
+- Panjang: 4 meter
+- Lebar: 2 meter
+- Tinggi: 2 meter
+- Volume = 4 × 2 × 2 = 16 m³
+
+**Volume Kardus Sedang:**
+- Panjang: 0,5 meter
+- Lebar: 0,5 meter
+- Tinggi: 0,5 meter
+- Volume = 0,5 × 0,5 × 0,5 = 0,125 m³
+
+**Jumlah kardus sedang yang dapat mengisi truk A:**
+- 16 ÷ 0,125 = 128 kardus sedang
+
+**Volume Kardus Besar:**
+- Panjang: 0,5 meter
+- Lebar: 0,5 meter
+- Tinggi: 0,75 meter
+- Volume = 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+**Jumlah kardus besar yang dapat mengisi truk A:**
+- 16 ÷ 0,1875 = 85,33... (tidak bisa bilangan bulat)
+
+Ini adalah masalah penting! Kita tidak bisa hanya membagi volume total dengan volume kardus karena dimensi-dimensi perlu sesuai dengan ruang yang ada.
+
+**Analisis Dimensi untuk Kardus Besar:**
+
+Mari kita periksa apakah kardus besar dapat disusun dengan rapi:
+- Panjang truk 4 m: 4 ÷ 0,5 = 8 kardus (pas)
+- Lebar truk 2 m: 2 ÷ 0,5 = 4 kardus (pas)
+- Tinggi truk 2 m: 2 ÷ 0,75 = 2,67... (TIDAK PAS)
+
+Dengan tinggi 0,75 m, kita hanya bisa menempatkan 2 lapis kardus besar (2 × 0,75 = 1,5 m), dengan sisa 0,5 m.
+
+Jumlah maksimal kardus besar = 8 × 4 × 2 = 64 kardus besar
+
+**Verifikasi pernyataan Maya:**
+- Maya mengatakan: kardus besar yang dapat memenuhi truk = 2/3 × kardus sedang
+- 2/3 × 128 = 85,33... kardus besar
+
+Tetapi kenyataannya hanya 64 kardus besar yang dapat disusun rapi.
+
+Kesimpulan Maya salah!
+
+**Analisis opsi:**
+
+A. Salah - Tinggi sedang (0,5 m) ÷ Tinggi besar (0,75 m) = 2/3, tapi ini tidak berarti jumlah kardus besar = 2/3 jumlah kardus sedang dalam konteks penyusunan 3D.
+
+B. Salah - Logika ini tidak valid untuk penyusunan di dalam truk 3D.
+
+C. Benar - Tinggi truk 2 m tidak dapat dibagi rata oleh 0,75 m (tinggi kardus besar). 2 ÷ 0,75 = 2,67, bukan bilangan bulat. Dimensi tidak sesuai sempurna.
+
+D. Benar - Tinggi kardus besar (0,75 m) ÷ Tinggi kardus sedang (0,5 m) = 1,5. Jadi tinggi kardus besar adalah 1,5 kali tinggi kardus sedang.
+
+Baik C maupun D menunjukkan Maya tidak benar, tetapi D lebih langsung menyangkut proporsi yang Maya sebut."
+q004,Indonesian,,C,False,,"<reasoning>
+Mari kita analisis pernyataan Maya secara sistematis.
+
+**Langkah 1: Hitung jumlah kardus sedang yang dapat mengisi truk A sepenuhnya**
+
+Volume truk A = 4 × 2 × 2 = 16 m³
+
+Volume kardus sedang = 0,5 × 0,5 × 0,5 = 0,125 m³
+
+Jumlah kardus sedang = 16 ÷ 0,125 = 128 kardus
+
+**Langkah 2: Hitung volume kardus besar**
+
+Volume kardus besar = 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+**Langkah 3: Periksa klaim Maya bahwa kardus sedang mengisi 2/3 ruang kardus besar**
+
+Perbandingan volume = 0,125 ÷ 0,1875 = 125/187,5 = 2/3 ✓
+
+Ini benar secara volumetrik.
+
+**Langkah 4: Periksa apakah kesimpulan Maya valid**
+
+Menurut Maya: jumlah kardus besar = 2/3 × 128 = 256/3 ≈ 85,33 kardus
+
+Mari hitung berapa kardus besar yang sebenarnya bisa muat:
+- Jumlah kardus besar (berdasarkan volume) = 16 ÷ 0,1875 = 85,33 kardus
+
+Namun, kita harus memeriksa secara fisik apakah kardus dapat ditata dengan baik.
+
+**Langkah 5: Analisis penempatan kardus besar**
+
+Ukuran kardus besar: 0,5 × 0,5 × 0,75 m
+
+Dalam panjang truk (4 m): 4 ÷ 0,5 = 8 kardus
+Dalam lebar truk (2 m): 2 ÷ 0,5 = 4 kardus
+Dalam tinggi truk (2 m): 2 ÷ 0,75 = 2,67 kardus → hanya 2 kardus (menggunakan 1,5 m dari 2 m tinggi)
+
+Total per lapisan: 8 × 4 × 2 = 64 kardus (dengan sisa tinggi 0,5 m)
+
+Sisa tinggi 0,5 m dapat menampung kardus sedang (tinggi 0,5 m):
+- Per lapisan tambahan sedang: 8 × 4 × 1 = 32 kardus
+
+Jadi total = 64 kardus besar + 32 kardus sedang (atau kombinasi lainnya)
+
+**Langkah 6: Evaluasi opsi jawaban**
+
+**Opsi A**: ""tinggi kardus sedang adalah 2/3 kali tinggi kardus besar""
+- Tinggi sedang = 0,5 m
+- Tinggi besar = 0,75 m
+- Rasio = 0,5 ÷ 0,75 = 2/3 ✓ Benar secara numerik, tapi kesimpulannya tetap salah karena masalah penempatan fisik
+
+**Opsi D**: ""tinggi kardus besar 1,5 kali tinggi kardus sedang""
+- 0,75 ÷ 0,5 = 1,5 ✓ Benar
+
+**Opsi C**: Menyatakan tidak ada dimensi truk yang kelipatan 0,75
+- Panjang: 4 ÷ 0,75 = 5,33 (bukan kelipatan)
+- Lebar: 2 ÷ 0,75 = 2,67 (bukan kelipatan)
+- Tinggi: 2 ÷ 0,75 = 2,67 (bukan kelipatan)",level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""B"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""C"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tinggi kardus ukuran besar 1,5 kali tinggi kardus ukuran sedang.""}",Claude,claude-haiku-4-5-20251001,2,556,1024,,default,
+q004,Indonesian,,C,False,,"<reasoning>
+Mari saya analisis pernyataan Maya langkah demi langkah.
+
+**Menghitung kapasitas truk A dengan kardus sedang:**
+- Volume truk A = 4 × 2 × 2 = 16 meter³
+- Volume kardus sedang = 0,5 × 0,5 × 0,5 = 0,125 meter³
+- Jumlah kardus sedang = 16 ÷ 0,125 = 128 kardus
+
+**Pernyataan Maya:**
+Maya mengatakan bahwa kardus sedang dapat mengisi 2/3 ruang kardus besar, sehingga jumlah kardus besar yang dapat memenuhi truk adalah 2/3 × 128 = 85,33 kardus.
+
+**Mengecek klaim Maya dengan perhitungan volume:**
+- Volume kardus besar = 0,5 × 0,5 × 0,75 = 0,1875 meter³
+- Jumlah kardus besar yang seharusnya = 16 ÷ 0,1875 = 85,33 kardus
+
+Perhitungan volume sama! Tapi apakah ini berarti kesimpulan Maya benar?
+
+**Masalah penting: Penyusunan Fisik vs Volume**
+Kesalahan Maya adalah mengasumsikan bahwa karena perbandingan volume 2/3, maka jumlah kardus juga 2/3. Ini hanya benar jika kedua jenis kardus dapat disusun dengan efisien dan sempurna.
+
+**Analisis dimensi secara detail:**
+
+Dimensi truk: 4 m × 2 m × 2 m
+
+Dengan kardus sedang (0,5 × 0,5 × 0,5):
+- Sepanjang panjang: 4 ÷ 0,5 = 8 kardus
+- Sepanjang lebar: 2 ÷ 0,5 = 4 kardus
+- Sepanjang tinggi: 2 ÷ 0,5 = 4 kardus
+- Total: 8 × 4 × 4 = 128 kardus ✓
+
+Dengan kardus besar (0,5 × 0,5 × 0,75):
+- Sepanjang panjang: 4 ÷ 0,5 = 8 kardus
+- Sepanjang lebar: 2 ÷ 0,5 = 4 kardus
+- Sepanjang tinggi: 2 ÷ 0,75 = 2,67 kardus (tidak pas!)
+
+**Tinggi truk adalah 2 meter:**
+- 2 ÷ 0,75 = 2,67 (bukan bilangan bulat)
+
+Ini berarti 2 kardus besar = 1,5 meter (pas)
+Sisa ruang = 2 - 1,5 = 0,5 meter (cukup untuk 1 kardus sedang)
+
+Jadi tinggi kardus besar (0,75 m) adalah 1,5 kali tinggi kardus sedang (0,5 m).
+
+**Evaluasi pilihan C:**
+""Tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75""
+- 4 ÷ 0,75 = 5,33 ✗
+- 2 ÷ 0,75 = 2,67 ✗
+- 2 ÷ 0,75 = 2,67 ✗
+
+Pernyataan C benar! Tidak ada dimensi truk yang merupakan kelipatan 0,75, sehingga tidak mungkin menyusun kardus besar dengan sempurna seperti kardus sedang.
+
+**Evaluasi pilihan D:**
+""Tinggi kardus besar 1,5 kali tinggi kardus sedang""
+- 0,75 ÷ 0,",level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""B"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""C"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tinggi kardus ukuran besar 1,5 kali tinggi kardus ukuran sedang.""}",Claude,claude-haiku-4-5-20251001,3,556,1024,,default,
+q004,Indonesian,,C,False,,"<reasoning>
+Mari kita analisis langkah demi langkah.
+
+**Data yang diberikan:**
+- Truk A: Panjang 4m, Lebar 2m, Tinggi 2m
+- Volume truk A = 4 × 2 × 2 = 16 m³
+
+- Kardus Sedang: 0,5 × 0,5 × 0,5 m
+- Volume kardus sedang = 0,125 m³
+
+- Kardus Besar: 0,5 × 0,5 × 0,75 m
+- Volume kardus besar = 0,1875 m³
+
+**Berapa kardus sedang yang bisa masuk?**
+16 ÷ 0,125 = 128 kardus sedang
+
+**Kesimpulan Maya:**
+Maya mengatakan kardus sedang dapat mengisi 2/3 ruang pada kardus besar, sehingga jumlah kardus besar yang bisa masuk = 2/3 × 128 = 85,33 kardus besar
+
+**Mari kita cek apakah ini benar:**
+
+Jumlah kardus besar yang seharusnya bisa masuk:
+16 ÷ 0,1875 = 85,33 kardus besar
+
+Jadi Maya mendapat hasil yang numerik sama, tapi apakah alasannya benar?
+
+**Analisis Pernyataan A:**
+""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar.""
+
+Tinggi kardus sedang = 0,5 m
+Tinggi kardus besar = 0,75 m
+0,5 ÷ 0,75 = 2/3 ✓ (Benar)
+
+Namun, masalahnya adalah ketika menyusun kardus di truk, kita tidak hanya mempertimbangkan satu dimensi saja. Kita perlu mempertimbangkan semua dimensi dan bagaimana kardus tersebut ditata.
+
+**Analisis Pernyataan B:**
+""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar.""
+
+Volume 3 kardus sedang = 3 × 0,125 = 0,375 m³
+Volume 2 kardus besar = 2 × 0,1875 = 0,375 m³ ✓ (Volume sama)
+
+Namun, ""pasti pas"" dalam penataan fisik tidak dijamin hanya dari volume. Dimensi fisik harus memungkinkan.
+
+**Analisis Pernyataan C:**
+""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar.""
+
+Tinggi truk = 2 m
+2 ÷ 0,75 = 2,67 (bukan bilangan bulat)
+
+Ini menunjukkan bahwa tinggi 2m tidak habis dibagi 0,75m, sehingga kardus besar tidak bisa ditata dengan rapi secara vertikal tanpa ruang kosong.
+
+**Analisis Pernyataan D:**
+""Dia tidak benar, karena tinggi kardus besar 1,5 kali tinggi kardus ukuran sedang.""
+
+0,75 ÷ 0,5 = 1,5 ✓ (Benar)
+
+Tetapi ini tidak menjelaskan mengapa kesimpulannya salah secara fundamental.
+
+**Kesimpulan:**
+Meskipun secara volume perhitungan Maya menghasilkan angka yang tepat (2/3 × 128 = 85,33), alasannya keliru karena dia mengasumsikan bahwa perbandingan volume bisa langsung diterapkan pada jumlah kardus yang bisa masuk tanpa memperhitungkan cara penataan",level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""B"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""C"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tinggi kardus ukuran besar 1,5 kali tinggi kardus ukuran sedang.""}",Claude,claude-haiku-4-5-20251001,4,556,1024,,default,
+q004,Indonesian,C,C,True,,"**C**
+
+Jawaban C adalah yang paling benar. Kesimpulan Maya tidak benar karena tinggi truk A (2 meter) bukan kelipatan dari tinggi kardus besar (0,75 meter). Ketika 2 ÷ 0,75 = 2,67, ini berarti kardus besar tidak dapat",level 6,"Perusahaan yang menyewakan truk memastikan bahwa truk A dapat diisi penuh menggunakan kardus-kardus ukuran sedang saja sehingga seluruh ruang tempat penyimpanan terpakai.
+Maya menyatakan bahwa kardus ukuran sedang dapat mengisi 2/3 ruang pada kardus ukuran besar, sehingga dia menyimpulkan bahwa jumlah kardus ukuran besar yang dapat memenuhi truk A adalah 2/3 kali jumlah kardus ukuran sedang.
+Manakah satu di antara pernyataan berikut tentang kesimpulan Maya yang benar?","{""A"": ""Dia benar, karena tinggi kardus ukuran sedang adalah 2/3 kali tinggi kardus ukuran besar."", ""B"": ""Dia benar, karena 3 kardus ukuran sedang pasti pas mengisi ruang yang diisi oleh 2 kardus ukuran besar."", ""C"": ""Dia tidak benar, karena tidak satupun dari dimensi tempat penyimpanan bagian dalam truk A yang kelipatan 0,75 yang merupakan tinggi kardus ukuran besar."", ""D"": ""Dia tidak benar, karena tinggi kardus ukuran besar 1,5 kali tinggi kardus ukuran sedang.""}",Claude,claude-haiku-4-5-20251001,5,556,1024,,default,"Mari kita analisis pernyataan Maya step by step.
+
+**Menghitung Volume:**
+
+Volume truk A:
+- Panjang × Lebar × Tinggi = 4 × 2 × 2 = 16 m³
+
+Volume kardus sedang:
+- 0,5 × 0,5 × 0,5 = 0,125 m³
+
+Volume kardus besar:
+- 0,5 × 0,5 × 0,75 = 0,1875 m³
+
+**Jumlah kardus yang dapat memenuhi truk A:**
+
+Kardus sedang: 16 ÷ 0,125 = 128 kardus
+
+Kardus besar: 16 ÷ 0,1875 = 85,33... ≈ 85 kardus (tidak pas penuh)
+
+**Pernyataan Maya:**
+Maya mengatakan bahwa kardus sedang mengisi 2/3 ruang kardus besar, sehingga jumlah kardus besar = 2/3 × jumlah kardus sedang.
+
+Jika menggunakan logika Maya: 2/3 × 128 = 85,33...
+
+Tetapi kenyataannya, kardus besar tidak dapat memenuhi truk dengan sempurna karena:
+- Truk memiliki tinggi 2 meter
+- Kardus besar memiliki tinggi 0,75 meter
+- 2 ÷ 0,75 = 2,666... (tidak habis dibagi)
+
+Jadi kita hanya bisa menumpuk 2 tingkat kardus besar (0,75 × 2 = 1,5 meter), tersisa 0,5 meter ruang kosong di atas.
+
+**Analisis opsi jawaban:**
+
+A. Tinggi sedang = 0,5 m, tinggi besar = 0,75 m
+   0,5 ÷ 0,75 = 2/3 ✓ (ini benar secara matematis)
+   Tetapi ini tidak menjustifikasi kesimpulannya tentang jumlah kardus karena menyangkut penyusunan 3D.
+
+B. 3 kardus sedang dengan tinggi masing-masing 0,5 m = 1,5 m
+   2 kardus besar dengan tinggi masing-masing 0,75 m = 1,5 m
+   Ini benar dalam hal ketinggian, tetapi logika ini tidak berlaku untuk seluruh truk 3D.
+
+C. Tinggi truk = 2 m
+   2 ÷ 0,75 = 2,666... 
+   Ini menunjukkan bahwa 0,75 m (tinggi kardus besar) bukan pembagi sempurna dari 2 m.
+   Ini adalah argumen yang kuat mengapa kesimpulan Maya salah!
+
+D. Perbandingan tinggi: 0,75 ÷ 0,5 = 1,5
+   Jadi tinggi kardus besar adalah 1,5 kali tinggi kardus sedang. Ini benar tetapi...
+
+**Pemilihan jawaban yang tepat:**
+
+Opsi C paling tepat karena:
+- Ketika kita menyusun barang dalam truk 3D, semua dimensi penting
+- Kardus besar (tinggi 0,75 m) tidak membagi habis tinggi truk (2 m)
+- Ini mengakibatkan ruang kosong yang tersisa
+- Logika Maya yang hanya berdasarkan perbandingan volume sederhana tidak berlaku untuk kasus penyusunan aktual dalam truk"
